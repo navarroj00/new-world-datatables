@@ -1,0 +1,6 @@
+EventID,GameEventType,Level,CreatureType,UniversalExpAmount,CurrencyReward,ItemReward,GearScoreRange,CategoricalProgressionId,CategoricalProgressionReward,TerritoryStanding,FactionReputation,FactionInfluenceAmount,FactionInfluenceSrc,EmitTelemetry,AzothReward,AzothRewardChance
+7404_0101_devworldredkillwitheredquest_success,,1,Quest,75,1517,QuestRewardArmorT2,0,,,175,,,,true,0,1
+7405_0101_devworldredgetfarmlootquest_success,,1,Quest,75,1517,2hWarhammerDropT2,100,,,100,,,,true,0,1
+74_0101_devworldreddefendobjectquest_success,,1,Quest,75,1517,2hWarhammerDropT2,100,,,100,,,,true,0,1
+74_0101_devworldreddefendobjectquest_interact,,1,Quest-,0,0,,0,,,0,,,,true,0,0
+74_0101_devworldreddefendobjectquest_participate,,1,Quest-,0,0,,0,,,0,,,,true,0,0

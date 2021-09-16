@@ -1,0 +1,15 @@
+TypeID,IntID,DisplayName,Category,Affliction,AfflictionFrac,DefenseBonusFrac,MitigationBonusFrac,DamageBonusAgainst,DamageBonusFrac,UseAllDamageModifiers
+True,1,@True_DamageName,True,,0,0,0,NONE,0,
+Falling,2,@Falling_DamageName,True,,0,0,0,NONE,0,
+Standard,3,@Standard_DamageName,Physical,,0,0,0,NONE,0,TRUE
+Slash,4,@Slash_DamageName,Physical,,0,0,0,NONE,0,TRUE
+Thrust,5,@Thrust_DamageName,Physical,,0,0,0,NONE,0,TRUE
+Strike,6,@Strike_DamageName,Physical,,0,0,0,NONE,0,TRUE
+PhysFire,7,@PhysFire_DamageName,Physical,,0,0,0,NONE,0,
+Arcane,8,@Arcane_DamageName,Elemental,,0,0,0,NONE,0,TRUE
+Fire,9,@Fire_DamageName,Elemental,,0,0,0,NONE,0,TRUE
+Lightning,10,@Lightning_DamageName,Elemental,,0,0,0,NONE,0,
+Corruption,11,@Corruption_DamageName,Elemental,,0,0,0,NONE,0,
+Siege,12,@Siege_DamageName,Physical,,0,0,0,NONE,0,TRUE
+Ice,13,@Ice_DamageName,Elemental,,0,0,0,NONE,0,TRUE
+Nature,14,@Nature_DamageName,Elemental,,0,0,0,NONE,0,TRUE

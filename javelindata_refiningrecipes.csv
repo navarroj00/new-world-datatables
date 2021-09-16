@@ -1,0 +1,11 @@
+StructureID,RefineType,TooltipText,FuelCategory
+Structure_Smelter,Metal,Burn wood in the smelter to refine metal.,FuelWood
+Structure_CampFire,Food,Burn wood to cook simple meals.,FuelWood
+Structure_CookingFire,Food1,Burn wood to cook more complex meals.,FuelWood
+Structure_Distillery,Distillery,Burn wood to distill spirits.,FuelWood
+Structure_FarmFruit,Farming,Provide water to grow fruit.,FuelWater
+Structure_FarmGrain,Farming,Provide water to grow grain.,FuelWater
+Structure_FarmVegetables,Farming,Provide water to grow vegetables.,FuelWater
+Structure_Doghouse,Doghouse,Spawns an attack dog when fueled with raw meat.,FuelSacrifice
+Structure_TurkeyCoop,Turkey,Place Eggs and fuel with Grain to hatch Turkeys (max 2).,FuelAnimal
+Structure_ForagerHouse,Forager,Spawns a forager when fueled with raw meat.,FuelSacrifice

@@ -1,0 +1,46 @@
+EventID,GameEventType,Level,CreatureType,UniversalExpAmount,CurrencyReward,ItemReward,Rewards Notes,GearScoreRange,CategoricalProgressionId,CategoricalProgressionReward,TerritoryStanding,FactionReputation,FactionTokens,FactionInfluenceAmount,FactionInfluenceSrc,EmitTelemetry,AzothReward,AzothRewardChance
+0502_0101_ancientscholar_success,,58,Quest,2570,11000,QuestRewardArmorL58,,,,,175,,,,,true,15,1
+0504_0101_anexpandingthreat_success,,58,Quest+,3220,15400,QuestRewardWeaponsL58,,,,,250,,,,,true,30,1
+0504_0102_defianceanddoubt_success,,58,Quest-,1930,4400,QuestRewardArmorL58,,,,,100,,,,,true,7.5,1
+0524_0101_ahungerforfreedom_success,,58,Quest-,1930,4400,QuestRewardArmorL58,,,,,100,,,,,true,7.5,1
+0503_0101_onfloralfauna_success,,58,Quest,2570,11000,QuestRewardWeaponsL58,,,,,175,,,,,true,15,1
+0505_0101_pruningandirrigation_success,,58,Quest,2570,11000,QuestRewardArmorL58,,,,,175,,,,,true,15,1
+0502_0102_hopespringseternal_success,,59,Quest+,3330,15575,QuestRewardArmorL59,,,,,250,,,,,true,30,1
+0502_0103_pathsunseen_success,,59,Quest,2660,11125,QuestRewardWeaponsL59,,,,,175,,,,,true,15,1
+0524_0102_queensgambit_success,,59,Quest+,3330,15575,QuestRewardArmorL59,,,,,250,,,,,true,30,1
+0505_0102_downstreameffects_success,,59,Quest+,3330,15575,QuestRewardArmorL59,,,,,250,,,,,true,30,1
+0503_0201_excisingtheblightedroot_success,,59,Quest+,3330,15575,QuestRewardWeaponsL59,,,,,250,,,,,true,30,1
+0502_0104_anatomyoftheheart_success,,60,Quest+,3750,15750,Earring_SQRewardReekwaterT5,,,,,250,,,,,true,30,1
+0502_0105_seekandhide_success,,60,Quest,3000,11250,2hWarhammer_SQRewardReekwaterT5,,,,,175,,,,,true,15,1
+0511_0101_aguardiansplight_success,,60,Quest+,3750,15750,LightHead_SQRewardReekwaterT5,Custom,,,,250,,,,,true,30,1
+0524_0103_shiveringtimbers_success,,60,Quest+,3750,15750,Ring_SQRewardReekwaterT5,,,,,250,,,,,true,30,1
+0504_0201_wordsofpower_success,,60,Quest,3000,11250,Amulet_SQRewardReekwaterT5,,,,,175,,,,,true,15,1
+0504_0202_aplansdeconstruction_success,,60,Quest+,3750,15750,1hThrowingAxe_SQRewardReekwaterT5,Custom,,,,250,,,,,true,30,1
+0503_0202_burdenofatonement_success,,60,Quest+,3750,15750,LightFeet_SQRewardReekwaterT5,,,,,250,,,,,true,30,1
+0503_0203_wardensofthegreen_success,,60,Quest+,3750,15750,Earring2_SQRewardReekwaterT5,Custom,,,,250,,,,,true,30,1
+0504_0401_thequeenisdead_success,,65,Quest+,4380,16625,2hBow_SQRewardReekwaterT5,Custom,,,,250,,,,,true,30,1
+0510_0101_longlivethequeen_success,,65,Quest+,4380,16625,,Repeatable - no item,,,,250,,,,,true,30,1
+0503_0301_theeternalpool_success,,65,Quest+,4380,16625,1hLongsword_SQRewardReekwaterT5,Custom,,,,250,,,,,true,30,1
+0505_0103_thedryadpromenade_success,,65,Quest+,4380,16625,,Repeatable - no item,,,,250,,,,,true,30,1
+0502_0106_primevalcyclops_success,,65,Quest+,20000,16625,1hShield_SQRewardReekwaterT5,L65 Dungeon,,,,250,,,,,true,30,1
+0511_0101_aguardiansplight_failure,,0,Quest+,0,0,,,,,,0,,,,,true,0,1
+0511_0201_UmbrasReach_success,,60,Quest+,3750,15750,Ring2_SQRewardReekwaterT5,,,,,250,,,,,true,30,1
+0501_BlightNodule_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
+0502_CrystalCluster_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
+0503_DryadAltar_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
+0504_AncientBookcase_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
+0505_TowerMural_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
+0506_RelicPile_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
+0507_AncientRubble_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
+0508_HeartDevice_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
+0509_StoneTablet_00_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
+0509_StoneTablet_01_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
+0509_StoneTablet_02_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
+0509_StoneTablet_03_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
+0510_AncientMap_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
+0511_PowderkegA_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
+0512_PowderkegB_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
+0513_LighthouseLure_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
+0514_StoneWallTablet_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
+0517_AncientTowerDoor_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
+0518_SirenMachine_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0

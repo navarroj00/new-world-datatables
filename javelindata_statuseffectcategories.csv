@@ -1,0 +1,13 @@
+StatusEffectCategoryID,DurationDiminishingMod,DurationModMin,DurationModMax,PotencyDiminishingMod,PotencyModMin,PotencyModMax,ValueLimits
+Stun,-0.20000000298023224,-0.800000011920929,0,0,0,0,
+Slow,-0.20000000298023224,-0.800000011920929,0,0,0,0,"MoveSpeedMod:-0.1,SprintSpeedMod:-0.1"
+Root,-0.20000000298023224,-0.800000011920929,0,0,0,0,
+Silence,-0.20000000298023224,-0.800000011920929,0,0,0,0,
+Rend,0,0,0,0,0,0,"ABSStandard:-0.3,ABSSiege:-0.3,ABSStrike:-0.3,ABSSlash:-0.3,ABSThrust:-0.3,ABSArcane:-0.3,ABSFire:-0.3,ABSIce:-0.3,ABSNature:-0.3,ABSLightning:-0.3,ABSCorruption:-0.3"
+Fortify,0,0,0,0,0,0,"ABSStandard:0.5,ABSSiege:0.5,ABSStrike:0.5,ABSSlash:0.5,ABSThrust:0.5,ABSArcane:0.5,ABSFire:0.5,ABSIce:0.5,ABSNature:0.5,ABSLightning:0.5,ABSCorruption:0.5"
+Weaken,0,0,0,0,0,0,"DMGStandard:0.5,DMGSiege:0.5,DMGStrike:0.5,DMGSlash:0.5,DMGThrust:0.5,DMGArcane:0.5,DMGFire:0.5,DMGIce:0.5,DMGNature:0.5,DMGLightning:0.5,DMGCorruption:0.5"
+Empower,0,0,0,0,0,0,"DMGStandard:1.5,DMGSiege:1.5,DMGStrike:1.5,DMGSlash:1.5,DMGThrust:1.5,DMGArcane:1.5,DMGFire:1.5,DMGIce:1.5,DMGNature:1.5,DMGLightning:1.5,DMGCorruption:1.5"
+Disease,0,0,0,0,0,0,HealMod:-0.5
+Haste,-0.20000000298023224,-0.800000011920929,0,0,0,0,"MoveSpeedMod:0.5,SprintSpeedMod:0.5"
+AI_Neutral,-0.20000000298023224,-0.800000011920929,0,0,0,0,
+NonDispellableDebuff,0,0,0,0,0,0,

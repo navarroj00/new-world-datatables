@@ -1,0 +1,21 @@
+ContributionId,Category,Value,Shared,Expires
+Spawn_Killed,default,100,false,false
+Spawn_Killed : Invasion_Grunt,default,100,false,false
+Spawn_Killed : Invasion_Bomber,default,150,false,false
+Spawn_Killed : Invasion_Sniper,default,150,false,false
+Spawn_Killed : Invasion_Spearman,default,200,false,false
+Spawn_Killed : Invasion_Swordsman,default,200,false,false
+Spawn_Killed : Invasion_Brute,default,500,false,false
+Spawn_Killed : Invasion_FireCannon,default,500,false,false
+Spawn_Killed : Invasion_CowLauncher,default,500,false,false
+Spawn_Killed : Invasion_Commander,default,750,false,false
+Spawn_Killed : Invasion_Priest,default,750,false,false
+Spawn_Killed : Invasion_Bear,default,750,false,false
+Wave_Started:1,default,1,false,false
+Wave_Started:2,default,500,false,false
+Wave_Started:3,default,1000,false,false
+Wave_Started:4,default,2000,false,false
+Wave_Started:5,default,3000,false,false
+Wave_Started:6,default,5000,false,false
+Wave_Started:7,default,7000,false,false
+Wave_Started:8,default,12000,false,false

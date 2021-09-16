@@ -1,0 +1,7 @@
+Level,DisplayName,RequiredLevel,MaximumInfluence,InfluenceCost,CurrencyCost,SanityCheck
+0,,0,1,0,0,false
+1,,0,1,1,0,true
+2,,0,1,1,0,true
+3,,0,1,1,0,true
+4,,0,1,1,0,true
+5,,0,0,1,0,true

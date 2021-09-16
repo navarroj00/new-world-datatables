@@ -1,0 +1,3 @@
+ActivityCrc,ActivityType,DurationSec,Teams,MinLevel,MaxLevel,FactionType,MinDistance,MaxDistance,InSanctuary,InGameMode,InWar,InArena
+Duel,1,10,2,10,,,,10,false,false,false,false
+Trade,2,10,0,0,,,,10,true,false,false,false

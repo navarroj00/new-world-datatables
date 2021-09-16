@@ -1,0 +1,13 @@
+ValueID,Value
+HeightOffset,2
+MaxDisplayDistance,75
+DisplayTime,2.0
+FadeFraction,0.75
+Velocity,.8
+FontSizeMin,4
+FontSizeMax,6
+StaminaColor,0096FF
+HealthColor,FF4D00
+BlockedColor,94DBEB
+ImmuneColor,CCCCCC
+AttackColor,FFCC33

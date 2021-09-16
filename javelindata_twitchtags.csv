@@ -1,0 +1,44 @@
+TwitchTagId,TagGroupId,KeyValuePair,DisplayName
+Twitch_Tag_Mode_None,1,Mode:None,Mode: None
+Twitch_Tag_Mode_PvP,1,8486f56b-8677-44f7-8004-000295391524,PvP
+Twitch_Tag_Mode_PvE,1,79977fb9-f106-4a87-a386-f1b0f99783dd,PvE
+Twitch_Tag_Mode_50v50_War,1,Mode:50v50War,Mode: 50v50 War
+Twitch_Tag_Mode_Outpost_Rush,1,Mode:OutpostRush,Mode: Outpost Rush
+Twitch_Tag_Mode_Invasion,1,Mode:Invasion,Mode: Invasion
+Twitch_Tag_Faction_None,2,Faction:None,Faction: None
+Twitch_Tag_Faction_Marauder,2,Faction:Marauder,Faction: Marauder
+Twitch_Tag_Faction_Covenant,2,Faction:Covenant,Faction: Covenant
+Twitch_Tag_Faction_Syndicate,2,Faction:Syndicate,Faction: Syndicate
+Twitch_Tag_Expedition_None,3,Expedition:None,Expedition: None
+Twitch_Tag_Expedition_Amrine_Excavation,3,Expedition:AmrineExcavation,Expedition: Amrine Excavation 
+Twitch_Tag_Expedition_Garden_Genesis,3,Expedition:GardenGenesis,Expedition: Garden of Genesis
+Twitch_Tag_Expedition_Lazarus_Well,3,Expedition:LazarusWell,Expedition: Lazarus Well
+Twitch_Tag_Expedition_Shattered_Obelisk,3,Expedition:ShatteredObelisk,Expedition: Shattered Obelisk
+Twitch_Tag_Expedition_Dynasty_Shipyard,3,Expedition:DynastyShipyard,Expedition: Dynasty Shipyard
+Twitch_Tag_Expedition_The_Depths,3,Expedition:TheDepths,Expedition: The Depths
+Twitch_Tag_Expedition_Isabellas_Lair,3,Expedition:IsabellasLair,Expedition: Isabella's Lair
+Twitch_Tag_Expedition_Eridanus_Caverns,3,Expedition:EridanusCaverns,Expedition: Eridanus Caverns
+Twitch_Tag_Zone_None,4,Zone:None,Zone: None
+Twitch_Tag_Zone_First_Light,4,Zone:FirstLight,Zone: First Light
+Twitch_Tag_Zone_Windsward,4,Zone:Windsward,Zone: Windsward
+Twitch_Tag_Zone_Monarchs_Bluff,4,Zone:MonarchsBluff,Zone: Monarch's Bluff
+Twitch_Tag_Zone_Everfall,4,Zone:Everfall,Zone: Everfall
+Twitch_Tag_Zone_Weavers_Fen,4,Zone:WeaversFen,Zone: Weaver's Fen
+Twitch_Tag_Zone_Mourningdale,4,Zone:Mourningdale,Zone: Mourningdale
+Twitch_Tag_Zone_Edengrove,4,Zone:Edengrove,Zone: Edengrove
+Twitch_Tag_Zone_Ebonscale_Reach,4,Zone:EbonscaleReach,Zone: Ebonscale Reach
+Twitch_Tag_Zone_Brightwood,4,Zone:Brightwood,Zone: Brightwood
+Twitch_Tag_Zone_Reekwater,4,Zone:Reekwater,Zone: Reekwater
+Twitch_Tag_Zone_ShatterMountain,4,Zone:ShatterMountain,Zone: ShatterMountain
+Twitch_Tag_Zone_Restless_Shores,4,Zone:RestlessShores,Zone: Restless Shores
+Twitch_Tag_Zone_CutlassKeys,4,Zone:CutlassKeys,Zone: CutlassKeys
+Twitch_Tag_Zone_Great_Cleave,4,Zone:GreatCleave,Zone: Great Cleave
+Twitch_Tag_Zone_Brimstone_Sands,4,Zone:BrimstoneSands,Zone: Brimstone Sands
+Twitch_Tag_Level_Range_None,5,LevelRange:None,Level Range: None
+Twitch_Tag_Level_Range_01_09,5,LevelRange:01_09,Level Range: 1-9
+Twitch_Tag_Level_Range_10_19,5,LevelRange:10_19,Level Range: 10-19
+Twitch_Tag_Level_Range_20_29,5,LevelRange:20_29,Level Range: 20-29
+Twitch_Tag_Level_Range_30_39,5,LevelRange:30_39,Level Range: 30-39
+Twitch_Tag_Level_Range_40_49,5,LevelRange:40_49,Level Range: 40-49
+Twitch_Tag_Level_Range_50_59,5,LevelRange:50_59,Level Range: 50-59
+Twitch_Tag_Level_Range_60,5,LevelRange:60,Level Range: 60

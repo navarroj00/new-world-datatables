@@ -1,0 +1,8 @@
+VariantID,StartMesh,GatherableEntryID,GatheringRadius,InteractionRadius,DetectableObjectRadius,IdleVFX,DepletedVFX,DepletedSFX,InteractTag,InteractOnlyOnQuest
+Essence_Firefly_Death,,SpiritDeath,0.20000000298023224,1.5,1.5,Gatherable.Spirits.Death.Fireflies01,Gatherable.Spirits.Death.Fireflies01_capture,,,
+Essence_Firefly_Air,,SpiritAir,0.20000000298023224,1.5,1.5,Gatherable.Spirits.Air.Fireflies01,Gatherable.Spirits.Air.Fireflies01_capture,,,
+Essence_Firefly_Earth,Objects\Crafting\Props\Decals\Symbols\Jav_PRP_symbol_PlaneCircle.cgf,SpiritEarth,0.20000000298023224,1.5,1.5,Gatherable.Spirits.Earth.Fireflies01,Gatherable.Spirits.Earth.Fireflies01_capture,,,
+Essence_Firefly_Fire,Objects\Crafting\Props\Decals\Symbols\Jav_PRP_symbol_PlaneCircle.cgf,SpiritFire,0.20000000298023224,1.5,1.5,Gatherable.Spirits.Fire.Fireflies01,Gatherable.Spirits.Fire.Fireflies01_capture,,,
+Essence_Firefly_Life,,SpiritLife,0.20000000298023224,1.5,1.5,Gatherable.Spirits.Life.Fireflies01,Gatherable.Spirits.Life.Fireflies01_capture,,,
+Essence_Firefly_Soul,,SpiritSoul,0.20000000298023224,1.5,1.5,Gatherable.Spirits.Soul.Fireflies01,Gatherable.Spirits.Soul.Fireflies01_capture,,,
+Essence_Firefly_Water,Objects\Crafting\Props\Decals\Symbols\Jav_PRP_symbol_PlaneCircle.cgf,SpiritWater,0.20000000298023224,1.5,1.5,Gatherable.Spirits.Water.Fireflies01,Gatherable.Spirits.Water.Fireflies01_capture,,,

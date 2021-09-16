@@ -1,0 +1,4 @@
+Instrument,MannequinTag,StartPrefix,StopPrefix,SingleNoteOnly,ShowAdvancedMenu
+Fife,InstrumentFife,Play_Instru_Tone_,Stop_Instru_Tone_,false,true
+Snare,InstrumentSnare,Play_Instru_Snare,Stop_Instru_Snare,true,true
+WarHorn,InstrumentWarHorn,Play_Instru_WarHorn,Stop_Instru_WarHorn,true,false

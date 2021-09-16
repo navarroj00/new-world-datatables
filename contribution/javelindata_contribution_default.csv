@@ -1,0 +1,5 @@
+ContributionId,Category,Value,Shared,Expires
+Damage_Dealt,Default,0,false,true
+Damage_Received,Default,1,false,true
+Support,Default,0,false,true
+Killed,Default,1,false,true

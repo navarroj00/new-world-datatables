@@ -1,0 +1,10 @@
+TypeID,IntID,Category
+Physical,1,Physical
+Melee,2,Physical
+Ranged,3,Physical
+Fire,4,Fire
+Magic,5,Magic
+Spirit,6,Magic
+Eldritch,7,Magic
+SlayingUndead,8,Slaying
+SlayingBeast,9,Slaying

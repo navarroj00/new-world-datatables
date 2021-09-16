@@ -1,0 +1,3 @@
+VariantID,Visual_Healthy,Visual_Depleted,Visual_Frame,GatherableEntryID,GatheringRadius,InteractionRadius,DetectableRadius,DepletedSFX,DepletedVFX,MarkerRadius,Name,InteractTag,InteractOnlyOnQuest
+Ancient_S,slices/POIs/Gate/gate_ancient_small_healthy.dynamicslice,slices/POIs/Gate/gate_ancient_small_depleted.dynamicslice,slices/POIs/Gate/gate_ancient_small_frame.dynamicslice,GateAncientSmall,1,2,1,,,3,@LockedGate_DisplayName,,
+Damned_T2,slices/POIs/Gate/struc_def_ironwood_t2_gate_healthy.dynamicslice,slices/POIs/Gate/struc_def_ironwood_t2_gate_depleted.dynamicslice,slices/POIs/Gate/struc_def_ironwood_t2_gate_frame.dynamicslice,GateAncientLarge,1,2,1,,,3,@LockedGate_DisplayName,,

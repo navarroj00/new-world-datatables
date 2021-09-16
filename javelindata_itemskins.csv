@@ -1,0 +1,2 @@
+ItemSkinID,IndexID,IsEntitlement,FromItemIDs,NeedsOneClasses,RequiredClasses,ExcludedClasses,ToItemID,Outfit,IsEnabled
+Skin_Head_HideHelmet,139,0,,EquippableHead,,,Skin_Head_HideHelmet,,true

@@ -1,0 +1,16 @@
+FactionControlBuffID,IsTerritoryBuff,Value,Name,Description,Comments
+InfluencePoints_Modifier,true,0.20000000298023224,@ui_influencepoints_modifier_name,@ui_influencepoints_modifier_desc,
+ExperiencePoints_Modifier,true,0.05000000074505806,@ui_experiencepoints_modifier_name,@ui_experiencepoints_modifier_desc,
+Azoth_FastTravel_GeneralCost_Reduction,false,0.5,@ui_azoth_fasttravel_generalcost_reduction_name,@ui_azoth_fasttravel_generalcost_reduction_desc,Implemented as a reduction of the azoth base travel cost used in calculating total cost (set by stack config 'javelin.housing.fast-travel-settlement-cost')
+Azoth_FastTravel_Weight_Reduction,false,3,@ui_azoth_fasttravel_weight_reduction_name,@ui_azoth_fasttravel_weight_reduction_desc,Implemented as a reduction of the azoth base travel cost used in calculating total cost (set by stack config 'javelin.housing.fast-travel-settlement-cost')
+Azoth_FastTravel_Distance_Reduction,false,4,@ui_azoth_fasttravel_distance_reduction_name,@ui_azoth_fasttravel_distance_reduction_desc,"Implemented as subtracting this value from the base cost, instead of setting it to 1"
+Azoth_Crafting_Effectiveness_Modifer,false,0.05000000074505806,@ui_azoth_crafting_effectiveness_modifer_name,@ui_azoth_crafting_effectiveness_modifer_desc,These modifiers either increase or decrease based on their usage in code
+Taxes_Crafting_Modifier,false,0.05000000074505806,@ui_taxes_crafting_modifier_name,@ui_taxes_crafting_modifier_desc,
+Taxes_Refining_Modifier,false,0.05000000074505806,@ui_taxes_refining_modifier_name,@ui_taxes_refining_modifier_desc,
+Taxes_Trading_Modifier,false,0.05000000074505806,@ui_taxes_trading_modifier_name,@ui_taxes_trading_modifier_desc,
+Taxes_Housing_Modifier,false,0.05000000074505806,@ui_taxes_housing_modifier_name,@ui_taxes_housing_modifier_desc,
+Rewards_FactionMission_Modifier,false,0.05000000074505806,@ui_rewards_factionmission_modifier_name,@ui_rewards_factionmission_modifier_desc,
+Rewards_DarknessEvent_Modifier,false,0.05000000074505806,@ui_rewards_darknessevent_modifier_name,@ui_rewards_darknessevent_modifier_desc,
+Rewards_Expedition_Modifier,false,0.05000000074505806,@ui_rewards_expedition_modifier_name,@ui_rewards_expedition_modifier_desc,
+Gathering_Speed_Modifier,false,0.05000000074505806,@ui_gathering_speed_modifier_name,@ui_gathering_speed_modifier_desc,
+Gathering_Volume_Modifier,false,0.10000000149011612,@ui_gathering_volume_modifier_name,@ui_gathering_volume_modifier_desc,

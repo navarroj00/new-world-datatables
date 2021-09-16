@@ -1,0 +1,9 @@
+SightID,StatusEffectToListenFor,SightCategoryFlag
+WolfSight,WolfVision,Wolf
+ElkSight,ElkVision,Elk
+BearSight,BearVision,Bear
+TurkeySight,TurkeyVision,Turkey
+PlayerSight,PlayerVision,Player
+AllSight,AllVision,Character
+AllSight_Upgrade,AllVision_Upgrade,Character
+Animals,AnimalVision,Wolf+Elk+Bear+Turkey

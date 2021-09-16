@@ -1,0 +1,6 @@
+CostID,StaminaCost,Category
+Block,100,Blocking
+Blocking,100,Blocking
+Block_Reset,-100,Blocking
+Stamina_Delay,0,
+Low_Stamina_Check,5,

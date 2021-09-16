@@ -1,0 +1,5 @@
+UniqueTagID,EntitlementIndex,IsEnabled,DisplayName,Description,IsConsumable,Icon,RewardType,Reward(s),EntitlementInfo,SourceType,Notes
+DEBUG_LOTE,1,true,NEVER SELL THIS,LORD OF THE ENTITLEMENTS,false,,Entitlement,EveryDangThing,ONE ENTITLEMENT TO RULE THEM ALL,Twitch,
+Marks of Fortune,90,true,@ui_marks_of_fortune,@ui_marks_of_fortune,true,,FictionalCurrency,1,,Store,
+BannedAbusive_AbusiveLanguageWarning,235,true,Abusive Language Warning,Abusive Language Warning,false,,Misc,,,,
+Ent_rainbow_tiger,295,true,Rainbow Tiger,,false,,Entitlement,rainbow_tiger,,Store,

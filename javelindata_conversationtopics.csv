@@ -1,0 +1,5 @@
+ConversationTopicId,PlayerPrompt,NPCResponse,AchievementUnlock
+ThoseDamned,@Topic_Prompt_Damned_01,@Topic_Response_Damned_01,
+TheShipwreck,@Topic_Prompt_Shipwreck_01,@Topic_Response_Shipwreck_01,
+Watcher01_01,@Watcher01_01_Prompt,@Watcher01_01_Response,
+Watcher01_02,@Watcher01_02_Prompt,@Watcher01_02_Response,

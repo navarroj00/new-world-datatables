@@ -1,0 +1,12 @@
+ItemID,KitType,StationTypes
+Kit_Fletching,Crafting,fletchingI
+CraftingKit_Cooking,Crafting,cooking1
+CraftingKit_Farming,Crafting,farming1
+Kit_BuildersToolsMetal,Crafting,builders1
+Kit_BuildersToolsStone,Crafting,builders0
+LodestoneT1,Crafting,stonehatchet
+Kit_RepairT1,Repair,repairKit
+Kit_RepairT2,Repair,repairKit
+Kit_RepairT3,Repair,repairKit
+Kit_RepairT4,Repair,repairKit
+Kit_RepairT5,Repair,repairKit

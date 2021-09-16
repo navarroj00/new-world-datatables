@@ -1,0 +1,50 @@
+EventID,GameEventType,Level,CreatureType,RewardModifier,UniversalExpAmount,CurrencyReward,ItemReward,RewardNotes,GearScoreRange,CategoricalProgressionId,CategoricalProgressionReward,TerritoryStanding,FactionReputation,FactionTokens,FactionInfluenceAmount,FactionInfluenceSrc,EmitTelemetry,AzothReward,AzothRewardChance
+0714_0101_fieldsoffire_success,,60,Quest+,,3750,15750,1hThrowingAxe_SQRewardShatteredT5,Death Rattle,,,,,,,,,true,30,1
+0719_0101_reflectionsmountainheart_success,,61,Quest+,,3880,15925,Ring_SQRewardShatteredT5,Jewel of Vengence,,,,,,,,,true,30,1
+0715_0102_luckonlylends_success,,62,Quest+,,4000,16100,1hshield_SQRewardShatteredT5,Dark Pheonix,,,,,,,,,true,30,1
+0715_0101_varietiesofheat_success,,62,Quest,,3200,11500,HeavyFeet_SQRewardShatteredT5,Boots of the Stallion,,,,,,,,,true,15,1
+0713_0101_explorerift_success,,63,Quest+,,4130,16275,1hLongsword_SQRewardShatteredT5,Edge of Rebellion ,,,,,,,,,true,30,1
+0716_0101_malevolentofferings_success,,62,Quest,,3200,11500,HeavyLegs_SQRewardShatteredT5,Lavaforged Legguards,,,,,,,,,true,15,1
+0712_0101_layerspastandpresent_success,,62,Quest+,,4000,16100,2hStaffFire_SQRewardShatteredT5,Molten's Core,,,,,,,,,true,30,1
+0718_0102_humble_success,,63,Quest+,,4130,16275,HeavyHead_SQRewardShatteredT5,Victor's Helm,,,,,,,,,true,30,1
+0718_0101_guardian_success,,64,Quest,,3400,11750,1hRapier_SQRewardShatteredT5,Spirit of Oblivion ,,,,,,,,,true,15,1
+0717_0101_mykgardarena_success,,65,Quest+,,4380,16625,MyrkgardKey,,,,,,,,,,true,30,1
+0719_0201_madakisstratagem_success,,65,Quest+,,4380,16625,Amulet_SQRewardShatteredT5,Infinity Crystal,,,,,,,,,true,30,1
+0714_0105_baetylusheadpiece_success,,65,Quest+,,20000,16625,2hMusket_SQRewardShatteredT5,Vengeance Blast,,,,,,,,,true,30,1
+0718_0103_ultimatedefense_success,,65,Quest+,,20000,16625,HeavyChest_SQRewardShatteredT5,Fortuna Chestplate,,,,,,,,,true,30,1
+0721_0101_TF_00_success,,65,Quest+,,4380,16625,1hLongsword_TwilightsFallT5,,,,,,,,,,true,30,1
+0721_0102_TF_01_success,,65,Quest+,Armor,4380,16625,QuestRewardArmorL65,,,,,,,,,,true,30,1
+0721_0103_TF_02_success,,65,Quest+,Weapons,4380,16625,QuestRewardWeaponsL65,,,,,,,,,,true,30,1
+0721_0104_TF_03_success,,65,Quest+,Armor,4380,16625,QuestRewardArmorL65,,,,,,,,,,true,30,1
+0721_0105_TF_04_success,,65,Quest+,Weapons,4380,16625,QuestRewardWeaponsL65,,,,,,,,,,true,30,1
+0721_0106_TF_05_success,,65,Quest+,Armor,4380,16625,QuestRewardArmorL65,,,,,,,,,,true,30,1
+0721_0107_TF_06_success,,65,Quest+,Weapons,4380,16625,QuestRewardWeaponsL65,,,,,,,,,,true,30,1
+0721_0108_TF_07_success,,65,Quest+,Armor,4380,16625,QuestRewardArmorL65,,,,,,,,,,true,30,1
+0721_0109_TF_08_success,,65,Quest+,Weapons,4380,16625,QuestRewardWeaponsL65,,,,,,,,,,true,30,1
+0721_0101_BW_00_success,,65,Quest+,,4380,16625,1hRshield_BoundlessWardT5,,,,,,,,,,true,30,1
+0721_0102_BW_01_success,,65,Quest+,Armor,4380,16625,QuestRewardArmorL65,,,,,,,,,,true,30,1
+0721_0103_BW_02_success,,65,Quest+,Weapons,4380,16625,QuestRewardWeaponsL65,,,,,,,,,,true,30,1
+0721_0104_BW_03_success,,65,Quest+,Armor,4380,16625,QuestRewardArmorL65,,,,,,,,,,true,30,1
+0721_0105_BW_04_success,,65,Quest+,Weapons,4380,16625,QuestRewardWeaponsL65,,,,,,,,,,true,30,1
+0720_0101_HS_00_success,,65,Quest+,,4380,16625,2hSpear_HeavensplitterT5,,,,,,,,,,true,30,1
+0720_0102_HS_01_success,,65,Quest+,Armor,4380,16625,QuestRewardArmorL65,,,,,,,,,,true,30,1
+0720_0103_HS_02_success,,65,Quest+,Weapons,4380,16625,QuestRewardWeaponsL65,,,,,,,,,,true,30,1
+0720_0104_HS_03_success,,65,Quest+,Armor,4380,16625,QuestRewardArmorL65,,,,,,,,,,true,30,1
+0720_0105_HS_04_success,,65,Quest+,Weapons,4380,16625,QuestRewardWeaponsL65,,,,,,,,,,true,30,1
+0720_0106_HS_05_success,,65,Quest+,Armor,4380,16625,QuestRewardArmorL65,,,,,,,,,,true,30,1
+0720_0107_HS_06_success,,65,Quest+,Weapons,4380,16625,QuestRewardWeaponsL65,,,,,,,,,,true,30,1
+0720_0108_HS_07_success,,65,Quest+,Armor,4380,16625,QuestRewardArmorL65,,,,,,,,,,true,30,1
+0720_0109_HS_08_success,,65,Quest+,Weapons,4380,16625,QuestRewardWeaponsL65,,,,,,,,,,true,30,1
+0722_0101_FL_00_success,,65,Quest+,,4380,16625,1hRapier_FrozenLamentT5,,,,,,,,,,true,30,1
+0722_0102_FL_01_success,,65,Quest+,Armor,4380,16625,QuestRewardArmorL65,,,,,,,,,,true,30,1
+0722_0103_FL_02_success,,65,Quest+,Weapons,4380,16625,QuestRewardWeaponsL65,,,,,,,,,,true,30,1
+0722_0104_FL_03_success,,65,Quest+,Armor,4380,16625,QuestRewardArmorL65,,,,,,,,,,true,30,1
+0722_0105_FL_04_success,,65,Quest+,Weapons,4380,16625,QuestRewardWeaponsL65,,,,,,,,,,true,30,1
+0722_0106_FL_05_success,,65,Quest+,Armor,4380,16625,QuestRewardArmorL65,,,,,,,,,,true,30,1
+0722_0107_FL_06_success,,65,Quest+,Weapons,4380,16625,QuestRewardWeaponsL65,,,,,,,,,,true,30,1
+0722_0108_FL_07_success,,65,Quest+,Armor,4380,16625,QuestRewardArmorL65,,,,,,,,,,true,30,1
+0722_0109_FL_08_success,,65,Quest+,Weapons,4380,16625,QuestRewardWeaponsL65,,,,,,,,,,true,30,1
+0701_AntiCorruptionBomb_interact,,0,Quest,,0,0,,,,,,,,,,,true,0,0
+0701_AntiCorruptionBombB_interact,,0,Quest,,0,0,,,,,,,,,,,true,0,0
+0702_BlightNodule_interact,,0,Quest,,0,0,,,,,,,,,,,true,0,0
+0703_BaetylusLuckstone_interact,,0,Quest,,0,0,,,,,,,,,,,true,0,0

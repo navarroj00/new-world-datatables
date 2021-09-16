@@ -1,0 +1,8 @@
+DamageID,WeaponCategory,IgnoreInvulnerable,NoReaction,SurfaceImpactEffect,DamageType,Affliction,AddAffliction,AfflictionPercent,DeflectDamageID,DmgCoef,DmgCoefHead,PowerLevel,BlockPowerLevel,HitStun,BlockHitStun,ImpactDistanceX,ImpactDistanceY,ImpactDistanceZ,ImpactDecayRate,BlockImpactDistanceX,BlockImpactDistanceY,BlockImpactDistanceZ,BlockImpactDecayRate,AddDmg,ImpactRating,BlockStaminaDmgMod,BlockAbsorptionModifier,TargetCameraShakeID
+Attack,DemoHammer,0,0,Bullet,Siege,AfflictionDisease,10,,Deflect_Default,1,1,1,1,15,10,0,1,0,0.800000011920929,0,0,0,0.800000011920929,0,0,0.20000000298023224,1,Small 
+Attack_Rampage,DemoHammer,0,0,Bullet,Siege,AfflictionDisease,3,,Deflect_Default,0.4000000059604645,1,1,1,15,10,0,0.5,0,0.800000011920929,0,0,0,0.800000011920929,0,0,0.20000000298023224,1,Small 
+Attack_Leap,DemoHammer,0,0,Bullet,Siege,AfflictionDisease,12,,Deflect_Default,1.100000023841858,1,2,2,20,15,0,1,0,0.800000011920929,0,0,0,0.800000011920929,0,0,0.20000000298023224,1,Small 
+Vomit_Ball,Regurgitator_Vomitball,0,0,Bullet,Siege,AfflictionDisease,10,,Deflect_Default,1,1,1,1,15,10,0,1,0,0.800000011920929,0,0,0,0.800000011920929,0,0,0.20000000298023224,1,Small 
+Vomit_Spray,Regurgitator_Vomitspray,0,0,Bullet,Siege,AfflictionDisease,30,,Deflect_Default,2.5,1,1,1,15,10,0,1,0,0.800000011920929,0,0,0,0.800000011920929,0,0,0.20000000298023224,1,Small 
+Deflect_Default,Blunt_AI,1,0,,Deflect,,0,,,0,1,2,2,0,0,0,1,0,0.800000011920929,0,0,0,0,0,0,1,1,
+Fall,Fall,1,1,Bullet,Falling,,0,,,1,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,

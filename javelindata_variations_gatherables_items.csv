@@ -1,0 +1,5 @@
+VariantID,Visual_Loot,GatherableEntryID,Idle_VFX,GatheringRadius,InteractionRadius,DetectableRadius,InteractTag,InteractOnlyOnQuest
+PotionHealthT1,Objects\Crafting\Props\Shopwares\AlchemyProps\JAV_PRP_Glass bottles_A.cgf,ItemPotionHealT1,Loot.Crate_small01,0.15000000596046448,0.5,0.75,,
+ClothT2,Objects\Crafting\Props\Shopwares\TanningBolts\jav_prp_leatherbolt.cgf,ItemClothT2,Loot.Crate_small01,0.15000000596046448,0.5,0.75,,
+CraterKey1,Objects\gear_player\1h\keys\key_lockbox\jav_gear1h_key_lockbox_gold_proxy.cgf,CraterKey1,Loot.Crate_small01,0.15000000596046448,0.5,0.75,,
+CraterKey2,Objects\gear_player\1h\keys\key_lockbox\jav_gear1h_key_lockbox_gold_proxy.cgf,CraterKey2,Loot.Crate_small01,0.15000000596046448,0.5,0.75,,

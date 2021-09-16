@@ -1,0 +1,7 @@
+Rank,DisplayName,MaximumInfluence,RequiredLevel,InfluenceCost,CurrencyCost,AzothCost,SanityCheck,GameEventId,EntitlementId
+0,@ui_camping_reward_tier_0,1,,0,,,false,,
+1,@ui_camping_reward_tier_1,1,,1,,,true,,
+2,@ui_camping_reward_tier_2,1,,1,,,true,,
+3,@ui_camping_reward_tier_3,1,,1,,,true,,
+4,@ui_camping_reward_tier_4,1,,1,,,true,,
+5,@ui_camping_reward_tier_5,1,,1,,,true,,

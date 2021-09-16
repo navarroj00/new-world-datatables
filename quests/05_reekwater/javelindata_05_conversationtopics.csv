@@ -1,0 +1,5 @@
+ConversationTopicId,PlayerPrompt,NPCResponse,AchievementUnlock,RequiredAchievement,RequiredFaction,RequiredLevel
+0401_Watcher_Death,@0401_Watcher_Death_Prompt,@0401_Watcher_Death_Response,,,,
+0401_Watcher_Corruption,@0401_Watcher_Corruption_Prompt,@0401_Watcher_Corruption_Response,,,,
+Reekwater_Dungeon_Scylla_Offering,@Reekwater_Dungeon_Scylla_01_Prompt,@Reekwater_Dungeon_Scylla_01_Response,,,,
+Reekwater_Dungeon_Scylla_Worthy,@Reekwater_Dungeon_Scylla_02_Prompt,@Reekwater_Dungeon_Scylla_02_Response,,,,

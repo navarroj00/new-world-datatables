@@ -1,0 +1,14 @@
+EventID,GameEventType,Level,CreatureType,UniversalExpAmount,CurrencyReward,ItemReward,RewardsNotes,GearScoreRange,CategoricalProgressionId,CategoricalProgressionReward,TerritoryStanding,FactionReputation,FactionTokens,FactionInfluenceAmount,FactionInfluenceSrc,EmitTelemetry,AzothReward,AzothRewardChance
+1503_1504_Lupine_Success,,41,Quest+,2440,12425,QuestRewardWeaponsL41,,,Camping,1,250,,,,,true,20,1
+1503_1505_Hoppy_Success,,41,Quest+,2440,12425,QuestRewardArmorL41,,,,0,250,,,,,true,20,1
+1504_1503_Fury_Success,,41,Quest,1950,8875,QuestRewardArmorL41,,,,0,175,,,,,true,10,1
+1502_1501_Sieged_Success,,42,Quest+,2490,12600,QuestRewardWeaponsL42,,,,0,250,,,,,true,20,1
+1502_1502_Stolen_Success,,43,Quest+,2540,12775,QuestRewardArmorL43,,,,0,250,,,,,true,20,1
+1505_1509_Menacing_Success,,43,Quest+,2540,12775,QuestRewardArmorL43,,,,0,250,,,,,true,20,1
+1505_1510_Slaying_Success,,44,Quest+,2590,12950,RingRestlessShoreT4,,,,0,250,,,,,true,20,1
+1503_1506_Boars_Success,,44,Quest+,2590,12950,1hThrowingAxeRestlessShoreT4,,,,0,250,,,,,true,20,1
+1510_1507_Scouting_Success,,45,Quest+,2640,13125,QuestRewardWeaponsL45,,,,0,250,,,,,true,20,1
+1510_1508_Damnation_Success,,46,Quest+,2690,13300,LightChest_RestlessShoreT4,,,,0,250,,,,,true,20,1
+1510_1512_PayingRespects_Success,,46,Quest,2150,9500,QuestRewardDye,,,,0,175,,,,,true,10,1
+1502_1511_UltimateEnemy_Success,,46,Quest+,12500,13300,1hRapier_VorpalBladeT4,L45 Dungeon ,,,0,250,,,,,true,20,1
+1599_1513_Nekumanesh_Success,,46,Mission+,8600,1520,QuestRewardArmorL46,,,,0,375,,,,,true,0,1

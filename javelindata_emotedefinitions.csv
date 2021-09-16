@@ -1,0 +1,12 @@
+UniqueTagID,FragmentName,DisplayName,DisplayDescription,DisplayGroup,ChatBoxText,SlashCommand,SecondarySlashCommand,IsEntitlement,IsPremiumEmote,IsEnabled,HasCooldown,DisplayPriority,UiImage,UiImageHiRes
+Emote_Sit,Emote_Sit,ui_emote_sit,ui_emote_sit_description,Default,@emote_sit,sit,,0,0,1,0,1,emote_Sit,
+Emote_Flex1,Emote_Flex1,ui_emote_flex,ui_emote_flex_description,Default,@emote_flex1,,,0,0,0,0,1,emote_Flex,
+Emote_Flex2,Emote_Flex2,ui_emote_flex2,ui_emote_flex2_description,Default,@emote_flex2,flex,,0,0,1,0,1,emote_Flex2,
+Emote_LoudPoint,Emote_LoudPoint,ui_emote_go,ui_emote_go_description,Default,@emote_loudpoint,go,point,0,0,1,0,1,emote_Go,
+Emote_OverHere,Emote_OverHere,ui_emote_here,ui_emote_here_description,Default,@emote_overhere,here,come,0,0,1,0,1,emote_Here,
+Emote_Wave,Emote_Wave,ui_emote_wave,ui_emote_wave_description,Default,@emote_wave,wave,,0,0,1,0,1,emote_Wave,
+Emote_NoDeal,Emote_NoDeal,ui_emote_nono,ui_emote_nono_description,Default,@emote_nodeal,no,notlikethis,0,0,1,0,1,emote_No,
+Emote_Cheer,Emote_Cheer,ui_emote_cheer,ui_emote_cheer_description,Default,@emote_cheer,cheer,,0,0,1,0,1,emote_Cheer,
+Emote_DiceRoll,Emote_DiceRoll,ui_emote_Dice,ui_emote_Dice_description,Default,@emote_diceroll,dice,roll,0,0,1,0,1,emote_DiceRoll,
+Emote_2ThumbsUp,Emote_2ThumbsUp,ui_emote_thumbs,ui_emote_thumbs_description,Default,@emote_2thumbsup,thumbs,gg,0,0,1,0,1,emote_Thumbs,
+Emote_IrishDance,Emote_IrishDance,ui_emote_dance1,ui_emote_dance1_description,Default,@emote_dance1,dance,,0,0,1,0,1,emote_Dance01,

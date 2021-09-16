@@ -1,0 +1,32 @@
+RewardID,MilestoneType,MilestoneLevel,Name,Icon,Image,Tooltip,Notes
+WeaponSlot2,major,5,@WeaponSlot2_Name,LyShineUI/Images/Icons/ProgressionMilestones/weaponSlot.dds,LyShineUI/Images/glory/milestoneRewards/milestoneReward_weapon1.dds,@WeaponSlot2_Tooltip,Located in PBA
+QuickSlot3,,15,@QuickSlot3_Name,LyShineUI/Images/Icons/ProgressionMilestones/quickSlot.dds,,@QuickSlot3_Tooltip,Located in PBA
+QuickSlot4,,25,@QuickSlot4_Name,LyShineUI/Images/Icons/ProgressionMilestones/quickSlot.dds,,@QuickSlot4_Tooltip,Located in PBA
+RingSlot,major,20,@RingSlot_Name,LyShineUI/Images/Icons/ProgressionMilestones/ringSlot.dds,LyShineUI/Images/glory/milestoneRewards/milestoneReward_ring1.dds,@RingSlot_Tooltip,Located in PBA
+EarringSlot,major,40,@EarringSlot_Name,LyShineUI/Images/Icons/ProgressionMilestones/earringSlot.dds,LyShineUI/Images/glory/milestoneRewards/milestoneReward_earring1.dds,@EarringSlot_Tooltip,Located in PBA
+BagSlot1,major,10,@BagSlot1_Name,LyShineUI/Images/Icons/ProgressionMilestones/bagSlot.dds,LyShineUI/Images/glory/milestoneRewards/milestoneReward_bagSlot1.dds,@BagSlot1_Tooltip,Located in PBA
+BagSlot2,major,30,@BagSlot2_Name,LyShineUI/Images/Icons/ProgressionMilestones/bagSlot.dds,LyShineUI/Images/glory/milestoneRewards/milestoneReward_bagSlot1.dds,@BagSlot2_Tooltip,Located in PBA
+BagSlot3,major,45,@BagSlot3_Name,LyShineUI/Images/Icons/ProgressionMilestones/bagSlot.dds,LyShineUI/Images/glory/milestoneRewards/milestoneReward_bagSlot1.dds,@BagSlot3_Tooltip,Located in PBA
+House1,major,15,@House1_Name,LyShineUI/Images/Icons/ProgressionMilestones/house.dds,LyShineUI/Images/glory/milestoneRewards/milestoneReward_house1.dds,@House1_Tooltip,
+House2,major,35,@House2_Name,LyShineUI/Images/Icons/ProgressionMilestones/house.dds,LyShineUI/Images/glory/milestoneRewards/milestoneReward_house1.dds,@House2_Tooltip,
+House3,major,55,@House3_Name,LyShineUI/Images/Icons/ProgressionMilestones/house.dds,LyShineUI/Images/glory/milestoneRewards/milestoneReward_house1.dds,@House3_Tooltip,
+Duels,major,10,@Duels_Name,LyShineUI/Images/Icons/ProgressionMilestones/duels.dds,LyShineUI/Images/glory/milestoneRewards/milestoneReward_duels.dds,@Duels_Tooltip,
+Invasions,major,50,@Invasions_Name,LyShineUI/Images/Icons/ProgressionMilestones/invasions.dds,LyShineUI/Images/glory/milestoneRewards/milestoneReward_invasions.dds,@Invasions_Tooltip,
+OutpostRush,major,60,@OutpostRush_Name,LyShineUI/Images/Icons/ProgressionMilestones/outpostRush.dds,LyShineUI/Images/glory/milestoneRewards/milestoneReward_outpostrush.dds,@OutpostRush_Tooltip,
+AzothStaffT1,,20,@AzothStaffT1_Name,LyShineUI/Images/Icons/ProgressionMilestones/azothStaff1.dds,,@AzothStaffT1_Tooltip,
+AzothStaffT2,,30,@AzothStaffT2_Name,LyShineUI/Images/Icons/ProgressionMilestones/azothStaff2.dds,,@AzothStaffT2_Tooltip,
+AzothStaffT3,,40,@AzothStaffT3_Name,LyShineUI/Images/Icons/ProgressionMilestones/azothStaff3.dds,,@AzothStaffT3_Tooltip,
+AzothStaffT4,,0,@AzothStaffT4_Name,LyShineUI/Images/Icons/ProgressionMilestones/azothStaff4.dds,,@AzothStaffT4_Tooltip,
+AzothStaffT5,,0,@AzothStaffT5_Name,LyShineUI/Images/Icons/ProgressionMilestones/azothStaff5.dds,,@AzothStaffT5_Tooltip,
+CampingT1,,5,@CampingT1_Name,LyShineUI/Images/Icons/ProgressionMilestones/campUpgrade.dds,,@CampingT1_Tooltip,
+CampingT2,,15,@CampingT2_Name,LyShineUI/Images/Icons/ProgressionMilestones/campUpgrade2.dds,,@CampingT2_Tooltip,
+CampingT3,,25,@CampingT3_Name,LyShineUI/Images/Icons/ProgressionMilestones/campUpgrade3.dds,,@CampingT3_Tooltip,
+CampingT4,,40,@CampingT4_Name,LyShineUI/Images/Icons/ProgressionMilestones/campUpgrade4.dds,,@CampingT4_Tooltip,
+CampingT5,,55,@CampingT5_Name,LyShineUI/Images/Icons/ProgressionMilestones/campUpgrade5.dds,,@CampingT5_Tooltip,
+Territory1,territory,5,@TerritoryRecommendation_1,,,,
+Territory2,territory,25,@TerritoryRecommendation_2,,,,
+Territory3,territory,30,@TerritoryRecommendation_3,,,,
+Territory4,territory,40,@TerritoryRecommendation_4,,,,
+Territory5,territory,45,@TerritoryRecommendation_5,,,,
+Territory6,territory,50,@TerritoryRecommendation_6,,,,
+Territory7,territory,60,@TerritoryRecommendation_7,,,,

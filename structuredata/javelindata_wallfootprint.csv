@@ -1,0 +1,16 @@
+FootprintID,SidesTakenUp,Rotation,FootprintType
+Footprint_Straight_LeftRight,Left+Right,0,Straight
+Footprint_Straight_FrontBack,Front+Back,-90,Straight
+Footprint_Cross,Front+Back+Left+Right,0,Cross
+Footprint_Corner_RightFront,Right+Front,0,Corner
+Footprint_Corner_BackRight,Back+Right,-90,Corner
+Footprint_Corner_LeftBack,Left+Back,-180,Corner
+Footprint_Corner_FrontLeft,Front+Left,-270,Corner
+Footprint_TShape_RightFrontLeft,Right+Front+Left,0,TShape
+Footprint_TShape_BackRightFront,Back+Right+Front,-90,TShape
+Footprint_TShape_LeftBackRight,Left+Back+Right,-180,TShape
+Footprint_TShape_FrontLeftBack,Front+Left+Back,-270,TShape
+Footprint_Diagonal_BackRight,Back+Right,0,Diagonal
+Footprint_Diagonal_LeftBack,Left+Back,-90,Diagonal
+Footprint_Diagonal_FrontLeft,Front+Left,-180,Diagonal
+Footprint_Diagonal_RightFront,Right+Front,-270,Diagonal

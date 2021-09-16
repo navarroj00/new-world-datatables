@@ -1,0 +1,17 @@
+EffectName,PriorityOverride
+dungeon_arcaneshield.Arcane_Shield_Core,High
+wFX_azothstaff.CarryFlame,High
+Siege.CapturePoint.Beam_Neutral,Required
+Siege.CapturePoint.Beam_Friendly,Required
+Siege.CapturePoint.Beam_Enemy,Required
+Siege.CapturePoint.Beam_Contested_Blue,Required
+Siege.CapturePoint.Beam_Contested_Red,Required
+Siege.CapturePoint.Beam_Contested_Neutral,Required
+FactionControl.Neutral.Beam,Required
+FactionControl.Faction1.Beam,Required
+FactionControl.Faction2.Beam,Required
+FactionControl.Faction3.Beam,Required
+FactionControl.Neutral.Contested,Required
+FactionControl.Faction1.Contested,Required
+FactionControl.Faction2.Contested,Required
+FactionControl.Faction3.Contested,Required

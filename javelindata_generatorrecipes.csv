@@ -1,0 +1,15 @@
+StructureID,Tickrate,OutputItem,OutputQty,TooltipText,FuelCategory,TickrateProximityFactor
+Structure_Spring,60,WaterT1,1,Use Charcoal to generate purified water.,FuelCharcoal,0.20000000298023224
+Structure_Well,30,WaterT1,1,Use Charcoal to generate purified water.,FuelCharcoal,0.20000000298023224
+Structure_Altar,60,,1,Provide offerings of meat or incense to generate Soul Essence.,FuelSacrifice,0.20000000298023224
+Structure_Shrine,60,,1,Provide offerings of meat or incense to generate Life Essence.,FuelSacrifice,0.20000000298023224
+Structure_TorchPost,600,,10,Place a torch in the Torch Post to provide light to an area.,FuelTorch,0.20000000298023224
+Structure_LampPost,180,,0,Burn animal fat to provide light to an area.,FuelAnimalFat,0.20000000298023224
+Structure_Outhouse,60,CompostT2,1,Place food in the outhouse to generate compost.,FuelOuthouse,0.20000000298023224
+Structure_SaplingSnare,300,,1,Catches small game after a time.,FuelCharcoal,0.20000000298023224
+TurkeyCoop,480,TurkeyItemT2,1,Generates a Turkey.,,0
+AnimalPen,480,PigItemT2,1,Generates a Pig.,,0
+Structure_Azure,5,AzureT1,1,Use  harvest Azure.,,0.20000000298023224
+SiegeSupplyGeneratorT1,10,SiegeSupply,5,Generates Siege Supplies.,,0.20000000298023224
+SiegeSupplyGeneratorT2,10,SiegeSupply,10,Generates Siege Supplies.,,0.20000000298023224
+SiegeSupplyGeneratorT3,10,SiegeSupply,15,Generates Siege Supplies.,,0.20000000298023224

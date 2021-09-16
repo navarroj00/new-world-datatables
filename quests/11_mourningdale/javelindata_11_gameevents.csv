@@ -1,0 +1,17 @@
+EventID,GameEventType,Level,CreatureType,UniversalExpAmount,CurrencyReward,ItemReward,RewardNotes,GearScoreRange,CategoricalProgressionId,CategoricalProgressionReward,TerritoryStanding,FactionReputation,FactionTokens,FactionInfluenceAmount,FactionInfluenceSrc,EmitTelemetry,AzothReward,AzothRewardChance
+1104_01a01_crashing_Success,,45,Quest-,1590,3750,,,,,,100,,,,,true,5,1
+1111_0201_deluge_Success,,46,Quest+,2690,13300,QuestRewardWeaponsL46,,,,,250,,,,,true,20,1
+1102_0201_abandonedduties_Success,,46,Quest,2150,9500,QuestRewardArmorL46,,,,,175,,,,,true,10,1
+1104_0201_waterfalls_Success,,46,Quest,2150,9500,QuestRewardArmorL46,,,,,175,,,,,true,10,1
+1102_0301_musslebeard_Success,,47,Quest+,2740,13475,QuestRewardWeaponsL47,,,,,250,,,,,true,20,1
+1105_0201_teardropgems_Success,,47,Quest,2190,9625,QuestRewardArmorL47,,,,,175,,,,,true,10,1
+1105_0202_excommunication_Success,,48,Quest+,2790,13650,QuestRewardArmorL48,,,,,250,,,,,true,20,1
+1111_0301_roadtotruth_Success,,48,Quest+,2790,13650,QuestRewardWeaponsL48,,,,,250,,,,,true,20,1
+1111_0401_ancienttruth_Success,,50,Quest+,2890,14000,2hWarhammerMourningdaleT4,,,,,250,,,,,true,20,1
+1111_0402_corruptedenergy_Success,,50,Quest+,2890,14000,HeavyChest_MourningdaleT4,,,,,250,,,,,true,20,1
+1102_0401_march_Success,,50,Quest+,2890,14000,RingMourningDaleT4,,,,,250,,,,,true,20,1
+1101_SilverOrb_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
+1102_StoneOrb_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
+1103_CopperOrb_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
+1104_MedallionChest_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
+1105_CorruptedTotem_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0

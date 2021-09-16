@@ -1,0 +1,5 @@
+ConversationStateId,ConversationType,IsInitialState,ShowTopics,DefaultDialogue,RequiredFaction,RequiredLevel,RequiredCompletedObjective,RequiredAchievement,LinearObjectiveId1,LinearObjectiveId2,LinearObjectiveId3,LinearObjectiveId4,LinearObjectiveId5,LinearObjectiveId6,LinearObjectiveId7,LinearObjectiveId8,LinearObjectiveId9,LinearObjectiveId10
+7504_00_Overseer,Linear_Objective,true,false,@NPC_DefaultDialogue_7504_00_Overseer,,0,,,,,,,,,,,,
+7504_01_Overseer,Linear_Objective,false,false,@NPC_DefaultDialogue_7504_01_Overseer,,10,,,7504_0101_devworldbluekillwolfquest,,,,,,,,,
+7505_00_Artificer,Linear_Objective,true,false,@NPC_DefaultDialogue_7505_00_Artificer,,0,,,,,,,,,,,,
+7505_01_Artificer,Linear_Objective,false,false,@NPC_DefaultDialogue_7505_01_Artificer,,10,7504_0101_devworldbluekillwolfquest,,7505_0101_devworldbluegetcavelootquest,,,,,,,,,

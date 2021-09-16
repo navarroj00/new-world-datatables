@@ -1,0 +1,17 @@
+AffixID,DisplayName,Category,AffixDataWeapon,AffixDataArmor,AffixDataMisc,QualityContribution,GearScoreContribution,Rarity
+RarityLevel1,@RarityLevel1_DisplayName,Material,AffixWeaponRarityLevel1,AffixArmorRarityLevel1,,3,20,1
+RarityLevel2,@RarityLevel2_DisplayName,Material,AffixWeaponRarityLevel2,AffixArmorRarityLevel2,,5,30,2
+RarityLevel3,@RarityLevel3_DisplayName,Material,AffixWeaponRarityLevel3,AffixArmorRarityLevel3,,9,40,3
+EnchantFire1,@EnchantFire1_DisplayName,Magic,AffixWeaponEnchantFire1,,,0,100,0
+TypeLevel1,,Type,AffixTypeLevel1,AffixTypeLevel1,,0,0,0
+TypeLevel2,@TypeLevel2_DisplayName,Type,AffixTypeLevel2,AffixTypeLevel2,AffixTypeLevel2,0,50,0
+TypeLevel3,@TypeLevel3_DisplayName,Type,AffixTypeLevel3,AffixTypeLevel3,AffixTypeLevel3,0,65,0
+TypeLevel4,@TypeLevel4_DisplayName,Type,AffixTypeLevel4,AffixTypeLevel4,AffixTypeLevel4,0,75,0
+TypeLevel5,@TypeLevel5_DisplayName,Type,AffixTypeLevel5,AffixTypeLevel5,AffixTypeLevel5,0,85,0
+WornItem,@WornItem_DisplayName,Type,AffixWornItem,AffixWornItem,AffixWornItem,0,-90,0
+Alchemy2,Distilled,Type,,,AffixAlchemyConsumable2,0,0,0
+Alchemy3,Concentrated,Type,,,AffixAlchemyConsumable3,0,0,0
+TypeLevel2Shield,@TypeLevel2_DisplayName,Type,AffixTypeLevel2Shield,AffixTypeLevel2Shield,AffixTypeLevel2Shield,0,50,0
+TypeLevel3Shield,@TypeLevel3_DisplayName,Type,AffixTypeLevel3Shield,AffixTypeLevel3Shield,AffixTypeLevel3Shield,0,65,0
+TypeLevel4Shield,@TypeLevel4_DisplayName,Type,AffixTypeLevel4Shield,AffixTypeLevel4Shield,AffixTypeLevel4Shield,0,75,0
+TypeLevel5Shield,@TypeLevel5_DisplayName,Type,AffixTypeLevel5Shield,AffixTypeLevel5Shield,AffixTypeLevel5Shield,0,85,0

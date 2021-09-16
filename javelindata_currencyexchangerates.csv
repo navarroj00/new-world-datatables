@@ -1,0 +1,7 @@
+ConversionID,FromCurrencyId,FromCurrencyIsCategoricalProgression,FromCurrencyQuantity,ToCurrencyId,ToCurrencyIsCategoricalProgression,ToCurrencyQuantity
+RepairT1_RepairT2,Repair_T1,true,1,Repair_T2,true,1
+RepairT2_RepairT3,Repair_T2,true,1,Repair_T3,true,1
+RepairT3_RepairT4,Repair_T3,true,1,Repair_T4,true,1
+RepairT4_RepairT5,Repair_T4,true,1,Repair_T5,true,1
+RepairT5_RepairT4,Repair_T5,true,1,Repair_T4,true,60
+RepairT5_Crowns,Repair_T5,true,5,Crowns,false,15
