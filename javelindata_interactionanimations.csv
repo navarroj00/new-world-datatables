@@ -1,13 +1,16 @@
-InteractionAnimationID,PlayerMannequinFragmentStartInteraction,InteractableTimelineStartInteraction,InteractableTimelineEndInteraction
-HousingItemLieOnBed,Interact_Bed,,
-HousingItemLieOnBedMirror,Interact_Bed_Mirror,,
-HousingItemLieOnRug,Interact_Rug,,
-HousingItemPetBobcat,Interact_Pet_Bobcat,Interact_Start,Interact_End
-HousingItemPetDog,Interact_Pet,Interact_Start,Interact_End
-HousingItemPetHare,Interact_Pet_Hare,Interact_Start,Interact_End
-HousingItemSitOnChair,Interact_Chair,,
-HousingItemStandingInteract,Interact_HousingCannon,Interact_Start,Interact_End
-QuestAnim_AzothStaff_Create,Interact_AzothStaff_Create,Interact_Start,Interact_End
-QuestAnim_MSQ_TheRitual,Interact_MSQ_TheRitual,Interact_Start,Interact_End
-HousingItemPetTiger,Interact_Pet_Tiger,Interact_Start,Interact_End
-HousingItemPetRabbit,Interact_Pet_Rabbit,Interact_Start,Interact_End
+InteractionAnimationID,PlayerMannequinFragmentStartInteraction,InteractableTimelineStartInteraction,InteractableTimelineEndInteraction,Notes
+HousingItemFeedBird,Interact_Feed_Bird,Interact_Start,Interact_End,SINGLE - Player reaches their hand out to feed something chest-height.
+HousingItemLieOnBed,Interact_Bed,Interact_Start,Interact_End,LOOPING - Player Lays on Bed from One Side
+HousingItemLieOnBedMirror,Interact_Bed_Mirror,Interact_Start,Interact_End,LOOPING - Player Lays on Bed from Other Side
+HousingItemLieOnRug,Interact_Rug,Interact_Start,Interact_End,LOOPING - Player Lays on Floor/Rug
+HousingItemPetBobcat,Interact_Pet_Bobcat,Interact_Start,Interact_End,LOOPING - Unused - For Full Sized Bigcats
+HousingItemPetDog,Interact_Pet,Interact_Start,Interact_End,LOOPING - Pet Head of Lounging Dog
+HousingItemPetHare,Interact_Pet_Hare,Interact_Start,Interact_End,LOOPING - Pet Head of Increased Sized Rabbit/Hare
+HousingItemPetRabbit,Interact_Pet_Rabbit,Interact_Start,Interact_End,LOOPING - Unused - For Full Sized Rabbit/Hare
+HousingItemPetTiger,Interact_Pet_Tiger,Interact_Start,Interact_End,LOOPING - For Reduced Sized Bigcats
+HousingItemSitOnChair,Interact_Chair,Interact_Start,Interact_End,LOOPING - Player Sit in Chair and Crosses Leg on Thigh
+HousingItemSitOnChair_Snapped,Interact_Chair,Interact_Start,Interact_End,LOOPING - Player Sit in Chair
+HousingItemStandingInteract,Interact_HousingCannon,Interact_Start,Interact_End,SINGLE - Player Reaches Their Hand Out and Back
+HousingItemStirPot,Interact_Cauldron,Interact_Start,Interact_End,LOOPING - Player Stirs a Pot
+QuestAnim_AzothStaff_Create,Interact_AzothStaff_Create,Interact_Start,Interact_End,Single - Player forges the Azoth Staff (MSQ)
+QuestAnim_MSQ_TheRitual,Interact_MSQ_TheRitual,Interact_Start,Interact_End,Single - Player Implants their own heartgem (MSQ)

@@ -32,6 +32,7 @@ Index,OldIndex,isForeground,DisplayName,EntitlementId,Image,Color,isEntitlement,
 31,3,true,@ui_crestforeground_04,,lyshineui/images/crests/foregrounds/icon_crest_4.dds,,false,true,Faction1,,
 32,4,true,@ui_crestforeground_05,,lyshineui/images/crests/foregrounds/icon_crest_5.dds,,false,true,Faction1,,
 34,6,true,@ui_crestforeground_07,,lyshineui/images/crests/foregrounds/icon_crest_7.dds,,false,true,Faction1,,
+35,7,true,@ui_crestforeground_08,icon_crest_8,lyshineui/images/crests/foregrounds/icon_crest_8.dds,,true,true,Any,Wolf's Head,Animal Head
 36,8,true,@ui_crestforeground_09,,lyshineui/images/crests/foregrounds/icon_crest_9.dds,,false,true,Faction1,,
 37,9,true,@ui_crestforeground_10,,lyshineui/images/crests/foregrounds/icon_crest_10.dds,,false,true,Faction1,,
 38,10,true,@ui_crestforeground_11,,lyshineui/images/crests/foregrounds/icon_crest_11.dds,,false,true,Faction1,,
@@ -58,6 +59,7 @@ Index,OldIndex,isForeground,DisplayName,EntitlementId,Image,Color,isEntitlement,
 59,31,true,@ui_crestforeground_32,,lyshineui/images/crests/foregrounds/icon_crest_32.dds,,false,true,Faction2,,
 60,32,true,@ui_crestforeground_33,,lyshineui/images/crests/foregrounds/icon_crest_33.dds,,false,true,Faction2,,
 61,33,true,@ui_crestforeground_34,,lyshineui/images/crests/foregrounds/icon_crest_34.dds,,false,true,Faction2,,
+62,34,true,@ui_crestforeground_35,icon_crest_35,lyshineui/images/crests/foregrounds/icon_crest_35.dds,,true,true,Any,Bull's Head,Animal Head
 63,35,true,@ui_crestforeground_36,,lyshineui/images/crests/foregrounds/icon_crest_36.dds,,false,true,Faction2,,
 64,36,true,@ui_crestforeground_37,,lyshineui/images/crests/foregrounds/icon_crest_37.dds,,false,true,Faction2,,
 65,37,true,@ui_crestforeground_38,,lyshineui/images/crests/foregrounds/icon_crest_38.dds,,false,true,Faction2,,
@@ -75,6 +77,10 @@ Index,OldIndex,isForeground,DisplayName,EntitlementId,Image,Color,isEntitlement,
 77,49,true,@ui_crestforeground_50,,lyshineui/images/crests/foregrounds/icon_crest_50.dds,,false,true,Faction2,,
 78,50,true,@ui_crestforeground_51,,lyshineui/images/crests/foregrounds/icon_crest_051.dds,,false,true,Faction2,,
 79,51,true,@ui_crestforeground_52,,lyshineui/images/crests/foregrounds/icon_crest_052.dds,,false,true,Faction2,,
+80,52,true,@ui_crestforeground_53,icon_crest_53,lyshineui/images/crests/foregrounds/icon_crest_053.dds,,true,true,Any,Hearts,Card Suite
+81,53,true,@ui_crestforeground_54,icon_crest_54,lyshineui/images/crests/foregrounds/icon_crest_054.dds,,true,true,Any,Spades,Card Suite
+82,54,true,@ui_crestforeground_55,icon_crest_55,lyshineui/images/crests/foregrounds/icon_crest_055.dds,,true,true,Any,Clubs,Card Suite
+83,55,true,@ui_crestforeground_56,icon_crest_56,lyshineui/images/crests/foregrounds/icon_crest_056.dds,,true,true,Any,Diamonds,Card Suite
 84,56,true,@ui_crestforeground_57,,lyshineui/images/crests/foregrounds/icon_crest_057.dds,,false,true,Faction2,,
 85,57,true,@ui_crestforeground_58,,lyshineui/images/crests/foregrounds/icon_crest_058.dds,,false,true,Faction2,,
 86,58,true,@ui_crestforeground_59,,lyshineui/images/crests/foregrounds/icon_crest_059.dds,,false,true,Faction2,,
@@ -115,6 +121,11 @@ Index,OldIndex,isForeground,DisplayName,EntitlementId,Image,Color,isEntitlement,
 121,93,true,@ui_crestforeground_94,,lyshineui/images/crests/foregrounds/icon_crest_094.dds,,false,true,Faction3,,
 122,94,true,@ui_crestforeground_95,,lyshineui/images/crests/foregrounds/icon_crest_095.dds,,false,true,Faction3,,
 126,98,true,@ui_crestforeground_99,icon_crest_099_Premium,lyshineui/images/crests/foregrounds/icon_crest_099_premium.dds,,true,true,Any,Turkey Dinner,Merriment
+127,99,true,@ui_crestforeground_100,DLC_Item_Woodsman_Crest_2,lyshineui/images/crests/foregrounds/icon_crest_100_premium.dds,,true,true,Any,Pilgrim Hat,Pre-Order
+128,100,true,@ui_crestforeground_101,DLC_Item_Woodsman_Crest_3,lyshineui/images/crests/foregrounds/icon_crest_101_premium.dds,,true,true,Any,Axe x Musket,Pre-Order
+129,101,true,@ui_crestforeground_102,twitch_pirate_icon_102,lyshineui/images/crests/foregrounds/icon_crest_102_twitch.dds,,true,true,Any,Pirate Crest 1,Prime Gaming
+130,102,true,@ui_crestforeground_103,twitch_pirate_icon_103,lyshineui/images/crests/foregrounds/icon_crest_103_twitch.dds,,true,true,Any,Pirate Crest 2,Prime Gaming
+131,103,true,@ui_crestforeground_104,twitch_pirate_icon_104,lyshineui/images/crests/foregrounds/icon_crest_104_twitch.dds,,true,true,Any,Pirate Crest 3,Prime Gaming
 132,104,true,@ui_crestforeground_105,,lyshineui/images/crests/foregrounds/icon_crest_105.dds,,false,true,Any,,
 133,105,true,@ui_crestforeground_106,,lyshineui/images/crests/foregrounds/icon_crest_106.dds,,false,true,Any,,
 134,106,true,@ui_crestforeground_107,,lyshineui/images/crests/foregrounds/icon_crest_107.dds,,false,true,Any,,
@@ -152,21 +163,27 @@ Index,OldIndex,isForeground,DisplayName,EntitlementId,Image,Color,isEntitlement,
 166,138,true,@ui_crestforeground_139,,lyshineui/images/crests/foregrounds/icon_crest_139.dds,,false,true,Any,,
 167,139,true,@ui_crestforeground_140,,lyshineui/images/crests/foregrounds/icon_crest_140.dds,,false,true,Any,,
 168,140,true,@ui_crestforeground_141,,lyshineui/images/crests/foregrounds/icon_crest_141.dds,,false,true,Any,,
+169,141,true,@ui_crestforeground_142,twitch_robinhood_icon_142,lyshineui/images/crests/foregrounds/icon_crest_142.dds,,true,true,Any,Robin Hood Crest 1,Prime Gaming
 170,142,true,@ui_crestforeground_143,,lyshineui/images/crests/foregrounds/icon_crest_143.dds,,false,true,Any,,
 171,143,true,@ui_crestforeground_144,icon_crest_144,lyshineui/images/crests/foregrounds/icon_crest_144.dds,,true,true,Any,Smuggler's Crest,Smugglers
 172,144,true,@ui_crestforeground_145,icon_crest_145,lyshineui/images/crests/foregrounds/icon_crest_145.dds,,true,true,Any,Chefs Hat,Merriment
 173,145,true,@ui_crestforeground_146,,lyshineui/images/crests/foregrounds/icon_crest_146.dds,,false,true,Any,,
 174,146,true,@ui_crestforeground_147,,lyshineui/images/crests/foregrounds/icon_crest_147.dds,,false,true,Any,,
 175,147,true,@ui_crestforeground_148,,lyshineui/images/crests/foregrounds/icon_crest_148.dds,,false,true,Any,,
+176,148,true,@ui_crestforeground_149,twitch_robinhood_icon_149,lyshineui/images/crests/foregrounds/icon_crest_149.dds,,true,true,Any,Robin Hood Crest 2,Prime Gaming
 177,149,true,@ui_crestforeground_150,,lyshineui/images/crests/foregrounds/icon_crest_150.dds,,false,true,Any,,
 178,150,true,@ui_crestforeground_151,,lyshineui/images/crests/foregrounds/icon_crest_151.dds,,false,true,Any,,
 179,151,true,@ui_crestforeground_152,,lyshineui/images/crests/foregrounds/icon_crest_152.dds,,false,true,Any,,
 180,152,true,@ui_crestforeground_153,,lyshineui/images/crests/foregrounds/icon_crest_153.dds,,false,true,Any,,
 181,153,true,@ui_crestforeground_154,,lyshineui/images/crests/foregrounds/icon_crest_154.dds,,false,true,Any,,
+182,154,true,@ui_crestforeground_155,DLC_Item_Woodsman_Crest_1,lyshineui/images/crests/foregrounds/icon_crest_155.dds,,true,true,Any,Coat of Arms,Pre-Order
 183,155,true,@ui_crestforeground_156,,lyshineui/images/crests/foregrounds/icon_crest_156.dds,,false,true,Any,,
+184,156,true,@ui_crestforeground_157,twitch_robinhood_icon_157,lyshineui/images/crests/foregrounds/icon_crest_157.dds,,true,true,Any,Robin Hood Crest 3,Prime Gaming
 185,157,true,@ui_crestforeground_158,,lyshineui/images/crests/foregrounds/icon_crest_158.dds,,false,true,Any,,
 186,158,true,@ui_crestforeground_159,,lyshineui/images/crests/foregrounds/icon_crest_159.dds,,false,true,Any,,
+187,159,true,@ui_crestforeground_160,icon_crest_160,lyshineui/images/crests/foregrounds/icon_crest_160.dds,,true,true,Any,Bear's Head,Animal head
 188,160,true,@ui_crestforeground_161,,lyshineui/images/crests/foregrounds/icon_crest_161.dds,,false,true,Any,,
+189,161,true,@ui_crestforeground_162,icon_crest_162,lyshineui/images/crests/foregrounds/icon_crest_162.dds,,true,true,Any,Lion's Head,Animal head
 190,162,true,@ui_crestforeground_163,,lyshineui/images/crests/foregrounds/icon_crest_163.dds,,false,true,Any,,
 191,163,true,@ui_crestforeground_164,,lyshineui/images/crests/foregrounds/icon_crest_164.dds,,false,true,Any,,
 192,164,true,@ui_crestforeground_165,,lyshineui/images/crests/foregrounds/icon_crest_165.dds,,false,true,Any,,
@@ -174,6 +191,7 @@ Index,OldIndex,isForeground,DisplayName,EntitlementId,Image,Color,isEntitlement,
 194,166,true,@ui_crestforeground_167,,lyshineui/images/crests/foregrounds/icon_crest_167.dds,,false,true,Any,,
 195,167,true,@ui_crestforeground_168,,lyshineui/images/crests/foregrounds/icon_crest_168.dds,,false,true,Any,,
 196,168,true,@ui_crestforeground_169,,lyshineui/images/crests/foregrounds/icon_crest_169.dds,,false,true,Any,,
+197,169,true,@ui_crestforeground_170,icon_crest_170,lyshineui/images/crests/foregrounds/icon_crest_170.dds,,true,true,Any,Snake's Head,Animal Head
 200,172,true,@ui_crestforeground_173,,lyshineui/images/crests/foregrounds/icon_crest_173.dds,,false,true,Any,,
 201,173,true,@ui_crestforeground_174,,lyshineui/images/crests/foregrounds/icon_crest_174.dds,,false,true,Any,,
 202,174,true,@ui_crestforeground_175,,lyshineui/images/crests/foregrounds/icon_crest_175.dds,,false,true,Any,,
@@ -185,11 +203,14 @@ Index,OldIndex,isForeground,DisplayName,EntitlementId,Image,Color,isEntitlement,
 208,180,true,@ui_crestforeground_181,,lyshineui/images/crests/foregrounds/icon_crest_181.dds,,false,true,Any,,
 209,181,true,@ui_crestforeground_182,,lyshineui/images/crests/foregrounds/icon_crest_182.dds,,false,true,Any,,
 210,182,true,@ui_crestforeground_183,,lyshineui/images/crests/foregrounds/icon_crest_183.dds,,false,true,Any,,
+211,183,true,@ui_crestforeground_184,icon_crest_184,lyshineui/images/crests/foregrounds/icon_crest_184.dds,,true,true,Any,Rockin Horns,Gesture
 212,184,true,@ui_crestforeground_185,,lyshineui/images/crests/foregrounds/icon_crest_185.dds,,false,true,Any,,
 213,185,true,@ui_crestforeground_186,,lyshineui/images/crests/foregrounds/icon_crest_186.dds,,false,true,Any,,
+214,186,true,@ui_crestforeground_187,icon_crest_187,lyshineui/images/crests/foregrounds/icon_crest_187.dds,,true,true,Any,Heart Hands,Gesture
 215,187,true,@ui_crestforeground_188,,lyshineui/images/crests/foregrounds/icon_crest_188.dds,,false,true,Any,,
 216,188,true,@ui_crestforeground_189,,lyshineui/images/crests/foregrounds/icon_crest_189.dds,,false,true,Any,,
 217,189,true,@ui_crestforeground_190,,lyshineui/images/crests/foregrounds/icon_crest_190.dds,,false,true,Any,,
+218,190,true,@ui_crestforeground_191,icon_crest_191,lyshineui/images/crests/foregrounds/icon_crest_191.dds,,true,true,Any,L for Love,Gesture
 219,191,true,@ui_crestforeground_192,,lyshineui/images/crests/foregrounds/icon_crest_192.dds,,false,true,Any,,
 220,192,true,@ui_crestforeground_193,,lyshineui/images/crests/foregrounds/icon_crest_193.dds,,false,true,Any,,
 221,193,true,@ui_crestforeground_194,,lyshineui/images/crests/foregrounds/icon_crest_194.dds,,false,true,Any,,
@@ -198,6 +219,15 @@ Index,OldIndex,isForeground,DisplayName,EntitlementId,Image,Color,isEntitlement,
 224,196,true,@ui_crestforeground_197,,lyshineui/images/crests/foregrounds/icon_crest_197.dds,,false,true,Any,,
 225,197,true,@ui_crestforeground_198,,lyshineui/images/crests/foregrounds/icon_crest_198.dds,,false,true,Any,,
 226,198,true,@ui_crestforeground_199,,lyshineui/images/crests/foregrounds/icon_crest_199.dds,,false,true,Any,,
+227,199,true,@ui_crestforeground_200,icon_crest_200,lyshineui/images/crests/foregrounds/icon_crest_200.dds,,true,true,Any,Bow Master,Weapons
+228,200,true,@ui_crestforeground_201,icon_crest_201,lyshineui/images/crests/foregrounds/icon_crest_201.dds,,true,true,Any,Fire Staff Master,Weapons
+229,201,true,@ui_crestforeground_202,icon_crest_202,lyshineui/images/crests/foregrounds/icon_crest_202.dds,,true,true,Any,Battle Axe Master,Weapons
+230,202,true,@ui_crestforeground_203,icon_crest_203,lyshineui/images/crests/foregrounds/icon_crest_203.dds,,true,true,Any,Hatchet Master,Weapons
+231,203,true,@ui_crestforeground_204,icon_crest_204,lyshineui/images/crests/foregrounds/icon_crest_204.dds,,true,true,Any,Life Staff Master,Weapons
+232,204,true,@ui_crestforeground_205,icon_crest_205,lyshineui/images/crests/foregrounds/icon_crest_205.dds,,true,true,Any,Musket Master,Weapons
+233,205,true,@ui_crestforeground_206,icon_crest_206,lyshineui/images/crests/foregrounds/icon_crest_206.dds,,true,true,Any,Fortess,Weapons
+234,206,true,@ui_crestforeground_207,icon_crest_207,lyshineui/images/crests/foregrounds/icon_crest_207.dds,,true,true,Any,Spear Master,Weapons
+235,207,true,@ui_crestforeground_208,icon_crest_208,lyshineui/images/crests/foregrounds/icon_crest_208.dds,,true,true,Any,Warhammer Mastery,Weapons
 236,0,false,@ui_crestbackground_1V1,,lyshineui/images/crests/backgrounds/icon_shield_shape1v1.dds,,false,true,Any,,
 237,1,false,@ui_crestbackground_1V2,,lyshineui/images/crests/backgrounds/icon_shield_shape1v2.dds,,false,true,Any,,
 238,2,false,@ui_crestbackground_1V3,,lyshineui/images/crests/backgrounds/icon_shield_shape1v3.dds,,false,true,Any,,
