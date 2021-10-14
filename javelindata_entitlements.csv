@@ -213,5 +213,7 @@ Ent_Apparel_Monster_Mummy,376,true,,,false,,ItemSkin,Skin_Monster_MummyChest+Ski
 Ent_Apparel_Monster_Skeleton,377,true,,,false,,ItemSkin,Skin_Monster_SkeletonChest+Skin_Monster_SkeletonFeet+Skin_Monster_SkeletonHands+Skin_Monster_SkeletonHead+Skin_Monster_SkeletonLegs,,Store,
 Ent_Emote_Bow,380,true,,,false,,Emote,Emote_Bow,,Prime,
 Ent_Emote_Whistle,381,true,,,false,,Emote,Emote_Whistle,,Store,
+Ent_Emote_Impatient,387,true,,,false,,Emote,Emote_Impatient,,Store,
 Ent_Pet_BlackTiger,389,true,,,false,,HousingItem,House_HousingItem_Pet_Entitlement_Tiger_Black,,Store,
 Server_Transfer,393,true,,,true,,Service,Server_Transfer,,Store,
+EntitlementTitle_Stoic,450,true,,,false,,PlayerTitle,PlayerTitle_Stoic,,Store,

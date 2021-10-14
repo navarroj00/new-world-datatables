@@ -20,6 +20,7 @@ Emote_Whistle,Emote_Whistle,ui_emote_Whistle,ui_emote_Whistle_description,Friend
 Emote_ThumbsSide,Emote_ThumbsSide,ui_emote_Thumbs_Sideways,ui_emote_Thumbs_Sideways_description,Decisions,@emote_thumbsside,undecided,,1,0,1,0,1,emote_ThumbsSide,
 Emote_ThumbsUp,Emote_ThumbsUp,ui_emote_Thumbs_Up,ui_emote_Thumbs_Up_description,Decisions,@emote_thumbsup,thumbsup,,1,0,1,0,1,emote_ThumbsUp,
 Emote_ThumbsDown,Emote_ThumbsDown,ui_emote_Thumbs_Down,ui_emote_Thumbs_Down_description,Decisions,@emote_thumbsdown,thumbsdown,,1,0,1,0,1,emote_ThumbsDown,
+Emote_Impatient,Emote_Impatient,ui_emote_Impatient,ui_emote_Impatient_description,Direction,@emote_impatient,waiting,wait,1,0,1,0,1,emote_Impatient,
 Emote_CoinToss,Emote_CoinToss,ui_emote_Coin_Toss,ui_emote_Coin_Toss_description,Decisions,@emote_cointoss,cointoss,coinflip,1,0,1,0,1,emote_CoinToss,
 Emote_Flex3,Emote_Flex3,ui_emote_Flex_3,ui_emote_Flex_3_description,Other,@emote_flex3,armflex,,1,0,1,0,1,emote_Flex3,
 Emote_GolfClap,Emote_GolfClap,ui_emote_Golf_Clap,ui_emote_Golf_Clap_description,Friendly,@emote_golfclap,golfclap,,1,0,1,0,1,emote_GolfClap,
