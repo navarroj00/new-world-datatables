@@ -32,7 +32,7 @@ ConversationStateId,ConversationType,IsInitialState,DefaultDialogue,RequiredFact
 1007_01_Commander,Linear_Objective,false,@1007_01_Commander_DefaultDialogue,Marauder,,24,,,,,,,,,,,,,,,,,,,,,,Faction_Board,Join_Outpost_Rush,
 1007_02_Commander,Linear_Objective,false,@1007_02_Commander_DefaultDialogue,Syndicate,,0,,,,,,,,,,,,,,,,,,,,,,,,
 1007_03_Commander,Linear_Objective,false,@1007_03_Commander_DefaultDialogue,Covenant,,0,,,,,,,,,,,,,,,,,,,,,,,,
-1007_04pre_Commander,Linear_Objective,false,@1007_04pre_Commander_DefaultDialogue,Marauder,Marauder 0 3000,0,,,,,,,,,,,,,,,,,,,,,,,,
+1007_04pre_Commander,Linear_Objective,false,@1007_04pre_Commander_DefaultDialogue,Marauder,Marauder 0 3000,0,,98_M_01_combatprowess,,,,,,,,,,,,,,,,,,,,,,
 1007_04_Commander,Linear_Objective,false,@1007_04_Commander_DefaultDialogue,Marauder,Marauder 0 3000,24,S_factionhandoff,98_M_01_combatprowess,,,,,,,,,,,,,,,,,,,,Faction_Board,Join_Outpost_Rush,
 1007_05pre_Commander,Linear_Objective,false,@1007_05pre_Commander_DefaultDialogue,Marauder,,0,marauders_faction_quest_01,,,,,,,,,,,,,,,,,,,,,,,
 1007_05_Commander,Linear_Objective,false,@1007_05_Commander_DefaultDialogue,Marauder,,24,marauders_faction_quest_01,,,,,,,,,,,,,,,,,,,,,Faction_Board,Join_Outpost_Rush,

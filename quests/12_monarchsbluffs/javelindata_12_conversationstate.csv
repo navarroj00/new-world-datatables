@@ -15,7 +15,7 @@ ConversationStateId,ConversationType,IsInitialState,DefaultDialogue,RequiredFact
 1204_04A_Overseer,Linear_Objective,false,@NPC_DefaultDialogue_1204_04A_Overseer,,0,S_encroachingcorruption,,,,,,,,,,,,,,,,,,,,,Community_Board,,
 1204_05_Overseer,Linear_Objective,false,@NPC_DefaultDialogue_1204_05_Overseer,,0,12_Quest_04,1204_0202_stores,,,,,,,,,,,,,,,,,,,,Community_Board,,
 1204_06_Overseer,Linear_Objective,false,@NPC_DefaultDialogue_1204_06_Overseer,,0,12_Quest_09,,,,,,,,,,,,,,,,,,,,,Community_Board,,
-1204_07_Overseer,Linear_Objective,false,@NPC_DefaultDialogue_1204_07_Overseer,,0,12_Quest_05,1205_0303_crownjewels,,,,,,,,,,,,,,,,,,,,Community_Board,,
+1204_07_Overseer,Linear_Objective,false,@NPC_DefaultDialogue_1204_07_Overseer,,0,12_Quest_09,1205_0303_crownjewels,,,,,,,,,,,,,,,,,,,,Community_Board,,
 1204_08_Overseer,Linear_Objective,false,@NPC_DefaultDialogue_1204_08_Overseer,,0,12_Quest_08,,,,,,,,,,,,,,,,,,,,,Community_Board,,
 1202_00_Magistrate,Linear_Objective,true,@NPC_DefaultDialogue_1202_00_Magistrate,,0,,1206_0103_hearthwohome,,,,,,,,,,,,,,,,,,,,,,
 1202_01_Magistrate,Linear_Objective,false,@NPC_DefaultDialogue_1202_01_Magistrate,,0,S_hearthhome,1202_0102_intrototrader,1203_0102_introtooverseer,,,,,,,,,1202_Magistrate_Monarchs,,,,,,,,,,,,
