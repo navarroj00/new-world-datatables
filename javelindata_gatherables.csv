@@ -71,6 +71,7 @@ OreVeinStarmetalMedium,@StarmetalMedium_DisplayName,Mining,Mining,StarmetalOreVe
 OreVeinStarmetalLarge,@StarmetalLarge_DisplayName,Mining,Mining,StarmetalOreVeinFinishLarge,,1071,1530,Mining,100,0,120,true,ToolRequired,true,Gather_MiningT12,,,false,false,false,,Starmetal,false,false,,,,0
 OreVeinOrichalcumSmall,@OrichalcumSmall_DisplayName,Mining,Mining,OrichalcumOreVeinFinishSmall,,1008,1440,Mining,175,0,85,true,ToolRequired,true,Gather_MiningT13,,,false,false,false,,Orichalcum,false,false,,,,0
 OreVeinOrichalcumMedium,@OrichalcumMedium_DisplayName,Mining,Mining,OrichalcumOreVeinFinishMedium,,1260,1800,Mining,175,0,110,true,ToolRequired,true,Gather_MiningT14,,,false,false,false,,Orichalcum,false,false,,,,0
+OreVeinOrichalcumDestroy,@OrichalcumDestroy_DisplayName,Mining,Mining,Empty,,1260,1800,Mining,175,0,110,true,ToolRequired,true,Gather_MiningT1,,,false,false,false,,Orichalcum,false,false,,,,0
 OreVeinOrichalcumLarge,@OrichalcumLarge_DisplayName,Mining,Mining,OrichalcumOreVeinFinishLarge,,1428,2040,Mining,175,0,135,true,ToolRequired,true,Gather_MiningT15,,,false,false,false,,Orichalcum,false,false,,,,0
 OrichalcumSpire,@DarknessOrichalcumSpire_DisplayName,Mining,Mining,OrichalcumSpire,,1008,1440,Mining,175,0,85,true,ToolRequired,true,Gather_MiningT10,,,false,false,false,,Orichalcum,false,false,,,,0
 SandstoneSmall,@SandstoneSmall_DisplayName,Mining,Mining,SandstoneFinishSmall,,756,1080,Mining,105,0,45,true,ToolRequired,true,Gather_MiningT4,,,false,false,false,,,false,false,,,,0
