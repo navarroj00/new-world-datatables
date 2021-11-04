@@ -1,20 +1,20 @@
 EventID,GameEventType,Level,CreatureType,Reward Type,UniversalExpAmount,CurrencyReward,ItemReward,GearScoreRange,CategoricalProgressionId,CategoricalProgressionReward,TerritoryStanding,FactionReputation,FactionTokens,FactionInfluenceAmount,FactionInfluenceSrc,EmitTelemetry,AzothReward,AzothRewardChance
 9901_MSQ_TheHermit_success,,12,MSQ,Armor,1580,4200,QuestRewardArmorL12,,,0,0,,,,,true,100,1
 9901_0008_oldstoneremembers_success,,13,MSQ+,Armor,2000,6450,QuestRewardArmorL13,,,0,0,,,,,true,100,1
-9901_0009_thetower_success,,14,MSQ,Weapons,1680,4400,QuestRewardWeaponsL14,,,0,0,,,,,true,150,1
+9901_0009_thetower_success,,14,MSQ,Weapons,1680,23400,QuestRewardWeaponsL14,,,0,0,,,,,true,150,1
 9901_0010_inthequiet_success,,15,MSQ,Armor,1730,4500,QuestRewardArmorL15,,,0,0,,,,,true,150,1
-9901_0011_afreshsoul_success,,17,MSQ+,Weapons,2500,7050,QuestRewardWeaponsL17,,,0,0,,,,,true,150,1
+9901_0011_afreshsoul_success,,17,MSQ+,Weapons,2500,26050,QuestRewardWeaponsL17,,,0,0,,,,,true,150,1
 9901_0012_overseaunderstone_success,,17,MSQ+,Armor,2500,7050,QuestRewardArmorL17,,,0,0,,,,,true,150,1
 9901_0014_oldfoesoldfavors_success,,17,MSQ,Armor,2000,4700,QuestRewardArmorL17,,,0,0,,,,,true,150,1
 9902_0015_itmustflow_success,,18,MSQ,Armor,2150,4800,QuestRewardArmorL18,,,0,0,,,,,true,20,1
 9902_0016_corruptiontincture_success,,18,MSQ+,Weapons,2690,7200,QuestRewardWeaponsL18,,,0,0,,,,,true,20,1
 9902_0017_landcriesout_success,,18,MSQ,Armor,2150,4800,Azoth_Vessel,,,0,0,,,,,true,20,1
-9902_0018_returntoyonas_success,,19,MSQ,Weapons,2280,4900,QuestRewardWeaponsL19,,,0,0,,,,,true,100,1
+9902_0018_returntoyonas_success,,19,MSQ,Weapons,2280,23900,QuestRewardWeaponsL19,,,0,0,,,,,true,100,1
 9901_0013_argentandaether_success,,20,MSQ+,Armor,3000,7500,QuestRewardArmorL20,,,0,0,,,,,true,150,1
 9901_0019_forgethestaff_success,,23,MSQ+,Named,3540,7950,Darkness_AzothStaff_T1,,AzothStaff,1,0,,,,,true,100,1
-9901_0019_forgethestaffreturn_success,,23,MSQ+,Weapons,3540,7950,QuestRewardWeaponsL23,,,0,0,,,,,true,20,1
+9901_0019_forgethestaffreturn_success,,23,MSQ+,Weapons,3540,26950,QuestRewardWeaponsL23,,,0,0,,,,,true,20,1
 9901_0020_healtherift_success,,23,MSQ,Armor,2830,5300,QuestRewardArmorL23,,,0,0,,,,,true,20,1
-9901_0021_destinyunearthed_success,,23,MSQ+,Named,5000,7950,Ring_SoulwardensRingT3,,,0,0,,,,,true,100,1
+9901_0021_destinyunearthed_success,,23,MSQ+,Named,5000,26950,Ring_SoulwardensRingT3,,,0,0,,,,,true,100,1
 9901_0022_theritual_success,,25,MSQ+,Weapons,3850,8250,QuestRewardWeaponsL25,,,0,0,,,,,true,100,1
 9901_0023_agreatmovement_success,,25,MSQ,Armor,3080,5500,QuestRewardArmorL25,,,0,0,,,,,true,150,1
 9903_0024_alostcause_success,,25,MSQ+,Weapons,3850,8250,QuestRewardWeaponsL25,,,0,0,,,,,true,100,1

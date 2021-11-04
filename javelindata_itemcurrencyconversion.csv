@@ -66,7 +66,7 @@ M_MediumLegs_MarauderRank2,MediumLegs_MarauderRank2,,,,,1,0,1,MarauderTokens,Mar
 M_MediumFeet_MarauderRank2,MediumFeet_MarauderRank2,,,,,1,0,1,MarauderTokens,Marauder,1,1500,2500,,0,0,0,,false
 M_HoldingRuneT3,HoldingRuneT3,,,,,1,0,1,MarauderTokens,Marauder,1,3000,50000,,0,0,0,,false
 M_ReagentConverterT3,ReagentConverterT3,,,,,1,0,1,MarauderTokens,Marauder,1,100,0,,0,0,0,,false
-M_FactionChisel2,FactionChisel2,,,,,1,0,1,MarauderTokens,Marauder,1,1000,20000,,0,0,0,,false
+M_FactionChisel2,FactionChisel2,,,,,1,0,1,MarauderTokens,Marauder,1,1000,10000,,0,0,0,,false
 M_FactionTinctureCorruptionT2,FactionTinctureCorruptionT2,,,,,1,0,1,MarauderTokens,Marauder,1,200,500,,0,0,0,,false
 M_FactionTinctureBlightT2,FactionTinctureBlightT2,,,,,1,0,1,MarauderTokens,Marauder,1,200,500,,0,0,0,,false
 M_FactionPotionHealthT3,FactionPotionHealthT3,,,,,1,0,1,MarauderTokens,Marauder,1,100,500,,0,0,0,,false
@@ -102,7 +102,7 @@ M_MediumLegs_MarauderRank3,MediumLegs_MarauderRank3,,,,,1,0,1,MarauderTokens,Mar
 M_MediumFeet_MarauderRank3,MediumFeet_MarauderRank3,,,,,1,0,1,MarauderTokens,Marauder,2,4000,5000,,0,0,0,,false
 M_HoldingRuneT4,HoldingRuneT4,,,,,1,0,1,MarauderTokens,Marauder,2,5000,100000,,0,0,0,,false
 M_ReagentConverterT4,ReagentConverterT4,,,,,1,0,1,MarauderTokens,Marauder,2,200,0,,0,0,0,,false
-M_FactionChisel3,FactionChisel3,,,,,1,0,1,MarauderTokens,Marauder,2,3000,40000,,0,0,0,,false
+M_FactionChisel3,FactionChisel3,,,,,1,0,1,MarauderTokens,Marauder,2,3000,20000,,0,0,0,,false
 M_DyeB146,DyeB146,,,,,1,0,1,MarauderTokens,Marauder,2,300,10000,,0,0,0,,false
 M_GemSocketPinsT1,GemSocketPinsT1,,,,,1,0,1,MarauderTokens,Marauder,2,300,10000,,0,0,0,,false
 M_FactionTinctureCorruptionT3,FactionTinctureCorruptionT3,,,,,1,0,1,MarauderTokens,Marauder,2,300,5000,,0,0,0,,false
@@ -140,7 +140,7 @@ M_MediumLegs_MarauderRank4,MediumLegs_MarauderRank4,,,,,1,0,1,MarauderTokens,Mar
 M_MediumFeet_MarauderRank4,MediumFeet_MarauderRank4,,,,,1,0,1,MarauderTokens,Marauder,3,8000,15000,,0,0,0,,false
 M_HoldingRuneT5,HoldingRuneT5,,,,,1,0,1,MarauderTokens,Marauder,3,7000,150000,,0,0,0,,false
 M_ReagentConverterT5,ReagentConverterT5,,,,,1,0,1,MarauderTokens,Marauder,3,500,0,,0,0,0,,false
-M_FactionChisel4,FactionChisel4,,,,,1,0,1,MarauderTokens,Marauder,3,5000,50000,,0,0,0,,false
+M_FactionChisel4,FactionChisel4,,,,,1,0,1,MarauderTokens,Marauder,3,5000,40000,,0,0,0,,false
 M_FactionTinctureCorruptionT4,FactionTinctureCorruptionT4,,,,,1,0,1,MarauderTokens,Marauder,3,500,7500,,0,0,0,,false
 M_FactionTinctureBlightT4,FactionTinctureBlightT4,,,,,1,0,1,MarauderTokens,Marauder,3,500,7500,,0,0,0,,false
 M_1hLongsword_MarauderRank5,1hLongsword_MarauderRank5,,,,,1,0,1,MarauderTokens,Marauder,4,40000,120000,,0,0,0,,false
@@ -172,7 +172,7 @@ M_MediumChest_MarauderRank5,MediumChest_MarauderRank5,,,,,1,0,1,MarauderTokens,M
 M_MediumHands_MarauderRank5,MediumHands_MarauderRank5,,,,,1,0,1,MarauderTokens,Marauder,4,15000,45000,,0,0,0,,false
 M_MediumLegs_MarauderRank5,MediumLegs_MarauderRank5,,,,,1,0,1,MarauderTokens,Marauder,4,25000,75000,,0,0,0,,false
 M_MediumFeet_MarauderRank5,MediumFeet_MarauderRank5,,,,,1,0,1,MarauderTokens,Marauder,4,10000,30000,,0,0,0,,false
-M_FactionChisel5,FactionChisel5,,,,,1,0,1,MarauderTokens,Marauder,4,7000,75000,,0,0,0,,false
+M_FactionChisel5,FactionChisel5,,,,,1,0,1,MarauderTokens,Marauder,4,7000,50000,,0,0,0,,false
 M_HeavyHead_MarauderLegatusT5,HeavyHead_MarauderLegatusT5,,,,,1,0,1,MarauderTokens,Marauder,4,30000,80000,,0,0,0,,false
 M_HeavyChest_MarauderLegatusT5,HeavyChest_MarauderLegatusT5,,,,,1,0,1,MarauderTokens,Marauder,4,45000,120000,,0,0,0,,false
 M_HeavyHands_MarauderLegatusT5,HeavyHands_MarauderLegatusT5,,,,,1,0,1,MarauderTokens,Marauder,4,22500,60000,,0,0,0,,false
@@ -208,7 +208,7 @@ C_MediumFeet_CovenantRank1,MediumFeet_CovenantRank1,,,,,1,0,1,CovenantTokens,Cov
 C_ShotT2,ShotT2,,,,,1,0,1,CovenantTokens,Covenant,0,5,50,,0,0,0,,false
 C_ArrowT2,ArrowT2,,,,,1,0,1,CovenantTokens,Covenant,0,5,50,,0,0,0,,false
 C_HoldingRuneT2,HoldingRuneT2,,,,,1,0,1,CovenantTokens,Covenant,0,1000,25000,,0,0,0,,false
-C_FactionChisel1,FactionChisel1,,,,,1,0,1,CovenantTokens,Covenant,0,500,10000,,0,0,0,,false
+C_FactionChisel1,FactionChisel1,,,,,1,0,1,CovenantTokens,Covenant,0,500,5000,,0,0,0,,false
 C_FactionPotionHealthT2,FactionPotionHealthT2,,,,,1,0,1,CovenantTokens,Covenant,0,50,100,,0,0,0,,false
 C_FactionPotionManaT2,FactionPotionManaT2,,,,,1,0,1,CovenantTokens,Covenant,0,35,100,,0,0,0,,false
 C_CovenantSeal_Barbarian,CovenantSeal_Barbarian,,,,,1,0,1,CovenantTokens,Covenant,0,100,0,,0,0,0,,false
@@ -245,7 +245,7 @@ C_MediumLegs_CovenantRank2,MediumLegs_CovenantRank2,,,,,1,0,1,CovenantTokens,Cov
 C_MediumFeet_CovenantRank2,MediumFeet_CovenantRank2,,,,,1,0,1,CovenantTokens,Covenant,1,1500,2500,,0,0,0,,false
 C_HoldingRuneT3,HoldingRuneT3,,,,,1,0,1,CovenantTokens,Covenant,1,3000,50000,,0,0,0,,false
 C_ReagentConverterT3,ReagentConverterT3,,,,,1,0,1,CovenantTokens,Covenant,1,100,0,,0,0,0,,false
-C_FactionChisel2,FactionChisel2,,,,,1,0,1,CovenantTokens,Covenant,1,1000,40000,,0,0,0,,false
+C_FactionChisel2,FactionChisel2,,,,,1,0,1,CovenantTokens,Covenant,1,1000,10000,,0,0,0,,false
 C_FactionTinctureCorruptionT2,FactionTinctureCorruptionT2,,,,,1,0,1,CovenantTokens,Covenant,1,200,500,,0,0,0,,false
 C_FactionTinctureBlightT2,FactionTinctureBlightT2,,,,,1,0,1,CovenantTokens,Covenant,1,200,500,,0,0,0,,false
 C_FactionPotionHealthT3,FactionPotionHealthT3,,,,,1,0,1,CovenantTokens,Covenant,1,100,500,,0,0,0,,false
@@ -281,7 +281,7 @@ C_MediumLegs_CovenantRank3,MediumLegs_CovenantRank3,,,,,1,0,1,CovenantTokens,Cov
 C_MediumFeet_CovenantRank3,MediumFeet_CovenantRank3,,,,,1,0,1,CovenantTokens,Covenant,2,4000,5000,,0,0,0,,false
 C_HoldingRuneT4,HoldingRuneT4,,,,,1,0,1,CovenantTokens,Covenant,2,5000,100000,,0,0,0,,false
 C_ReagentConverterT4,ReagentConverterT4,,,,,1,0,1,CovenantTokens,Covenant,2,200,0,,0,0,0,,false
-C_FactionChisel3,FactionChisel3,,,,,1,0,1,CovenantTokens,Covenant,2,3000,40000,,0,0,0,,false
+C_FactionChisel3,FactionChisel3,,,,,1,0,1,CovenantTokens,Covenant,2,3000,20000,,0,0,0,,false
 C_DyeB139,DyeB139,,,,,1,0,1,CovenantTokens,Covenant,2,300,10000,,0,0,0,,false
 C_GemSocketPinsT1,GemSocketPinsT1,,,,,1,0,1,CovenantTokens,Covenant,2,300,10000,,0,0,0,,false
 C_FactionTinctureCorruptionT3,FactionTinctureCorruptionT3,,,,,1,0,1,CovenantTokens,Covenant,2,300,5000,,0,0,0,,false
@@ -319,7 +319,7 @@ C_MediumLegs_CovenantRank4,MediumLegs_CovenantRank4,,,,,1,0,1,CovenantTokens,Cov
 C_MediumFeet_CovenantRank4,MediumFeet_CovenantRank4,,,,,1,0,1,CovenantTokens,Covenant,3,8000,15000,,0,0,0,,false
 C_HoldingRuneT5,HoldingRuneT5,,,,,1,0,1,CovenantTokens,Covenant,3,7000,150000,,0,0,0,,false
 C_ReagentConverterT5,ReagentConverterT5,,,,,1,0,1,CovenantTokens,Covenant,3,500,0,,0,0,0,,false
-C_FactionChisel4,FactionChisel4,,,,,1,0,1,CovenantTokens,Covenant,3,5000,50000,,0,0,0,,false
+C_FactionChisel4,FactionChisel4,,,,,1,0,1,CovenantTokens,Covenant,3,5000,40000,,0,0,0,,false
 C_FactionTinctureCorruptionT4,FactionTinctureCorruptionT4,,,,,1,0,1,CovenantTokens,Covenant,3,500,7500,,0,0,0,,false
 C_FactionTinctureBlightT4,FactionTinctureBlightT4,,,,,1,0,1,CovenantTokens,Covenant,3,500,7500,,0,0,0,,false
 C_1hLongsword_CovenantRank5,1hLongsword_CovenantRank5,,,,,1,0,1,CovenantTokens,Covenant,4,40000,120000,,0,0,0,,false
@@ -351,7 +351,7 @@ C_MediumChest_CovenantRank5,MediumChest_CovenantRank5,,,,,1,0,1,CovenantTokens,C
 C_MediumHands_CovenantRank5,MediumHands_CovenantRank5,,,,,1,0,1,CovenantTokens,Covenant,4,15000,45000,,0,0,0,,false
 C_MediumLegs_CovenantRank5,MediumLegs_CovenantRank5,,,,,1,0,1,CovenantTokens,Covenant,4,25000,75000,,0,0,0,,false
 C_MediumFeet_CovenantRank5,MediumFeet_CovenantRank5,,,,,1,0,1,CovenantTokens,Covenant,4,10000,30000,,0,0,0,,false
-C_FactionChisel5,FactionChisel5,,,,,1,0,1,CovenantTokens,Covenant,4,7000,75000,,0,0,0,,false
+C_FactionChisel5,FactionChisel5,,,,,1,0,1,CovenantTokens,Covenant,4,7000,50000,,0,0,0,,false
 C_HeavyHead_CovenantInquisitorT5,HeavyHead_CovenantInquisitorT5,,,,,1,0,1,CovenantTokens,Covenant,4,30000,80000,,0,0,0,,false
 C_HeavyChest_CovenantInquisitorT5,HeavyChest_CovenantInquisitorT5,,,,,1,0,1,CovenantTokens,Covenant,4,45000,120000,,0,0,0,,false
 C_HeavyHands_CovenantInquisitorT5,HeavyHands_CovenantInquisitorT5,,,,,1,0,1,CovenantTokens,Covenant,4,22500,60000,,0,0,0,,false
@@ -387,7 +387,7 @@ S_MediumFeet_SyndicateRank1,MediumFeet_SyndicateRank1,,,,,1,0,1,SyndicateTokens,
 S_ShotT2,ShotT2,,,,,1,0,1,SyndicateTokens,Syndicate,0,5,50,,0,0,0,,false
 S_ArrowT2,ArrowT2,,,,,1,0,1,SyndicateTokens,Syndicate,0,5,50,,0,0,0,,false
 S_HoldingRuneT2,HoldingRuneT2,,,,,1,0,1,SyndicateTokens,Syndicate,0,1000,25000,,0,0,0,,false
-S_FactionChisel1,FactionChisel1,,,,,1,0,1,SyndicateTokens,Syndicate,0,500,10000,,0,0,0,,false
+S_FactionChisel1,FactionChisel1,,,,,1,0,1,SyndicateTokens,Syndicate,0,500,5000,,0,0,0,,false
 S_FactionPotionHealthT2,FactionPotionHealthT2,,,,,1,0,1,SyndicateTokens,Syndicate,0,100,2500,,0,0,0,,false
 S_FactionPotionManaT2,FactionPotionManaT2,,,,,1,0,1,SyndicateTokens,Syndicate,0,100,2500,,0,0,0,,false
 S_SyndicateSeal_Barbarian,SyndicateSeal_Barbarian,,,,,1,0,1,SyndicateTokens,Syndicate,0,100,0,,0,0,0,,false
@@ -424,7 +424,7 @@ S_MediumLegs_SyndicateRank2,MediumLegs_SyndicateRank2,,,,,1,0,1,SyndicateTokens,
 S_MediumFeet_SyndicateRank2,MediumFeet_SyndicateRank2,,,,,1,0,1,SyndicateTokens,Syndicate,1,1500,2500,,0,0,0,,false
 S_HoldingRuneT3,HoldingRuneT3,,,,,1,0,1,SyndicateTokens,Syndicate,1,3000,50000,,0,0,0,,false
 S_ReagentConverterT3,ReagentConverterT3,,,,,1,0,1,SyndicateTokens,Syndicate,1,100,0,,0,0,0,,false
-S_FactionChisel2,FactionChisel2,,,,,1,0,1,SyndicateTokens,Syndicate,1,1000,40000,,0,0,0,,false
+S_FactionChisel2,FactionChisel2,,,,,1,0,1,SyndicateTokens,Syndicate,1,1000,10000,,0,0,0,,false
 S_FactionTinctureCorruptionT2,FactionTinctureCorruptionT2,,,,,1,0,1,SyndicateTokens,Syndicate,1,200,500,,0,0,0,,false
 S_FactionTinctureBlightT2,FactionTinctureBlightT2,,,,,1,0,1,SyndicateTokens,Syndicate,1,200,500,,0,0,0,,false
 S_FactionPotionHealthT3,FactionPotionHealthT3,,,,,1,0,1,SyndicateTokens,Syndicate,1,100,500,,0,0,0,,false
@@ -460,7 +460,7 @@ S_MediumLegs_SyndicateRank3,MediumLegs_SyndicateRank3,,,,,1,0,1,SyndicateTokens,
 S_MediumFeet_SyndicateRank3,MediumFeet_SyndicateRank3,,,,,1,0,1,SyndicateTokens,Syndicate,2,4000,5000,,0,0,0,,false
 S_HoldingRuneT4,HoldingRuneT4,,,,,1,0,1,SyndicateTokens,Syndicate,2,5000,100000,,0,0,0,,false
 S_ReagentConverterT4,ReagentConverterT4,,,,,1,0,1,SyndicateTokens,Syndicate,2,200,0,,0,0,0,,false
-S_FactionChisel3,FactionChisel3,,,,,1,0,1,SyndicateTokens,Syndicate,2,3000,40000,,0,0,0,,false
+S_FactionChisel3,FactionChisel3,,,,,1,0,1,SyndicateTokens,Syndicate,2,3000,20000,,0,0,0,,false
 S_DyeB167,DyeB167,,,,,1,0,1,SyndicateTokens,Syndicate,2,300,10000,,0,0,0,,false
 S_GemSocketPinsT1,GemSocketPinsT1,,,,,1,0,1,SyndicateTokens,Syndicate,2,300,10000,,0,0,0,,false
 S_FactionTinctureCorruptionT3,FactionTinctureCorruptionT3,,,,,1,0,1,SyndicateTokens,Syndicate,2,300,5000,,0,0,0,,false
@@ -498,7 +498,7 @@ S_MediumLegs_SyndicateRank4,MediumLegs_SyndicateRank4,,,,,1,0,1,SyndicateTokens,
 S_MediumFeet_SyndicateRank4,MediumFeet_SyndicateRank4,,,,,1,0,1,SyndicateTokens,Syndicate,3,8000,15000,,0,0,0,,false
 S_HoldingRuneT5,HoldingRuneT5,,,,,1,0,1,SyndicateTokens,Syndicate,3,7000,150000,,0,0,0,,false
 S_ReagentConverterT5,ReagentConverterT5,,,,,1,0,1,SyndicateTokens,Syndicate,3,500,0,,0,0,0,,false
-S_FactionChisel4,FactionChisel4,,,,,1,0,1,SyndicateTokens,Syndicate,3,5000,50000,,0,0,0,,false
+S_FactionChisel4,FactionChisel4,,,,,1,0,1,SyndicateTokens,Syndicate,3,5000,40000,,0,0,0,,false
 S_FactionTinctureCorruptionT4,FactionTinctureCorruptionT4,,,,,1,0,1,SyndicateTokens,Syndicate,3,500,7500,,0,0,0,,false
 S_FactionTinctureBlightT4,FactionTinctureBlightT4,,,,,1,0,1,SyndicateTokens,Syndicate,3,500,7500,,0,0,0,,false
 S_1hLongsword_SyndicateRank5,1hLongsword_SyndicateRank5,,,,,1,0,1,SyndicateTokens,Syndicate,4,40000,120000,,0,0,0,,false
@@ -530,7 +530,7 @@ S_MediumChest_SyndicateRank5,MediumChest_SyndicateRank5,,,,,1,0,1,SyndicateToken
 S_MediumHands_SyndicateRank5,MediumHands_SyndicateRank5,,,,,1,0,1,SyndicateTokens,Syndicate,4,15000,45000,,0,0,0,,false
 S_MediumLegs_SyndicateRank5,MediumLegs_SyndicateRank5,,,,,1,0,1,SyndicateTokens,Syndicate,4,25000,75000,,0,0,0,,false
 S_MediumFeet_SyndicateRank5,MediumFeet_SyndicateRank5,,,,,1,0,1,SyndicateTokens,Syndicate,4,10000,30000,,0,0,0,,false
-S_FactionChisel5,FactionChisel5,,,,,1,0,1,SyndicateTokens,Syndicate,4,7000,75000,,0,0,0,,false
+S_FactionChisel5,FactionChisel5,,,,,1,0,1,SyndicateTokens,Syndicate,4,7000,50000,,0,0,0,,false
 S_MediumHead_SyndicatePlagueDoctorT5,MediumHead_SyndicatePlagueDoctorT5,,,,,1,0,1,SyndicateTokens,Syndicate,4,30000,80000,,0,0,0,,false
 S_MediumChest_SyndicatePlagueDoctorT5,MediumChest_SyndicatePlagueDoctorT5,,,,,1,0,1,SyndicateTokens,Syndicate,4,45000,120000,,0,0,0,,false
 S_MediumHands_SyndicatePlagueDoctorT5,MediumHands_SyndicatePlagueDoctorT5,,,,,1,0,1,SyndicateTokens,Syndicate,4,22500,60000,,0,0,0,,false
