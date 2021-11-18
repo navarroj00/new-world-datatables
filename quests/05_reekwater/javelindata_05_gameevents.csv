@@ -24,14 +24,26 @@ EventID,GameEventType,Level,CreatureType,UniversalExpAmount,CurrencyReward,ItemR
 0505_0103_thedryadpromenade_success,,65,Quest+,4380,16625,,Repeatable - no item,,,,250,,,,,true,30,1
 0502_0106_primevalcyclops_success,,65,Quest+,20000,16625,1hShield_SQRewardReekwaterT5,L65 Dungeon,,,,250,,,,,true,30,1
 0511_0101_aguardiansplight_failure,,0,Quest+,0,0,,,,,,0,,,,,true,0,1
-0511_0201_UmbrasReach_success,,60,Quest+,3750,15750,Ring2_SQRewardReekwaterT5,,,,,250,,,,,true,30,1
+0511_0201_UmbrasReach_success,,60,Quest+,3750,15750,1hGauntletVoid_UmbrasReachT5,Legendary Weapon,,,,0,,,,,true,30,1
+0511_0202_UmbrasReach_inbrightestlight_success,,60,Quest+,3750,15750,,,,,,0,,,,,true,30,1
+0511_0203_UmbrasReach_stygianchannel_success,,60,Quest+,3750,15750,,,,,,0,,,,,true,30,1
+0511_0204_UmbrasReach_graspingtwilight_success,,60,Quest+,3750,15750,,,,,,0,,,,,true,30,1
+0511_0205_UmbrasReach_astitchofshade_success,,60,Quest+,3750,15750,,,,,,0,,,,,true,30,1
+0511_0206_UmbrasReach_indarkestshadow_success,,60,Quest+,3750,15750,,,,,,0,,,,,true,30,1
+0511_0207_UmbrasReach_powerofthevoid_success,,60,Quest+,3750,15750,,,,,,0,,,,,true,30,1
+0511_0208_UmbrasReach_duskyfocus_success,,60,Quest+,3750,15750,,,,,,0,,,,,true,30,1
+0511_0209_UmbrasReach_holdbackthenight_success,,60,Quest+,3750,15750,,,,,,0,,,,,true,30,1
 0501_BlightNodule_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
 0502_CrystalCluster_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
 0503_DryadAltar_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
+0503_DryadAltar_WaveParticipant,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
+0503_DryadAltar_WaveComplete,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
 0504_AncientBookcase_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
 0505_TowerMural_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
 0506_RelicPile_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
 0507_AncientRubble_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
+0507_AncientRubble_WaveParticipant,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
+0507_AncientRubble_WaveComplete,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
 0508_HeartDevice_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
 0509_StoneTablet_00_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
 0509_StoneTablet_01_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
@@ -39,8 +51,20 @@ EventID,GameEventType,Level,CreatureType,UniversalExpAmount,CurrencyReward,ItemR
 0509_StoneTablet_03_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
 0510_AncientMap_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
 0511_PowderkegA_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
+0511_PowderkegA_WaveParticipant,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
+0511_PowderkegA_WaveComplete,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
 0512_PowderkegB_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
+0512_PowderkegB_WaveParticipant,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
+0512_PowderkegB_WaveComplete,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
 0513_LighthouseLure_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
+0513_LighthouseLure_WaveParticipant,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
+0513_LighthouseLure_WaveComplete,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
 0514_StoneWallTablet_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
 0517_AncientTowerDoor_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
 0518_SirenMachine_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
+0519_EmptyAzothPowerSource_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
+0520_StygianChannelSegmentA_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
+0520_StygianChannelSegmentB_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
+0520_StygianChannelSegmentC_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
+0520_StygianChannelSegmentD_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
+0521_WyrdwoodSeedPod_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0

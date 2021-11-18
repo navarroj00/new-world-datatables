@@ -1,0 +1,2 @@
+ConversationTopicId,PlayerPrompt,NPCResponse,AchievementUnlock,RequiredAchievement,RequiredFaction,RequiredLevel
+7506_Spawn_joke,@NPC_Topic_7506_00_Spawn_Prompt,@NPC_Topic_7506_00_Spawn_Dialogue,DevWorld_Spawn_TopicUnlock,,,

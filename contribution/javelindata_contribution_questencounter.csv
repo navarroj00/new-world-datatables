@@ -1,0 +1,7 @@
+ContributionId,Category,Value,Shared,Expires
+Spawn_Killed,default,1,false,false
+Damage_Received,default,1,false,false
+Support,default,1,false,false
+Killed,default,1,false,false
+Wave_Started,default,1,false,false
+Spawn_Interacted,default,1,false,false

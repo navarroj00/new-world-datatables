@@ -131,16 +131,6 @@ TerritoryID,NameLocalizationKey,IsPOI,IsDiscoverable,IsChartable,DefaultAchievem
 9168,@ui_area_reekwater_10,true,,true,,,,reekwater10_9168_charted,reekwater10,Music_Territory,Reekwater,2,true,true,0
 9169,@ui_area_reekwater_11,true,,true,,,,reekwater11_9169_charted,reekwater11,Music_Territory,Reekwater,2,true,true,0
 9170,@ui_area_brightwood_9,true,,true,,,,brightwood9_9170_charted,brightwood9,Music_Territory,Brightwoods,2,true,true,0
-9171,@ui_area_brimstonesands_1,true,,true,,,,brimstonesands1_9171_charted,brimstonesands1,Music_Territory,Brimstone Sands,2,true,true,0
-9172,@ui_area_brimstonesands_2,true,,true,,,,brimstonesands2_9172_charted,brimstonesands2,Music_Territory,Brimstone Sands,2,true,true,0
-9173,@ui_area_brimstonesands_3,true,,true,,,,brimstonesands3_9173_charted,brimstonesands3,Music_Territory,Brimstone Sands,2,true,true,0
-9174,@ui_area_brimstonesands_4,true,,true,,,,brimstonesands4_9174_charted,brimstonesands4,Music_Territory,Brimstone Sands,2,true,true,0
-9175,@ui_area_brimstonesands_5,true,,true,,,,brimstonesands5_9175_charted,brimstonesands5,Music_Territory,Brimstone Sands,2,true,true,0
-9176,@ui_area_brimstonesands_6,true,,true,,,,brimstonesands6_9176_charted,brimstonesands6,Music_Territory,Brimstone Sands,2,true,true,0
-9177,@ui_area_brimstonesands_7,true,,true,,,,brimstonesands7_9177_charted,brimstonesands7,Music_Territory,Brimstone Sands,2,true,true,0
-9178,@ui_area_brimstonesands_8,true,,true,,,,brimstonesands8_9178_charted,brimstonesands8,Music_Territory,Brimstone Sands,2,true,true,0
-9179,@ui_area_brimstonesands_9,true,,true,,,,brimstonesands9_9179_charted,brimstonesands9,Music_Territory,Brimstone Sands,2,true,true,0
-9180,@ui_area_brimstonesands_10,true,,true,,,,brimstonesands10_9180_charted,brimstonesands10,Music_Territory,Brimstone Sands,2,true,true,0
 9181,@ui_area_ebonscalereach_1,true,,true,,,,ebonscalereach1_9181_charted,ebonscalereach1,Music_Territory,Ebonscale Reach,2,true,true,0
 9182,@ui_area_ebonscalereach_2,true,,true,,,,ebonscalereach2_9182_charted,ebonscalereach2,Music_Territory,Ebonscale Reach,2,true,true,0
 9183,@ui_area_ebonscalereach_3,true,,true,,,,ebonscalereach3_9183_charted,ebonscalereach3,Music_Territory,Ebonscale Reach,2,true,true,0

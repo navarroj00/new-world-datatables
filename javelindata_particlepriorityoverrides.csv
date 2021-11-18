@@ -15,3 +15,7 @@ FactionControl.Neutral.Contested,Required
 FactionControl.Faction1.Contested,Required
 FactionControl.Faction2.Contested,Required
 FactionControl.Faction3.Contested,Required
+Event_Gleamite.Supernova_01,Normal
+Event_Gleamite.Supernova_Trail_01,Normal
+Event_Gleamite.Gleamite_Chunk_Trail01,Normal
+Event_Gleamite.Gleamite_Shard_Trail01,Normal

@@ -11,7 +11,7 @@ EventID,GameEventType,Level,CreatureType,Reward Type,UniversalExpAmount,Currency
 0902_0102_intrototrader_success,,5,Quest-,Exp,210,175,,,0,,0,100,,,,,true,0,1,false
 0902_0103_introtooverseer_success,,5,Quest-,Named,210,175,1hPickT1,,100,,0,100,,,,,true,0,1,false
 0904_0104_overseersettlement_success,,6,Quest+,Named,760,630,QuestRewardArmorL4,,150,,0,250,,,,,true,0,1,false
-0904_0103_introtoartificer_success,,6,Quest-,Named,230,180,ArtificerResourceContainer1,,0,,0,100,,,,,true,0,1,false
+0904_0103_introtoartificer_success,,6,Quest-,Named,230,180,,,0,,0,100,,,,,true,0,1,false
 0905_0101_craftforartificer_success,,6,Quest-,Named,230,180,QuestRewardArmorL4,,155,,0,100,,,,,true,0,1,false
 0905_0102_campingunlock_success,,6,Quest-,Exp,230,180,,,0,Camping,1,100,,,,,true,0,1,false
 0903_0201_survivalistquest_success,,7,Quest+,Named,400,648,2hCelestialStaff_LifeT2,,155,,0,250,,,,,true,0,1,false
@@ -25,7 +25,7 @@ EventID,GameEventType,Level,CreatureType,Reward Type,UniversalExpAmount,Currency
 0902_0401_factionhandoff_success,,9,Quest,Named,460,488,Amulet_TribalLoyaltyCharmT2,,200,,0,175,,,,,true,100,1,false
 0904_0501_encroachingcorruption_success,,9,Quest+,,580,683,QuestRewardWeaponsL9,,0,,0,250,,,,,true,100,1,false
 0922_1501_intrototravel_success,,12,Quest,Azoth,630,525,BagAT1,,0,,0,175,,,,,true,500,1,true
-0922_1502_returntravel_success,,12,Quest,Exp,630,525,,,0,,0,175,,,,,true,0,1,false
+0922_1502_returntravel_success,,12,Quest,Exp,630,525,,,0,,0,175,,,,,true,10,1,false
 0910_0101_laidtorest_success,,9,Quest+,Weapons,580,6825,QuestRewardWeaponsL9,,0,,0,250,,,,,true,0,1,false
 0903_0301_avoidopenflame_success,,10,Quest+,Standing,650,7000,,,0,,0,250,,,,,true,0,1,false
 0910_0102_distillation_success,,11,Quest+,Exp,770,7175,,,0,,0,250,,,,,true,0,1,false
@@ -67,3 +67,4 @@ IO_0903_0201_AlphaLure_interact,,0,Quest-,,0,0,,,0,,0,0,,,,,true,0,0,false
 0904_CorruptedNoduleA_interact,,0,Quest-,,0,0,,,0,,0,0,,,,,true,0,0,false
 0904_CorruptedNoduleB_interact,,0,Quest-,,0,0,,,0,,0,0,,,,,true,0,0,false
 0904_CorruptedNoduleC_interact,,0,Quest-,,0,0,,,0,,0,0,,,,,true,0,0,false
+0904_CorruptedNoduleD_interact,,0,Quest-,,0,0,,,0,,0,0,,,,,true,0,0,false

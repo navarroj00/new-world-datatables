@@ -5,7 +5,7 @@ Disease,Unarmed,0,1,false,true,,,,,,,Bullet,,false,1,1,0,2,2,2,0,0,0,0,1,0,0.800
 Tower_T0,Unarmed,0,0,false,true,Standard,,,,,,Bullet,,false,1,1,0,2,2,2,0,0,0,0,1,0,0.800000011920929,0,0,0,0,0,1,1,,,,,0,1,1,1,0
 FireTrebuchet_DoT,Unarmed,0,1,false,true,Fire,,,,,,Bullet,,false,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,,,,0,1,1,0,0
 FireTrebuchet_Explosion,Unarmed,0,0,false,true,Fire,,,,,,Bullet,,false,1,1,0,4,3,4,50,30,50,0,8,0,0.800000011920929,0,8,0,0.800000011920929,0,1,1,,,,,4,1,1,1,0
-Cannon_Projectile,Ballista,0,0,true,true,Siege,,,,,,Bullet,,true,1,1.2999999523162842,1.2999999523162842,4,3,4,50,30,50,0,8,0,0.800000011920929,0,8,0,0.800000011920929,0,1,1,,Small,,Small,4,1,1,1,0
+Cannon_Projectile,CannonBall,0,0,true,true,Siege,,,,,,Bullet,,true,1,1.2999999523162842,1.2999999523162842,4,3,4,50,30,50,0,8,0,0.800000011920929,0,8,0,0.800000011920929,0,1,1,,Small,,Small,4,1,1,1,0
 WitheredTrebuchet_Projectile,Unarmed,0,0,true,true,Strike,,,,,,Bullet,,false,1,1,0,4,3,4,50,30,50,0,4,0,0.800000011920929,0,4,0,0.800000011920929,0,1,1,,,,,4,1,1,1,0
 WitheredTrebuchet_DoT,Unarmed,0,1,false,true,AfflictionDisease,AfflictionDisease,,,,,Bullet,,false,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,,,,0,1,1,1,0
 WitheredTrebuchet_Risen_Explosion,Unarmed,0,0,false,true,Strike,,,,,,Bullet,,false,1,1,0,2,2,2,25,20,25,0,2,0,0.800000011920929,0,2,0,0.800000011920929,0,1,1,,,,,2,1,1,1,0
@@ -20,4 +20,4 @@ BombTurret_Explosion,Unarmed,0,0,false,true,Strike,,,,,,Bullet,,false,1,1,0,3,2,
 VoidSpike,Beam_VoidSpike,0,0,true,true,Corruption,,,,,,Bullet,,false,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,,,,0,1,1,1,0
 FrostTrebuchet_DoT,Unarmed,0,1,false,true,AfflictionFrostbite,AfflictionFrostbite,,,,,Bullet,,false,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,,,,0,1,1,0,0
 Darkness_CorruptionEruption_DT1,Unarmed,0,0,false,true,Strike,,,,,,Bullet,,false,1,1,0,4,3,4,50,30,50,0,8,0,0.800000011920929,0,8,0,0.800000011920929,0,1,1,,,,,4,1,1,1,0
-DungeonLaserBeam,Beam_Laser,1,0,true,true,Arcane,,,,StatusEffect_Boss_TeamWipe,,Bullet,,false,1,1,0,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,,,,0,1,1,1,0
+DungeonLaserBeam,Beam_Laser,1,0,true,true,Arcane,,,,Dungeon_LaserBeamDeath,,Bullet,,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,,,,0,1,1,1,0

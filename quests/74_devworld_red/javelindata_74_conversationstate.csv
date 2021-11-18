@@ -1,5 +1,6 @@
-ConversationStateId,ConversationType,IsInitialState,ShowTopics,DefaultDialogue,RequiredFaction,RequiredLevel,RequiredCompletedObjective,RequiredAchievement,LinearObjectiveId1,LinearObjectiveId2,LinearObjectiveId3,LinearObjectiveId4,LinearObjectiveId5,LinearObjectiveId6,LinearObjectiveId7,LinearObjectiveId8,LinearObjectiveId9,LinearObjectiveId10
-7404_00_Overseer,Linear_Objective,true,false,@NPC_DefaultDialogue_7404_00_Overseer,,0,,,,,,,,,,,,
-7404_01_Overseer,Linear_Objective,false,false,@NPC_DefaultDialogue_7404_01_Overseer,,10,,,7404_0101_devworldredkillwitheredquest,,,,,,,,,
-7405_00_Artificer,Linear_Objective,true,false,@NPC_DefaultDialogue_7405_00_Artificer,,0,,,,,,,,,,,,
-7405_01_Artificer,Linear_Objective,false,false,@NPC_DefaultDialogue_7405_01_Artificer,,10,7404_0101_devworldredkillwitheredquest,,7405_0101_devworldredgetfarmlootquest,,,,,,,,,
+ConversationStateId,ConversationType,IsInitialState,ShowTopics,DefaultDialogue,RequiredFaction,RequiredLevel,RequiredCompletedObjective,RequiredAchievement,RequiredActiveObjectiveId,RequiredActiveTaskId,LinearObjectiveId1,LinearObjectiveId2,LinearObjectiveId3,LinearObjectiveId4,LinearObjectiveId5,LinearObjectiveId6,LinearObjectiveId7,LinearObjectiveId8,LinearObjectiveId9,LinearObjectiveId10
+7404_00_Overseer,Linear_Objective,true,false,@NPC_DefaultDialogue_7404_00_Overseer,,0,,,,,,,,,,,,,,
+7404_01_Overseer,Linear_Objective,false,false,@NPC_DefaultDialogue_7404_01_Overseer,,10,,,,,7404_0101_devworldredkillwitheredquest,,,,,,,,,
+7405_00_Artificer,Linear_Objective,true,false,@NPC_DefaultDialogue_7405_00_Artificer,,0,,,,,,,,,,,,,,
+7405_01_Artificer,Linear_Objective,false,false,@NPC_DefaultDialogue_7405_01_Artificer,,10,7404_0101_devworldredkillwitheredquest,,,,7405_0101_devworldredgetfarmlootquest,,,,,,,,,
+7400_00_LoreNote,Linear_Objective,true,false,@NPC_DefaultDialogue_7400_00_LoreNote,,0,,,,,,,,,,,,,,

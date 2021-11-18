@@ -70,11 +70,11 @@ ID,CostID,ManaCost,WeaponTag
 69,LifeStaff_OrbofLight,16,MagicStaff
 70,LifeStaff_Beacon,16,MagicStaff
 71,VoidGauntlet_Primary,2,VoidGauntlet
-72,VoidGauntlet_Heavy,10,VoidGauntlet
+72,VoidGauntlet_Heavy,6,VoidGauntlet
 73,VoidGauntlet_VoidBlade,20,VoidGauntlet
 74,VoidGauntlet_NullChamber,30,VoidGauntlet
-75,VoidGauntlet_Scream,30,VoidGauntlet
-76,VoidGauntlet_DecayingOrb,30,VoidGauntlet
+75,VoidGauntlet_Scream,25,VoidGauntlet
+76,VoidGauntlet_DecayingOrb,20,VoidGauntlet
 77,VoidGauntlet_DrainingTether,25,VoidGauntlet
-78,VoidGauntlet_EssenceRupture,30,VoidGauntlet
+78,VoidGauntlet_EssenceRupture,25,VoidGauntlet
 79,Zero_Mana,0,MagicGauntlet

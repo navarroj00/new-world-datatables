@@ -8,11 +8,12 @@ EXPEDITION_LOOT_slot_2,2,false,Harvest,1500
 RAID_slot_2,2,false,Raid,1
 HUNT_slot_2,2,false,Hunt,1
 EXPEDITION_RAID_slot_2,2,false,Log,1
-HUNT_slot_3,3,false,Hunt,9000
+HUNT_slot_3,3,false,Hunt,6000
+WEAPON_slot_3,3,false,Mine,3000
 EXPEDITION_RAID_slot_3,3,false,Log,20000000
 EXPEDITION_LOOT_slot_3,3,false,Harvest,1000
 RAID_slot_3,3,false,Raid,1
 LOOT_slot_3,3,false,Loot,1
-PVP_SPY_slot 1,1,true,Espionage,10000
-PVP_CONTROL_slot_2,2,true,Control,10000
-PVP_POACH_slot_3,3,true,Poach,10000
+PVP_INTERCEPT_slot 1,1,true,Intercept,10000
+PVP_CONTROL_slot_2,2,true,Espionage,10000
+PVP_WARCAMP_slot_3,3,true,Control,10000

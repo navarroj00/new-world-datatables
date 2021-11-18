@@ -31,6 +31,7 @@ Index,OldIndex,isForeground,DisplayName,EntitlementId,Image,Color,isEntitlement,
 30,2,true,@ui_crestforeground_03,,lyshineui/images/crests/foregrounds/icon_crest_3.dds,,false,true,Faction1,,
 31,3,true,@ui_crestforeground_04,,lyshineui/images/crests/foregrounds/icon_crest_4.dds,,false,true,Faction1,,
 32,4,true,@ui_crestforeground_05,,lyshineui/images/crests/foregrounds/icon_crest_5.dds,,false,true,Faction1,,
+33,5,true,@ui_crestforeground_06,Crest1,lyshineui/images/crests/foregrounds/icon_crest_6.dds,,true,true,Any,,
 34,6,true,@ui_crestforeground_07,,lyshineui/images/crests/foregrounds/icon_crest_7.dds,,false,true,Faction1,,
 35,7,true,@ui_crestforeground_08,icon_crest_8,lyshineui/images/crests/foregrounds/icon_crest_8.dds,,true,true,Any,Wolf's Head,Animal Head
 36,8,true,@ui_crestforeground_09,,lyshineui/images/crests/foregrounds/icon_crest_9.dds,,false,true,Faction1,,
@@ -120,6 +121,9 @@ Index,OldIndex,isForeground,DisplayName,EntitlementId,Image,Color,isEntitlement,
 120,92,true,@ui_crestforeground_93,,lyshineui/images/crests/foregrounds/icon_crest_093.dds,,false,true,Faction3,,
 121,93,true,@ui_crestforeground_94,,lyshineui/images/crests/foregrounds/icon_crest_094.dds,,false,true,Faction3,,
 122,94,true,@ui_crestforeground_95,,lyshineui/images/crests/foregrounds/icon_crest_095.dds,,false,true,Faction3,,
+123,95,true,@ui_crestforeground_96,icon_crest_096_Twitch,lyshineui/images/crests/foregrounds/icon_crest_096_twitch.dds,,true,true,Any,,
+124,96,true,@ui_crestforeground_97,icon_crest_097_Twitch,lyshineui/images/crests/foregrounds/icon_crest_097_twitch.dds,,true,true,Any,,
+125,97,true,@ui_crestforeground_98,icon_crest_098_Twitch,lyshineui/images/crests/foregrounds/icon_crest_098_twitch.dds,,true,true,Any,,
 126,98,true,@ui_crestforeground_99,icon_crest_099_Premium,lyshineui/images/crests/foregrounds/icon_crest_099_premium.dds,,true,true,Any,Turkey Dinner,Merriment
 127,99,true,@ui_crestforeground_100,DLC_Item_Woodsman_Crest_2,lyshineui/images/crests/foregrounds/icon_crest_100_premium.dds,,true,true,Any,Pilgrim Hat,Pre-Order
 128,100,true,@ui_crestforeground_101,DLC_Item_Woodsman_Crest_3,lyshineui/images/crests/foregrounds/icon_crest_101_premium.dds,,true,true,Any,Axe x Musket,Pre-Order

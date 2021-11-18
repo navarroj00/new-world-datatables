@@ -4,6 +4,7 @@ HousingItemLieOnBed,Interact_Bed,Interact_Start,Interact_End,LOOPING - Player La
 HousingItemLieOnBedMirror,Interact_Bed_Mirror,Interact_Start,Interact_End,LOOPING - Player Lays on Bed from Other Side
 HousingItemLieOnRug,Interact_Rug,Interact_Start,Interact_End,LOOPING - Player Lays on Floor/Rug
 HousingItemPetBobcat,Interact_Pet_Bobcat,Interact_Start,Interact_End,LOOPING - Unused - For Full Sized Bigcats
+HousingItemPetDeer,Interact_Pet_Deer,Interact_Start,Interact_End,LOOPING - Pet Head of Lounging Deer
 HousingItemPetDog,Interact_Pet,Interact_Start,Interact_End,LOOPING - Pet Head of Lounging Dog
 HousingItemPetHare,Interact_Pet_Hare,Interact_Start,Interact_End,LOOPING - Pet Head of Increased Sized Rabbit/Hare
 HousingItemPetRabbit,Interact_Pet_Rabbit,Interact_Start,Interact_End,LOOPING - Unused - For Full Sized Rabbit/Hare

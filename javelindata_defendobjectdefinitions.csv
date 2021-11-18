@@ -1,2 +1,3 @@
 TerritoryID,NameLocalizationKey,IsPOI,MapIcon,CompassIcon,TooltipBackground,GroupSize,POILevel,POITag,RequiredItemId,RecommendedLevel
 8101,Defend_Object_Event,true,LyShineUI/Images/map/Icon/POIs/damned_compass.png,LyShineUI/Images/map/Icon/POIs/damned_compass.png,LyShineUI/Images/map/tooltipImages/POI/mapTooltip_darkness_minor_monolith.png,0,0,DefendObject,,
+8102,@objective_quest_encounter,true,LyShineUI\Images\Icons\Objectives\icon_objective_mapButton.png,LyShineUI\Images\Icons\Objectives\icon_Objective_Quest.png,LyShineUI/Images/map/tooltipImages/POI/mapTooltip_darkness_minor_monolith.png,0,0,QuestEncounter,,

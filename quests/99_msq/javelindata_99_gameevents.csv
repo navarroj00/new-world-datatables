@@ -1,9 +1,11 @@
 EventID,GameEventType,Level,CreatureType,Reward Type,UniversalExpAmount,CurrencyReward,ItemReward,GearScoreRange,CategoricalProgressionId,CategoricalProgressionReward,TerritoryStanding,FactionReputation,FactionTokens,FactionInfluenceAmount,FactionInfluenceSrc,EmitTelemetry,AzothReward,AzothRewardChance
 9901_MSQ_TheHermit_success,,12,MSQ,Armor,1580,4200,QuestRewardArmorL12,,,0,0,,,,,true,100,1
 9901_0008_oldstoneremembers_success,,13,MSQ+,Armor,2000,6450,QuestRewardArmorL13,,,0,0,,,,,true,100,1
+9901_0008_oldstoneremembers_v2_success,,13,MSQ+,Armor,2000,6450,QuestRewardArmorL13,,,0,0,,,,,true,100,1
 9901_0009_thetower_success,,14,MSQ,Weapons,1680,23400,QuestRewardWeaponsL14,,,0,0,,,,,true,150,1
 9901_0010_inthequiet_success,,15,MSQ,Armor,1730,4500,QuestRewardArmorL15,,,0,0,,,,,true,150,1
-9901_0011_afreshsoul_success,,17,MSQ+,Weapons,2500,26050,QuestRewardWeaponsL17,,,0,0,,,,,true,150,1
+9901_0011_afreshsoul_success,,17,MSQ+,Weapons,2500,7050,QuestRewardWeaponsL17,,,0,0,,,,,true,150,1
+9901_0011_afreshsoul_v2_success,,17,MSQ+,Weapons,2500,26050,QuestRewardWeaponsL17,,,0,0,,,,,true,150,1
 9901_0012_overseaunderstone_success,,17,MSQ+,Armor,2500,7050,QuestRewardArmorL17,,,0,0,,,,,true,150,1
 9901_0014_oldfoesoldfavors_success,,17,MSQ,Armor,2000,4700,QuestRewardArmorL17,,,0,0,,,,,true,150,1
 9902_0015_itmustflow_success,,18,MSQ,Armor,2150,4800,QuestRewardArmorL18,,,0,0,,,,,true,20,1
@@ -22,6 +24,8 @@ EventID,GameEventType,Level,CreatureType,Reward Type,UniversalExpAmount,Currency
 9903_0026_heartsandsouls_success,,29,MSQ,Named,3550,5900,Darkness_AzothStaff_T2,,AzothStaff,1,0,,,,,true,100,1
 9901_0027_thesyndicatesupport_success,,30,MSQ,Weapons,3650,6000,QuestRewardWeaponsL30,,,0,0,,,,,true,20,1
 9904_0028_thenoseknows_success,,32,MSQ+,Armor,4880,9300,QuestRewardArmorL32,,,0,0,,,,,true,100,1
+9904_0028_thenoseknows_V2_success,,32,MSQ+,Armor,4880,9300,QuestRewardArmorL32,,,0,0,,,,,true,100,1
+9904_0028_thenoseknowsa_V2_success,,32,MSQ-,,0,0,,,,0,0,,,,,true,0,0
 9904_0029_thestormwall_success,,33,MSQ+,Weapons,5040,9450,QuestRewardWeaponsL33,,,0,0,,,,,true,20,1
 9904_0030_twodown_success,,34,MSQ,Armor,4130,6400,QuestRewardArmorL34,,,0,0,,,,,true,20,1
 9901_0031_themaraudersupport_success,,35,MSQ,Weapons,4230,6500,QuestRewardWeaponsL35,,,0,0,,,,,true,150,1
@@ -56,13 +60,26 @@ EventID,GameEventType,Level,CreatureType,Reward Type,UniversalExpAmount,Currency
 9910_0056_thetempestsheart_success,,60,MSQ,Armor,7500,9000,Darkness_AzothStaff_T5,,AzothStaff,1,0,,,,,true,100,1
 9901_0057_insoulinstone_success,,60,MSQ+,Named,9380,13500,Amulet_TempestsHeartT5,,,0,0,,,,,true,100,1
 9910_0058_finallyexhale_success,,60,MSQ-,Named,5630,2250,Earring_AlazarsHookT5,,,0,0,,,,,true,150,1
+9926_0101_TenaciousRose_success,,20,Quest,Named,2400,6250,BagKnightQuestL20,,,0,0,,,,,true,150,1
+9927_0102_VisionsOfInvaders_success,,20,Quest,Named,2400,6250,MediumHead_KnightQuestL20,,,0,0,,,,,true,150,1
 MSQ_0001_ShipFlagStern_interact,,0,MSQ-,,0,0,,,,0,0,,,,,true,0,0
 MSQ_0002_ShipFlagBow_interact,,0,MSQ-,,0,0,,,,0,0,,,,,true,0,0
 MSQ_0009_ArcturusAzothBarrier_interact,,0,MSQ-,,0,0,,,,0,0,,,,,true,0,0
+MSQ_0008_ClearingVines_A_interact,,0,MSQ-,,0,0,,,,0,0,,,,,true,0,0
+MSQ_0008_ClearingVines_B_interact,,0,MSQ-,,0,0,,,,0,0,,,,,true,0,0
+MSQ_0008_ClearingVines_C_interact,,0,MSQ-,,0,0,,,,0,0,,,,,true,0,0
+MSQ_0008_ClearingVines_D_interact,,0,MSQ-,,0,0,,,,0,0,,,,,true,0,0
+MSQ_0008_ClearingVines_E_interact,,0,MSQ-,,0,0,,,,0,0,,,,,true,0,0
+MSQ_0008_ClearingVines_F_interact,,0,MSQ-,,0,0,,,,0,0,,,,,true,0,0
 MSQ_0009_AzothWell_interact,,0,MSQ-,,0,0,,,,0,0,,,,,true,0,0
 MSQ_0010_SoulwardenTomb_interact,,0,MSQ-,,0,0,,,,0,0,,,,,true,0,0
+IO_MSQ_0011_DefenseInteract_interact,,0,MSQ-,,0,0,,,,0,0,,,,,true,0,0
+MSQ_0011_DefendObject_EventSuccess,,0,MSQ-,,0,0,,,,0,0,,,,,true,0,0
+MSQ_0011_DefendObject_EventParticipation,,0,MSQ-,,0,0,,,,0,0,,,,,true,0,0
 MSQ_0012_OverSeaUnderStone_Interact,,0,MSQ-,,0,0,,,,0,0,,,,,true,0,0
 MSQ_0013_AmrineAnvil_interact,,0,MSQ-,,0,0,,,,0,0,,,,,true,0,0
+MSQ_0017_Weapons_interact,,0,MSQ-,,0,0,,,,0,0,,,,,true,0,0
+MSQ_0017_Corruption_interact,,0,MSQ-,,0,0,,,,0,0,,,,,true,0,0
 MSQ_0021_ForgeStaffA_interact,,0,MSQ-,,0,0,,,,0,0,,,,,true,0,0
 MSQ_0021_ForgeStaffB_interact,,0,MSQ-,,0,0,,,,0,0,,,,,true,0,0
 MSQ_0021_ForgeStaffC_interact,,0,MSQ-,,0,0,,,,0,0,,,,,true,0,0
@@ -77,6 +94,7 @@ MSQ_0027_StormwallBarrier_interact,,0,MSQ-,,0,0,,,,0,0,,,,,true,0,0
 MSQ_0039_YonasCaveDoor_interact,,0,MSQ-,,0,0,,,,0,0,,,,,true,0,0
 MSQ_0090_FindYrsa1_interact,,0,MSQ-,,0,0,,,,0,0,,,,,true,0,0
 MSQ_0090_FindYrsa2_interact,,0,MSQ-,,0,0,,,,0,0,,,,,true,0,0
+MSQ_0090_FindYrsa2_optional_interact,,0,MSQ-,,0,0,,,,0,0,,,,,true,0,0
 MSQ_0048_Blightbombs1_interact,,0,MSQ-,,0,0,,,,0,0,,,,,true,0,0
 MSQ_0048_Blightbombs2_interact,,0,MSQ-,,0,0,,,,0,0,,,,,true,0,0
 MSQ_0048_Blightbombs3_interact,,0,MSQ-,,0,0,,,,0,0,,,,,true,0,0

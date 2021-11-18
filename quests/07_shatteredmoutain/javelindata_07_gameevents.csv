@@ -44,6 +44,13 @@ EventID,GameEventType,Level,CreatureType,RewardModifier,UniversalExpAmount,Curre
 0722_0107_FL_06_success,,65,Quest+,Weapons,4380,16625,QuestRewardWeaponsL65,,,,,,,,,,true,30,1
 0722_0108_FL_07_success,,65,Quest+,Armor,4380,16625,QuestRewardArmorL65,,,,,,,,,,true,30,1
 0722_0109_FL_08_success,,65,Quest+,Weapons,4380,16625,QuestRewardWeaponsL65,,,,,,,,,,true,30,1
+0726_0101_MightyTempest_success,,65,Quest+,Weapons,4380,16625,QuestRewardWeaponsL65,,,,,,,,,,true,30,1
+0726_0102_IsabellaDeLeon_success,,65,Quest+,Armor,4380,16625,QuestRewardArmorL65,,,,,,,,,,true,30,1
+0726_0103_IsabellasCorruption_success,,65,Quest+,Weapons,4380,16625,QuestRewardWeaponsL65,,,,,,,,,,true,30,1
+0726_0104_RiseOfIsabella_success,,65,Quest+,Armor,4380,16625,QuestRewardArmorL65,,,,,,,,,,true,30,1
+0726_0105_DeathOfHeretic_success,,65,Quest+,Weapons,4380,16625,QuestRewardWeaponsL65,,,,,,,,,,true,30,1
+0726_0106_PossessionOfRusso_success,,65,Quest+,Armor,4380,16625,QuestRewardArmorL65,,,,,,,,,,true,30,1
+0726_0107_Repeatable_success,,65,Quest+,Weapons,4380,16625,QuestRewardWeaponsL65,,,,,,,,,,true,30,1
 0701_AntiCorruptionBomb_interact,,0,Quest,,0,0,,,,,,,,,,,true,0,0
 0701_AntiCorruptionBombB_interact,,0,Quest,,0,0,,,,,,,,,,,true,0,0
 0702_BlightNodule_interact,,0,Quest,,0,0,,,,,,,,,,,true,0,0

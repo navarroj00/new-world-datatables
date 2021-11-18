@@ -13,6 +13,17 @@ EventID,GameEventType,Level,CreatureType,UniversalExpAmount,CurrencyReward,ItemR
 0811_0803_EndOfHerReign_success,,60,Quest+,35000,15750,LightHands_SQRewardEbonscaleTT5,,,,,250,,,,,true,30,1
 0810_0814_Temple_success,,53,Quest+,2950,14525,QuestRewardArmorL53,,,,,250,,,,,true,20,1
 0899_0801_Liberation_success,,60,Mission+,12000,1800,QuestRewardArmorL60,,,,,375,,,,,true,0,1
+0827_0801_Brothers_success,,52,Quest+,2940,14350,QuestRewardArmorL51,,,,,250,,,,,true,20,1
+0829_0801_LuckyRed_success,,54,Quest+,2950,14700,QuestRewardWeaponsL53,,,,,250,,,,,true,20,1
+0829_0802_StringsOfFate_success,,60,Quest+,3750,15750,QuestRewardArmorL60,,,,,250,,,,,true,30,1
+0826_0801_ToBeFree_success,,58,Quest+,3220,15400,QuestRewardWeaponsL58,,,,,250,,,,,true,30,1
+0830_0801_Inevitable_success,,59,Quest+,3330,15575,QuestRewardArmorL59,,,,,250,,,,,true,30,1
+0825_0801_Wagon_success,,60,Quest+,3750,15750,QuestRewardArmorL60,,,,,250,,,,,true,30,1
+0825_0802_Culinarian_success,,60,Quest+,3750,15750,QuestRewardArmorL60,,,,,250,,,,,true,30,1
+0825_0803_Delivery_success,,60,Quest+,3750,15750,QuestRewardArmorL60,,,,,250,,,,,true,30,1
+0828_0801_Deadeye_success,,52,Quest+,2940,14350,QuestRewardArmorL51,,,,,250,,,,,true,20,1
+0828_0802_Trinkets_success,,54,Quest+,2950,14700,QuestRewardWeaponsL53,,,,,250,,,,,true,20,1
+0828_0803_Legacy_success,,54,Quest+,2950,14700,QuestRewardWeaponsL53,,,,,250,,,,,true,20,1
 0804_AltarOfTheDeparted_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
 0801_CorrDynastyAltar_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
 0808_ScrollBurn_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
@@ -20,3 +31,8 @@ EventID,GameEventType,Level,CreatureType,UniversalExpAmount,CurrencyReward,ItemR
 0802_FireShrine_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
 0802_WaterShrine_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
 0802_EarthShrine_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
+0825_CookingSupplies_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
+0826_TigerCage_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
+0828_Heirlooms_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
+0828_Heirlooms_b_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
+0804_CorruptedNodule_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0

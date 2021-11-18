@@ -15,8 +15,6 @@ FireMagicAbilityTable,Player,20,,3
 RapierAbilityTable,Player,20,,2
 IceMagicAbilityTable,Player,20,,1
 VoidGauntletAbilityTable,Player,20,,0
-BlunderbussAbilityTable,Player,20,,0
-DaggerAbilityTable,Player,20,,0
 TerritoryRankBonus_2,Territory,300,,0
 TerritoryRankBonus_4,Territory,300,,0
 TerritoryRankBonus_5,Territory,300,,0

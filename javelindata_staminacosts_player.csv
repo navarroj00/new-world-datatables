@@ -76,5 +76,6 @@ Sprint_Jump,0,Dodging
 Block,10,Blocking
 Gather_Default,0,Gathering
 ThrowingAxe_AimedThrow,20,Combat
+Greatsword_Offense_Attack,5,Combat
 Stamina_Delay,0,
 Low_Stamina_Check,5,
