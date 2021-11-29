@@ -105,7 +105,7 @@ TaskID,Type,FailOnCondition,StayActive,TargetQty,ItemName,ItemDropVC,ItemDropPro
 9901_0021_d_01_GoToPOI_AmrineExcavation,TaskGoToPOITag,,1,1,,,0,,1,,amrine_dungeon,,false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@9900_TravelToPOI_generic,,9281 3173 91,,,,,,,,,,,
 9901_0021_d_02_InvestigateAncientWritings,TaskGameEvent,,1,1,,,0,,,,,,false,,,,,,,IO_MSQ_0022_AmrineMachine,,,MSQ_0022_AmrineMachine_Interact,,,,,,,,,,,,,,,,,,,,@9900_task_InvestigateAmrine,,9282 3173 91,,,,,,,,,,,
 9901_0022_d_00_container_theritual,ConsecutiveTaskContainer,,0,,,,0,,,,,,false,,,,,,,IO_MSQ_0025_AmrineAzothBarrier,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9901_0022_d_0x_Ritual,9901_0022_d_01_container_theritual1,9901_0022_d_02_TheRitual2,9901_0022_d_03_container_theritual2,
-9901_0022_d_0x_Ritual,TaskGiveItem,,0,1,MSQ_Heartgem,,100,,,,,,false,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,
+9901_0022_d_0x_Ritual,TaskGiveItem,,0,1,MSQ_Heartgem,,100,,,,,,false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,
 9901_0022_d_01_container_theritual1,ConsecutiveTaskContainer,,0,,,,0,,,,,,false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,9901_0022_d_01a_GoToPOI_Ritual,9901_0022_d_01b_TheRitual1,,,
 9901_0022_d_01a_GoToPOI_Ritual,TaskGoToPOITag,,1,,,,0,,1,,ancient_temple_lg,,false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@9901_0022_theritual_travelto,,,,,,,,,,,,,
 9901_0022_d_01b_TheRitual1,TaskTriggerArea,,1,1,,,0,,,,,,false,,,,,,,,,Enter,,,,,,,,,,,,,,,,,,,,TriggerVol_MSQ_AmrineTemple,@9901_0022_theritual_PassThroughBarrier,,9532.723 3194.347 134.897,,,,,,,,,,,
