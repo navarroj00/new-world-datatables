@@ -83,7 +83,7 @@ TurkeyEgg,@TurkeyEgg_DisplayName,None,None,TurkeyEgg,,1260,1800,None,0,0,0.5,fal
 Elk,@Elk_DisplayName,Dressing,Dressing,ElkSkinning,,1260,1800,Skinning,0,0,35,false,ToolRequired,true,Gather_SkinningT3,,,false,false,false,,,false,false,,,,0
 ElkCorrupted,@Elk_DisplayName,Dressing,Dressing,ElkCorruptedSkinning,,1260,1800,Skinning,0,0,35,false,ToolRequired,true,Gather_SkinningT3,,,false,false,false,,,false,false,,,,0
 Elk_Female,@Elk_Female_DisplayName,Dressing,Dressing,ElkFemaleSkinning,,1260,1800,Skinning,0,0,25,false,ToolRequired,true,Gather_SkinningT3,,,false,false,false,,,false,false,,,,0
-Elk_Elemental,@Elk_Elemental_DisplayName,ChoppingVertical,Chopping,Elk_Elemental,,1260,1800,Logging,100,0,45,true,ToolRequired,true,Gather_LoggingT9,,,false,false,false,,,false,false,,,,0
+Elk_Elemental,@Elk_Elemental_DisplayName,ChoppingVertical,Chopping,Elk_Elemental,,1260,1800,Logging,100,0,45,true,ToolRequired,true,Gather_LoggingT6,,,false,false,false,,,false,false,,,,0
 SpringStagDroppings,@SpringStagDroppings_DisplayName,None,None,SpringStagDroppings,,420,600,None,0,0,0.5,false,NoToolNecessary,false,,,,false,false,false,,,false,false,,,,0
 Horse,@Horse_DisplayName,Dressing,Dressing,Horse,,1260,1800,Skinning,0,0,25,false,ToolRequired,true,Gather_SkinningT2,,,false,false,false,,,false,false,,,,0
 Bear,@Bear_DisplayName,Dressing,Dressing,BearSkinning,,1260,1800,Skinning,0,0,35,false,ToolRequired,true,Gather_SkinningT4,,,false,false,false,,,false,false,,,,0
@@ -100,7 +100,7 @@ WolfCorrupted,@Wolf_DisplayName,Dressing,Dressing,WolfCorruptedSkinning,,1260,18
 WolfT4,@Wolf_DisplayName,Dressing,Dressing,WolfSkinning,,1260,1800,Skinning,100,0,35,false,ToolRequired,true,Gather_SkinningT2,,,false,false,false,,,false,false,,,,0
 WolfT5,@Wolf_DisplayName,Dressing,Dressing,WolfSkinning,,1260,1800,Skinning,175,0,50,false,ToolRequired,true,Gather_SkinningT2,,,false,false,false,,,false,false,,,,0
 Wolf_Elemental_Ice,@Wolf_Elemental_DisplayName,Mining,Mining,Wolf_Elemental_Ice,,1260,1800,Mining,100,0,15,true,ToolRequired,true,Gather_MiningT7,,,false,false,false,,,false,false,,,,0
-Wolf_Elemental_Wood,@Wolf_Elemental_DisplayName,ChoppingVertical,Chopping,Wolf_Elemental_Wood,,1260,1800,Logging,100,0,45,true,ToolRequired,true,Gather_LoggingT9,,,false,false,false,,,false,false,,,,0
+Wolf_Elemental_Wood,@Wolf_Elemental_DisplayName,ChoppingVertical,Chopping,Wolf_Elemental_Wood,,1260,1800,Logging,100,0,45,true,ToolRequired,true,Gather_LoggingT6,,,false,false,false,,,false,false,,,,0
 Boar,@Boar_DisplayName,Dressing,Dressing,BoarSkinning,,1260,1800,Skinning,0,0,15,false,ToolRequired,true,Gather_SkinningT2,,,false,false,false,,,false,false,,,,0
 Ghost_Hungry,@Ghost_Hungry_DisplayName,None,None,Ghost,,1260,1800,None,0,0,4,false,ToolOptional,true,,,,false,false,false,,,false,false,,,,0
 Broken,@Broken_DisplayName,None,None,Ghost,,1260,1800,None,0,0,4,false,ToolOptional,true,,,,false,false,false,,,false,false,,,,0
