@@ -13,6 +13,35 @@ EventID,GameEventType,Level,CreatureType,RewardModifier,UniversalExpAmount,Curre
 1403A_0301_GKW_Success,,65,Quest+,,20000,16625,2hWarhammer_SQRewardEdengroveT5,L60 GS 525 Dungeon,,,0,,,,,,true,30,1
 1414_0101_ToReekwater_Success,,54,Quest-,Armor,1770,4200,QuestRewardArmorL54,Vector quest,,,0,,,,,,true,5,1
 1413_0201_spriggan_Success,,65,Quest+,Weapons,4380,16625,QuestRewardWeaponsL65,,,,0,,,,,,true,30,1
+1426_0101_SurveyNotes_interact,,0,Quest,,0,0,,,,,0,,,,,,true,0,0
+1426_0101_BurnForge_Interact,,0,Quest,,0,0,,,,,0,,,,,,true,0,0
+1426_0101_MineCartTracks_Interact,,0,Quest,,0,0,,,,,0,,,,,,true,0,0
+1426_0101_BurnTents_Interact,,0,Quest,,0,0,,,,,0,,,,,,true,0,0
+1426_0101_BurnSawmill_Interact,,0,Quest,,0,0,,,,,0,,,,,,true,0,0
+1426_0102_CollapseRubble_Interact,,0,Quest,,0,0,,,,,0,,,,,,true,0,0
+1427_0101_AnointingSpot_Interact,,0,Quest,,0,0,,,,,0,,,,,,true,0,0
+1427_0103_PlantingSpot_Interact,,0,Quest,,0,0,,,,,0,,,,,,true,0,0
+1427_0106_HighFlower_Interact,,0,Quest,,0,0,,,,,0,,,,,,true,0,0
+1427_0108_Flower_Interact,,0,Quest,,0,0,,,,,0,,,,,,true,0,0
+1427_0109_Belongings_Interact,,0,Quest,,0,0,,,,,0,,,,,,true,0,0
+1431_0101_DanglingMushroom_Interact,,0,Quest,,0,0,,,,,0,,,,,,true,0,0
+1431_0104_MyceliumPatch01_Interact,,0,Quest,,0,0,,,,,0,,,,,,true,0,0
+1431_0104_MyceliumPatch02_Interact,,0,Quest,,0,0,,,,,0,,,,,,true,0,0
+1431_0104_MyceliumPatch03_Interact,,0,Quest,,0,0,,,,,0,,,,,,true,0,0
+1432_0101_MedicinalHerbs_Interact,,0,Quest,,0,0,,,,,0,,,,,,true,0,0
+1432_0102_BelongingsTrail_Interact,,0,Quest,,0,0,,,,,0,,,,,,true,0,0
+1432_0102_BelongingsScattered_Interact,,0,Quest,,0,0,,,,,0,,,,,,true,0,0
+1432_0103_DogPrintTrail_Interact,,0,Quest,,0,0,,,,,0,,,,,,true,0,0
+1435_0101_HerbSpot_Interact,,0,Quest,,0,0,,,,,0,,,,,,true,0,0
+1435_0102_PoppableBlossom_Interact,,0,Quest,,0,0,,,,,0,,,,,,true,0,0
+1435_0103_HighFlower_Interact,,0,Quest,,0,0,,,,,0,,,,,,true,0,0
+1434_0104_DestructibleBlossom_Interact,,0,Quest,,0,0,,,,,0,,,,,,true,0,0
+1434_0103_EncounterTriggerObject_Interact,,0,Quest,,0,0,,,,,0,,,,,,true,0,0
+1434_0104_BlightSpot_Interact_Interact,,0,Quest,,0,0,,,,,0,,,,,,true,0,0
+1434_0103_EncStart_Pyre_Interact,,0,Quest,,0,0,,,,,0,,,,,,true,0,0
+1434_0103_Encounter_Pyre_Success,,0,Quest,,0,0,,,,,0,,,,,,true,0,0
+1434_0104_EncStart_BlightRanger_Interact,,0,Quest,,0,0,,,,,0,,,,,,true,0,0
+1434_0104_Encounter_BlightedRanger_Success,,0,Quest,,0,0,,,,,0,,,,,,true,0,0
 1420_1501_ClamorousVoxSuccess,,65,Quest+,,4380,16625,2hMusket_ClamorousVoxT5,,,,0,,,,,,true,30,1
 1420_0502_CVOneSuccess,,65,Quest+,Weapons,4380,16625,QuestRewardWeaponsL65,,,,0,,,,,,true,30,1
 1420_0503_CVTwoSuccess,,65,Quest+,Armor,4380,16625,QuestRewardArmorL65,,,,0,,,,,,true,30,1

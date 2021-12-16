@@ -28,7 +28,7 @@ ConversationStateId,ConversationType,IsInitialState,DefaultDialogue,RequiredFact
 0511_00_Stranger,Linear_Objective,true,@0511_00_Stranger_DefaultDialog,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,
 0511_01_Stranger,Linear_Objective,false,@0511_01_Stranger_DefaultDialog,,,0,05_Quest_05,,,0511_0101_aguardiansplight,,,,,,,,,,,,,,,,,,,,,,
 0511_02_Stranger,Linear_Objective,false,@0511_02_Stranger_DefaultDialog,,,0,05_Quest_06,,,,,,,,,,,,,,,,,,,,,,,,,
-0511_03_Stranger,Linear_Objective,false,@0511_03_Stranger_DefaultDialog,,VoidGauntletAbilityTable 19 0,60,07_Quest_11,,,0511_0201_UmbrasReach,,,,,,,,,,,,,,,,,,,,,,
+0511_03_Stranger,Linear_Objective,false,@0511_03_Stranger_DefaultDialog,,VoidGauntletAbilityTable 19 0,60,05_Quest_06,,,0511_0201_UmbrasReach,,,,,,,,,,,,,,,,,,,,,,
 0511_04_Stranger,Linear_Objective,false,@0511_04_Stranger_DefaultDialog,,,0,WeaponQuest_UmbrasReach_00,,,,,,,,,,,,,,,,,,,,,,,,,
 0524_00_Stranger,Linear_Objective,true,@0524_00_Stranger_DefaultDialog,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,
 0524_01_Stranger,Linear_Objective,false,@0524_01_Stranger_DefaultDialog,,,0,05_Quest_08,,,0524_0101_ahungerforfreedom,,,,,,,,,,,,,,,,,,,,,,

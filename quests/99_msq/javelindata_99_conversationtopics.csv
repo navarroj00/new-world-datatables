@@ -5,6 +5,7 @@ ConversationTopicId,PlayerPrompt,NPCResponse,AchievementUnlock,RequiredAchieveme
 9901_Yonas_SoulwardenFate,@9901_MSQ_Yonas_Prompt_SoulwardenFate,@9901_MSQ_Yonas_Response_SoulwardenFate,,,,
 9901_Yonas_Fort,@9901_MSQ_Yonas_Prompt_Fort,@9901_MSQ_Yonas_Response_Fort,,,,
 9901_Yonas_Friends,@9901_MSQ_Yonas_Prompt_Friends,@9901_MSQ_Yonas_Response_Friends,,,,
+9901_0021_AmrineSkip,@9901_0021_AmrineSkip_Prompt,@9901_0021_AmrineSkip_Response,,,,
 9914_Hunter_Repellent,@9914_MSQ_Hunter_Prompt_Repellent,@9914_MSQ_Hunter_Response_Repellent,,,,
 9915_Researcher1_Repellent,@9915_MSQ_Researcher1_Prompt_Repellent,@9915_MSQ_Researcher1_Response_Repellent,,,,
 9916_Researcher2_Repellent,@9916_MSQ_Researcher2_Prompt_Repellent,@9916_MSQ_Researcher2_Response_Repellent,,,,

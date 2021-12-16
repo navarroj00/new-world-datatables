@@ -70,6 +70,12 @@ EventID,GameEventType,Level,CreatureType,UniversalExpAmount,CurrencyReward,ItemR
 0202_BoneDirtPile_interact,,0,Quest-,0,0,,,,,,0,,0,,,true,0,0
 0203_MossPuffball_interact,,0,Quest-,0,0,,,,,,0,,0,,,true,0,0
 9801_PKTraceAbsorberA_interact,,0,Quest-,0,0,,,,,,0,,0,,,true,0,0
+9801_PKTraceAbsorberA_01_interact,,0,Quest-,0,0,,,,,,0,,0,,,true,0,0
+9801_PKTraceAbsorberA_02_interact,,0,Quest-,0,0,,,,,,0,,0,,,true,0,0
+9801_PKTraceAbsorberA_03_interact,,0,Quest-,0,0,,,,,,0,,0,,,true,0,0
+9801_PKTraceAbsorberA_04_interact,,0,Quest-,0,0,,,,,,0,,0,,,true,0,0
+9801_PKTraceAbsorberA_05_interact,,0,Quest-,0,0,,,,,,0,,0,,,true,0,0
+9801_PKTraceAbsorberA_06_interact,,0,Quest-,0,0,,,,,,0,,0,,,true,0,0
 9801_PKTraceAbsorberB_interact,,0,Quest-,0,0,,,,,,0,,0,,,true,0,0
 9802_DryadTerminusPool_interact,,0,Quest-,0,0,,,,,,0,,0,,,true,0,0
 0231_WolcottsEaselA_interact,,0,Quest-,0,0,,,,,,0,,0,,,true,0,0

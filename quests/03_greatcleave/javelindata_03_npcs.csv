@@ -18,8 +18,3 @@ NPCId,Title,GenericName,InteractOptionDisplayNameOverride,ConversationStateId1,C
 0325_Ranger,@0325_Ranger_title,@0325_Ranger,,0325_00_Ranger,0325_01_Ranger,0325_02_Ranger,,,,,,,,,,,,,,,,,
 0326_Prospector,@0326_Prospector_title,@0326_Prospector,,0326_00_Prospector,,,,,,,,,,,,,,,,,,,
 0329_Adjudicator,@0329_Adjudicator_title,@0329_Adjudicator,,0329_Adjudicator_00,0329_Adjudicator_01,,,,,,,,,,,,,,,,,,
-0330_Ranger,@0330_Ranger_title,@0330_Ranger,,0330_00_Ranger,0330_01_Ranger,0330_02_Ranger,0330_03_Ranger,0330_04_Ranger,,,,,,,,,,,,,,,
-0331_Tracker,@0331_Tracker_title,@0331_Tracker,,0331_00_Tracker,0331_01_Tracker,0331_02_Tracker,0331_03_Tracker,,,,,,,,,,,,,,,,
-0332_Furrier,@0332_Furrier_title,@0332_Furrier,,0332_00_Furrier,0332_01_Furrier,0332_02_Furrier,0332_03_Furrier,0332_04_Furrier,,,,,,,,,,,,,,,
-0333_Arcanist,@0333_Arcanist_title,@0333_Arcanist,,0333_00_Arcanist,0333_01_Arcanist,0333_02_Arcanist,0333_03_Arcanist,0333_04_Arcanist,0333_05_Arcanist,,,,,,,,,,,,,,
-0334_Baker,@0334_Baker_title,@0334_Baker,,0334_00_Baker,0334_01_Baker,0334_02_Baker,0334_03_Baker,,,,,,,,,,,,,,,,

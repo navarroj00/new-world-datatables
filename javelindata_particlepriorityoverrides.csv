@@ -19,3 +19,4 @@ Event_Gleamite.Supernova_01,Normal
 Event_Gleamite.Supernova_Trail_01,Normal
 Event_Gleamite.Gleamite_Chunk_Trail01,Normal
 Event_Gleamite.Gleamite_Shard_Trail01,Normal
+wFX_Default_Range.Aim_Post,Required

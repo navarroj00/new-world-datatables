@@ -63,7 +63,7 @@ ID,CostID,ManaCost,WeaponTag
 62,IceMagic_IceStorm_Mana,5,MagicGauntlet
 63,IceMagic_WindChill,20,MagicGauntlet
 64,IceMagic_Entombed,0,MagicGauntlet
-65,IceMagic_Entombed_Break,20,MagicGauntlet
+65,IceMagic_Entombed_Break,10,MagicGauntlet
 66,IceMagic_IceShower,25,MagicGauntlet
 67,IceMagic_IcePylon,15,MagicGauntlet
 68,LifeStaff_LightsEmbrace,18,MagicStaff

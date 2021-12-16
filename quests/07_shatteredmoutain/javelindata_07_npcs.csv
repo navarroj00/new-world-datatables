@@ -16,3 +16,4 @@ NPCId,Title,GenericName,InteractOptionDisplayNameOverride,ConversationStateId1,C
 0723_Innkeep,@0723_Innkeep_Title,@0723_Innkeep,,0723_00_Innkeep,,,,,,,,,,,,,,,,,,,
 0724_Fisher,@0724_Fisher_Title,@0724_Fisher,,0724_00_Fisher,0724_01_Fisher,0724_02_Fisher,,,,,,,,,,,,,,,,,
 0725_Prospector,@0725_Prospector_Title,@0725_Prospector,,0725_00_Prospector,,,,,,,,,,,,,,,,,,,
+0728_Kesava,@0728_Kesava_Title,@0728_Kesava,,0728_Kesava_Default,0728_Kesava_1,,,,,,,,,,,,,,,,,,

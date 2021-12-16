@@ -96,6 +96,12 @@ Hotspot_Secret_80,Hotspot,,,24.329999923706055,0,,false,false,false,false,Fishin
 2hFishingPole_Lost,FishingPole,5-20,,1.25,0,,false,false,false,false,,,0,,,,0,,0,,8,0,12.5,0,37.5,,0,,false,,0
 2hFishingPole_LegendaryAzoth,FishingPole,5-20,,1.25,0,,false,false,false,false,,,0,,,,0,,0,,8,0,12.5,0,37.5,,0,,false,,0
 2hFishingPole_LegendaryStrength,FishingPole,5-20,,1.25,0,,false,false,false,false,,,0,,,,0,,0,,8,0,12.5,0,37.5,,0,,false,,0
+2hFishingPole_LegendaryTech,FishingPole,5-20,,1.25,0,,false,false,false,false,,,0,,,,0,,0,,8,0,12.5,0,37.5,,0,,false,,0
+Omega_FishingPole_T5,FishingPole,5-20,,1.25,0,,false,false,false,false,,,0,,,,0,,0,,8,0,12.5,0,37.5,,0,,false,,0
+Playtest_FishingPole_T2,FishingPole,5-20,,1.25,0,,false,false,false,false,,,0,,,,0,,0,,8,0,12.5,0,37.5,,0,,false,,0
+Playtest_FishingPole_T3,FishingPole,5-20,,1.25,0,,false,false,false,false,,,0,,,,0,,0,,8,0,12.5,0,37.5,,0,,false,,0
+Playtest_FishingPole_T4,FishingPole,5-20,,1.25,0,,false,false,false,false,,,0,,,,0,,0,,8,0,12.5,0,37.5,,0,,false,,0
+Playtest_FishingPole_T5,FishingPole,5-20,,1.25,0,,false,false,false,false,,,0,,,,0,,0,,8,0,12.5,0,37.5,,0,,false,,0
 BaitFreshMeatT1,Bait,,,0,1.5,Fresh,true,true,true,true,,,0,,,,0,,0.5,,0,0,0,0,0,,0,,false,,0
 BaitFreshBreadT1,Bait,,,0.4699999988079071,0,Fresh,true,true,true,true,,,0,,,,0,,0.5,,0,0,0,0,0,,0,,false,,0
 BaitSaltFishT1,Bait,,,0,1.5,Salt,true,true,true,true,,,0,,,,0,,0.5,,0,0,0,0,0,,0,,false,,0

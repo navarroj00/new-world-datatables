@@ -191,6 +191,7 @@ PotionFamiliyWardAncientT5,PotionFamilyWardAncientT5,1,0,0,0,1,0,0,0,,DefBoost,,
 PotionFamilyWardBeastT3,PotionFamilyWardBeastT3,1,0,0,0,1,0,0,0,,DefBoost,,0,,,,,,,,,,,Potion,120,AbsorbBoost
 PotionFamilyWardBeastT4,PotionFamilyWardBeastT4,1,0,0,0,1,0,0,0,,DefBoost,,0,,,,,,,,,,,Potion,120,AbsorbBoost
 PotionFamilyWardBeastT5,PotionFamilyWardBeastT5,1,0,0,0,1,0,0,0,,DefBoost,,0,,,,,,,,,,,Potion,120,AbsorbBoost
+PotionGypsumYellow,PotionGypsumYellow,1,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,Potion,120,AbsorbBoost
 FoodHealthRecoveryT1,FoodInitialRecoveryT1+FoodRecoveryT1,1,0,0,0,0,0,0,0,,Recovery+FoodInitialRecovery,,0,,,,,,,,,,,Eat,0,
 FoodCorruptedT1,FoodCorruptedT1+FoodRecoveryT1,1,0,0,0,0,0,0,0,,Family,,0,,,,,,,,,,,Eat,0,
 FoodLostT1,FoodLostT1+FoodRecoveryT1,1,0,0,0,0,0,0,0,,Family,,0,,,,,,,,,,,Eat,0,
@@ -420,3 +421,8 @@ OR_FoodSpeed,FoodInitialRecoveryT5+OutpostRush_FoodSpeed,1,0,0,0,0,0,0,0,,Recove
 OR_FoodPvP,FoodInitialRecoveryT5+OutpostRush_FoodPvP,1,0,0,0,0,0,0,0,,Recovery+FoodInitialRecovery,,0,,,,,,,,,,,Eat,0,
 OR_FoodPvE,FoodInitialRecoveryT5+OutpostRush_FoodPvE,1,0,0,0,0,0,0,0,,Recovery+FoodInitialRecovery,,0,,,,,,,,,,,Eat,0,
 FireworksT1,FireworksEffectT1,1,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,Call,0,
+WCConsumable_SpicedNog,WCConsumable_SpicedNog+FoodRecoveryT3+WCConsumable_Gleamite,0,0,0,0,0,0,0,0,,Attributes+Recovery,,0,,,,,,,,,,,Drink,0,
+WCConsumable_Mealiewrap,WCConsumable_Mealiewrap+FoodRecoveryT3+WCConsumable_Gleamite,0,0,0,0,0,0,0,0,,Attributes+Recovery,,0,,,,,,,,,,,Eat,0,
+WCConsumable_ConvergenceCake,WCConsumable_ConvergenceCake+FoodRecoveryT2+WCConsumable_Gleamite,0,0,0,0,0,0,0,0,,Attributes+Recovery,,0,,,,,,,,,,,Eat,0,
+WCConsumable_ButtercreamPudding,WCConsumable_ButtercreamPudding+FoodRecoveryT2+WCConsumable_Gleamite,0,0,0,0,0,0,0,0,,Attributes+Recovery,,0,,,,,,,,,,,Drink,0,
+WCConsumable_GingersnapCookie,WCConsumable_GingersnapCookie+FoodRecoveryT2+WCConsumable_Gleamite,0,0,0,0,0,0,0,0,,Attributes+Recovery,,0,,,,,,,,,,,Eat,0,

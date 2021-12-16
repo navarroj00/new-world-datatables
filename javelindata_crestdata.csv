@@ -250,3 +250,4 @@ Index,OldIndex,isForeground,DisplayName,EntitlementId,Image,Color,isEntitlement,
 251,15,false,@ui_crestbackground_3V4,,lyshineui/images/crests/backgrounds/icon_shield_shape3v4.dds,,false,true,Any,,
 252,16,false,@ui_crestbackground_3V5,,lyshineui/images/crests/backgrounds/icon_shield_shape3v5.dds,,false,true,Any,,
 253,17,false,@ui_crestbackground_3V6,,lyshineui/images/crests/backgrounds/icon_shield_shape3v6.dds,,false,true,Any,,
+257,211,true,@ui_crestforeground_212,icon_crest_212,lyshineui/images/crests/foregrounds/icon_crest_212_Twitch_EpicStory.dds,,true,true,Any,,Twitch

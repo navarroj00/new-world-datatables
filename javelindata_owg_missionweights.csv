@@ -3,6 +3,7 @@ RAID_slot_1,1,false,Raid,9000
 EXPEDITION_RAID_slot_1,1,false,Log,1000
 LOOT_slot_1,1,false,Loot,1
 HUNT_slot_1,1,false,Hunt,1
+BREACH_slot_1,1,false,Craft,6000
 LOOT_slot_2,2,false,Loot,9000
 EXPEDITION_LOOT_slot_2,2,false,Harvest,1500
 RAID_slot_2,2,false,Raid,1

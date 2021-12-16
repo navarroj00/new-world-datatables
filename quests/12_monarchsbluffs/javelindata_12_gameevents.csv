@@ -39,13 +39,13 @@ EventID,GameEventType,Level,CreatureType,UniversalExpAmount,CurrencyReward,ItemR
 1204_0202_stores_success,,24,Quest+,1480,9450,QuestRewardArmorL24,,0,,0,250,,,,,true,20,1,false
 1202_0501_rightofway_success,,24,Quest+,1480,9450,2hSpear_QuestL24,,0,,0,250,,,,,true,20,1,false
 1205_0303_crownjewels_success,,24,Quest+,1480,9450,HeavyChest_MonarchsBluffT3,,0,,0,250,,,,,true,20,1,false
-1225_0101_downpayment_success,,14,Quest+,840,7700,,,0,,0,250,,,,,true,20,1,false
-1225_0201_majorpurchase_success,,18,Quest+,1080,8400,,,0,,0,250,,,,,true,20,1,false
+1225_0101_downpayment_success,,14,Quest+,840,7700,QuestRewardHousing1,Contains Settler Table & Lighting,0,,0,250,,,,,true,20,1,false
+1225_0201_majorpurchase_success,,18,Quest+,1080,8400,House_HousingItem_Chair_Settler_Chair01_A,,0,,0,250,,,,,true,20,1,false
 1225_0301_insuringinvestmentA_success,,21,Quest+,1280,8925,,,0,,0,250,,,,,true,20,1,false
-1225_0302_insuringinvestmentB_success,,23,Quest+,1420,9275,,,0,,0,250,,,,,true,20,1,false
-1225_0401_siteinspection_success,,30,Quest+,1830,10500,,,0,,0,250,,,,,true,20,1,false
+1225_0302_insuringinvestmentB_success,,23,Quest+,1420,9275,House_HousingItem_Storage_T1_ChestOldLog,,0,,0,250,,,,,true,20,1,false
+1225_0401_siteinspection_success,,30,Quest+,1830,10500,House_HousingItem_Bed_Settler_Bed02_A,,0,,0,250,,,,,true,20,1,false
 1225_0501_mandatoryimprovements_success,,37,Quest+,2230,11725,,,0,,0,250,,,,,true,20,1,false
-1225_0601_closingcost_success,,50,Quest+,2890,14000,,,0,,0,250,,,,,true,20,1,false
+1225_0601_closingcost_success,,50,Quest+,2890,14000,QuestRewardHousing7,Contains materials for trophy,0,,0,250,,,,,true,20,1,false
 1204_MSQ_AllThatRemainsGather4_success,,3,Quest,0,0,,,0,,0,0,,,,,true,0,0,false
 1204_MSQ_AllThatRemainsGather5_success,,3,Quest,0,0,,,0,,0,0,,,,,true,0,1,false
 1201_JamJar_interact,,0,Quest-,0,0,,,0,,0,0,,,,,true,0,0,false
