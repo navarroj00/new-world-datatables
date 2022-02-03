@@ -1,3 +1,3 @@
-ActivityCrc,ActivityType,DurationSec,Teams,MinLevel,MaxLevel,FactionType,MinDistance,MaxDistance,AllowInSanctuary,AllowInFtue,AllowInWar,AllowInArena,DisallowInGameModes,DisallowedWaterDepths
-Duel,1,10,2,10,,,,10,false,false,false,false,"Dungeon,OutpostRush,Duel,","Deep,"
-Trade,2,10,0,0,,,,10,true,false,false,false,"OutpostRush,Duel,",
+ActivityCrc,ActivityType,DurationSec,Teams,MinLevel,MaxLevel,FactionType,MinDistance,MaxDistance,AllowInSanctuary,AllowInFtue,AllowInWarPrep,AllowInWar,AllowInArena,DisallowInGameModes,DisallowedWaterDepths
+Duel,1,10,2,10,,,,10,false,false,false,false,false,"Dungeon,OutpostRush,Duel,","Deep,"
+Trade,2,10,0,0,,,,10,true,false,true,false,false,"OutpostRush,Duel,",

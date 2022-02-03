@@ -1,0 +1,3 @@
+ElementalMutationTypeId,InjectedPerkBucket1,InjectedPerkBucket2,InjectedPerkBucket3,InjectedPerkBucket4,InjectedPerkBucket5,InjectedCreatureLoot,InjectedContainerLoot,InjectedLootTags,Name,Description
+Fir,,PerkBucket_MutatorFire,,,,MutatorLoot_Fire,MutatorLoot_Fire,Fire,@FirTitle,@FirDescription
+Voi,,PerkBucket_MutatorVoid,,,,MutatorLoot_Void,MutatorLoot_Void,Void,@VoiTitle,@VoiDescription

@@ -196,6 +196,8 @@ Index,OldIndex,isForeground,DisplayName,EntitlementId,Image,Color,isEntitlement,
 195,167,true,@ui_crestforeground_168,,lyshineui/images/crests/foregrounds/icon_crest_168.dds,,false,true,Any,,
 196,168,true,@ui_crestforeground_169,,lyshineui/images/crests/foregrounds/icon_crest_169.dds,,false,true,Any,,
 197,169,true,@ui_crestforeground_170,icon_crest_170,lyshineui/images/crests/foregrounds/icon_crest_170.dds,,true,true,Any,Snake's Head,Animal Head
+198,170,true,@ui_crestforeground_171,icon_crest_171,lyshineui/images/crests/foregrounds/icon_crest_171.dds,,true,true,Any,Leaping Tiger,Lunar New Year
+199,171,true,@ui_crestforeground_172,icon_crest_172,lyshineui/images/crests/foregrounds/icon_crest_172.dds,,true,true,Any,Tiger's Head,Lunar New Year
 200,172,true,@ui_crestforeground_173,,lyshineui/images/crests/foregrounds/icon_crest_173.dds,,false,true,Any,,
 201,173,true,@ui_crestforeground_174,,lyshineui/images/crests/foregrounds/icon_crest_174.dds,,false,true,Any,,
 202,174,true,@ui_crestforeground_175,,lyshineui/images/crests/foregrounds/icon_crest_175.dds,,false,true,Any,,

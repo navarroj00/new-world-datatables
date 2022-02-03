@@ -1070,6 +1070,10 @@ KubikirisBurden_Title_01_02,Default,@KubikirisBurden_Title_01_02,@KubikirisBurde
 KubikirisBurden_Title_01_03,Default,@KubikirisBurden_Title_01_03,@KubikirisBurden_Subtitle_01_03,@KubikirisBurden_Body_01_03,Lore_unlock_KubikirisBurden_Title_01_03,KubikirisBurden_Chapter_01,3,,,,,,,,
 KubikirisBurden_Title_01_04,Default,@KubikirisBurden_Title_01_04,@KubikirisBurden_Subtitle_01_04,@KubikirisBurden_Body_01_04,Lore_unlock_KubikirisBurden_Title_01_04,KubikirisBurden_Chapter_01,4,,,,,,,,
 TalesofExpeditions_Chapter_06,Chapter,@TalesofExpeditions_Chapter_06,,,,Topic_TalesofExpeditions,6,,,,,,,,
+TalesofExpeditions_Title_06_01,Default,@TalesofExpeditions_Title_06_01,@TalesofExpeditions_Subtitle_06_01,@TalesofExpeditions_Body_06_01,Lore_unlock_TalesofExpeditions_Title_06_01,TalesofExpeditions_Chapter_06,1,,,,,,,,
+TalesofExpeditions_Title_06_02,Default,@TalesofExpeditions_Title_06_02,@TalesofExpeditions_Subtitle_06_02,@TalesofExpeditions_Body_06_02,Lore_unlock_TalesofExpeditions_Title_06_02,TalesofExpeditions_Chapter_06,2,,,,,,,,
+TalesofExpeditions_Title_06_03,Default,@TalesofExpeditions_Title_06_03,@TalesofExpeditions_Subtitle_06_03,@TalesofExpeditions_Body_06_03,Lore_unlock_TalesofExpeditions_Title_06_03,TalesofExpeditions_Chapter_06,3,,,,,,,,
+TalesofExpeditions_Title_06_04,Default,@TalesofExpeditions_Title_06_04,@TalesofExpeditions_Subtitle_06_04,@TalesofExpeditions_Body_06_04,Lore_unlock_TalesofExpeditions_Title_06_04,TalesofExpeditions_Chapter_06,4,,,,,,,,
 Topic_WinterConvergence,Topic,@Topic_WinterConvergence,,@Topic_Description_WinterConvergence,,,44,,,,,,,,
 WinterConvergence_Chapter_01,Chapter,@WinterConvergence_Chapter_01,,,,Topic_WinterConvergence,1,,,,,,,,
 WinterConvergence_Title_01_01,Default,@WinterConvergence_Title_01_01,@WinterConvergence_Subtitle_01_01,@WinterConvergence_Body_01_01,Lore_unlock_WinterConvergence_Title_01_01,WinterConvergence_Chapter_01,1,,,,,,,,
@@ -1093,3 +1097,4 @@ Tales_of_Brimstone_Sands_Title_15_02,Default,@Tales_of_Brimstone_Sands_Title_15_
 Tales_of_Brimstone_Sands_Title_15_03,Default,@Tales_of_Brimstone_Sands_Title_15_03,@Tales_of_Brimstone_Sands_Subtitle_15_03,@Tales_of_Brimstone_Sands_Body_15_03,Lore_unlock_Tales_of_Brimstone_Sands_Title_15_03,Tales_of_Brimstone_Sands_Chapter_15,3,,,,,,,,"Found in the wreckage along the Road to Atum, near where an old camp might have once stood."
 Tales_of_Brimstone_Sands_Chapter_16,Chapter,@Tales_of_Brimstone_Sands_Chapter_16,,,,Topic_Tales_of_Brimstone_Sands,6,,,,,,,,
 Tales_of_Brimstone_Sands_Title_16_01,Default,@Tales_of_Brimstone_Sands_Title_16_01,@Tales_of_Brimstone_Sands_Subtitle_16_01,@Tales_of_Brimstone_Sands_Body_16_01,Lore_unlock_Tales_of_Brimstone_Sands_Title_16_01,Tales_of_Brimstone_Sands_Chapter_16,1,,,,,,,,A letter found in Drusillas personal quarters.
+00_Aeternum_Title_27_03,Default,@00_Aeternum_Title_27_03,@00_Aeternum_subtitle_27_03,@00_Aeternum_Body_27_03,Lore_unlock_00_Aeternum_Title_27_03,00_Aeternum_Chapter_27,3,,,,End of MSQ,,,,Myrkguard Cathedral

@@ -30,7 +30,6 @@ EventID,GameEventType,Level,CreatureType,RewardModifier,UniversalExpAmount,Curre
 1034_0202_seadreams_success,,32,Quest,Armor,1560,7750,QuestRewardArmorL32,,,,0,175,,,,,true,10,1
 1034_0203_hightide_success,,34,Quest,Weapons,1650,8000,1hRapier_QuestL34,,,,0,175,,,,,true,10,1
 1035_0201_cookiecrumbles_success,,26,Quest+,Armor,1600,9800,LightChest_QuestL26,,,,0,250,,,,,true,20,1
-1004_0103_Weapon_Keen_Temper_success,,47,Quest+,,2740,13475,,,,,0,250,,,,,true,20,1
 1002_0104_Shrouded_Intent_Gear_success,,55,Quest+,,2970,14875,AgentBox,,,,0,250,,,,,true,30,1
 1002_0104_01_Boots_success,,40,Quest+,,2380,12250,,,,,0,250,,,,,true,20,1
 1002_0104_02_Coat_success,,44,Quest+,,2590,12950,,,,,0,250,,,,,true,20,1
@@ -40,6 +39,7 @@ EventID,GameEventType,Level,CreatureType,RewardModifier,UniversalExpAmount,Curre
 1001_LightningTrap_interact,,0,Quest-,,0,0,,,,,0,100,,,,,true,0,1
 1002_AncientRelic_interact,,0,Quest-,,0,0,,,,,0,100,,,,,true,0,1
 1003_PirateFigurehead_interact,,0,Quest-,,0,0,,,,,0,100,,,,,true,0,1
+1004_0103_Weapon_Keen_Temper_success,,50,Quest+,,2890,14000,,,,,0,250,,,,,true,20,1
 1004_0103_QuenchingOil_Quest_success,,50,Quest+,,2890,14000,,,,,0,250,,,,,true,20,1
 1004_0103_HiltLeather_Quest_success,,50,Quest+,,2890,14000,,,,,0,250,,,,,true,20,1
 1004_0103_Grindstone_Quest_success,,50,Quest+,,2890,14000,,,,,0,250,,,,,true,20,1

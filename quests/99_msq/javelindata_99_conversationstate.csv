@@ -127,3 +127,4 @@ ConversationStateId,ConversationType,IsInitialState,DefaultDialogue,RequiredFact
 9927_01_VK_ScoutsNote,Linear_Objective,false,@9927_00_VK_ScoutsNote_DefaultDialog,,16,,,,9927_0102_VisionsOfInvaders,,,,,,,,,,,,,,,,,,,,,,
 9928_MSQ_YonasMemorial_Default,Linear_Objective,true,@9928_MSQ_YonasMemorial_Default,,0,,,,,,,,,,,,,,,,,,,,,,,,,,
 9928_01_YonasMemorial,Linear_Objective,false,@9928_01_YonasMemorial,,0,,,,,,,,,,,,,,,,,,,,,,,,,,
+9929_MSQ_RecliningThorpe_Default,Linear_Objective,true,@9929_MSQ_RecliningThorpe_Default,,0,,,,,,,,,,,,,,,,,,,,,,,,,,

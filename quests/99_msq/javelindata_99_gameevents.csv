@@ -32,6 +32,7 @@ EventID,GameEventType,Level,CreatureType,Reward Type,UniversalExpAmount,Currency
 9905_0034_thealliance_success,,38,MSQ+,Named,5690,10200,Darkness_AzothStaff_T3,,AzothStaff,1,0,,,,,true,100,1
 9901_0035_herewestand_success,,40,MSQ,Armor,4750,7000,QuestRewardArmorL40,,,0,0,,,,,true,150,1
 9901_0036_masterofthetempest_success,,40,MSQ+,Named,12500,10500,Earring_WarlordsRegretsT4,,,0,0,,,,,true,100,1
+9901_0036_masterofthetempest_solo_success,,0,MSQ-,,0,0,,,,0,0,,,,,true,0,0
 9919_0037_planb_success,,41,MSQ,Weapons,4880,7100,QuestRewardWeaponsL41,,,0,0,,,,,true,20,1
 9905_0038_itstrueface_success,,42,MSQ,Armor,4980,7200,QuestRewardArmorL42,,,0,0,,,,,true,20,1
 9903_0039_aherosduty_success,,43,MSQ+,Weapons,6350,10950,QuestRewardWeaponsL43,,,0,0,,,,,true,100,1
@@ -49,6 +50,7 @@ EventID,GameEventType,Level,CreatureType,Reward Type,UniversalExpAmount,Currency
 9906_0050_thescenicrouteb_success,,54,MSQ-,Armor,4430,2100,,,,0,0,,,,,true,20,1
 9906_0051_ararespice_success,,55,MSQ+,Weapons,7410,12750,QuestRewardWeaponsL55,,,0,0,,,,,true,100,1
 9902_0052_saboteur_success,,55,MSQ+,Named,7410,12750,LightHead_DawnsObscurerT4,,,0,0,,,,,true,100,1
+9902_0052_saboteur_solo_success,,0,MSQ-,,0,0,,,,0,0,,,,,true,0,0
 9907_0053_blessingofearth_success,,56,MSQ,Armor,5980,8600,QuestRewardArmorL56,,,0,0,,,,,true,150,1
 9907_0053_blessingofearth_Juice_success,,56,MSQ,Armor,5980,8600,QuestRewardArmorL56,,,0,0,,,,,true,100,1
 9907_0053_blessingofearth_Snap_success,,56,MSQ,Weapons,5980,8600,QuestRewardWeaponsL56,,,0,0,,,,,true,100,1

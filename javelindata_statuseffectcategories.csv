@@ -11,3 +11,6 @@ Disease,0,0,0,0,0,0,HealMod:-0.5
 Haste,-0.20000000298023224,-0.800000011920929,0,0,0,0,"MoveSpeedMod:0.5,SprintSpeedMod:0.5"
 AI_Neutral,0,0,0,0,0,0,
 NonDispellableDebuff,0,0,0,0,0,0,
+MutatorEmpower,0,0,0,0,0,0,"DMGStandard:5.0,DMGSiege:5.0,DMGStrike:5.0,DMGSlash:5.0,DMGThrust:5.0,DMGArcane:5.0,DMGFire:5.0,DMGIce:5.0,DMGNature:5.0,DMGLightning:5.0,DMGCorruption:5.0"
+MutatorHearty,0,0,0,0,0,0,MaxHealthMod:5.0
+MutatorDisease,0,0,0,0,0,0,HealMod:-1.0

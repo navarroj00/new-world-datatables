@@ -32,12 +32,12 @@ EventID,GameEventType,Level,CreatureType,UniversalExpAmount,CurrencyReward,ItemR
 0205_0102_03_Greaves_Success,,48,Quest+,2790,13650,,,,,,250,,0,,,true,20,1
 0205_0102_04_Gauntlets_Success,,52,Quest+,2940,14350,,,,,,250,,0,,,true,20,1
 0205_0102_05_Helm_Success,,55,Quest+,2970,14875,,,,,,250,,0,,,true,30,1
-0204_0104_Executioner_lvl40_Weapon_Success,,47,Quest+,2740,13475,,,,,,250,,0,,,true,20,1
-0203_0103_Hope_Manifest_lvl40_Weapon_Success,,47,Quest+,2740,13475,,,,,,250,,0,,,true,20,1
+0204_0104_Executioner_lvl40_Weapon_Success,,50,Quest+,2890,14000,,,,,,250,,0,,,true,20,1
 0204_0104_BucaneersPlank_Quest_Success,,50,Quest+,2890,14000,,,,,,250,,0,,,true,20,1
 0204_0104_HangmansBinding_Quest_Success,,50,Quest+,2890,14000,,,,,,250,,0,,,true,20,1
 0204_0104_BladeBrute_Quest_Success,,50,Quest+,2890,14000,,,,,,250,,0,,,true,20,1
 0204_0104_InfernalCoagulant_Quest_Success,,50,Quest+,2890,14000,,,,,,250,,0,,,true,20,1
+0203_0103_Hope_Manifest_lvl40_Weapon_Success,,50,Quest+,2890,14000,,,,,,250,,0,,,true,20,1
 0203_0103_MendersCloth_Quest_Success,,50,Quest+,2890,14000,,,,,,250,,0,,,true,20,1
 0203_0103_SoothsayerSalve_Quest_Success,,50,Quest+,2890,14000,,,,,,250,,0,,,true,20,1
 0203_0103_MercysBreath_Quest_Success,,50,Quest+,2890,14000,,,,,,250,,0,,,true,20,1

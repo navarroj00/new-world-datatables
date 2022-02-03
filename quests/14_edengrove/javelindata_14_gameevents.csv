@@ -30,7 +30,6 @@ EventID,GameEventType,Level,CreatureType,RewardModifier,UniversalExpAmount,Curre
 1431_0104_MyceliumPatch03_Interact,,0,Quest,,0,0,,,,,0,,,,,,true,0,0
 1432_0101_MedicinalHerbs_Interact,,0,Quest,,0,0,,,,,0,,,,,,true,0,0
 1432_0102_BelongingsTrail_Interact,,0,Quest,,0,0,,,,,0,,,,,,true,0,0
-1432_0102_BelongingsScattered_Interact,,0,Quest,,0,0,,,,,0,,,,,,true,0,0
 1432_0103_DogPrintTrail_Interact,,0,Quest,,0,0,,,,,0,,,,,,true,0,0
 1435_0101_HerbSpot_Interact,,0,Quest,,0,0,,,,,0,,,,,,true,0,0
 1435_0102_PoppableBlossom_Interact,,0,Quest,,0,0,,,,,0,,,,,,true,0,0
