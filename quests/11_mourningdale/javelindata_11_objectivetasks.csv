@@ -457,7 +457,7 @@ FM_11_H_03_leg_C_task,TaskGatherAndReturnItems,,0,3,FM_hunt_item_9_11,Elk_Stag_1
 1126_0102_Container_TheLastMystery3,ConsecutiveTaskContainer,,0,,,,0,0,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,,0,,,,,,1,,,,,,1126_0102_GiveItem3_TheLastMystery,1124_0101_01_TravelTask3,1126_0101_04_DefeatGuardian2,1126_0102_05_TravelTask,1126_0102_Container_TheLastMystery4
 1126_0102_GiveItem3_TheLastMystery,TaskGiveItem,,0,1,1126_AncientArtifact,,100,0,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,,0,,,,,1,1,,,,,,,,,,
 1124_0101_01_TravelTask3,TaskTriggerArea,,0,1,,,0,0,1,,,,,,,0,,,,,,Enter,,,0,,,,,,,,,,,,,,,,0,TriggerVol_1126_Finale,@1126_0102_TravelTo_Site3,,12714.112 7385.888 233.778,1,,,,,,,,,,,
-1126_0101_04_DefeatGuardian2,TaskKillContribution,,0,1,,,0,0,1,,,,1,,,0,,,,,,,AncientGuardian_Javelineer_11MD00e,,0,,,,,,,,,,,,,,,,0,,@1100_KillQuest_Generic,,12827.409 6053.857 162.129,1,,,,,,,,,,,
+1126_0101_04_DefeatGuardian2,TaskKillContribution,,0,1,,,0,0,1,,,,1,,,0,,,,,,,AncientGuardian_Javelineer_11MD00e,,0,,,,,,,,,,,,,,,,0,,@1100_KillQuest_Generic,,12714.112 7385.888 233.778,1,,,,,,,,,,,
 1126_0102_05_TravelTask,TaskInteract,,0,1,,,0,0,,,,,,,,0,,,,IO_1126_AncientDevice_C,,,1126_AncientDevice_C_interact,,0,,,,,,,,,,,,,,,,0,,@1126_0102_TrytheKey3,,12714.112 7385.888 233.778,1,,,,,,,,,,,
 1126_0102_Container_TheLastMystery4,ConsecutiveTaskContainer,,0,,,,0,0,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,,0,,,,,,1,,,,,,1126_0102_GiveItem4_TheLastMystery,1126_0102_06_Remove,,,
 1126_0102_GiveItem4_TheLastMystery,TaskGiveItem,,0,1,1126_AncientArtifact,,100,0,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,,0,,,,,1,1,,,,,,,,,,
@@ -513,7 +513,7 @@ FM_11_H_03_leg_C_task,TaskGatherAndReturnItems,,0,3,FM_hunt_item_9_11,Elk_Stag_1
 1129_0103_01_TravelTask1,TaskTriggerArea,,0,1,,,0,0,1,,,,,,,0,,,,,,Enter,,,0,,,,,,,,,,,,,,,,0,TriggerVol_1129_Cliff1,@1129_Sneaky1,,13911.762 7951.464 44.980,1,,,,,,,,,,,
 1129_0103_01_TravelTask2,TaskTriggerArea,,0,1,,,0,0,1,,,,,,,0,,,,,,Enter,,,0,,,,,,,,,,,,,,,,0,TriggerVol_1129_Cliff2,@1129_Sneaky2,,13827.667 8075.334 48.378,1,,,,,,,,,,,
 1129_0103_01_TravelTask3,TaskTriggerArea,,0,1,,,0,0,1,,,,,,,0,,,,,,Enter,,,0,,,,,,,,,,,,,,,,0,TriggerVol_1129_Cliff3,@1129_Sneaky3,,13982.922 8070.164 53.489,1,,,,,,,,,,,
-1129_0103_HideJannsen,TaskTemporaryUnlockAchievement ,,0,1,SwapActive_1129_Jaansen_2_On_Off,,0,0,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,,0,,,,,,1,,,,,,,,,,
+1129_0103_HideJannsen,TaskLockAchievement ,,0,1,SwapActive_1129_Jaansen_2_On_Off,,0,0,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,,0,,,,,,1,,,,,,,,,,
 1110_0101_Container_GreetTheNewcomers,ConsecutiveTaskContainer,,0,,,,0,0,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,,0,,,,,,,,,,,,1110_0101_ShowHideHironobu,1110_0101_ShowLerato2,1110_0101_TravelTask1,,
 1110_0101_ShowHideHironobu,TaskUnlockAchievement,,0,1,SwapActive_1127_Harunobu_Off,,0,0,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,,0,,,,,1,1,,,,,,,,,,
 1110_0101_ShowLerato2,TaskUnlockAchievement,,0,1,SwapActive_1128_Lerato_Off,,0,0,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,,0,,,,,1,1,,,,,,,,,,
@@ -525,4 +525,4 @@ FM_11_H_03_leg_C_task,TaskGatherAndReturnItems,,0,3,FM_hunt_item_9_11,Elk_Stag_1
 1129_0102_Jaansen_TravelTask,TaskTriggerArea,,0,1,,,0,0,1,,,,,,,0,,,,,,Enter,,,0,,,,,,,,,,,,,,,,0,TriggerVol_1129_Jaansen2,@1129_FindJaansen,,14030.0557 7659.1299 82.907,1,,,,,,,,,,,
 1124_Container_PierreGoHome,ConsecutiveTaskContainer,,0,,,,0,0,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,,0,,,,,,,,,,,,1124_PierreGoHome_TravelTask,1124_PierreGoHome_Achievement,,,
 1124_PierreGoHome_TravelTask,TaskTriggerArea,,0,1,,,0,0,TRUE,,,,,,,0,,,,,,Enter,,,0,,,,,,,,,,,,,,,,0,TriggerVol_1124_PierreGoHome,@1124_PierreGoHome,,13166.241 6917.281 153.780,1,,,,,,,,,,,
-1124_PierreGoHome_Achievement,TaskTemporaryUnlockAchievement,,0,1,SwapActive_1124_Pierre_Town_off,,0,0,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,,0,,,,,1,1,,,,,,,,,,
+1124_PierreGoHome_Achievement,TaskLockAchievement,,0,1,SwapActive_1124_Pierre_Town_off,,0,0,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,,0,,,,,1,1,,,,,,,,,,

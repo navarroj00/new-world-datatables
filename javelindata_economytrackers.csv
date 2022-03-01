@@ -6,7 +6,7 @@ ItemsGathered,PerHour,javelin-server.economy-alarm-items-gathered-threshold-1,It
 ItemsCrafted,PerHour,javelin-server.economy-alarm-items-crafted-threshold-1,ItemsCraftedSuspicious,false,javelin-server.economy-alarm-items-crafted-threshold-2,ItemsCraftedCatastrophic,false
 ItemsLooted,PerHour,javelin-server.economy-alarm-items-looted-threshold-1,ItemsLootedSuspicious,false,javelin-server.economy-alarm-items-looted-threshold-2,ItemsLootedCatastrophic,false
 ItemsRefined,PerHour,javelin-server.economy-alarm-items-refined-threshold-1,ItemsRefinedSuspicious,false,javelin-server.economy-alarm-items-refined-threshold-2,ItemsRefinedCatastrophic,false
-CoinTransferred,OneTime,javelin-server.economy-alarm-coin-transferred-threshold-1,CoinTransferredSuspicious,true,,,false
+CoinTransferred,PerHour,javelin-server.economy-alarm-coin-transferred-threshold-1,CoinTransferredSuspicious,true,,,false
 AILooted,PerHour,javelin-server.economy-alarm-ai-looted-threshold-1,AILootedSuspicious,false,,,false
 ChestsLooted,PerHour,javelin-server.economy-alarm-chests-looted-threshold-1,ChestsLootedSuspicious,false,,,false
 PlayTimeForLevel,OneTime,,PlayTimeForLevelSuspicious,true,,PlayTimeForLevelCatastrophic,true

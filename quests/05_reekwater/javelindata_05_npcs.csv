@@ -1,7 +1,7 @@
 NPCId,Title,GenericName,InteractOptionDisplayNameOverride,ConversationStateId1,ConversationStateId2,ConversationStateId3,ConversationStateId4,ConversationStateId5,ConversationStateId6,ConversationStateId7,ConversationStateId8,ConversationStateId9,ConversationStateId10,ConversationStateId11,ConversationStateId12,ConversationStateId13,ConversationStateId14,ConversationStateId15,ConversationStateId16,ConversationStateId17,ConversationStateId18,ConversationStateId19,ConversationStateId20
 0502_Magistrate,@0502_Magistrate_Title,@0502_Magistrate,,0502_00_Magistrate,0502_01_Magistrate,0502_02_Magistrate,0502_03_Magistrate,0502_04_Magistrate,0502_05_Magistrate,0502_06_Magistrate,0502_07_Magistrate,,,,,,,,,,,,
 0503_Survivalist,@0503_Survivalist_Title,@0503_Survivalist,,0503_00_Survivalist,0503_01_Survivalist,0503_02_Survivalist,0503_03_Survivalist,0503_04_Survivalist,0503_05_Survivalist,0503_06_Survivalist,,,,,,,,,,,,,
-0504_Overseer,@0504_Overseer_Title,@0504_Overseer,,0504_00_Overseer,0504_01_Overseer,0504_02_Overseer,0504_03_Overseer,0504_04_Overseer,0504_05_Overseer,,,,,,,,,,,,,,
+0504_Overseer,@0504_Overseer_Title,@0504_Overseer,,0504_00_Overseer,0504_01_Overseer,0504_01a_Overseer,0504_02_Overseer,0504_03_Overseer,0504_04_Overseer,0504_05_Overseer,,,,,,,,,,,,,
 0505_Artificer,@0505_Artificer_Title,@0505_Artificer,,0505_00_Artificer,0505_01_Artificer,0505_02_Artificer,0505_03_Artificer,0505_04_Artificer,,,,,,,,,,,,,,,
 0511_Stranger,@0511_Stranger_Title,@0511_Stranger,,0511_00_Stranger,0511_01_Stranger,0511_02_Stranger,0511_03_Stranger,0511_04_Stranger,,,,,,,,,,,,,,,
 0524_Stranger,@0524_Stranger_Title,@0524_Stranger,,0524_00_Stranger,0524_01_Stranger,0524_02_Stranger,0524_03_Stranger,0524_04_Stranger,,,,,,,,,,,,,,,

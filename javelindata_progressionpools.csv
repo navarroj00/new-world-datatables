@@ -7,12 +7,12 @@ HatchetAbilityTable,Player,20,,3
 SwordAbilityTable,Player,20,,4
 BowAbilityTable,Player,20,,3
 SpearAbilityTable,Player,20,,2
-GreatAxeAbilityTable,Player,20,,2
+GreatAxeAbilityTable,Player,20,,3
 WarHammerAbilityTable,Player,20,,3
 MusketAbilityTable,Player,20,,3
 LifeMagicAbilityTable,Player,20,,4
 FireMagicAbilityTable,Player,20,,3
-RapierAbilityTable,Player,20,,2
+RapierAbilityTable,Player,20,,3
 IceMagicAbilityTable,Player,20,,1
 VoidGauntletAbilityTable,Player,20,,0
 TerritoryRankBonus_2,Territory,300,,0

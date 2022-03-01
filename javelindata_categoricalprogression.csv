@@ -106,3 +106,5 @@ EventProgress,@ui_event_progress_name,4,true,false,EventRanks,,,,,,,0,true,lyshi
 DungeonEdengrove00Difficulty,,10,true,false,MutatorRankData,,,,,,,0,false,
 DungeonReekwater00Difficulty,,10,true,false,MutatorRankData,,,,,,,0,false,
 DungeonEbonscale00Difficulty,,10,true,false,MutatorRankData,,,,,,,0,false,
+DungeonShatterMtn00Difficulty,,10,true,false,MutatorRankData,,,,,,,0,false,
+DungeonRestlessShores01Difficulty,,10,true,false,MutatorRankData,,,,,,,0,false,

@@ -7,7 +7,7 @@ NPCId,Title,GenericName,InteractOptionDisplayNameOverride,ConversationStateId1,C
 0714_Watcher,@0714_Watcher_Title,@0714_Watcher,,0714_00_Watcher,0714_01_Watcher,0714_02_Watcher,0714_03_Watcher,0714_04_Watcher,0714_05_Watcher,,,,,,,,,,,,,,
 0715_Watcher,@0715_Watcher_Title,@0715_Watcher,,0715_00_Watcher,0715_01_Watcher,0715_02_Watcher,0715_03_Watcher,,,,,,,,,,,,,,,,
 0716_Warden,@0716_Warden_Title,@0716_Warden,,0716_00_Warden,0716_01_Warden,,,,,,,,,,,,,,,,,,
-0717_Warden,@0717_Warden_Title,@0717_Warden,,0717_00_Warden,0717_01_Warden,0717_02_Warden,0717_03_Warden,0717_04_Warden,,,,,,,,,,,,,,,
+0717_Warden,@0717_Warden_Title,@0717_Warden,,0717_00_Warden,0717_01_Warden,0717_02_Warden,0717_04_Warden,,,,,,,,,,,,,,,,
 0718_Ranger,@0718_Ranger_Title,@0718_Ranger,,0718_00_Ranger,0718_01_Ranger,0718_02_Ranger,0718_03_Ranger,0718_04_Ranger,0718_05_Ranger,,,,,,,,,,,,,,
 0719_Ranger,@0719_Ranger_Title,@0719_Ranger,,0719_00_Ranger,0719_01_Ranger,0719_02_Ranger,0719_03_Ranger,0719_04_Ranger,,,,,,,,,,,,,,,
 0720_Ranger,@0720_Ranger_Title,@0720_Ranger,,0720_00_Ranger,0720_01_Ranger,,,,,,,,,,,,,,,,,,

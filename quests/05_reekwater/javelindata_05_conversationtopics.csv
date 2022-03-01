@@ -3,3 +3,4 @@ ConversationTopicId,PlayerPrompt,NPCResponse,AchievementUnlock,RequiredAchieveme
 0401_Watcher_Corruption,@0401_Watcher_Corruption_Prompt,@0401_Watcher_Corruption_Response,,,,
 Reekwater_Dungeon_Scylla_Offering,@Reekwater_Dungeon_Scylla_01_Prompt,@Reekwater_Dungeon_Scylla_01_Response,,,,
 Reekwater_Dungeon_Scylla_Worthy,@Reekwater_Dungeon_Scylla_02_Prompt,@Reekwater_Dungeon_Scylla_02_Response,,,,
+0523_Fisher_ExplainHotspots,@0223_Fisher_ExplainHotspots_Prompt,@0223_Fisher_ExplainHotspots_Response,,,,

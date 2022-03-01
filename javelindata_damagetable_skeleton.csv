@@ -11,7 +11,7 @@ Skeleton_2H_Flurry,Sword,0,0,Bullet,Light,Strike,,,,,,false,,false,0.40000000596
 Skeleton_2H_Overhead,Sword,0,0,Bullet,Heavy,Slash,,,,,,false,,false,0.8999999761581421,1,0.8999999761581421,3,3,3,25,25,25,0,2,0,0.800000011920929,0,0,0,0,0,2,0,0.800000011920929,0,1,,1,Small,Small,Small,3,1,1,1
 Broken_2H_Overhead,Sword,0,0,Bullet,Heavy,Slash,,,,,,false,,false,0.5,1,0.5,3,3,3,25,25,25,0,1.5,0,0.800000011920929,0,0,0,0,0,1.5,0,0.800000011920929,0,1,,1,Small,Small,Small,3,1,1,1
 Skeleton_2H_Flurry2,Sword,0,0,Bullet,,Standard,,,,,,false,,false,0.6000000238418579,1,0.6000000238418579,2,2,2,25,20,25,0,0.20000000298023224,0,0.800000011920929,0,0,0,0,0,0.20000000298023224,0,0.800000011920929,0,1,,1,Small,Small,Small,2,0.4000000059604645,1,1
-Broken_1H_Slash_Standing,Sword,0,0,Bullet,Light,Slash,,,,,,false,,false,0.5,1,0.5,0,1,0,20,10,20,0,1.25,0,0.800000011920929,0,0.5,0,0.20000000298023224,0,1.25,0,0.800000011920929,0,1,,1,Small,Small,Small,2,1,1,1
+Broken_1H_Slash_Standing,Sword,0,0,Bullet,Light,Slash,,,,,,false,,false,0.5,1,0.5,0,1,0,20,10,20,0,1.25,0,0.800000011920929,0,0,0,0.20000000298023224,0,1.25,0,0.800000011920929,0,1,,1,Small,Small,Small,2,1,1,1
 Broken_1H_Slash_L,Sword,0,0,Bullet,Light,Slash,,,,,,false,,false,0.5,1,0.5,0,1,0,20,10,20,0,0.75,0,0.800000011920929,0,0,0,0,0,0.75,0,0.800000011920929,0,1,,1,Small,Small,Small,2,1,1,1
 Broken_1H_Slash_L_Strike,Sword,0,0,Bullet,Light,Strike,,,,,,false,,false,0.5,1,0.5,0,1,0,20,10,20,0,0.75,0,0.800000011920929,0,0,0,0,0,0.75,0,0.800000011920929,0,1,,1,Small,Small,Small,2,1,1,1
 Broken_1H_Slash_R,Sword,0,0,Bullet,Light,Slash,,,,,,false,,false,0.5,1,0.5,0,1,0,20,10,20,0,0.75,0,0.800000011920929,0,0,0,0,0,0.75,0,0.800000011920929,0,1,,1,Small,Small,Small,2,1,1,1

@@ -631,7 +631,7 @@ MSQ_0017_Corruption,@MSQ_0017_Corruption_DisplayName,None,None,Empty,,25,30,None
 MSQ_0021_ForgeStaffAnimTest,@MSQ_0021_ForgeStaffD_DisplayName,AzothStaffCreate,None,Empty,,200,300,None,0,0,16,false,NoToolNecessary,true,MSQ_0021_ForgeStaffAnimTest_interact,,,true,true,false,,,false,false,,,,0
 MSQ_0021_ForgeStaffD,@MSQ_0021_ForgeStaffD_DisplayName,AzothStaffCreate,None,Empty,,200,300,None,0,0,16,false,NoToolNecessary,true,MSQ_0021_ForgeStaffD_interact,,,true,true,false,,,false,false,,,,0
 MSQ_0022_AmrineMachine,@MSQ_0022_AmrineMachine_DisplayName,Handcrafting,None,Empty,,7200,7200,None,0,0,6,false,NoToolNecessary,true,MSQ_0022_AmrineMachine_interact,,,true,true,false,,,false,false,,,,0
-MSQ_0023_AmrineTempleAltar,@MSQ_0023_AmrineTempleAltar_DisplayName,MSQTheRitual,None,Empty,,200,300,None,0,0,16,false,ItemRequired,true,MSQ_0023_AmrineTempleAltar_interact,MSQ_Heartgem,1,true,true,false,,,false,false,,,,0
+MSQ_0023_AmrineTempleAltar,@MSQ_0023_AmrineTempleAltar_DisplayName,MSQTheRitual,None,Empty,,120,180,None,0,0,16,false,ItemRequired,true,MSQ_0023_AmrineTempleAltar_interact,MSQ_Heartgem,1,true,true,false,,,false,false,,,,0
 MSQ_0024_FightingPitDoor,@MSQ_0024_FightingPitDoor_DisplayName,None,None,Empty,,200,300,None,0,0,6,false,NoToolNecessary,true,MSQ_0024_FightingPitDoor_interact,,,true,true,false,,,false,false,,,,0
 MSQ_0025_AmrineAzothBarrier,@MSQ_0025_AmrineAzothBarrier_DisplayName,Handcrafting,None,Empty,,25,30,None,0,0,4,false,NoToolNecessary,true,MSQ_0025_AmrineAzothBarrier_interact,,,true,true,false,,,false,false,,,,0
 MSQ_0025_AmrineAzothBarrier_Permanent,@MSQ_0025_AmrineAzothBarrier_DisplayName,Handcrafting,None,Empty,,25,30,None,0,0,4,false,NoToolNecessary,true,MSQ_0025_AmrineAzothBarrier_interact,,,true,true,false,,,false,false,,,,0
@@ -789,8 +789,6 @@ Dungeon_Reekwater_Ancient_Guardian Heart,@dungeon_reekwater_ancient_guardian_hea
 Dungeon_Reekwater_TorsoBoss_ArcaneOrb,,None,None,,,1,1.100000023841858,None,0,0,0.10000000149011612,false,NoToolNecessary,false,,,,false,false,false,,,false,false,AI_Torso_Boss_ArcaneOrb,,,0
 Dungeon_Reekwater_TorsoBoss_ArcaneConduit,,None,None,,,1,1.100000023841858,None,0,0,0.10000000149011612,false,NoToolNecessary,false,,,,true,false,false,,,false,false,,AI_Torso_Boss_ArcaneOrb,AI_Torso_Boss_ArcaneOrb,0
 Dungeon_Reekwater_Naga_ArcaneConduit,@dungeon_reekwater_naga_arcaneconduit,Dressing,None,,,86400,86400,None,0,0,0.10000000149011612,false,NoToolNecessary,false,,,,false,false,false,,,false,false,,,,0
-Dungeon_CutlassKeys00_PirateBooty,@dungeon_cutlasskeys00_interact_pirate_booty,None,None,Empty,,3600,3600,None,0,0,10,false,NoToolNecessary,false,,,1,true,false,false,,,false,false,,,,0
-Dungeon_CutlassKeys00_GunpowderCask,@Dungeon_CutlassKeys00_GunpowderCask,None,None,Empty,,86400,86400,None,0,0,10,false,NoToolNecessary,true,,,,true,false,false,,,false,false,,,,0
 DungeonRestlessShores_MinorMonolith,@DungeonRestlessShores_MinorMonolith,AzothStaffLow,AzothStaff,Empty,,64000,64001,AzothStaff,0,0,10,false,ToolRequired,false,,,,false,false,false,,,true,false,,,,3
 DungeonEdengrove_ConcentratedBlight,@DungeonEdengrove_Interact_ConcentratedBlight,Mining,Mining,DungeonEdengrove_ConcentratedBlight,,30,60,Mining,0,0,15,false,ToolRequired,true,,,,true,false,false,,,false,false,,,,0
 DungeonEdengrove_ImbuedShrine,@DungeonEdengrove_Interact_ImbuedShrine,Handcrafting,None,DungeonEdengrove_AzothSeed,,120,121,None,0,0,2,false,ItemRequired,true,,DungeonEdengrove_ConcentratedBlight,1,true,false,false,,,false,false,,,,0
@@ -901,8 +899,6 @@ DungeonShatterMtn00_Statue01,@DungeonShatterMtn_Statue_DisplayName,Handcrafting,
 DungeonShatterMtn00_Statue02,@DungeonShatterMtn_Statue_DisplayName,Handcrafting,None,Empty,,64000,64000,None,0,0,1,false,ItemRequired,true,,DungeonShatterMtn00_Chest02,1,true,false,false,,,false,false,,,,0
 DungeonShatterMtn00_Statue03,@DungeonShatterMtn_Statue_DisplayName,Handcrafting,None,Empty,,64000,64000,None,0,0,1,false,ItemRequired,true,,DungeonShatterMtn00_Chest03,1,true,false,false,,,false,false,,,,0
 DungeonShatterMtn00_Statue04,@DungeonShatterMtn_Statue_DisplayName,Handcrafting,None,Empty,,64000,64000,None,0,0,1,false,ItemRequired,true,,DungeonShatterMtn00_Chest04,1,true,false,false,,,false,false,,,,0
-DungeonCutlassKeys00_Explosives,@DungeonCutlassKeys00_Explosives_DisplayName,Handcrafting,None,Empty,,64000,64000,None,0,0,1,false,ItemRequired,true,,DungeonCutlassKeys00_Fuse,1,true,false,false,,,false,false,,,,0
-DungeonCutlassKeys00_ChestFuse,@DungeonCutlassKeys00_ChestFuse_DisplayName,LootContainer,None,DungeonCutlassKeys00_Fuse,,64000,64000,None,0,0,2,false,NoToolNecessary,true,,,,true,false,false,,,false,false,,,,0
 EarthPlant_Dungeon,@EarthPlant_DisplayName,Cutting,Cutting,Earth_Plant,,64000,64000,Harvesting,30,0,20,true,ToolRequired,true,Gather_HarvestingT4,,,false,false,false,,Alchemy1,false,false,,,,0
 FirePlant_Dungeon,@FirePlant_DisplayName,Cutting,Cutting,Fire_Plant,,64000,64000,Harvesting,30,0,20,true,ToolRequired,true,Gather_HarvestingT4,,,false,false,false,,Alchemy1,false,false,,,,0
 AirPlant_Dungeon,@AirPlant_DisplayName,Cutting,Cutting,Air_Plant,,64000,64000,Harvesting,30,0,20,true,ToolRequired,true,Gather_HarvestingT4,,,false,false,false,,Alchemy1,false,false,,,,0
@@ -931,6 +927,7 @@ PlatinumSmall_Dungeon,@PlatinumSmall_DisplayName,Mining,Mining,Platinum_Small,,6
 PlatinumMedium_Dungeon,@PlatinumMedium_DisplayName,Mining,Mining,Platinum_Medium,,64000,64000,Mining,110,0,110,true,ToolRequired,true,Gather_MiningT11,,,false,false,false,,Platinum,false,false,,,,0
 PlatinumLarge_Dungeon,@PlatinumLarge_DisplayName,Mining,Mining,Platinum_Large,,64000,64000,Mining,110,0,135,true,ToolRequired,true,Gather_MiningT12,,,false,false,false,,Platinum,false,false,,,,0
 OreVeinOrichalcumDestroy,@OrichalcumDestroy_DisplayName,Mining,Mining,Empty,,1260,1800,Mining,175,0,110,true,ToolRequired,true,Gather_MiningT1,,,false,false,false,,Orichalcum,false,false,,,,0
+OreVeinOrichalcumSkillgate,@OrichalcumLarge_DisplayName,Mining,Mining,OrichalcumOreVeinFinishLarge,,1428,2040,Mining,175,0,135,true,ToolRequired,true,Gather_MiningT15,,,false,false,false,,Orichalcum,false,false,,,,0
 0804_CorruptedNodule,@CorruptedNodule_DisplayName,None,None,Empty,,540,600,None,0,0,4,false,NoToolNecessary,true,0804_CorruptedNodule_interact,,,true,true,false,,,false,false,,,,0
 1125_SongoftheSea,@1125_SongoftheSea_DisplayName,None,None,Empty,,200,300,None,0,0,5,false,NoToolNecessary,true,1125_SongoftheSea_interact,,,true,true,false,,,false,false,,,,0
 1126_AncientDevice_A,@1126_AncientDevice_DisplayName,Handcrafting,None,Empty,,25,30,None,0,0,5,false,ItemRequired,true,1126_AncientDevice_A_interact,1126_AncientArtifact,1,true,true,false,,,false,false,,,,0
@@ -951,3 +948,4 @@ AzothScript,@AzothScript_DisplayName,AzothStaffLow,AzothStaff,Empty,,900,1800,Az
 CyclicExample_White_Prisma,@CyclicExample_RainbowPrisma,Cutting,Cutting,Empty,,30,60,Harvesting,0,0,2.5,false,ToolRequired,false,,,,true,true,false,,,false,false,,,,0
 CyclicExample_Black_Prisma,@CyclicExample_DarkPrisma,None,None,Empty,,30,60,None,0,0,1,false,NoToolNecessary,false,,,,true,true,false,,,false,false,,,,0
 CyclicExample_Mystic_Tree,@CyclicExample_MysticTree,None,None,Empty,,64000,64000,None,0,0,3,false,NoToolNecessary,false,,,,true,true,false,,,false,false,,,,0
+LuckShrine_MothersLove,@LuckShrine_MothersLove,Handcrafting,None,Empty,,79200,79200,None,0,0,1,false,NoToolNecessary,true,,,,true,false,false,,,false,false,Shrine_MothersLove,,,0

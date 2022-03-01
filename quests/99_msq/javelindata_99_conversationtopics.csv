@@ -43,3 +43,5 @@ ConversationTopicId,PlayerPrompt,NPCResponse,AchievementUnlock,RequiredAchieveme
 9923_Constance_Origins1,@9923_MSQ_Constance_Prompt_Origins1,@9923_MSQ_Constance_Response_Origins1,,,,
 9924_Eliza_Origins1,@9924_MSQ_Eliza_Prompt_Origins1,@9924_MSQ_Eliza_Response_Origins1,,,,
 9925_Samir_Origins1,@9925_MSQ_Samir_Prompt_Origins1,@9925_MSQ_Samir_Response_Origins1,,,,
+9919_MSQ_DepthsSkip,@9919_MSQ_DepthsSkip_Prompt,@9919_MSQ_DepthsSkip_Response,,,,
+9902_MSQ_ExpeditionSkip,@9902_MSQ_ExpeditionSkip_Prompt,@9902_MSQ_ExpeditionSkip_Response,,,,

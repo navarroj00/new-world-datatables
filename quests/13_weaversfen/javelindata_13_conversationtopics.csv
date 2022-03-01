@@ -1,3 +1,4 @@
 ConversationTopicId,PlayerPrompt,NPCResponse,AchievementUnlock,RequiredAchievement,RequiredFaction,RequiredLevel
 1301_Torchy_01,@1301_Torchy_01_Prompt,@1301_Torchy_01_Response,,,,
 1331_MonsterHunter_01,@1331_MonsterHunter_01_Prompt,@1331_MonsterHunter_01_Response,,,,
+1323_Fisher_ExplainHotspots,@0223_Fisher_ExplainHotspots_Prompt,@0223_Fisher_ExplainHotspots_Response,,,,

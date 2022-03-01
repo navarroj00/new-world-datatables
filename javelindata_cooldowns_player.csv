@@ -27,7 +27,7 @@ ID,AbilityID,Time,WeaponTag
 26,Ability_Musket_ShootersStance,18,Rifle
 27,Ability_Musket_PowderBurn,15,Rifle
 28,Ability_Musket_Traps,20,Rifle
-29,Ability_Musket_StoppingPower,15,Rifle
+29,Ability_Musket_StoppingPower,20,Rifle
 30,Ability_Musket_StickyBomb,12,Rifle
 31,Ability_Bow_RapidShot,14,Bow
 32,Ability_Bow_EvadeShot,15,Bow
@@ -56,10 +56,10 @@ ID,AbilityID,Time,WeaponTag
 55,Ability_Rapier_Slash,6,Rapier
 56,Ability_Rapier_Flurry,16,Rapier
 57,Ability_Rapier_Flourish,20,Rapier
-58,Ability_Rapier_Riposte,12,Rapier
+58,Ability_Rapier_Riposte,18,Rapier
 59,Ability_Rapier_Lunge,16,Rapier
-60,Ability_Rapier_Evasion,6,Rapier
-61,Ability_Rapier_Aerial_Lunge_Intro,17,Rapier
+60,Ability_Rapier_Evasion,12,Rapier
+61,Ability_Rapier_Aerial_Lunge_Intro,20,Rapier
 62,IceMagic_Spikes,10,MagicGauntlet
 63,IceMagic_IceStorm,20,MagicGauntlet
 64,IceMagic_WindChill,15,MagicGauntlet
@@ -68,7 +68,7 @@ ID,AbilityID,Time,WeaponTag
 67,IceMagic_IcePylon,10,MagicGauntlet
 68,Ability_VoidGauntlet_VoidBlade,25,VoidGauntlet
 69,Ability_VoidGauntlet_NullChamber,20,VoidGauntlet
-70,Ability_VoidGauntlet_Scream,15,VoidGauntlet
+70,Ability_VoidGauntlet_Scream,25,VoidGauntlet
 71,Ability_VoidGauntlet_DecayingOrb,15,VoidGauntlet
 72,Ability_VoidGauntlet_DrainingTether,25,VoidGauntlet
 73,Ability_VoidGauntlet_EssenceRupture,20,VoidGauntlet

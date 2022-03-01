@@ -24,28 +24,28 @@ EventID,GameEventType,Level,CreatureType,UniversalExpAmount,CurrencyReward,ItemR
 1209_0101_covenantquest1_success,,8,Quest,390,475,DyeB139,,0,,0,175,,,,,true,0,1,false
 1202_0403_factionhandoff_success,,9,Quest,460,488,Amulet_TribalLoyaltyCharmT2,,200,,0,175,,,,,true,100,1,false
 1204_0501_encroachingcorruption_success,,9,Quest+,580,683,QuestRewardWeaponsL9,,0,,0,250,,,,,true,100,1,false
-1222_1501_intrototravel_success,,12,Quest,630,525,BagAT1,,0,,0,175,,,,,true,500,1,true
-1222_1502_returntravel_success,,12,Quest,630,525,,,0,,0,175,,,,,true,10,1,false
+1222_1501_intrototravel_success,,12,Quest,950,525,BagAT1,,0,,0,175,,,,,true,500,1,true
+1222_1502_returntravel_success,,12,Quest,950,525,,,0,,0,175,,,,,true,10,1,false
 1205_0302_indigestion_success,,7,Quest,320,4625,QuestRewardArmorL7,,0,,0,175,,,,,true,0,1,false
 1204_0301_TopplingGiants_Success,,7,Quest,320,4625,2hStaffLife_QuestL7,,0,,0,175,,,,,true,0,1,false
 1210_0101_devilhoney_success,,7,Quest,320,4625,QuestRewardArmorL7,,0,,0,175,,,,,true,0,1,false
-1210_0201_daggermist_Success,,12,Quest+,790,7350,QuestRewardArmorL12,,0,,0,250,,,,,true,0,1,false
-1205_0301_broken_weapons_success,,13,Quest+,800,7525,QuestRewardWeaponsL13,,0,,0,250,,,,,true,20,1,false
-1203_0401_fashion_success,,17,Quest+,1000,8225,AmuletMonarchsBluffT3,,0,Camping,1,250,,,,,true,20,1,false
-1205_0501_ancientcraft_Success,,17,Quest+,1000,8225,2hBowMonarchsBluffT3,,0,,0,250,,,,,true,20,1,false
-1203_0301_failed_harvest_success,,19,Quest,910,6125,QuestRewardArmorL19,,0,,0,175,,,,,true,10,1,false
-1203_0302_root_problem_success,,20,Quest,960,6250,QuestRewardWeaponsL20,,0,,0,175,,,,,true,10,1,false
-1204_0201_goodwill_success,,23,Quest+,1420,9275,QuestRewardArmorL23,,0,,0,250,,,,,true,20,1,false
-1204_0202_stores_success,,24,Quest+,1480,9450,QuestRewardArmorL24,,0,,0,250,,,,,true,20,1,false
-1202_0501_rightofway_success,,24,Quest+,1480,9450,2hSpear_QuestL24,,0,,0,250,,,,,true,20,1,false
-1205_0303_crownjewels_success,,24,Quest+,1480,9450,HeavyChest_MonarchsBluffT3,,0,,0,250,,,,,true,20,1,false
-1225_0101_downpayment_success,,14,Quest+,840,7700,QuestRewardHousing1,Contains Settler Table & Lighting,0,,0,250,,,,,true,20,1,false
-1225_0201_majorpurchase_success,,18,Quest+,1080,8400,House_HousingItem_Chair_Settler_Chair01_A,,0,,0,250,,,,,true,20,1,false
-1225_0301_insuringinvestmentA_success,,21,Quest+,1280,8925,,,0,,0,250,,,,,true,20,1,false
-1225_0302_insuringinvestmentB_success,,23,Quest+,1420,9275,House_HousingItem_Storage_T1_ChestOldLog,,0,,0,250,,,,,true,20,1,false
-1225_0401_siteinspection_success,,30,Quest+,1830,10500,House_HousingItem_Bed_Settler_Bed02_A,,0,,0,250,,,,,true,20,1,false
-1225_0501_mandatoryimprovements_success,,37,Quest+,2230,11725,,,0,,0,250,,,,,true,20,1,false
-1225_0601_closingcost_success,,50,Quest+,2890,14000,QuestRewardHousing7,Contains materials for trophy,0,,0,250,,,,,true,20,1,false
+1210_0201_daggermist_Success,,12,Quest+,1190,7350,QuestRewardArmorL12,,0,,0,250,,,,,true,0,1,false
+1205_0301_broken_weapons_success,,13,Quest+,1200,7525,QuestRewardWeaponsL13,,0,,0,250,,,,,true,20,1,false
+1203_0401_fashion_success,,17,Quest+,1500,8225,AmuletMonarchsBluffT3,,0,Camping,1,250,,,,,true,20,1,false
+1205_0501_ancientcraft_Success,,17,Quest+,1500,8225,2hBowMonarchsBluffT3,,0,,0,250,,,,,true,20,1,false
+1203_0301_failed_harvest_success,,19,Quest,1370,6125,QuestRewardArmorL19,,0,,0,175,,,,,true,10,1,false
+1203_0302_root_problem_success,,20,Quest,1440,6250,QuestRewardWeaponsL20,,0,,0,175,,,,,true,10,1,false
+1204_0201_goodwill_success,,23,Quest+,2120,9275,QuestRewardArmorL23,,0,,0,250,,,,,true,20,1,false
+1204_0202_stores_success,,24,Quest+,2220,9450,QuestRewardArmorL24,,0,,0,250,,,,,true,20,1,false
+1202_0501_rightofway_success,,24,Quest+,2220,9450,2hSpear_QuestL24,,0,,0,250,,,,,true,20,1,false
+1205_0303_crownjewels_success,,24,Quest+,2220,9450,HeavyChest_MonarchsBluffT3,,0,,0,250,,,,,true,20,1,false
+1225_0101_downpayment_success,,14,Quest+,1260,7700,QuestRewardHousing1,Contains Settler Table & Lighting,0,,0,250,,,,,true,20,1,false
+1225_0201_majorpurchase_success,,18,Quest+,1620,8400,House_HousingItem_Chair_Settler_Chair01_A,,0,,0,250,,,,,true,20,1,false
+1225_0301_insuringinvestmentA_success,,21,Quest+,1920,8925,,,0,,0,250,,,,,true,20,1,false
+1225_0302_insuringinvestmentB_success,,23,Quest+,2120,9275,House_HousingItem_Storage_T1_ChestOldLog,,0,,0,250,,,,,true,20,1,false
+1225_0401_siteinspection_success,,30,Quest+,2740,10500,House_HousingItem_Bed_Settler_Bed02_A,,0,,0,250,,,,,true,20,1,false
+1225_0501_mandatoryimprovements_success,,37,Quest+,3340,11725,,,0,,0,250,,,,,true,20,1,false
+1225_0601_closingcost_success,,50,Quest+,4340,14000,QuestRewardHousing7,Contains materials for trophy,0,,0,250,,,,,true,20,1,false
 1204_MSQ_AllThatRemainsGather4_success,,3,Quest,0,0,,,0,,0,0,,,,,true,0,0,false
 1204_MSQ_AllThatRemainsGather5_success,,3,Quest,0,0,,,0,,0,0,,,,,true,0,1,false
 1201_JamJar_interact,,0,Quest-,0,0,,,0,,0,0,,,,,true,0,0,false

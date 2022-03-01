@@ -1,6 +1,6 @@
 WarboardStatID,InGameStat,EndGameStat,AG_TotalDamageDealt,AG_HealingDone,AG_Score,AG_AITakedowns,AG_PlayerTakedowns,AG_TotalResourcesDeposited
-PlayerKills,true,true,0,0,150,0,1,0
-AIKills,false,true,0,0,40,1,0,0
+PlayerKills,true,true,0,0,50,0,1,0
+AIKills,false,true,0,0,10,1,0,0
 InfusedWoodGathered,false,true,0,0,0,0,0,0
 InfusedOreGathered,false,true,0,0,0,0,0,0
 InfusedHideGathered,false,true,0,0,0,0,0,0
@@ -8,10 +8,12 @@ InfusedWoodDeposited,false,true,0,0,2,0,0,1
 InfusedOreDeposited,false,true,0,0,2,0,0,1
 InfusedHideDeposited,false,true,0,0,2,0,0,1
 AzothEssenceDeposited,false,false,0,0,1,0,0,1
-DamageWithWeapons,false,true,1,0,0,0,0,0
-DamageWithSiegeWeapons,false,true,1,0,0,0,0,0
+DamageToPlayers,false,true,1,0,0.009999999776482582,0,0,0
+DamageToAI,false,true,1,0,0.0024999999441206455,0,0,0
+DamageToOther,false,true,1,0,0.0024999999441206455,0,0,0
+DamageWithSiegeWeapons,false,true,1,0,0.004999999888241291,0,0,0
 HealingDoneToSelf,false,true,0,1,0,0,0,0
-HealingDoneToAllies,false,true,0,1,0.009999999776482582,0,0,0
+HealingDoneToAllies,false,true,0,1,0.007499999832361937,0,0,0
 TotalDamageDealt,false,true,0,0,0,0,0,0
 HealingDone,false,true,0,0,0,0,0,0
 Score,true,true,0,0,0,0,0,0

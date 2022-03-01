@@ -1,3 +1,4 @@
 ConversationTopicId,PlayerPrompt,NPCResponse,AchievementUnlock,RequiredAchievement,RequiredFaction,RequiredLevel
 1403_Topic1,@1403_Topic1_Prompt,@1403_Topic1_Response,,,,
 1425_Prospector_talk,@1425_Prospector_talk_Prompt,@1425_Prospector_talk_Response,,,,
+1424_Fisher_ExplainHotspots,@0223_Fisher_ExplainHotspots_Prompt,@0223_Fisher_ExplainHotspots_Response,,,,

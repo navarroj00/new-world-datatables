@@ -191,6 +191,7 @@ M_HeavyChest_MarauderLegatusT5,HeavyChest_MarauderLegatusT5,,,,,,1,0,1,38,Maraud
 M_HeavyHands_MarauderLegatusT5,HeavyHands_MarauderLegatusT5,,,,,,1,0,1,37,MarauderTokens,Marauder,4,22500,60000,,0,0,0,0,,false
 M_HeavyLegs_MarauderLegatusT5,HeavyLegs_MarauderLegatusT5,,,,,,1,0,1,39,MarauderTokens,Marauder,4,37500,100000,,0,0,0,0,,false
 M_HeavyFeet_MarauderLegatusT5,HeavyFeet_MarauderLegatusT5,,,,,,1,0,1,40,MarauderTokens,Marauder,4,15000,40000,,0,0,0,0,,false
+M_GypsumOrb,GypsumOrb,,,,,,1,0,1,41,MarauderTokens,Marauder,4,7000,0,,0,82800,0,0,,false
 C_1hLongsword_CovenantRank1,1hLongsword_CovenantRank1,,,,,,1,0,1,1,CovenantTokens,Covenant,0,1750,8000,,0,0,0,0,,false
 C_2hWarhammer_CovenantRank1,2hWarhammer_CovenantRank1,,,,,,1,0,1,5,CovenantTokens,Covenant,0,2500,12500,,0,0,0,0,,false
 C_2hMusket_CovenantRank1,2hMusket_CovenantRank1,,,,,,1,0,1,4,CovenantTokens,Covenant,0,2500,12500,,0,0,0,0,,false
@@ -383,6 +384,7 @@ C_HeavyChest_CovenantInquisitorT5,HeavyChest_CovenantInquisitorT5,,,,,,1,0,1,37,
 C_HeavyHands_CovenantInquisitorT5,HeavyHands_CovenantInquisitorT5,,,,,,1,0,1,38,CovenantTokens,Covenant,4,22500,60000,,0,0,0,0,,false
 C_HeavyLegs_CovenantInquisitorT5,HeavyLegs_CovenantInquisitorT5,,,,,,1,0,1,39,CovenantTokens,Covenant,4,37500,100000,,0,0,0,0,,false
 C_HeavyFeet_CovenantInquisitorT5,HeavyFeet_CovenantInquisitorT5,,,,,,1,0,1,40,CovenantTokens,Covenant,4,15000,40000,,0,0,0,0,,false
+C_GypsumOrb,GypsumOrb,,,,,,1,0,1,41,CovenantTokens,Covenant,4,7000,0,,0,82800,0,0,,false
 S_1hLongsword_SyndicateRank1,1hLongsword_SyndicateRank1,,,,,,1,0,1,1,SyndicateTokens,Syndicate,0,1750,8000,,0,0,0,0,,false
 S_2hWarhammer_SyndicateRank1,2hWarhammer_SyndicateRank1,,,,,,1,0,1,5,SyndicateTokens,Syndicate,0,2500,12500,,0,0,0,0,,false
 S_2hMusket_SyndicateRank1,2hMusket_SyndicateRank1,,,,,,1,0,1,4,SyndicateTokens,Syndicate,0,2500,12500,,0,0,0,0,,false
@@ -575,6 +577,7 @@ S_MediumChest_SyndicatePlagueDoctorT5,MediumChest_SyndicatePlagueDoctorT5,,,,,,1
 S_MediumHands_SyndicatePlagueDoctorT5,MediumHands_SyndicatePlagueDoctorT5,,,,,,1,0,1,38,SyndicateTokens,Syndicate,4,22500,60000,,0,0,0,0,,false
 S_MediumLegs_SyndicatePlagueDoctorT5,MediumLegs_SyndicatePlagueDoctorT5,,,,,,1,0,1,39,SyndicateTokens,Syndicate,4,37500,100000,,0,0,0,0,,false
 S_MediumFeet_SyndicatePlagueDoctorT5,MediumFeet_SyndicatePlagueDoctorT5,,,,,,1,0,1,40,SyndicateTokens,Syndicate,4,15000,40000,,0,0,0,0,,false
+S_GypsumOrb,GypsumOrb,,,,,,1,0,1,41,SyndicateTokens,Syndicate,4,7000,0,,0,82800,0,0,,false
 ArrowFTW,ArrowFTW,,,,,,1,0,30,1,Battle_Token,Battle_Token,0,15,0,,0,0,0,0,,false
 ShotFTW,ShotFTW,,,,,,1,0,30,2,Battle_Token,Battle_Token,0,15,0,,0,0,0,0,,false
 PotionCleanseFTW,PotionCleanseFTW,,,,,,1,0,3,3,Battle_Token,Battle_Token,0,20,0,,0,0,0,0,,false

@@ -1,5 +1,7 @@
 WarboardStatID,InGameStat,EndGameStat,AG_TotalDamageDealt,AG_Kills,AG_HealingDone,AG_DamageTaken,AG_Score
-DamageWithWeapons,false,true,1,0,0,0,0.019999999552965164
+DamageToPlayers,false,true,1,0,0,0,0.019999999552965164
+DamageToAI,false,true,1,0,0,0,0.019999999552965164
+DamageToOther,false,true,1,0,0,0,0.019999999552965164
 DamageWithSiegeWeapons,false,true,1,0,0,0,0.004999999888241291
 KillsWithSiegeWeapons,false,true,0,1,0,0,50
 KillsWithWeapons,false,true,0,1,0,0,50
