@@ -450,3 +450,4 @@ Ent_Housing_Love2022_Table,561,true,,,false,,HousingItem,House_HousingItem_Entit
 Ent_Housing_Love2022_Bundle,562,true,,,false,,Entitlement,Ent_Housing_Love2022_Couch+Ent_Housing_Love2022_Chair+Ent_Housing_Love2022_Candelabra+Ent_Housing_Love2022_Sconce+Ent_Housing_Love2022_Desk+Ent_Housing_Love2022_LovePotion+Ent_Housing_Love2022_Tub+Ent_Housing_Love2022_VaseFlowers+Ent_Housing_Love2022_Table,,Store,
 EntitlementTitle_BugHunter,565,true,,,false,,PlayerTitle,PlayerTitle_BugHunter,,Store,
 CPPE,581,true,,,false,,Misc,,,,
+EntitlementSkin_PurpleEyes_Twitch,625,true,,,false,,ItemSkin,Skin_Head_PrimeEyes,,Twitch,
