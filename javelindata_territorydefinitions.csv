@@ -8,13 +8,12 @@ TerritoryID,NameLocalizationKey,BaseStructureLimit,MaxStructureLimit,TerritorySc
 7,@ShatteredMountain,300,500,0,false,,,,,,,,Shattered,,,Music_Territory,Shattered_Mountain,60,65,true,,true,None,None,,1.25,400
 8,@Queensport,300,500,0,false,,,,,,,,Queensport,,,Music_Territory,Queensport,52,60,true,,true,Taxes_Refining_Modifier,"InfluencePoints_Modifier,ExperiencePoints_Modifier",TerritoryPermanentOwner08,1.25,400
 9,@FirstLight,300,500,0,false,,,,,,,,FirstLight,,,Music_Territory,First_Light,1,25,true,09_getoffbeach,true,Azoth_FastTravel_Weight_Reduction,"InfluencePoints_Modifier,ExperiencePoints_Modifier",TerritoryPermanentOwner09,1.25,75
-10,@CutlassKeys,300,500,0,false,,,,,,,,CutlassKeys,,,Music_Territory,Cutlass Keys,26,35,true,,true,Azoth_FastTravel_GeneralCost_Reduction,"InfluencePoints_Modifier,ExperiencePoints_Modifier",TerritoryPermanentOwner10,1.25,150
+10,@CutlassKeys,300,500,0,false,,,,,,,,CutlassKeys,,,Music_Territory,Cutlass_Keys,26,35,true,,true,Azoth_FastTravel_GeneralCost_Reduction,"InfluencePoints_Modifier,ExperiencePoints_Modifier",TerritoryPermanentOwner10,1.25,150
 11,@Mourningdale,300,500,0,false,,,,,,,,Mourning,,,Music_Territory,Mourningdale,45,50,true,,true,Rewards_Expedition_Modifier,"InfluencePoints_Modifier,ExperiencePoints_Modifier",TerritoryPermanentOwner11,1.25,200
 12,@MonarchsBluffs,300,500,0,false,,,,,,,,Monarchs,,,Music_Territory,Monarchs_Bluffs,1,25,true,12_getoffbeach,true,Azoth_FastTravel_Distance_Reduction,"InfluencePoints_Modifier,ExperiencePoints_Modifier",TerritoryPermanentOwner12,1.25,75
 13,@WeaversFen,300,500,0,false,,,,,,,,Weavers,,,Music_Territory,Weavers_Fen,30,40,true,,true,Rewards_FactionMission_Modifier,"InfluencePoints_Modifier,ExperiencePoints_Modifier",TerritoryPermanentOwner13,1.25,150
 14,@Edengrove,300,500,0,false,,,,,,,,Edengrove,,,Music_Territory,Edengrove,51,60,true,,true,None,None,,1.25,400
-15,@RestlessShore,300,500,0,false,,,,,,,,Restless,,,Music_Territory,Restless Shore,41,46,true,,true,Rewards_DarknessEvent_Modifier,"InfluencePoints_Modifier,ExperiencePoints_Modifier",TerritoryPermanentOwner15,1.25,200
-17,,300,500,0,false,,,,,,,,,,,,,0,0,false,,false,,,,0,0
+15,@RestlessShore,300,500,0,false,,,,,,,,Restless,,,Music_Territory,Restless_Shore,41,46,true,,true,Rewards_DarknessEvent_Modifier,"InfluencePoints_Modifier,ExperiencePoints_Modifier",TerritoryPermanentOwner15,1.25,200
 18,,300,500,0,false,,,,,,,,,,,,,0,0,false,,false,,,,0,0
 19,,300,500,0,false,,,,,,,,,,,,,0,0,false,,false,,,,0,0
 20,,300,500,0,false,,,,,,,,,,,,,0,0,false,,false,,,,0,0

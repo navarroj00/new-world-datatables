@@ -1,1 +1,2 @@
-CinematicVideoId,VideoPath,ReqAchievementId,Name,Description
+CinematicVideoId,VideoPath,Name,ReqAchievementId,OnWatchedAchievementId,DurationInSec,Description
+TempestReckoning,LyShineUI/Videos/TempestReckoning.bk2,@cinmatic_video_tempest_reckoning,SwapActive_MSQ_MaraBook,Cinematic_TempestReckoning,108,

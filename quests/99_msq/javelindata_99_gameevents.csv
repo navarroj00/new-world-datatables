@@ -1,6 +1,6 @@
 EventID,GameEventType,Level,CreatureType,Reward Type,UniversalExpAmount,CurrencyReward,ItemReward,GearScoreRange,CategoricalProgressionId,CategoricalProgressionReward,TerritoryStanding,FactionReputation,FactionTokens,FactionInfluenceAmount,FactionInfluenceSrc,EmitTelemetry,AzothReward,AzothRewardChance
-9901_MSQ_TheHermit_success,,12,MSQ,Armor,1580,4200,QuestRewardArmorL12,,,0,0,,,,,true,100,1
-9901_0008_oldstoneremembers_v2_success,,13,MSQ+,Armor,2000,6450,QuestRewardArmorL13,,,0,0,,,,,true,100,1
+9901_MSQ_TheHermit_success,,12,MSQ,Armor,1580,4200,MediumFeet_QuestReward_Hermit,,,0,0,,,,,true,100,1
+9901_0008_oldstoneremembers_v2_success,,13,MSQ+,Armor,2000,6450,MediumFeet_QuestReward_Hermit,,,0,0,,,,,true,100,1
 9901_0009_thetower_success,,14,MSQ,Weapons,1680,23400,QuestRewardWeaponsL14,,,0,0,,,,,true,150,1
 9901_0010_inthequiet_success,,15,MSQ,Armor,1730,4500,QuestRewardArmorL15,,,0,0,,,,,true,150,1
 9901_0011_afreshsoul_v2_success,,17,MSQ+,Weapons,2500,26050,QuestRewardWeaponsL17,,,0,0,,,,,true,150,1
@@ -116,3 +116,11 @@ MSQ_0052_BombShip_interact,,0,MSQ-,,0,0,,,,0,0,,,,,true,0,0
 MSQ_0052_BombShip2_interact,,0,MSQ-,,0,0,,,,0,0,,,,,true,0,0
 MSQ_0052_BombShip3_interact,,0,MSQ-,,0,0,,,,0,0,,,,,true,0,0
 MSQ_0052_BombShip4_interact,,0,MSQ-,,0,0,,,,0,0,,,,,true,0,0
+MSQ_0052_BombCargo1_interact,,0,MSQ-,,0,0,,,,0,0,,,,,true,0,0
+MSQ_0052_BombCargo2_interact,,0,MSQ-,,0,0,,,,0,0,,,,,true,0,0
+MSQ_0052_BombCargo3_interact,,0,MSQ-,,0,0,,,,0,0,,,,,true,0,0
+MSQ_0052_BombCargo4_interact,,0,MSQ-,,0,0,,,,0,0,,,,,true,0,0
+MSQ_0052_BombCargo5_interact,,0,MSQ-,,0,0,,,,0,0,,,,,true,0,0
+MSQ_0052_BombCargo6_interact,,0,MSQ-,,0,0,,,,0,0,,,,,true,0,0
+MSQ_0052_BombCargo7_interact,,0,MSQ-,,0,0,,,,0,0,,,,,true,0,0
+MSQ_0036_Thorpe_Interact,,0,MSQ-,,0,0,,,,0,0,,,,,true,0,0

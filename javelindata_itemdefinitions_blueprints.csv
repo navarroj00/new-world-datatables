@@ -200,6 +200,8 @@ CampT5,@CampT5_MasterName,,,1,0,0,0,0,300,0,,0,0,0,false,Low,Small,MakeCamp,,Pla
 CampSkin_Winter01_A,@CampSkin_Winter01_A_MasterName,,,1,0,0,0,0,300,0,,0,0,0,false,Low,Small,MakeCamp,,Place_Camp,0,WoodT1,FlintT1,,,5,1,0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,0,0,0,,
 CampSkin_Winter02_A,@CampSkin_Winter02_A_MasterName,,,1,0,0,0,0,300,0,,0,0,0,false,Low,Small,MakeCamp,,Place_Camp,0,WoodT1,FlintT1,,,5,1,0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,0,0,0,,
 CampSkin_Winter03_A,@CampSkin_Winter03_A_MasterName,,,1,0,0,0,0,300,0,,0,0,0,false,Low,Small,MakeCamp,,Place_Camp,0,WoodT1,FlintT1,,,5,1,0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,0,0,0,,
+CampSkin_Floral01_A,@CampSkin_Floral01_A_MasterName,,,1,0,0,0,0,300,0,,0,0,0,false,Low,Small,MakeCamp,,Place_Camp,0,WoodT1,FlintT1,,,5,1,0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,0,0,0,,
+CampSkin_Love01_A,@CampSkin_Love01_A_MasterName,,,1,0,0,0,0,300,0,,0,0,0,false,Low,Small,MakeCamp,,Place_Camp,0,WoodT1,FlintT1,,,5,1,0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,0,0,0,,
 Graveyard,@Graveyard_MasterName,,,0,0,0,0,0,0,0,,0,0,0,false,,,,,,0,,,,,0,0,0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,0,0,0,,
 Dev,@Dev_MasterName,,,0,1,0,0,0,200,0,,0,60,0.20999999344348907,false,Low,Small,,,,0,BranchT1,,,,1,0,0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,0,0,0,,
 RuinTest,@RuinTest_MasterName,,,0,0,0,0,0,100,500,,0,60,0.20999999344348907,false,Low,Large,,,,0,BranchT1,,,,1,0,0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,0,0,0,,

@@ -35,3 +35,4 @@ TerritoryID,NameLocalizationKey,BaseStructureLimit,MaxStructureLimit,TerritorySc
 50248,@ui_poi_factionarea_50248,,,,true,,,60,false,true,0,,,,,factionarea_50248_charted,factionarea_50248,Music_POI,factionarea,true,Faction Area,,,0,,,0,
 50249,@ui_poi_factionarea_50249,,,,true,,,60,false,true,0,,,,,factionarea_50249_charted,factionarea_50249,Music_POI,factionarea,true,Faction Area,,,0,,,0,
 50250,@ui_poi_spiritshrine_01_50250,,,,true,LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png,,150,false,true,1,,,,,spiritshrine_01_50250_charted,spiritshrine_01_50250,Music_POI,watchtower,false,Spirit Shrine,,,0,LyShineUI/Images/Map/tooltipImages/mapTooltip_spiritshrine.png,,0,LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png
+50251,@ui_poi_stinky_50251,,,,true,LyShineUI/Images/Map/Icon/POIs/abandoned_fishing_village.png,,70,true,true,0,,,,stinky_50251_discovered,stinky_50251_charted,stinky_50251,Music_POI,abandoned_village,false,Stinky's Shack,,,0,,,0,

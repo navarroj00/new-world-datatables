@@ -72,3 +72,10 @@ ID,AbilityID,Time,WeaponTag
 71,Ability_VoidGauntlet_DecayingOrb,15,VoidGauntlet
 72,Ability_VoidGauntlet_DrainingTether,25,VoidGauntlet
 73,Ability_VoidGauntlet_EssenceRupture,20,VoidGauntlet
+74,Ability_Blunderbuss_ClawShot,20,Blunderbuss
+75,Ability_Blunderbuss_NetShot,20,Blunderbuss
+76,Ability_Blunderbuss_VortexShot,30,Blunderbuss
+77,Ability_Blunderbuss_SplittingGrenade,30,Blunderbuss
+78,Ability_Blunderbuss_AzothShrapnelBlast,14,Blunderbuss
+79,Ability_Blunderbuss_MortarShot,18,Blunderbuss
+80,Ability_Blunderbuss_Charge,2,Blunderbuss

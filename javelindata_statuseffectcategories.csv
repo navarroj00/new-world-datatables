@@ -11,6 +11,18 @@ Disease,0,0,0,0,0,0,HealMod:-0.5
 Haste,-0.20000000298023224,-0.800000011920929,0,0,0,0,"MoveSpeedMod:0.5,SprintSpeedMod:0.5"
 AI_Neutral,0,0,0,0,0,0,
 NonDispellableDebuff,0,0,0,0,0,0,
+BossDebuff,0,0,0,0,0,0,
 MutatorEmpower,0,0,0,0,0,0,"DMGStandard:5.0,DMGSiege:5.0,DMGStrike:5.0,DMGSlash:5.0,DMGThrust:5.0,DMGArcane:5.0,DMGFire:5.0,DMGIce:5.0,DMGNature:5.0,DMGLightning:5.0,DMGCorruption:5.0"
 MutatorHearty,0,0,0,0,0,0,MaxHealthMod:5.0
 MutatorDisease,0,0,0,0,0,0,HealMod:-1.0
+MutatorCurse,0,0,0,0,0,0,
+Anointed,0,0,0,0,0,0,HealMod:1.0
+UnclampedSlow,0,0,0,0,0,0,
+UnclampedRend,0,0,0,0,0,0,
+UnclampedFortify,0,0,0,0,0,0,
+UnclampedWeaken,0,0,0,0,0,0,
+UnclampedEmpower,0,0,0,0,0,0,
+UnclampedDisease,0,0,0,0,0,0,
+UnclampedHaste,0,0,0,0,0,0,
+UnclampedFactionResourceMod,0,0,0,0,0,0,"FactionReputationMod:3.0,FactionTokensMod:3.0 "
+UnclampedAzothMod,0,0,0,0,0,0,AzothMod:3.0

@@ -93,3 +93,5 @@ ConversationStateId,ConversationType,IsInitialState,DefaultDialogue,RequiredFact
 0425_Herbalist_01c,Linear_Objective,false,@0425_Herbalist_Greet_00,,,0,BeachStart_FirstLight,,,0925_0101_truffles,,,,,,,,,,,,,,,,,,,,,,
 0425_Herbalist_01d,Linear_Objective,false,@0425_Herbalist_Greet_00,,,0,BeachStart_Monarchs,,,1225_0101_truffles,,,,,,,,,,,,,,,,,,,,,,
 0425_Herbalist_02,Linear_Objective,false,@0425_Herbalist_Greet_01,,,0,S_truffles,,,,,,,,,,,,,,,,,,,,,,,,,
+0428_00_Jones,Linear_Objective,true,@NPC_DefaultDialogue_0428_00_Jones,,,0,,,,,,,,,,,,,,0428_Jones_Market,0428_Jones_Tips,,,,,,,,,,,
+0428_01_Jones,Linear_Objective,false,@NPC_DefaultDialogue_0428_01_Jones,,,20,,,,,,,,,,,,,,0428_Jones_Market,0428_Jones_Tips,0428_Jones_House,,,,,,,,,,

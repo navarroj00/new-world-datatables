@@ -48,13 +48,3 @@ EventID,GameEventType,Level,CreatureType,UniversalExpAmount,CurrencyReward,ItemR
 1130_ArcaneFocus2_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
 1130_ArcaneFocus3_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
 1130_ArcaneFocus4_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
-1133_01_SnakeOil_Success,,45,Quest,3170,9375,,,,,,0,,,,,true,10,1
-1132_01_ClaimJumper_Success,,45,Quest,0,0,,,,,,0,,,,,true,10,1
-1132_02_DiamondbackHustler_Success,,45,Quest,3170,9375,,,,,,0,,,,,true,10,1
-1132_03_GrampasGun_Success,,50,Quest,0,0,,,,,,0,,,,,true,10,1
-1132_04_RoomEnough_Success,,55,Quest,3560,10625,,,,,,0,,,,,true,15,1
-1131_01_BigThunder_Success,,55,Quest,3560,10625,,,,,,0,,,,,true,15,1
-1132_05_Shootout_Success,,60,Quest,4500,11250,,,,,,0,,,,,true,15,1
-1132_GrampasGun_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
-1132_Digby_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
-1132_Shootout_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0

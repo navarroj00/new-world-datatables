@@ -24,7 +24,7 @@ EventID,GameEventType,Level,CreatureType,UniversalExpAmount,CurrencyReward,ItemR
 0828_0801_Deadeye_success,,52,Quest+,4410,14350,QuestRewardArmorL51,,,,,250,,,,,true,20,1
 0828_0802_Trinkets_success,,54,Quest+,4430,14700,QuestRewardWeaponsL53,,,,,250,,,,,true,20,1
 0828_0803_Legacy_success,,54,Quest+,4430,14700,QuestRewardWeaponsL53,,,,,250,,,,,true,20,1
-0831_0101_LastArgument_success,,60,Quest+,5630,15750,,,,,,250,,,,,true,30,1
+0831_0101_LastArgument_success,,60,Quest+,5630,15750,2hBlunderbuss_LastArgumentT5,,,,,250,,,,,true,30,1
 0831_0102_LastArgument_Stock_success,,60,Quest+,5630,15750,QuestRewardArmorL65,,,,,250,,,,,true,30,1
 0831_0103_LastArgument_Polished_success,,60,Quest+,5630,15750,QuestRewardWeaponsL65,,,,,250,,,,,true,30,1
 0831_0104_LastArgument_Lock_success,,60,Quest+,5630,15750,QuestRewardArmorL65,,,,,250,,,,,true,30,1

@@ -2,3 +2,5 @@ CampSkinID,ItemId,RequiredAchievementId,IsEntitlement,IsEnabled
 CampSkin_Winter01_A,CampSkin_Winter01_A,CampSkin_Unlock_CampSkin_Winter01_A,false,true
 CampSkin_Winter02_A,CampSkin_Winter02_A,,true,true
 CampSkin_Winter03_A,CampSkin_Winter03_A,,true,true
+CampSkin_Floral01_A,CampSkin_Floral01_A,,true,true
+CampSkin_Love01_A,CampSkin_Love01_A,,true,true

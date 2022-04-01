@@ -9,6 +9,7 @@ HousingItemPetDog,Interact_Pet,Interact_Start,Interact_End,LOOPING - Pet Head of
 HousingItemPetHare,Interact_Pet_Hare,Interact_Start,Interact_End,LOOPING - Pet Head of Increased Sized Rabbit/Hare
 HousingItemPetRabbit,Interact_Pet_Rabbit,Interact_Start,Interact_End,LOOPING - Unused - For Full Sized Rabbit/Hare
 HousingItemPetTiger,Interact_Pet_Tiger,Interact_Start,Interact_End,LOOPING - For Reduced Sized Bigcats
+HousingItemPetPig,Interact_Pet_Pig,Interact_Start,Interact_End,LOOPING - Pet the Pig's Belley
 HousingItemSitOnChair,Interact_Chair,Interact_Start,Interact_End,LOOPING - Player Sit in Chair and Crosses Leg on Thigh
 HousingItemSitOnChair_Snapped,Interact_Chair,Interact_Start,Interact_End,LOOPING - Player Sit in Chair
 HousingItemStandingInteract,Interact_HousingCannon,Interact_Start,Interact_End,SINGLE - Player Reaches Their Hand Out and Back

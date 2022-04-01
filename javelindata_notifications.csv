@@ -25,6 +25,7 @@ Trade_Failure_Not_Enough_Space,@ui_trade_failure,@ui_trade_failure_not_enough_sp
 Trade_Failure_Global_Storage_Not_Enough_Currency,@ui_trade_failure,@ui_trade_failure_global_storage_not_enough_currency,,,-1,Minor,0,0,0,,,
 Trade_Failure_Global_Storage_Wrong_Faction,@ui_trade_failure,@ui_trade_failure_global_storage_wrong_faction,,,-1,Minor,0,0,0,,,
 Trade_Failure_Global_Storage_Invalid_Deposit,@ui_trade_failure,@ui_trade_failure_global_storage_invalid_deposit,,,-1,Minor,0,0,0,,,
+Trade_Failure_Global_Storage_Invalid_Deposit_RFI,@ui_trade_failure,@ui_trade_failure_global_storage_invalid_deposit_rfi,,,-1,Minor,0,0,0,,,
 Enter_Warzone,@ui_notification_warzone_warning_title,@ui_notification_warzone_warning_description,,,1,,1,10,20,,,
 Enter_Lawless,@ui_lawless,@ui_enter_lawless,,,-1,Social,0,0,20,,,
 Exit_Lawless,@ui_lawless,@ui_exit_lawless,,,-1,Social,0,0,20,,,

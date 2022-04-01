@@ -87,6 +87,12 @@ StormcourtPirateBuffs,AND,0,AI_LightningResist_Buff,StatusEffect,1,,,0,,,0,,,0,,
 StormcourtPirateBuffs_Probs,,0,0,,0,,,0,,,0,,,0,,,0,,,0
 StormcourtFamilyBuffs,AND,0,AI_LightningDamage_Buff,StatusEffect,1,ChampionEliteBaseBuffs,BuffBucket,1,AI_LightningResist_Buff,StatusEffect,1,,,0,,,0,,,0
 StormcourtFamilyBuffs_Probs,,0,0,,0,0,,0,0,,0,,,0,,,0,,,0
+SwordShieldMasteryNamed00Buffs,AND,0,AI_Health_Buff,StatusEffect,1,AIIceResistBuff,StatusEffect,1,,,0,,,0,,,0,,,0
+SwordShieldMasteryNamed00Buffs_Probs,,0,0,,0,0,,0,,,0,,,0,,,0,,,0
+SwordShieldMasteryNamed01Buffs,AND,0,AI_ArcaneResist_Buff,StatusEffect,1,AI_Armor_Buff,StatusEffect,1,,,0,,,0,,,0,,,0
+SwordShieldMasteryNamed01Buffs_Probs,,0,0,,0,0,,0,,,0,,,0,,,0,,,0
+ThorpeNamedBuffs,AND,0,AI_CorruptionDamage_Buff,StatusEffect,1,AI_Corruption_Pool_Buff,StatusEffect,1,,,0,,,0,,,0,,,0
+ThorpeNamedBuffs_Probs,,0,0,,0,0,,0,,,0,,,0,,,0,,,0
 WitheredBruteNamed09Buffs,AND,0,AI_StaminaDamage_Buff,StatusEffect,1,AI_Corruption_Pool_Buff,StatusEffect,1,ChampionEliteBaseBuffs,BuffBucket,1,,,0,,,0,,,0
 WitheredBruteNamed09Buffs_Probs,,0,0,,0,0,,0,0,,0,,,0,,,0,,,0
 WolfElementalIceNamed00Buffs,AND,0,AI_ColdAura_Buff,StatusEffect,1,AI_IceDamage_Buff,StatusEffect,1,,,0,,,0,,,0,,,0

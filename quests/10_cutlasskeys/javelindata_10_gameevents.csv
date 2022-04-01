@@ -36,6 +36,9 @@ EventID,GameEventType,Level,CreatureType,RewardModifier,UniversalExpAmount,Curre
 1002_0104_03_Pants_success,,48,Quest+,,4190,13650,,,,,0,250,,,,,true,20,1
 1002_0104_04_Gloves_success,,52,Quest+,,4410,14350,,,,,0,250,,,,,true,20,1
 1002_0104_05_Hat_success,,55,Quest+,,4450,14875,,,,,0,250,,,,,true,30,1
+1036_0101_AdmiralBlackpowder_success,,60,Quest+,,5630,15750,,,,,0,250,,,,,true,30,1
+1037_0101_MysteriesOfDeep_success,,60,Quest+,,5630,15750,,,,,0,250,,,,,true,30,1
+1038_0101_CleansingTreasure_success,,60,Quest+,,5630,15750,,,,,0,250,,,,,true,30,1
 1001_LightningTrap_interact,,0,Quest-,,0,0,,,,,0,100,,,,,true,0,1
 1002_AncientRelic_interact,,0,Quest-,,0,0,,,,,0,100,,,,,true,0,1
 1003_PirateFigurehead_interact,,0,Quest-,,0,0,,,,,0,100,,,,,true,0,1

@@ -68,3 +68,4 @@ FM_killx_with_weapon_musket,Mission,,0,,false,true,true,FM_task_kill_x_enemies_w
 FM_killx_with_weapon_firestaff,Mission,,0,,false,true,true,FM_task_kill_x_enemies_with_weapon_firestaff_container,,,,,,,FactionMission_Success_R1_Sm,FactionMission_Failure,,,,,1,true,,,,,,,,,,,,,,
 FM_killx_with_weapon_lifestaff,Mission,,0,,false,true,true,FM_task_kill_x_enemies_with_weapon_lifestaff_container,,,,,,,FactionMission_Success_R1_Sm,FactionMission_Failure,,,,,1,true,,,,,,,,,,,,,,
 FM_killx_with_weapon_icegauntlet,Mission,,0,,false,true,true,FM_task_kill_x_enemies_with_weapon_icegauntlet_container,,,,,,,FactionMission_Success_R1_Sm,FactionMission_Failure,,,,,1,true,,,,,,,,,,,,,,
+FM_corruption_breach,Mission,,0,,false,true,true,FM_task_corruption_breach_container,,,,,,,FactionMission_Success_R1_Sm,FactionMission_Failure,,,,,1,true,,,,,,,,,,,,,,

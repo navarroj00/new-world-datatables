@@ -1,16 +1,12 @@
 FromItemId,ToItemId,KeepPerks
 ArcanistCharmT2,ArcanistCharmT1,false
-ArmorerCharmT2,ArmorerCharmT1,false
 ChefCharmT2,ChefCharmT1,false
 CorruptedMatterT1,CorruptedMatterT2,false
 JewelcrafterCharmT2,JewelcrafterCharmT1,false
 TravelersCharmT3,TravelersCharmT2,false
 ViscousAzothT1,ViscousAzothT2,false
-WrithingVinesT1,WrithingBriarT2,false
-WrithingVinesT2,WrithingBriarT3,false
 WrithingVinesT3,WrithingBriarT3,false
 WyrdwoodResinT2,ResinT1,false
 WyrdwoodResinT3,ResinT1,false
-WyrdwoodSapT2,SapT2,false
-WyrdwoodSapT3,SapT3,false
 Schematic_House_HousingItem_Table_StoneMasonTable_B,Schematic_House_HousingItem_Table_DinTable_Lg_A,false
+ArrowT1,ArrowT2,false
