@@ -96,7 +96,7 @@ TaskID,Type,FailOnCondition,StayActive,RequiredLevel,TargetQty,ItemName,ItemDrop
 0405_0101_d_02_02_HaveItems_1_IngotT2,TaskHaveItems,,,,1,IngotT2,,,0,,0,,,,false,false,false,,,,,,,,,,0,,,,,,,,,,,,,,,,0,,,,,1,,,,,,,,,,
 0405_0101_d_03_HaveItems_9_IngotT2,TaskHaveItems,,,,9,IngotT2,,,0,,0,,,,false,false,false,,,,,,,,,,0,,,,,,,,,,,,,,,,0,,@0405_0101_d_02_task,,8848 4260 2.92,0,,,,,,,,,,
 0405_0101_d_04_CraftRecipe,TaskCraftWeaponFamily,,1,,1,1hSwordT2,,,0,,0,,,,false,false,false,,,SwordAbilityTable,,,,,,,0,,,,,,,,,,,,,,,,0,,@0405_0101_d_03_task,,8857 4260 2.89,0,,,,,,,,,,
-0405_0101_d_05_HaveItems_1_1hSwordT2,TaskHaveItems,,,,1,1hSwordT2,,,0,,0,,,,false,false,false,,,,,,,,,,0,,,,,,,,,,,,,,,,0,,,,8857 4260 2.89,1,,,,,,,,,,
+0405_0101_d_05_HaveItems_1_1hSwordT2,TaskHaveItemsWithWeaponFamily,,1,,1,SwordAbilityTable,,,0,,0,,,,false,false,false,,,,,,,,,,0,,,,,,,,,,,,,,,,0,,,,8857 4260 2.89,1,,,,,,,,,,
 0405_0102_d_00_container_campingunlock,ConsecutiveTaskContainer,,,,,,,,0,,0,,,,false,false,false,,,,,,,,,,0,,,,,,,,,,,,,,,,0,,,,,0,,,,,,0405_0102_d_01_transport_npc_note,0405_0102_d_02_have_npc_note,,,
 0405_0102_d_01_transport_npc_note,TaskGiveAndTakeItem,,1,,1,MI_SummonsNote,,,100,1,0,,,,false,false,false,,,,,,,,,,0,,,,,,,,,,,,,,,,0,,@04_task_transport_generic,,,1,,,,,,,,,,
 0405_0102_d_02_have_npc_note,TaskHaveAndReturnItems,,1,,1,MI_SummonsNote,,,0,,0,,,,false,false,false,,,,,,,,,,0,,,,,,,,,,,,,,,,1,,@04_task_transport_generic,,,1,,,,,,,,,,

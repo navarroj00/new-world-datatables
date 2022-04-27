@@ -46,3 +46,6 @@ Emote_GiveFlower,Emote_GiveFlower,ui_emote_GiveFlower_name,ui_emote_GiveFlower_d
 Emote_Disco,Emote_Disco,ui_emote_Disco_name,ui_emote_Disco_description,Default,@emote_Disco,disco,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_DiscoDance.dds,
 Emote_Curtsy,Emote_Curtsy,ui_emote_Curtsy_name,ui_emote_Curtsy_description,Friendly,@emote_Curtsy,curtsy,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_Curtsy.dds,
 Emote_Yoga_TreePose,Emote_Yoga_TreePose,ui_emote_Yoga_TreePose_name,ui_emote_Yoga_TreePose_description,Other,@emote_Yoga_TreePose,Tpose,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_Yoga_TreePose.dds,
+Emote_RoastMarshmallow,Emote_RoastMarshmallow,ui_emote_RoastMarshmallow_name,ui_emote_RoastMarshmallow_description,Other,@emote_RoastMarshmallow,marshmallow,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_RoastingMarshmallow.dds,
+Emote_HotFan,Emote_HotFan,ui_emote_HotFan_name,ui_emote_HotFan_description,Other,@emote_HotFan,fan,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_Fan.dds,
+Emote_RightBackAtYa,Emote_RightBackAtYa,ui_emote_RightBackAtYa_name,ui_emote_RightBackAtYa_description,Friendly,@emote_RightBackAtYa,backatya,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_FingerGuns.dds,

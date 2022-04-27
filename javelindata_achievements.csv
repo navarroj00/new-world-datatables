@@ -1,4 +1,4 @@
-AchievementID,AchievementIndex,Category,GameEventId,"New AchivementIndex values must increase, current maximum is",4197,AchivementsIndex &gt; 8000 will require a code change!
+AchievementID,AchievementIndex,Category,GameEventId,"New AchivementIndex values must increase, current maximum is",4198,AchivementsIndex &gt; 8000 will require a code change!
 Map_Unlock_1,0,Map,Read_LoreItem,,,
 Map_Unlock_2,1,Map,Read_LoreItem,,,
 Map_Unlock_3,2,Map,Read_LoreItem,,,
@@ -3850,3 +3850,4 @@ SwapActive_StormwallBarrier_On,4180,Objective,,,,
 SwapActive_MotherwellDoor_On,4181,Objective,,,,
 SwapActive_GrampasDoor_On,4182,Objective,,,,
 Cinematic_TempestReckoning,4183,Objective,,,,
+OneTime_OutpostFactionMissionValidation,4198,OneTimePersistenceValidation,,,,

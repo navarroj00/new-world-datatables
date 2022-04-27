@@ -111,8 +111,6 @@ SwordB,Icons/Items/Drawing/1hRapier,@SwordB_GroupName,@SwordB_GroupDesc
 SwordC,Icons/Items/Drawing/1hSwordC,@SwordC_GroupName,@SwordC_GroupDesc
 SwordD,Icons/Items/Drawing/1hSwordD,@SwordD_GroupName,@SwordD_GroupDesc
 GreatAxe,Icons/Items/Drawing/2hGreatAxe,@GreatAxe_GroupName,@Greataxe_GroupDesc
-1hClub,Icons/Items/Drawing/1hClub,@1hClub_GroupName,@1hClub_GroupDesc
-2hClub,Icons/Items/Drawing/2hClub,@2hClub_GroupName,@2hClub_GroupDesc
 SpearA,Icons/Items/Drawing/bowA,@SpearA_GroupName,@SpearA_GroupDesc
 SpearB,Icons/Items/Drawing/spearB,@SpearB_GroupName,@SpearB_GroupDesc
 BowA,Icons/Items/Drawing/bowA,@BowA_GroupName,@BowA_GroupDesc
@@ -206,7 +204,6 @@ MealsAffliction,Icons/Items/Drawing/placeholder_square,@CategoryData_MealsAfflic
 MealsFeasts,Icons/Items/Drawing/placeholder_square,@CategoryData_MealsFeasts,
 MealsRegeneration,Icons/Items/Drawing/placeholder_square,@CategoryData_MealsRegeneration,
 MealsAbsorption,Icons/Items/Drawing/placeholder_square,@CategoryData_MealsAbsorption,
-CelestialGauntlet,Icons/Items/Drawing/celestialGauntlet_square,@CelestialGauntlet_GroupName,@CelestialGauntlet_GroupDesc
 CampWeapons,,@CampWeapons_GroupName,
 CampAlchemy,,@CampAlchemy_GroupName,
 CampRecovery,Icons/Items/Drawing/potionHealth,@CampRecovery_GroupName,@CampRecovery_GroupDesc

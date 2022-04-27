@@ -104,7 +104,7 @@ TaskID,Type,FailOnCondition,StayActive,TargetQty,ItemName,ItemDropVC,ItemDropPro
 0905_0101_d_02_02_HaveItems_1_IngotT2,TaskHaveItems,,,1,IngotT2,,0,0,false,,,,,false,false,,,,,,,,,,0,,,,,,,,,,,,,,,,0,,,,,1,,,,,,,,,,
 0905_0101_d_03_HaveItems_9_IngotT2,TaskHaveItems,,,9,IngotT2,,0,0,false,,,,,false,false,,,,,,,,,,0,,,,,,,,,,,,,,,,0,,@0905_0101_d_02_task,,8844 648 2.99,,,,,,,,,,,
 0905_0101_d_04_CraftRecipe,TaskCraftWeaponFamily,,1,1,1hSwordT2,,0,0,false,,,,,false,false,,,SwordAbilityTable,,,,,,,0,,,,,,,,,,,,,,,,0,,@0905_0101_d_03_task,,8835 659 2.84,,,,,,,,,,,
-0905_0101_d_05_HaveItems_1_1hSwordT2,TaskHaveItems,,,1,1hSwordT2,,0,0,false,,,,,false,false,,,,,,,,,,0,,,,,,,,,,,,,,,,0,,,,8835 659 2.84,1,,,,,,,,,,
+0905_0101_d_05_HaveItems_1_1hSwordT2,TaskHaveItemsWithWeaponFamily,,1,1,SwordAbilityTable,,0,0,false,,,,,false,false,,,,,,,,,,0,,,,,,,,,,,,,,,,0,,,,8835 659 2.84,1,,,,,,,,,,
 0903_0202_d_00_container_returntomagistrate,ConsecutiveTaskContainer,,,0,,,0,0,false,,,,,false,false,,,,,,,,,,0,,,,,,,,,,,,,,,,0,,,,,,,,,,,0903_0202_d_01_transport_npc_note,0903_0202_d_02_have_npc_note,,,
 0903_0202_d_01_transport_npc_note,TaskGiveAndTakeItem,,1,1,MI_SummonsNote,,0,100,true,,,,,false,false,,,,,,,,,,0,,,,,,,,,,,,,,,,0,,@09_task_transport_generic,,,1,,,,,,,,,,
 0903_0202_d_02_have_npc_note,TaskHaveAndReturnItems,,1,1,MI_SummonsNote,,0,0,false,,,,,false,false,,,,,,,,,,0,,,,,,,,,,,,,,,,1,,@09_task_transport_generic,,,1,,,,,,,,,,
