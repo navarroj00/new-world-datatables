@@ -1,4 +1,4 @@
-TerritoryID,NameLocalizationKey,BaseStructureLimit,MaxStructureLimit,TerritoryScore,IsPOI,MapIcon,CompassIcon,DiscoveryRadius,IsDiscoverable,IsChartable,DefaultAchievement,OutpostId,Debug,LootTags,DiscoveredAchievement,ChartedAchievement,POITag,AudioGroup,AudioState,CanPlaceCamp,DevName,VitalsCategory,LevelRange,Containers,TooltipBackground,GameMode
-100000,@ui_poi_devworld_farm,,,,true,LyShineUI/Images/Map/Icon/POIs/abandoned_farm_village.png,,150,true,true,2,,,,,,devworld_farm,Music_POI,farm,false,DevWorld Farm,,,2,,
-100001,@ui_poi_devworld_cave,,,,true,LyShineUI/Images/Map/Icon/POIs/DamnedTrench.png,,150,true,true,2,,,,,,devworld_cave,Music_POI,cave,false,Dev World Cave,,,3,,DungeonAmrine
-100002,@ui_poi_devworld_spawns,,,,true,LyShineUI/Images/Map/Icon/POIs/Graveyard.png,,150,true,true,2,,,,,,devworld_spawns,Music_POI,farm,false,DevWorld Spawns,,,0,,
+TerritoryID,NameLocalizationKey,BaseStructureLimit,MaxStructureLimit,TerritoryScore,IsPOI,MapIcon,CompassIcon,DiscoveryRadius,IsDiscoverable,IsChartable,DefaultAchievement,OutpostId,Debug,LootTags,DiscoveredAchievement,ChartedAchievement,POITag,AudioGroup,AudioState,CanPlaceCamp,DevName,VitalsCategory,LevelRange,Containers,TooltipBackground,GameMode,EventId
+100000,@ui_poi_devworld_farm,,,,true,LyShineUI/Images/Map/Icon/POIs/abandoned_farm_village.png,,150,true,true,2,,,,,,devworld_farm,Music_POI,farm,false,DevWorld Farm,,,2,,,
+100001,@ui_poi_devworld_cave,,,,true,LyShineUI/Images/Map/Icon/POIs/DamnedTrench.png,,150,true,true,2,,,,,,devworld_cave,Music_POI,cave,false,Dev World Cave,,,3,,DungeonAmrine,
+100002,@ui_poi_devworld_spawns,,,,true,LyShineUI/Images/Map/Icon/POIs/Graveyard.png,,150,true,true,2,,,,,,devworld_spawns,Music_POI,farm,false,DevWorld Spawns,,,0,,,

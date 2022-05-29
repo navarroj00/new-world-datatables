@@ -2,3 +2,8 @@ ConversationTopicId,PlayerPrompt,NPCResponse,AchievementUnlock,RequiredAchieveme
 1301_Torchy_01,@1301_Torchy_01_Prompt,@1301_Torchy_01_Response,,,,
 1331_MonsterHunter_01,@1331_MonsterHunter_01_Prompt,@1331_MonsterHunter_01_Response,,,,
 1323_Fisher_ExplainHotspots,@0223_Fisher_ExplainHotspots_Prompt,@0223_Fisher_ExplainHotspots_Response,,,,
+1345_PartyGuest_01_TaskTopic,@1345_PartyGuest_01_TaskTopic_Prompt,@1345_PartyGuest_01_TaskTopic_Response,,,,
+1346_PartyGuest_02_TaskTopic,@1346_PartyGuest_02_TaskTopic_Prompt,@1346_PartyGuest_02_TaskTopic_Response,,,,
+1347_PartyGuest_03_TaskTopic,@1347_PartyGuest_03_TaskTopic_Prompt,@1347_PartyGuest_03_TaskTopic_Response,,,,
+1348_PartyGuest_04_TaskTopic,@1348_PartyGuest_04_TaskTopic_Prompt,@1348_PartyGuest_04_TaskTopic_Response,,,,
+1349_PartyGuest_05_TaskTopic,@1349_PartyGuest_05_TaskTopic_Prompt,@1349_PartyGuest_05_TaskTopic_Response,,,,

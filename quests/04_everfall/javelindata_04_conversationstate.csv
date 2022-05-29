@@ -95,3 +95,7 @@ ConversationStateId,ConversationType,IsInitialState,DefaultDialogue,RequiredFact
 0425_Herbalist_02,Linear_Objective,false,@0425_Herbalist_Greet_01,,,0,S_truffles,,,,,,,,,,,,,,,,,,,,,,,,,
 0428_00_Jones,Linear_Objective,true,@NPC_DefaultDialogue_0428_00_Jones,,,0,,,,,,,,,,,,,,0428_Jones_Market,0428_Jones_Tips,,,,,,,,,,,
 0428_01_Jones,Linear_Objective,false,@NPC_DefaultDialogue_0428_01_Jones,,,20,,,,,,,,,,,,,,0428_Jones_Market,0428_Jones_Tips,0428_Jones_House,,,,,,,,,,
+0430_00_PVPArena,Linear_Objective,true,@NPC_DefaultDialogue_0430_00_PVPArena,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,
+0430_01_PVPArena,Linear_Objective,false,@NPC_DefaultDialogue_0430_01_PVPArena,,,20,,,,0430_0101_Arena,,,,,,,,,,,,,,,,,,,,,,
+0430_02_PVPArena,Linear_Objective,false,@NPC_DefaultDialogue_0430_02_PVPArena,,,0,PVPArena_Quest_01,,,,,,,,,,,,,,,,,,,,,,,,,
+0435_00_Announcer,Linear_Objective,true,@NPC_DefaultDialogue_0435_00_Announcer,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,

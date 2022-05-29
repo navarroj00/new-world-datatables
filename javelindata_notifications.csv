@@ -30,7 +30,7 @@ Enter_Warzone,@ui_notification_warzone_warning_title,@ui_notification_warzone_wa
 Enter_Lawless,@ui_lawless,@ui_enter_lawless,,,-1,Social,0,0,20,,,
 Exit_Lawless,@ui_lawless,@ui_exit_lawless,,,-1,Social,0,0,20,,,
 Exit_World_Bounds,@ui_notification_world_bound_exit_title,@ui_notification_world_bound_exit,,,1,Minor,1,10,0,,,
-Toggle_PvP,@ui_notification_pvp_flagging_title,@ui_notification_pvp_flagging_message,,,1,Social,1,10,20,,,
+Toggle_PvP,@ui_notification_pvp_flagging_title,@ui_notification_pvp_track_flagging_message,,,1,Social,1,10,20,,,
 Red_Button_Coin_Transferal_Disabled,@ui_feature_disabled,@ui_red_button_coin_transferal_disabled,,,0,Minor,0,0,0,,,
 Red_Button_Coin_Generation_Limited,@ui_feature_disabled,@ui_red_button_coin_generation_limited,,,0,Minor,0,0,0,,,
 Red_Button_Crafting_Disabled,@ui_feature_disabled,@ui_red_button_crafting_disabled,,,0,Minor,0,0,0,,,

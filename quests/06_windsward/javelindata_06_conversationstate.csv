@@ -25,7 +25,7 @@ ConversationStateId,ConversationType,IsInitialState,DefaultDialogue,RequiredFact
 0602_04_Magistrate,Linear_Objective,false,@NPC_DefaultDialogue_0602_04_Magistrate,,0,S_timetochoose_accepted,,,,,,,,,,,,,,,,,,,,,,,,,
 0602_05_Magistrate,Linear_Objective,false,@NPC_DefaultDialogue_0602_05_Magistrate,,0,S_factionhandoff,,,0604_0501_encroachingcorruption,,,,,,,,,,,,,,,,,,,,,,
 0602_05a_Magistrate,Linear_Objective,false,@NPC_DefaultDialogue_0602_05a_Magistrate,,0,S_encroachingcorruption,,,0604_0799_TheHermitWW,,,,,,,,,,,,,,,,,,,,,,
-0602_06_Magistrate,Linear_Objective,false,@NPC_DefaultDialogue_0602_06_Magistrate,,0,,0604_0799_TheHermitWW,0604_0799_container_TheHermitWW,0602_0503_warpandweft,,,,,,,,,,,,,,,,,,,,,,
+0602_06_Magistrate,Linear_Objective,false,@NPC_DefaultDialogue_0602_06_Magistrate,,0,,0604_0799_TheHermitWW,0604_0799_container_TheHermitWW,,,,,,,,,,,0602_FastTravel,,,,,,,,,,,,
 0602_06a_Magistrate,Linear_Objective,false,@NPC_DefaultDialogue_0602_06_Magistrate,,0,MSQ_00_init,,,0602_0503_warpandweft,,,,,,,,,,,,,,,,,,,,,,
 0602_07_Magistrate,Linear_Objective,false,@NPC_DefaultDialogue_0602_07_Magistrate,,0,06_Quest_13,,,0602_0504_fabricnegotiation,,,,,,,,,,,,,,,,,,,,,,
 0602_08_Magistrate,Linear_Objective,false,@NPC_DefaultDialogue_0602_08_Magistrate,,0,06_Quest_16,,,0602_0502_oftheheart,,,,,,,,,,,,,,,,,,,,,,

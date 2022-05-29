@@ -18,6 +18,7 @@ EventID,GameEventType,Level,CreatureType,RewardModifier,UniversalExpAmount,Curre
 1426_0101_MineCartTracks_Interact,,0,Quest,,0,0,,,,,0,,,,,,true,0,0
 1426_0101_BurnTents_Interact,,0,Quest,,0,0,,,,,0,,,,,,true,0,0
 1426_0101_BurnSawmill_Interact,,0,Quest,,0,0,,,,,0,,,,,,true,0,0
+1426_0102_WeakenWall_Interact,,0,Quest,,0,0,,,,,0,,,,,,true,0,0
 1426_0102_CollapseRubble_Interact,,0,Quest,,0,0,,,,,0,,,,,,true,0,0
 1427_0101_AnointingSpot_Interact,,0,Quest,,0,0,,,,,0,,,,,,true,0,0
 1427_0103_PlantingSpot_Interact,,0,Quest,,0,0,,,,,0,,,,,,true,0,0

@@ -1,3 +1,4 @@
 ElementalMutationTypeId,InjectedPerkBucket1,InjectedPerkBucketWeight1,InjectedPerkBucket2,InjectedPerkBucketWeight2,InjectedPerkBucket3,InjectedPerkBucketWeight3,InjectedPerkBucket4,InjectedPerkBucketWeight4,InjectedPerkBucket5,InjectedPerkBucketWeight5,InjectedCreatureLoot,InjectedContainerLoot,InjectedLootTags,Name,Description
 Fir,,,PerkBucket_MutatorFire,,,,,,,,MutatorLoot_Fire,MutatorLoot_Fire,Fire,@FirTitle,@FirDescription
+Nat,,,PerkBucket_MutatorNature,,,,,,,,MutatorLoot_Nature,MutatorLoot_Nature,Nature,@NatTitle,@NatDescription
 Voi,,,PerkBucket_MutatorVoid,,,,,,,,MutatorLoot_Void,MutatorLoot_Void,Void,@VoiTitle,@VoiDescription

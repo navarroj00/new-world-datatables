@@ -9,4 +9,5 @@ Bomber_Explode_Close,DemoHammer,0,0,false,Bullet,Heavy,Siege,,,false,Deflect_Def
 Bomber_Explode_Mid,DemoHammer,0,0,false,Bullet,Heavy,Siege,,,false,Deflect_Default,false,150,150,,4,1,4,15,10,15,0,1,0,0.800000011920929,0,0,0,0.800000011920929,0,1,0,0.800000011920929,0,1,,1,3,2,1,Small ,Small ,Small ,1
 Bomber_Explode_Far,DemoHammer,0,0,false,Bullet,Heavy,Siege,,,false,Deflect_Default,false,100,100,,4,1,4,15,10,15,0,1,0,0.800000011920929,0,0,0,0.800000011920929,0,1,0,0.800000011920929,0,1,,1,3,2,1,Small ,Small ,Small ,1
 Bomber_Destroy_Self,Blunt_AI,0,0,false,Bullet,,Standard,,,false,Deflect_Default,false,500,500,,1,1,1,15,10,15,0,1,0,0.800000011920929,0,0,0,0.800000011920929,0,1,0,0.800000011920929,0,1,,1,3,2,1,Small ,Small ,Small ,1
+Attack_Structure,Blunt_AI,0,0,false,Bullet,Heavy,Siege,,,false,Deflect_Default,false,1,1,,1,1,1,15,10,15,0,0.75,0,0.800000011920929,0,0,0,0.800000011920929,0,0.5,0,0.800000011920929,0,0.10000000149011612,,1,3,0.10000000149011612,1,Small ,Small ,Small ,0
 Fall,Fall,1,1,false,Bullet,,Falling,,,false,,false,1,1,,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,1,0,1,1,,,,1

@@ -17,6 +17,8 @@ Control_Points,PvP,3,@ui_meta_achievements_control_points,LyShineUI\Images\Icons
 Wars,PvP,4,@ui_meta_achievements_wars,LyShineUI\Images\Icons\Achievements\achievement_icon_background02.dds
 Outpost_Rush,PvP,5,@ui_meta_achievements_outpost_rush,LyShineUI\Images\Icons\Achievements\achievement_icon_background02.dds
 PvP_Kill_Counts,PvP,6,@ui_meta_achievements_kill_counts,LyShineUI\Images\Icons\Achievements\achievement_icon_background02.dds
+PvP_Arenas,PvP,7,@ui_meta_achievements_pvp_arenas,LyShineUI\Images\Icons\Achievements\achievement_icon_background02.dds
+PvP_Rewards_Track,PvP,8,@ui_meta_achievements_pvp_rewards_track,LyShineUI\Images\Icons\Achievements\achievement_icon_background02.dds
 Quests,,5,@ui_meta_achievements_quests,
 Territory_Stories,Quests,1,@ui_meta_achievements_territory_stories,LyShineUI\Images\Icons\Achievements\achievement_icon_background03.dds
 Total_Completed,Quests,2,@ui_meta_achievements_total_completed,LyShineUI\Images\Icons\Achievements\achievement_icon_background03.dds

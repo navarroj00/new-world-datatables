@@ -41,19 +41,23 @@ ObjectivePOI,15,10,350,0,1,0,0,0,0,Pending approval,New POI repeatable objective
 ObjectivePOI-,12.5,7.5,275,0,1,0,0,0,0,Pending approval,New POI repeatable objectives
 ObjectivePOI+,20,12.5,425,0,1,0,0,0,0,Pending approval,New POI repeatable objectives
 PvpKill_Low,2,10,0,0,0.5,100,100,1,1,PvP,Flags on Player Kills in PvP
-PvpKill_High,4,20,0,0,1,200,200,1,1,PvP,Flags on Player Kills in PvP
-PvpKill_ExtraHigh,8,30,0,0,1,400,400,1,1,PvP,Flags on Player Kills in PvP
+PvpKill_High,4,20,0,0,1,200,200,8,16,PvP,Flags on Player Kills in PvP
+PvpKill_ExtraHigh,8,30,0,0,1,400,400,16,16,PvP,Flags on Player Kills in PvP
 Player,5,1,0,0,1,0,0,0,0,Player Kill,Vitals Gameevent Override
-Invasion_T1,1,5,1,1,1,1,1,1,1,Invasion Bad Performance,Invasion Reward
-Invasion_T2,1.125,6,1.125,1.125,1,1.125,1.125,1.125,1.125,Invasion OK Performance,Invasion Reward
-Invasion_T3,1.399999976158142,7,1.399999976158142,1.399999976158142,1,1.399999976158142,1.399999976158142,1.399999976158142,1.399999976158142,Invasion Good Performance,Invasion Reward
-Invasion_T4,1.600000023841858,8,1.600000023841858,1.600000023841858,1,1.600000023841858,1.600000023841858,1.600000023841858,1.600000023841858,Invasion Top Tier Performance,Invasion Reward
-War_T1,1,5,0,1,1,1,1,1,1,War Bad Performance,War Reward
-War_T2,2,6,0,1.125,1,1.125,1.125,1.125,1.125,War OK Performance,War Reward
-War_T3,4,7,0,1.399999976158142,1,1.399999976158142,1.399999976158142,1.399999976158142,1.399999976158142,War Good Performance,War Reward
-War_T4,8,8,0,1.600000023841858,1,1.600000023841858,1.600000023841858,1.600000023841858,1.600000023841858,War Top Tier Performance,War Reward
-OutpostRush_T1,0,2,0,0.5,1,1,1,1,1,OR Bad Performance,OR Reward
-OutpostRush_LOSS_T1,0,3,0,0.699999988079071,1,1.125,1.125,1.125,1.125,OR OK Performance,OR Reward
-OutpostRush_T2,0,3,0,0.699999988079071,1,1.125,1.125,1.125,1.125,OR OK Performance,OR Reward
-OutpostRush_T3,0,3.5,0,0.800000011920929,1,1.399999976158142,1.399999976158142,1.399999976158142,1.399999976158142,OR Good Performance,OR Reward
-OutpostRush_T4,0,4,0,1,1,1.600000023841858,1.600000023841858,1.600000023841858,1.600000023841858,OR Top Tier Performance,OR Reward
+Invasion_T1,1,5,1,1,1,1,1,0,0,Invasion Bad Performance,Invasion Reward
+Invasion_T2,1.125,6,1.125,1.125,1,1.125,1.125,0,0,Invasion OK Performance,Invasion Reward
+Invasion_T3,1.399999976158142,7,1.399999976158142,1.399999976158142,1,1.399999976158142,1.399999976158142,0,0,Invasion Good Performance,Invasion Reward
+Invasion_T4,1.600000023841858,8,1.600000023841858,1.600000023841858,1,1.600000023841858,1.600000023841858,0,0,Invasion Top Tier Performance,Invasion Reward
+War_T1,1,5,0,1,1,1,1,500,1000,War Bad Performance,War Reward
+War_T2,2,6,0,1.125,1,1.125,1.125,1000,1500,War OK Performance,War Reward
+War_T3,4,7,0,1.399999976158142,1,1.399999976158142,1.399999976158142,1500,2000,War Good Performance,War Reward
+War_T4,8,8,0,1.600000023841858,1,1.600000023841858,1.600000023841858,2500,2500,War Top Tier Performance,War Reward
+OutpostRush_T1,0,2,0,0.5,1,1,1,0,0,OR Bad Performance,OR Reward
+OutpostRush_LOSS_T1,0,3,0,0.699999988079071,1,1.125,1.125,0,0,OR OK Performance,OR Reward
+OutpostRush_T2,0,3,0,0.699999988079071,1,1.125,1.125,300,500,OR OK Performance,OR Reward
+OutpostRush_T3,0,3.5,0,0.800000011920929,1,1.399999976158142,1.399999976158142,1400,1750,OR Good Performance,OR Reward
+OutpostRush_T4,0,4,0,1,1,1.600000023841858,1.600000023841858,2000,2000,OR Top Tier Performance,OR Reward
+Arena3v3_Loss,0,0,0,0,1,0,0,0,250,,
+Arena3v3_Win_3_Round,1,0,0,0,1,0,0,400,750,,
+Arena3v3_Win_2_Round,1,0,0,0,1,0,0,0,250,,
+Arena3v3_Win_1_Round,1,0,0,0,1,0,0,0,250,,

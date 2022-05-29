@@ -20,3 +20,5 @@ NPCId,Title,GenericName,InteractOptionDisplayNameOverride,ConversationStateId1,C
 0425_HerbalistEF_Town,@0425_Herbalist_title,@0425_Herbalist,,0425_Herbalist_00,0425_Herbalist_02,,,,,,,,,,,,,,,,,,
 0425_HerbalistMB_Town,@0425_Herbalist_title,@0425_Herbalist,,0425_Herbalist_00,0425_Herbalist_02,,,,,,,,,,,,,,,,,,
 0428_Jones,@0428_Jones_title,@0428_Jones,,0428_00_Jones,0428_01_Jones,,,,,,,,,,,,,,,,,,
+0430_PVPArena,@0430_PVPArena_title,@0430_PVPArena,,0430_00_PVPArena,0430_01_PVPArena,0430_02_PVPArena,,,,,,,,,,,,,,,,,
+0435_Announcer,@0435_Announcer_title,@0435_Announcer,,0435_00_Announcer,,,,,,,,,,,,,,,,,,,

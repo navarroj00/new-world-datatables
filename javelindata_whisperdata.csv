@@ -1,0 +1,2 @@
+WhisperId,TriggerType,ObjectiveId,TimelineId,GameEvent,VoiceOver,Subtitle
+ui_whisper_isabella_beach1,GAME_EVENT,,,example_game_event_id,VO_Issa_001_Test1,ui_whisper_isabella_beach1_message

@@ -5,3 +5,4 @@ Support,default,1,false,false
 Killed,default,1,false,false
 Wave_Started,default,1,false,false
 Spawn_Interacted,default,1,false,false
+Spawn_Interacted : BoatEncounter_Cannon_01,interaction,100,true,false

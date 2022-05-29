@@ -1,7 +1,8 @@
 FactionControlBuffID,IsTerritoryBuff,Value,Name,Description,Comments
 InfluencePoints_Modifier,true,0.20000000298023224,@ui_influencepoints_modifier_name,@ui_influencepoints_modifier_desc,
 ExperiencePoints_Modifier,true,0.05000000074505806,@ui_experiencepoints_modifier_name,@ui_experiencepoints_modifier_desc,
-Azoth_FastTravel_GeneralCost_Reduction,false,0.5,@ui_azoth_fasttravel_generalcost_reduction_name,@ui_azoth_fasttravel_generalcost_reduction_desc,Implemented as a reduction of the azoth base travel cost used in calculating total cost (set by stack config 'javelin.housing.fast-travel-settlement-cost')
+Progression_Global_Modifier,false,0.05000000074505806,@ui_progression_global_modifier_name,@ui_progression_global_modifier_desc,"Percentage increase to global experience (combat, tradeskill, mastery, territory)"
+Azoth_FastTravel_GeneralCost_Reduction,false,1,@ui_azoth_fasttravel_generalcost_reduction_name,@ui_azoth_fasttravel_generalcost_reduction_desc,Implemented as a reduction of the azoth base travel cost used in calculating total cost (set by stack config 'javelin.housing.fast-travel-settlement-cost')
 Azoth_FastTravel_Weight_Reduction,false,3,@ui_azoth_fasttravel_weight_reduction_name,@ui_azoth_fasttravel_weight_reduction_desc,Implemented as a reduction of the azoth base travel cost used in calculating total cost (set by stack config 'javelin.housing.fast-travel-settlement-cost')
 Azoth_FastTravel_Distance_Reduction,false,5,@ui_azoth_fasttravel_distance_reduction_name,@ui_azoth_fasttravel_distance_reduction_desc,"Implemented as subtracting this value from the base cost, instead of setting it to 1"
 Azoth_Crafting_Effectiveness_Modifer,false,0.05000000074505806,@ui_azoth_crafting_effectiveness_modifer_name,@ui_azoth_crafting_effectiveness_modifer_desc,These modifiers either increase or decrease based on their usage in code
@@ -9,8 +10,18 @@ Taxes_Crafting_Modifier,false,0.05000000074505806,@ui_taxes_crafting_modifier_na
 Taxes_Refining_Modifier,false,0.05000000074505806,@ui_taxes_refining_modifier_name,@ui_taxes_refining_modifier_desc,
 Taxes_Trading_Modifier,false,0.05000000074505806,@ui_taxes_trading_modifier_name,@ui_taxes_trading_modifier_desc,
 Taxes_Housing_Modifier,false,0.05000000074505806,@ui_taxes_housing_modifier_name,@ui_taxes_housing_modifier_desc,
+Taxes_Global_Modifier,false,0.10000000149011612,@ui_taxes_global_modifier_name,@ui_taxes_global_modifier_desc,Percentage decrease to global taxes for members of that faction.
 Rewards_FactionMission_Modifier,false,0.05000000074505806,@ui_rewards_factionmission_modifier_name,@ui_rewards_factionmission_modifier_desc,
 Rewards_DarknessEvent_Modifier,false,0.05000000074505806,@ui_rewards_darknessevent_modifier_name,@ui_rewards_darknessevent_modifier_desc,
 Rewards_Expedition_Modifier,false,0.05000000074505806,@ui_rewards_expedition_modifier_name,@ui_rewards_expedition_modifier_desc,
 Gathering_Speed_Modifier,false,0.05000000074505806,@ui_gathering_speed_modifier_name,@ui_gathering_speed_modifier_desc,
 Gathering_Volume_Modifier,false,0.10000000149011612,@ui_gathering_volume_modifier_name,@ui_gathering_volume_modifier_desc,
+Gathering_Luck_Roll_Bonus,false,0.10000000149011612,@ui_gathering_luck_roll_bonus_name,@ui_gathering_luck_roll_bonus_desc,Percentage bonus to gathering luck
+Crafting_Refining_Yield_Modifier,false,0.10000000149011612,@ui_crafting_refining_yield_modifier_name,@ui_crafting_refining_yield_modifier_desc,Percentage bonus to global refining yield
+Crafting_Max_GS_Bonus,false,5,@ui_crafting_max_gs_bonus_name,@ui_crafting_max_gs_bonus_desc,"GS bonus for crafting rolls (ceiling, not floor.)"
+Azoth_Salt_Yield_Modifier,false,0.10000000149011612,@ui_azoth_salt_yield_modifier_name,@ui_azoth_salt_yield_modifier_desc,Percentage increase to yield from Azoth Salt gains
+Pvp_Track_Exp_Modifier,false,0.05000000074505806,@ui_pvp_track_exp_modifier_name,@ui_pvp_track_exp_modifier_desc,Percentage increase to experience gained in PvP Rewards track
+Chance_Consumable_Not_Used,false,0.10000000149011612,@ui_chance_consumable_not_used_name,@ui_chance_consumable_not_used_desc,Percentage chance to not consume a consumable on use.
+Road_Movement_Speed_Bonus,false,0,,,"Not approved for use, consider removing if will not be reworked"
+Faction_Store_Discount_Modifier,false,0.05000000074505806,@ui_faction_store_discount_modifier_name,@ui_faction_store_discount_modifier_desc,Percentage decrease to costs for objects in the faction store
+Free_Camping,false,1,@ui_free_camping_name,@ui_free_camping_desc,Enables free camping (no resource requirement)

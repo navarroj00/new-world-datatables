@@ -65,6 +65,8 @@ EventID,GameEventType,Level,CreatureType,Reward Type,UniversalExpAmount,Currency
 9905_0059_InMemoriam_success,,60,MSQ-,,5630,2250,,,,0,0,,,,,true,100,1
 9926_0101_TenaciousRose_success,,20,Quest,Named,2400,6250,BagKnightQuestL20,,,0,0,,,,,true,150,1
 9927_0102_VisionsOfInvaders_success,,20,Quest,Named,2400,6250,MediumHead_KnightQuestL20,,,0,0,,,,,true,150,1
+9926_0103_LostScarecrow_success,,28,Quest,Named,3450,7250,MediumFeet_DeftSoftBootsT3,,,0,0,,,,,true,150,1
+9932_0104_RelicReclamation_success,,30,Quest,Named,3650,7500,MediumHead_EerieVestigeT3,,,0,0,,,,,true,150,1
 MSQ_0001_ShipFlagStern_interact,,0,MSQ-,,0,0,,,,0,0,,,,,true,0,0
 MSQ_0002_ShipFlagBow_interact,,0,MSQ-,,0,0,,,,0,0,,,,,true,0,0
 MSQ_0009_ArcturusAzothBarrier_interact,,0,MSQ-,,0,0,,,,0,0,,,,,true,0,0

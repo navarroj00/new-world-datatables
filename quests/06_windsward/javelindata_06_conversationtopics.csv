@@ -14,3 +14,4 @@ ConversationTopicId,PlayerPrompt,NPCResponse,AchievementUnlock,RequiredAchieveme
 0602_Syndicate_dye_talk,@0602_Syndicate_dye_talk_Prompt,@0602_Syndicate_dye_talk_Response,,S_syndicatequest1,,
 0602_Covenant_dye_talk,@0602_Covenant_dye_talk_Prompt,@0602_Covenant_dye_talk_Response,,S_covenantquest1,,
 0623_Fisher_ExplainHotspots,@0223_Fisher_ExplainHotspots_Prompt,@0223_Fisher_ExplainHotspots_Response,,,,
+0602_FastTravel,@0602_FastTravel_prompt,@0602_FastTravel_response,,,,

@@ -1,12 +1,12 @@
 StatusEffectCategoryID,DurationDiminishingMod,DurationModMin,DurationModMax,PotencyDiminishingMod,PotencyModMin,PotencyModMax,ValueLimits
-Stun,-0.20000000298023224,-0.800000011920929,0,0,0,0,
+Stun,-0.5,-1,0,0,0,0,
 Slow,-0.20000000298023224,-0.800000011920929,0,0,0,0,"MoveSpeedMod:-0.5,SprintSpeedMod:-0.5"
-Root,-0.20000000298023224,-0.800000011920929,0,0,0,0,
+Root,-0.5,-1,0,0,0,0,
 Silence,-0.20000000298023224,-0.800000011920929,0,0,0,0,
 Rend,0,0,0,0,0,0,"ABSStandard:-0.3,ABSSiege:-0.3,ABSStrike:-0.3,ABSSlash:-0.3,ABSThrust:-0.3,ABSArcane:-0.3,ABSFire:-0.3,ABSIce:-0.3,ABSNature:-0.3,ABSLightning:-0.3,ABSCorruption:-0.3"
 Fortify,0,0,0,0,0,0,"ABSStandard:0.5,ABSSiege:0.5,ABSStrike:0.5,ABSSlash:0.5,ABSThrust:0.5,ABSArcane:0.5,ABSFire:0.5,ABSIce:0.5,ABSNature:0.5,ABSLightning:0.5,ABSCorruption:0.5"
 Weaken,0,0,0,0,0,0,"DMGStandard:0.5,DMGSiege:0.5,DMGStrike:0.5,DMGSlash:0.5,DMGThrust:0.5,DMGArcane:0.5,DMGFire:0.5,DMGIce:0.5,DMGNature:0.5,DMGLightning:0.5,DMGCorruption:0.5"
-Empower,0,0,0,0,0,0,"DMGStandard:1.5,DMGSiege:1.5,DMGStrike:1.5,DMGSlash:1.5,DMGThrust:1.5,DMGArcane:1.5,DMGFire:1.5,DMGIce:1.5,DMGNature:1.5,DMGLightning:1.5,DMGCorruption:1.5"
+Empower,0,0,0,0,0,0,"DMGStandard:5,DMGSiege:5,DMGStrike:5,DMGSlash:5,DMGThrust:5,DMGArcane:5,DMGFire:5,DMGIce:5,DMGNature:5,DMGLightning:5,DMGCorruption:5"
 Disease,0,0,0,0,0,0,HealMod:-0.5
 Haste,-0.20000000298023224,-0.800000011920929,0,0,0,0,"MoveSpeedMod:0.5,SprintSpeedMod:0.5"
 AI_Neutral,0,0,0,0,0,0,
@@ -17,12 +17,13 @@ MutatorHearty,0,0,0,0,0,0,MaxHealthMod:5.0
 MutatorDisease,0,0,0,0,0,0,HealMod:-1.0
 MutatorCurse,0,0,0,0,0,0,
 Anointed,0,0,0,0,0,0,HealMod:1.0
-UnclampedSlow,0,0,0,0,0,0,
-UnclampedRend,0,0,0,0,0,0,
-UnclampedFortify,0,0,0,0,0,0,
-UnclampedWeaken,0,0,0,0,0,0,
-UnclampedEmpower,0,0,0,0,0,0,
-UnclampedDisease,0,0,0,0,0,0,
+UnclampedSlow,0,0,0,0,0,0,"MoveSpeedMod:-1,SprintSpeedMod:-1"
+UnclampedRend,0,0,0,0,0,0,"ABSStandard:-1.0,ABSSiege:-1.0,ABSStrike:-1.0,ABSSlash:-1.0,ABSThrust:-1.0,ABSArcane:-1.0,ABSFire:-1.0,ABSIce:-1.0,ABSNature:-1.0,ABSLightning:-1.0,ABSCorruption:-1.0"
+UnclampedFortify,0,0,0,0,0,0,"ABSStandard:5.0,ABSSiege:5.0,ABSStrike:5.0,ABSSlash:5.0,ABSThrust:5.0,ABSArcane:5.0,ABSFire:5.0,ABSIce:5.0,ABSNature:5.0,ABSLightning:5.0,ABSCorruption:5.0"
+UnclampedWeaken,0,0,0,0,0,0,"DMGStandard:0,DMGSiege:0,DMGStrike:0,DMGSlash:0,DMGThrust:0,DMGArcane:0,DMGFire:0,DMGIce:0,DMGNature:0,DMGLightning:0,DMGCorruption:0"
+UnclampedEmpower,0,0,0,0,0,0,"DMGStandard:5.0,DMGSiege:5.0,DMGStrike:5.0,DMGSlash:5.0,DMGThrust:5.0,DMGArcane:5.0,DMGFire:5.0,DMGIce:5.0,DMGNature:5.0,DMGLightning:5.0,DMGCorruption:5.0"
+UnclampedDisease,0,0,0,0,0,0,HealMod:-1.0
 UnclampedHaste,0,0,0,0,0,0,
 UnclampedFactionResourceMod,0,0,0,0,0,0,"FactionReputationMod:3.0,FactionTokensMod:3.0 "
 UnclampedAzothMod,0,0,0,0,0,0,AzothMod:3.0
+FishingBuff,0,0,0,0,0,0,"FishingLineStrength:3.0,FishSizeRollModifier:3.0,FishRarityRollModifier:3.0,SummerFishRarityRollModifier:3.0"
