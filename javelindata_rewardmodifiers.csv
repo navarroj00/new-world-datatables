@@ -52,12 +52,12 @@ War_T1,1,5,0,1,1,1,1,500,1000,War Bad Performance,War Reward
 War_T2,2,6,0,1.125,1,1.125,1.125,1000,1500,War OK Performance,War Reward
 War_T3,4,7,0,1.399999976158142,1,1.399999976158142,1.399999976158142,1500,2000,War Good Performance,War Reward
 War_T4,8,8,0,1.600000023841858,1,1.600000023841858,1.600000023841858,2500,2500,War Top Tier Performance,War Reward
-OutpostRush_T1,0,2,0,0.5,1,1,1,0,0,OR Bad Performance,OR Reward
-OutpostRush_LOSS_T1,0,3,0,0.699999988079071,1,1.125,1.125,0,0,OR OK Performance,OR Reward
-OutpostRush_T2,0,3,0,0.699999988079071,1,1.125,1.125,300,500,OR OK Performance,OR Reward
-OutpostRush_T3,0,3.5,0,0.800000011920929,1,1.399999976158142,1.399999976158142,1400,1750,OR Good Performance,OR Reward
-OutpostRush_T4,0,4,0,1,1,1.600000023841858,1.600000023841858,2000,2000,OR Top Tier Performance,OR Reward
-Arena3v3_Loss,0,0,0,0,1,0,0,0,250,,
-Arena3v3_Win_3_Round,1,0,0,0,1,0,0,400,750,,
-Arena3v3_Win_2_Round,1,0,0,0,1,0,0,0,250,,
-Arena3v3_Win_1_Round,1,0,0,0,1,0,0,0,250,,
+OutpostRush_T1,0,2,0,0.5,1,1,1,0,500,OR Bad Performance,OR Reward
+OutpostRush_LOSS_T1,0,3,0,0.699999988079071,1,1.125,1.125,1000,2000,OR OK Performance,OR Reward
+OutpostRush_T2,0,3,0,0.699999988079071,1,1.125,1.125,1000,1500,OR OK Performance,OR Reward
+OutpostRush_T3,0,3.5,0,0.800000011920929,1,1.399999976158142,1.399999976158142,1500,2000,OR Good Performance,OR Reward
+OutpostRush_T4,0,4,0,1,1,1.600000023841858,1.600000023841858,2000,2500,OR Top Tier Performance,OR Reward
+Arena3v3_Loss,0,0,0,0,1,0,0,0,0,,
+Arena3v3_Win_3_Round,1,0,0,0,1,0,0,0,0,,
+Arena3v3_Win_2_Round,1,0,0,0,1,0,0,0,0,,
+Arena3v3_Win_1_Round,1,0,0,0,1,0,0,0,0,,
