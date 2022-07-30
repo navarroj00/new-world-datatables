@@ -1,1 +1,2 @@
 Key,KeyType,OldPerk,NewPerk
+EquippableLegs+Heavy,ItemClass,PerkID_Legs_DodgeSuccess_Stamina,PerkID_Armor_Conditioning_Fire

@@ -12,6 +12,7 @@ HousingItemPetTiger,Interact_Pet_Tiger,Interact_Start,Interact_End,LOOPING - For
 HousingItemPetPig,Interact_Pet_Pig,Interact_Start,Interact_End,LOOPING - Pet the Pig's Belley
 HousingItemPetWolf,Interact_Pet_Wolf,Interact_Start,Interact_End,LOOPING - Pet the Wolf
 HousingItemTouchMimic,Interact_Touch_Mimic,Interact_Start,Interact_End,SINGLE - Player Attempts to Touch a Mimic
+HousingItemPetBird,Interact_Pet_Bird,Interact_Start,Interact_End,LOOPING - Pet the bird's head
 HousingItemSitOnChair,Interact_Chair,Interact_Start,Interact_End,LOOPING - Player Sit in Chair and Crosses Leg on Thigh
 HousingItemSitOnChair_Snapped,Interact_Chair,Interact_Start,Interact_End,LOOPING - Player Sit in Chair
 HousingItemStandingInteract,Interact_HousingCannon,Interact_Start,Interact_End,SINGLE - Player Reaches Their Hand Out and Back

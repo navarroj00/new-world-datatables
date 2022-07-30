@@ -1,0 +1,6 @@
+PaperdollId,Name,ClefIconPath
+instrument-flute-slot,@ui_instrument-flute-slot_name,LyShineUI/Images/HUD/MusicalActions/Icon_TrebleClef.png
+instrument-guitar-slot,@ui_instrument-guitar-slot_name,LyShineUI/Images/HUD/MusicalActions/Icon_TrebleClef.png
+instrument-mandolin-slot,@ui_instrument-mandolin-slot_name,LyShineUI/Images/HUD/MusicalActions/Icon_TrebleClef.png
+instrument-uprightbass-slot,@ui_instrument-uprightbass-slot_name,LyShineUI/Images/HUD/MusicalActions/Icon_BassClef.png
+instrument-drums-slot,@ui_instrument-drums-slot_name,LyShineUI/Images/HUD/MusicalActions/Icon_DrumClef.png

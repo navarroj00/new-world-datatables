@@ -24,3 +24,4 @@ Darkness_CorruptionEruption_DT1,Unarmed,0,0,false,true,Strike,,,,,,Bullet,,false
 DungeonLaserBeam,Beam_Laser,1,0,true,true,Arcane,,,,Dungeon_LaserBeamDeath,,Bullet,,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,,,,0,1,1,1,0
 Gimmick_Explosive_Barrel,Unarmed,0,0,false,true,Standard,,,,,,Bullet,,false,1,1,0,2,2,2,50,30,50,0,8,0,0.800000011920929,0,0,0,0,0,1,1,,,,,0,1,1,1,0
 Gimmick_Falling_Rubble,Unarmed,0,0,false,true,Standard,,,,,,Bullet,,false,1,1,0,2,2,2,50,30,50,0,8,0,0.800000011920929,0,0,0,0,0,1,1,,,,,0,1,1,1,0
+DungeonLaserBeamSmall,Unarmed,0,0,true,true,Arcane,,,,Dungeon_LaserBeamSmall,,Bullet,,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,,,,0,1,1,1,0

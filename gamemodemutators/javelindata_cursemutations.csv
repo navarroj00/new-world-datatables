@@ -1,4 +1,5 @@
 CurseMutationId,CurseMinor,CurseMajor,GlobalAffliction,Name,Description,IconPath
+Frenzied,Mut_Curse1_Wildcard_Minor_Buff,Mut_Curse1_Wildcard_Major_Buff,,@FrenziedTitle,@FrenziedDescription,LyShineUI/Images/Icons/Dungeons/mutator/icon_frenzied.dds
 Fiendish,Mut_Curse2_Minor_Buff,Mut_Curse2_Wildcard_Major_Buff,AfflictionCurse2,@FiendishTitle,@FiendishDescription,LyShineUI/Images/Icons/Dungeons/mutator/icon_fiendish.dds
 Desiccated,Mut_Wildcard_Curse3_Minor_Buff,Mut_Wildcard_Curse3_Major_Buff,AfflictionCurse3,@DesiccatedTitle,@DesiccatedDescription,LyShineUI/Images/Icons/Dungeons/mutator/icon_desiccated.dds
 Censored,Mut_Wildcard_Curse4_Minor_Buff,Mut_Curse4_Major_Buff,AfflictionCurse4,@CensoredTitle,@CensoredDescription,LyShineUI/Images/Icons/Dungeons/mutator/icon_censored.dds

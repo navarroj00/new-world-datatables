@@ -1,5 +1,68 @@
-ObjectiveID,Type,Difficulty,DifficultyLevel,MaxInfluenceLevel,FlagPvp,CanBeShared,CanFastTravel,Task,NpcDestinationId,AchievementId,SuccessGameEventId,FailureGameEventId,ExperienceReward,ObjectiveReward,ItemRewardName,ItemRewardQty,Repeatable,CanBeAbandoned,Title,Description,PlayerPrompt,ObjectiveProposalResponse,InProgressResponse,DestinationCompletionAvailablePrompt,DestinationCompletionAvailableResponse,ObjectiveCompletionResponse,ObjectiveAcceptanceResponse,HideIncompleteTurninMarker,EntitlementId,QuestArcTag
-7404_0101_devworldredkillwitheredquest,Journey,,,,,false,false,7404_0101_d_00_container_devworldredkillwitheredquest,7404_Overseer,S_devworldred_killwitheredquest,7404_0101_devworldredkillwitheredquest_success,,,,,,0,false,@7404_0101_devworldredkillwitheredatfarm_objective_title,@7404_0101_devworldredkillwitheredatfarm_objective_desc,@prompt_DEFAULT,@7404_0101_devworldredkillwitheredatfarm_proposal,@7404_0101_devworldredkillwitheredatfarm_incomplete,@complete_available_prompt_DEFAULT,@7404_0101_devworldredkillwitheredatfarm_complete_available_response,,,,,
-7405_0101_devworldredgetfarmlootquest,Journey,,,,,false,false,7405_0101_d_00_container_devworldredgetfarmlootquest,7405_Artificer,S_devworldred_getfarmlootquest,7405_0101_devworldredgetfarmlootquest_success,,,,,,0,false,@7405_0101_devworldredgetfarmloot_objective_title,@7405_0101_devworldredgetfarmloot_objective_desc,@prompt_DEFAULT,@7405_0101_devworldredgetfarmloot_proposal,@7405_0101_devworldredgetfarmloot_incomplete,@complete_available_prompt_DEFAULT,@7405_0101_devworldredgetfarmloot_complete_availaible_response,,,,,
-74_0101_devworldreddefendobjectquest,Journey,,,,,false,false,74_0101_devworldreddefendobjectquest_container,,,74_0101_devworldreddefendobjectquest_success,,,,,,0,false,@0524_0103_shiveringtimbers_objective_title,@0524_0103_shiveringtimbers_objective_desc,@prompt_DEFAULT,@0524_0103_shiveringtimbers_proposal,@0524_0103_shiveringtimbers_incomplete,@complete_available_prompt_DEFAULT,@0524_0103_shiveringtimbers_complete_available_response,,,,,
-74_Basic_Mission_1,Mission,,,,,true,true,7405_0101_d_00_container_devworldredgetfarmlootquest,,,FactionMission_Success_R1_Sm,FactionMission_Failure,,,,,1,true,Title for mission,,,,,,,,,,,
+ObjectiveID,Type,Difficulty,DifficultyLevel,MaxInfluenceLevel,FlagPvp,CanBeShared,CanFastTravel,Task,NpcDestinationId,ExclusiveTerritory,AchievementId,RequiredAchievementId,SuccessGameEventId,FailureGameEventId,ExperienceReward,ObjectiveReward,ItemRewardName,ItemRewardQty,Repeatable,CanBeAbandoned,Title,Description,PlayerPrompt,ObjectiveProposalResponse,InProgressResponse,DestinationCompletionAvailablePrompt,DestinationCompletionAvailableResponse,ObjectiveCompletionResponse,ObjectiveAcceptanceResponse,HideIncompleteTurninMarker,EntitlementId,QuestArcTag,SkipReqAchievmentWhenInvalid
+7404_0101_devworldredkillwitheredquest,Journey,,1,,,false,false,7404_0101_d_00_container_devworldredkillwitheredquest,7404_Overseer,0,S_devworldred_killwitheredquest,,7404_0101_devworldredkillwitheredquest_success,,,,,,0,false,@7404_0101_devworldredkillwitheredatfarm_objective_title,@7404_0101_devworldredkillwitheredatfarm_objective_desc,@prompt_DEFAULT,@7404_0101_devworldredkillwitheredatfarm_proposal,@7404_0101_devworldredkillwitheredatfarm_incomplete,@complete_available_prompt_DEFAULT,@7404_0101_devworldredkillwitheredatfarm_complete_available_response,,,,,,false
+7405_0101_devworldredgetfarmlootquest,Journey,,1,,,false,false,7405_0101_d_00_container_devworldredgetfarmlootquest,7405_Artificer,0,S_devworldred_getfarmlootquest,,7405_0101_devworldredgetfarmlootquest_success,,,,,,0,false,@7405_0101_devworldredgetfarmloot_objective_title,@7405_0101_devworldredgetfarmloot_objective_desc,@prompt_DEFAULT,@7405_0101_devworldredgetfarmloot_proposal,@7405_0101_devworldredgetfarmloot_incomplete,@complete_available_prompt_DEFAULT,@7405_0101_devworldredgetfarmloot_complete_availaible_response,,,,,,false
+74_0101_devworldreddefendobjectquest,Journey,,1,,,false,false,74_0101_devworldreddefendobjectquest_container,,0,,,74_0101_devworldreddefendobjectquest_success,,,,,,0,false,@0524_0103_shiveringtimbers_objective_title,@0524_0103_shiveringtimbers_objective_desc,@prompt_DEFAULT,@0524_0103_shiveringtimbers_proposal,@0524_0103_shiveringtimbers_incomplete,@complete_available_prompt_DEFAULT,@0524_0103_shiveringtimbers_complete_available_response,,,,,,false
+74_Basic_Mission_1,Mission,,1,,,true,true,7405_0101_d_00_container_devworldredgetfarmlootquest,,0,,,FactionMission_Success_R1_Sm,FactionMission_Failure,,,,,1,true,Title for mission,,,,,,,,,,,,false
+AC_Test_1,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_1,debug_9 && debug_12 && debug_38,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_2,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_2,,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_3,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_3,,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_4,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_4,debug_2,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_5,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_5,!debug_2,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_6,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_6,debug_2 && debug_3,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_7,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_7,debug_2 || debug_3,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_8,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_8,!debug_2 && !debug_3,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_9,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_9,debug_4 && debug_6 && debug_7,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_10,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_10,,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_11,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_11,!debug_48 && !debug_45 && !debug_42 && !debug_39,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_12,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_12,debug_34 && debug_28 && debug_25,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_13,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_13,,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_14,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_14,,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_15,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_15,(debug_14 && debug_2) || (!debug_14 && debug_13),,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_16_12,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,12,debug_16,,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_17_9,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,9,debug_17,,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_18_6,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,6,debug_18,,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_19_4,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,4,debug_19,,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_20_4,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,4,debug_20,debug_19,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_20_6,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,6,debug_20,debug_18,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_20_9,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,9,debug_20,debug_17,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_20_12_d_s,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,12,debug_20,debug_16,,,,,,,0,false,,,,,,,,,,,,,true
+AC_Test_21_6,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,6,debug_21,!debug_20,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_22_6,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,6,debug_22,debug_20,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_23,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_23,!debug_20,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_24,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_24,debug_20,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_25,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_25,debug_26,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_26,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_26,debug_33,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_27,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_27,!debug_35,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_28,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_28,debug_29,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_29_d_s,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_29,debug_33,,,,,,,0,false,,,,,,,,,,,,,true
+AC_Test_30,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_30,!debug_37,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_31,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_31,debug_32,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_32_d_d,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_32,debug_33,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_33,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_33,,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_34,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_34,debug_35,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_35_d_s,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_35,,,,,,,,0,false,,,,,,,,,,,,,true
+AC_Test_36,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_36,debug_37,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_37_d_d,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_37,,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_38,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_38,debug_48 && debug_45 && debug_42 && debug_39 && debug_55,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_39,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_39,debug_41 || debug_40,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_40_d_s,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_40,,,,,,,,0,false,,,,,,,,,,,,,true
+AC_Test_41_d_s,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_41,,,,,,,,0,false,,,,,,,,,,,,,true
+AC_Test_42,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_42,debug_44 && debug_43,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_43_d_s,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_43,,,,,,,,0,false,,,,,,,,,,,,,true
+AC_Test_44_d_s,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_44,,,,,,,,0,false,,,,,,,,,,,,,true
+AC_Test_45,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_45,debug_47 || debug_46,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_46,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_46,,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_47_d_s,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_47,,,,,,,,0,false,,,,,,,,,,,,,true
+AC_Test_48,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_48,debug_50 && debug_49,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_49,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_49,,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_50_d_s,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_50,,,,,,,,0,false,,,,,,,,,,,,,true
+AC_Test_51_12,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,12,debug_51,!debug_20,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_52_12,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,12,debug_52,debug_20,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_53,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_53,debug_57 || debug_60,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_54,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_54,debug_57 && debug_60,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_55,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_55,debug_57 || debug_46,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_56,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_56,debug_57 && debug_49,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_57_d_d,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_57,,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_58,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_58,debug_50 || debug_57,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_59,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_59,debug_50 && debug_57,,,,,,,0,false,,,,,,,,,,,,,false
+AC_Test_60_d_d,Journey,,1,,,false,false,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,0,debug_60,,,,,,,,0,false,,,,,,,,,,,,,false

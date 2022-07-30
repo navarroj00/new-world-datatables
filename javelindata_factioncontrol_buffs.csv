@@ -16,7 +16,7 @@ Rewards_DarknessEvent_Modifier,false,0.05000000074505806,@ui_rewards_darknesseve
 Rewards_Expedition_Modifier,false,0.05000000074505806,@ui_rewards_expedition_modifier_name,@ui_rewards_expedition_modifier_desc,
 Gathering_Speed_Modifier,false,0.05000000074505806,@ui_gathering_speed_modifier_name,@ui_gathering_speed_modifier_desc,
 Gathering_Volume_Modifier,false,0.10000000149011612,@ui_gathering_volume_modifier_name,@ui_gathering_volume_modifier_desc,
-Gathering_Luck_Roll_Bonus,false,0.10000000149011612,@ui_gathering_luck_roll_bonus_name,@ui_gathering_luck_roll_bonus_desc,Percentage bonus to gathering luck
+Gathering_Luck_Roll_Bonus,false,10000,@ui_gathering_luck_roll_bonus_name,@ui_gathering_luck_roll_bonus_desc,Percentage bonus to gathering luck
 Crafting_Refining_Yield_Modifier,false,0.10000000149011612,@ui_crafting_refining_yield_modifier_name,@ui_crafting_refining_yield_modifier_desc,Percentage bonus to global refining yield
 Crafting_Max_GS_Bonus,false,5,@ui_crafting_max_gs_bonus_name,@ui_crafting_max_gs_bonus_desc,"GS bonus for crafting rolls (ceiling, not floor.)"
 Azoth_Salt_Yield_Modifier,false,0.10000000149011612,@ui_azoth_salt_yield_modifier_name,@ui_azoth_salt_yield_modifier_desc,Percentage increase to yield from Azoth Salt gains

@@ -482,7 +482,7 @@ FM_11_H_03_leg_C_task,TaskGatherAndReturnItems,,0,3,FM_hunt_item_9_11,Elk_Stag_1
 1125_0101_Container_SongoftheSea,ConsecutiveTaskContainer,,0,,,,0,0,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,1125_0101_GatherBook,1125_0101_Container_SongoftheSea2,,,
 1125_0101_GatherBook,TaskGatherAndReturnItems,,1,1,1125_ShantyBook,1125_SongofTheSea,100,0,,,,,1,,,0,,,,IO_1125_SongofTheSea,,,,,0,,,,,,,,,,,,,,,,0,,@1125_0101_GatherBook,,14189.984 7018.646 40.755,,,,,,,,,,,,,,,
 1125_0101_Container_SongoftheSea2,SimpleTaskContainer,,0,,,,0,0,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,,0,,,,,,1,,,,,,,,,1125_0101_GatherHurdy,,,,
-1125_0101_GatherHurdy,TaskHaveAndReturnItems,,1,1,1125_Instrument,Ghost,20,0,1,,nature_cave_smugglerscove_60320,,1,,,0,,,,,,,,,0,,,,,,,,,,,,,,,,0,,@1125_0101_GatherHurdy,,,,,,,,,,,,,,,,,
+1125_0101_GatherHurdy,TaskHaveAndReturnItems,,1,1,1125_Instrument,Ghost,25,0,1,,nature_cave_smugglerscove_60320,,1,,,7,,,,,,,,,0,,,,,,,,,,,,,,,,0,,@1125_0101_GatherHurdy,,,,,,,,,,,,,,,,,
 1128_0101_Container_VillageChampion,ConsecutiveTaskContainer,,0,,,,0,0,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,1128_0101_TravelTask,1128_0101_Container_VillageChampion2,,,
 1128_0101_TravelTask,TaskGoToPOITag,,1,1,,,0,0,,,crater_corruptedceremony,,1,,,0,,,,,,,,,0,,,,,,,,,,,,,,,,0,,@1128_0101_TravelTo_Site,,12189.308 8369.491 450.858,,,,,,,,,,,,,,,
 1128_0101_Container_VillageChampion2,SimpleTaskContainer,,0,,,,0,0,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,,0,,,,,,1,,,,,,,,,1128_0101_GatherArmor,1128_0101_GatherArmor2,1128_0101_GatherArmor3,,

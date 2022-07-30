@@ -3,9 +3,9 @@ TEMP_Crafting_Specialization_Blacksmithing,Player,20,,0
 TEMP_Crafting_Specialization_Alchemy,Player,20,,0
 TEMP_Crafting_Specialization_Outfitting,Player,20,,0
 TEMP_Crafting_Specialization_Cooking,Player,20,,0
-HatchetAbilityTable,Player,20,,3
+HatchetAbilityTable,Player,20,,4
 SwordAbilityTable,Player,20,,4
-BowAbilityTable,Player,20,,3
+BowAbilityTable,Player,20,,4
 SpearAbilityTable,Player,20,,2
 GreatAxeAbilityTable,Player,20,,3
 WarHammerAbilityTable,Player,20,,3

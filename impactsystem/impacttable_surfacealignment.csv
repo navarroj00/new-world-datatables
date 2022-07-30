@@ -5,3 +5,4 @@ Warhammer_Mightygavel,ImpactSurfaceAlignmentCast,5,45,true,true,true
 Warhammer_POD,ImpactSurfaceAlignmentCast,5,45,true,true,true
 Warhammer_Shockwave,ImpactSurfaceAlignmentCast,5,45,true,true,true
 Spear_Throw,ImpactSurfaceAlignmentCast,0.5,45,true,true,true
+Greatsword_Heavy,ImpactSurfaceAlignmentCast,5,45,true,true,false

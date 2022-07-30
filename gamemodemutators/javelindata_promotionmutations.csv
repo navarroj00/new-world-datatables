@@ -1,4 +1,5 @@
 PromotionMutationId,Promotion1,Promotion2,Promotion3,Name,Description,IconPath,TextColor,BackgroundColor
 Savage,Mut_Disease_1_Buff,Mut_Disease_2_Buff,Mut_RotatingBeam_Buff,@SavageTitle,@SavageDescription,LyShineUI/Images/Icons/Dungeons/mutator/icon_savage.dds,"120,125,85","68,86,60"
 Barbaric,Mut_StaminaDamage_1_Buff,Mut_StaminaDamage_2_Buff,Mut_Enrage_Buff,@BarbaricTitle,@BarbaricDescription,LyShineUI/Images/Icons/Dungeons/mutator/icon_barbaric.dds,"185,133,221","80,47,114"
+Oppressive,Mut_ManaThorns_1_Buff,Mut_ManaThorns_2_Buff,Mut_SilenceArea_Buff,@OppressiveTitle,@OppressiveDescription,LyShineUI/Images/Icons/Dungeons/mutator/icon_oppressive.dds,"206,138,120","100,63,63"
 Indomitable,Mut_LifeSteal_1_Buff,Mut_LifeSteal_2_Buff,Mut_ProjectileShield_Buff,@IndomitableTitle,@IndomitableDescription,LyShineUI/Images/Icons/Dungeons/mutator/icon_indomitable.dds,"169,136,72","95,69,44"

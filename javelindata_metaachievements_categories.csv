@@ -48,8 +48,9 @@ Lore_Pages,General,7,@ui_meta_achievements_lore_pages,LyShineUI\Images\Icons\Ach
 Player_Actions,General,8,@ui_meta_achievements_player_actions,LyShineUI\Images\Icons\Achievements\achievement_icon_background06.dds
 Camping,General,9,@ui_meta_achievements_camping,LyShineUI\Images\Icons\Achievements\achievement_icon_background06.dds
 Fishing,General,10,@ui_meta_achievements_fishing,LyShineUI\Images\Icons\Achievements\achievement_icon_background06.dds
-Looting,General,11,@ui_meta_achievements_looting,LyShineUI\Images\Icons\Achievements\achievement_icon_background06.dds
-Dyeing,General,12,@ui_meta_achievements_looting,
+Musical_Instruments,General,11,@ui_meta_achievements_musical_instruments,LyShineUI\Images\Icons\Achievements\achievement_icon_background06.dds
+Looting,General,12,@ui_meta_achievements_looting,LyShineUI\Images\Icons\Achievements\achievement_icon_background06.dds
+Dyeing,General,13,@ui_meta_achievements_looting,
 Achievements,,9,@ui_meta_achievements_achievements,LyShineUI\Images\Icons\Achievements\achievement_icon_background07.dds
 Titles,,10,@ui_meta_achievements_titles,LyShineUI\Images\Icons\Achievements\achievement_icon_background08.dds
 Destinations,,11,@ui_meta_achievements_destinations,

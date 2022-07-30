@@ -40,3 +40,4 @@ Teleport_Denied,@ui_teleport_denied,@ui_notification_teleport_denied,,,0,Minor,0
 Teleport_Failed,@ui_teleport_failed,@ui_notification_teleport_failed,,,0,Minor,0,0,0,,,
 Red_Button_Salvaging_Disabled,@ui_feature_disabled,@ui_red_button_salvaging_disabled,,,0,Minor,0,0,0,,,
 Red_Button_Open_Loot_Disabled,@ui_feature_disabled,@ui_red_button_open_loot_disabled,,,0,Minor,0,0,0,,,
+New_Items_Dropped,@ui_notification_new_items_dropped,@ui_notification_new_items_dropped,,,0,Minor,0,0,0,,,

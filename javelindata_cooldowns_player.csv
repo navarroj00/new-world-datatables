@@ -17,7 +17,7 @@ ID,AbilityID,Time,WeaponTag
 16,Ability_WarHammer_ClearOut,15,Warhammer
 17,Ability_WarHammer_Shockwave,20,Warhammer
 18,Ability_WarHammer_PathOfDestiny,22,Warhammer
-19,Ability_Hatchet_SocialDistancing,15,Axe
+19,Ability_Hatchet_SocialDistancing,18,Axe
 20,Ability_Hatchet_RendingThrow,8,Axe
 21,Ability_Hatchet_InfectedThrow,15,Axe
 22,Ability_Hatchet_Berserk,18,Axe
