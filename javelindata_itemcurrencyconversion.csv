@@ -823,3 +823,6 @@ SE_artifact_smarmor600mediumfeet,artifact_smArmor600mediumfeet,,,,,,1,0,1,66,Sum
 SE_artifact_smarmor600mediumhands,artifact_smArmor600mediumhands,,,,,,1,0,1,67,SummerEventProgress,SummerEventProgress,4,0,0,SummerMedley_Token,45,0,0,0,,false
 SE_artifact_smarmor600mediumhead,artifact_smArmor600mediumhead,,,,,,1,0,1,68,SummerEventProgress,SummerEventProgress,4,0,0,SummerMedley_Token,45,0,0,0,,false
 SE_artifact_smarmor600mediumlegs,artifact_smArmor600mediumlegs,,,,,,1,0,1,69,SummerEventProgress,SummerEventProgress,4,0,0,SummerMedley_Token,60,0,0,0,,false
+SE_Shop_Waltz_Guitar_Part1_Page1,Waltz_Guitar_Part1_Page1,,,,,,1,0,1,31,SummerEventProgress,SummerEventProgress,0,0,1,SummerMedley_Token,0,82800,0,0,,false
+SE_Shop_Waltz_Guitar_Part2_Page1,Waltz_Guitar_Part2_Page1,,,,,,1,0,1,32,SummerEventProgress,SummerEventProgress,0,0,1,SummerMedley_Token,0,82800,0,0,,false
+SE_Shop_Flourish_AzothFlute_Part1_Page1,Flourish_AzothFlute_Part1_Page1,,,,,,1,0,1,33,SummerEventProgress,SummerEventProgress,0,0,1,SummerMedley_Token,0,82800,0,0,,false
