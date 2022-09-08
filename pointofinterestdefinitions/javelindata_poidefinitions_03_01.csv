@@ -46,4 +46,3 @@ TerritoryID,NameLocalizationKey,BaseStructureLimit,MaxStructureLimit,TerritorySc
 30146,@ui_poi_factionarea_30146,,,,true,,,60,false,true,0,,,,,factionarea_30146_charted,poi_30146_factionarea,Music_POI,factionarea,true,Faction Area,,,0,,,,false,,
 30147,@ui_poi_factionarea_30147,,,,true,,,60,false,true,0,,,,,factionarea_30147_charted,poi_30147_factionarea,Music_POI,factionarea,true,Faction Area,,,0,,,,false,,
 30148,@ui_poi_factionarea_30148,,,,true,,,60,false,true,0,,,,,factionarea_30148_charted,poi_30148_factionarea,Music_POI,factionarea,true,Faction Area,,,0,,,,false,,
-30149,@ui_poi_summervillage_30149,,,,true,LyShineUI/Images/Map/Icon/POIs/event_summervillage.png,,150,true,true,2,,,,,,summervillage_30149,,,false,,,,0,LyShineUI/Images/map/tooltipimages/mapTooltip_Summer_npc.png,,,true,,SummerMedley

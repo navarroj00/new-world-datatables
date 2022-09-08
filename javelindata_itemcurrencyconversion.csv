@@ -754,10 +754,6 @@ WE_ArtifactHeavyChestT5,Artifact_WCArmorHeavyChestT5,,,,,,1,0,1,68,EventProgress
 WE_ArtifactHeavyHandsT5,Artifact_WCArmorHeavyHandsT5,,,,,,1,0,1,69,EventProgress,EventProgress,4,0,0,WCToken,1,0,0,0,,false
 WE_ArtifactHeavyLegsT5,Artifact_WCArmorHeavyLegsT5,,,,,,1,0,1,70,EventProgress,EventProgress,4,0,0,WCToken,1,0,0,0,,false
 WE_ArtifactHeavyFeetT5,Artifact_WCArmorHeavyFeetT5,,,,,,1,0,1,71,EventProgress,EventProgress,4,0,0,WCToken,1,0,0,0,,false
-SE_SummerMedley_LightEtherVial,SummerMedley_LightEtherVial,,,,,,1,0,1,1,SummerEventProgress,SummerEventProgress,1,0,0,SummerMedley_Token,3,0,0,0,,false
-SE_SummerMedley_PotentEtherVial,SummerMedley_PotentEtherVial,,,,,,1,0,1,2,SummerEventProgress,SummerEventProgress,2,0,0,SummerMedley_Token,8,0,0,0,,false
-SE_SummerMedley_PowerfulEtherVial,SummerMedley_PowerfulEtherVial,,,,,,1,0,1,3,SummerEventProgress,SummerEventProgress,3,0,0,SummerMedley_Token,14,0,0,0,,false
-SE_SummerMedley_IntenseEtherVial,SummerMedley_IntenseEtherVial,,,,,,1,0,1,4,SummerEventProgress,SummerEventProgress,4,0,0,SummerMedley_Token,20,0,0,0,,false
 SE_2hSummerFishingPoleT2,2hSummerFishingPoleT2,,,,,,1,0,1,5,SummerEventProgress,SummerEventProgress,1,0,0,SummerMedley_Token,5,0,0,0,,false
 SE_2hSummerFishingPoleT3,2hSummerFishingPoleT3,,,,,,1,0,1,6,SummerEventProgress,SummerEventProgress,2,0,0,SummerMedley_Token,10,0,0,0,,false
 SE_2hSummerFishingPoleT4,2hSummerFishingPoleT4,,,,,,1,0,1,7,SummerEventProgress,SummerEventProgress,3,0,0,SummerMedley_PremiumToken,2,0,0,0,,false
@@ -823,6 +819,4 @@ SE_artifact_smarmor600mediumfeet,artifact_smArmor600mediumfeet,,,,,,1,0,1,66,Sum
 SE_artifact_smarmor600mediumhands,artifact_smArmor600mediumhands,,,,,,1,0,1,67,SummerEventProgress,SummerEventProgress,4,0,0,SummerMedley_Token,45,0,0,0,,false
 SE_artifact_smarmor600mediumhead,artifact_smArmor600mediumhead,,,,,,1,0,1,68,SummerEventProgress,SummerEventProgress,4,0,0,SummerMedley_Token,45,0,0,0,,false
 SE_artifact_smarmor600mediumlegs,artifact_smArmor600mediumlegs,,,,,,1,0,1,69,SummerEventProgress,SummerEventProgress,4,0,0,SummerMedley_Token,60,0,0,0,,false
-SE_Shop_Waltz_Guitar_Part1_Page1,Waltz_Guitar_Part1_Page1,,,,,,1,0,1,31,SummerEventProgress,SummerEventProgress,0,0,1,SummerMedley_Token,0,82800,0,0,,false
-SE_Shop_Waltz_Guitar_Part2_Page1,Waltz_Guitar_Part2_Page1,,,,,,1,0,1,32,SummerEventProgress,SummerEventProgress,0,0,1,SummerMedley_Token,0,82800,0,0,,false
 SE_Shop_Flourish_AzothFlute_Part1_Page1,Flourish_AzothFlute_Part1_Page1,,,,,,1,0,1,33,SummerEventProgress,SummerEventProgress,0,0,1,SummerMedley_Token,0,82800,0,0,,false
