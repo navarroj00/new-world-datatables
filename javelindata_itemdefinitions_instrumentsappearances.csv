@@ -334,3 +334,6 @@ GuitarMetalFestivalT5,guitarMetalFestival,MetalFestival,objects/instruments/guit
 URBassMetalFestivalT5,bassMetalFestival,MetalFestival,objects/instruments/urbasses/urbassMetal/musi_urba_urbassMetal.cdf,,,,,,,,,#B8B8B8,0,0,#B8B8B8,0,0,#B8B8B8,0,0,#B8B8B8,0,0.5,0,,0,MXMI_UprightBass
 AzothFluteMetalFestivalT5,fluteMetalFestival,MetalFestival,Objects/Instruments/AzothFlutes/AzothFluteMetalFestival/musi_azfl_azothfluteMetalFestival.cdf,,,,,,,,,#B8B8B8,0,0,#B8B8B8,0,0,#B8B8B8,0,0,#B8B8B8,0,0.5,0,,0,MXMI_Flute
 DrumsMetalFestivalT5,drumMetalFestival,MetalFestival,objects/instruments/drums/drumsMetalFestival/musi_drum_drumMetalFestival.cdf,,,,,,,,,#B8B8B8,0,0,#B8B8B8,0,0,#B8B8B8,0,0,#B8B8B8,0,0.5,0,,0,MXMI_Drums
+MandolinEgyptianGodsT5,mandolinEgyptianGods,EgyptianGods,objects/instruments/mandolins/mandolinEgyptianGods/musi_mand_mandolinEgyptianGods.cdf,,,,,,,,,#B8B8B8,0,0,#B8B8B8,0,0,#B8B8B8,0,0,#B8B8B8,0,0.5,0,,0,MXMI_Mandolin
+GuitarEgyptianGodsT5,guitarEgyptianGods,EgyptianGods,objects/instruments/guitars/guitarEgyptianGods/musi_guit_guitarEgyptianGods.cdf,,,,,,,,,#B8B8B8,0,0,#B8B8B8,0,0,#B8B8B8,0,0,#B8B8B8,0,0.5,0,,0,MXMI_Guitar
+DrumsEgyptianGodsT5,drumEgyptianGods,EgyptianGods,objects/instruments/drums/drumsEgyptianGods/musi_drum_drumEgyptianGods.cdf,,,,,,,,,#B8B8B8,0,0,#B8B8B8,0,0,#B8B8B8,0,0,#B8B8B8,0,0.5,0,,0,MXMI_Drums

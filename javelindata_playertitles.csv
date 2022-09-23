@@ -236,3 +236,4 @@ PlayerTitle_Warmonger,Account,Special_Achievements,@ui_playertitle_special_warmo
 PlayerTitle_Music_Easy,Account,Musical_Instruments,@ui_playertitle_music_easy,@ui_playertitle_music_easy_SHE,@ui_playertitle_music_easy_THEY,,Music_Easy3,,,0,0
 PlayerTitle_Music_Medium,Account,Musical_Instruments,@ui_playertitle_music_medium,@ui_playertitle_music_medium_SHE,@ui_playertitle_music_medium_THEY,,Music_Medium3,,,0,0
 PlayerTitle_Music_Hard,Account,Musical_Instruments,@ui_playertitle_music_hard,@ui_playertitle_music_hard_SHE,@ui_playertitle_music_hard_THEY,,Music_Hard3,,,0,0
+PlayerTitle_SuperDeluxe,Account,Special_Achievements,@ui_playertitle_special_superdeluxe,@ui_playertitle_special_superdeluxe_SHE,@ui_playertitle_special_superdeluxe_THEY,@ui_playertitle_superdeluxe_description,,,,0,0

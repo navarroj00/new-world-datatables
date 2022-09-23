@@ -70,7 +70,10 @@ Emote_AirGuitar,Emote_AirGuitar,ui_emote_AirGuitar_name,ui_emote_AirGuitar_descr
 Emote_AirViolin,Emote_AirViolin,ui_emote_AirViolin_name,ui_emote_AirViolin_description,Other,@emote_AirViolin,violin,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_AirMiniatureViolin.dds,,,0,SummerMedleyfaire_2022
 Emote_WiggleArms,Emote_WiggleArms,ui_emote_WiggleArms_name,ui_emote_WiggleArms_description,Other,@emote_WiggleArms,wiggle,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_WiggleArm.dds,,dance,7,SummerMedleyfaire_2022
 Emote_RunningMan,Emote_RunningMan,ui_emote_RunningMan_name,ui_emote_RunningMan_description,Other,@emote_RunningMan,shuffle,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_RunningMan.dds,,dance,7,SummerMedleyfaire_2022
+Emote_MicDrop,Emote_MicDrop,ui_emote_MicDrop_name,ui_emote_MicDrop_description,Other,@emote_MicDrop,micdrop,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_MicDrop.dds,,,0,
 Emote_DrinkCheer,Emote_DrinkCheer,ui_emote_DrinkCheer_name,ui_emote_DrinkCheer_description,Friendly,@emote_DrinkCheer,cheers,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_Cheers.dds,,,0,
 Emote_TableFlip,Emote_TableFlip,ui_emote_TableFlip_name,ui_emote_TableFlip_description,Emotion,@emote_TableFlip,tableflip,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_TableFlip.dds,,,0,
+Emote_Vanity,Emote_Vanity,ui_emote_Vanity_name,ui_emote_Vanity_description,Other,@emote_Vanity,vanity,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_VanityMirror.dds,,,0,
+Emote_KnightThee,Emote_KnightThee,ui_emote_KnightThee_name,ui_emote_KnightThee_description,Other,@emote_KnightThee,knight,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_KnightThee.dds,,,0,
 Emote_CrazyTapDance,Emote_CrazyTapDance,ui_emote_CrazyTapDance_name,ui_emote_CrazyTapDance_description,Other,@emote_CrazyTapDance,tapdance,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_CrazyTapDance.dds,,dance,7,
 Emote_ChaplinWalk,Emote_ChaplinWalk,ui_emote_ChaplinWalk_name,ui_emote_ChaplinWalk_description,Other,@emote_ChaplinWalk,trampwalk,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_TrampWalk.dds,,,0,
