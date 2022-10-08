@@ -256,3 +256,9 @@ Index,OldIndex,isForeground,DisplayName,EntitlementId,Image,Color,isEntitlement,
 258,212,true,@ui_crestforeground_213,icon_crest_213,lyshineui/images/crests/foregrounds/icon_crest_213.dds,,true,true,Any,,
 259,213,true,@ui_crestforeground_214,icon_crest_214,lyshineui/images/crests/foregrounds/icon_crest_214.dds,,true,true,Any,,
 260,214,true,@ui_crestforeground_215,icon_crest_215,lyshineui/images/crests/foregrounds/icon_crest_20.dds,,true,true,Any,,
+261,215,true,@ui_crestforeground_216,icon_crest_216,lyshineui/images/crests/foregrounds/icon_crest_215_egypt_crest_1.dds,,true,true,Any,,
+262,216,true,@ui_crestforeground_217,icon_crest_217,lyshineui/images/crests/foregrounds/icon_crest_216_egypt_crest_2.dds,,true,true,Any,,
+263,217,true,@ui_crestforeground_218,icon_crest_218,lyshineui/images/crests/foregrounds/icon_crest_217_egypt_crest_3.dds,,true,true,Any,,Prime Gaming
+264,218,true,@ui_crestforeground_219,icon_crest_219,lyshineui/images/crests/foregrounds/icon_crest_218_egypt_crest_4.dds,,true,true,Any,,Prime Gaming
+265,219,true,@ui_crestforeground_220,icon_crest_220,lyshineui/images/crests/foregrounds/icon_crest_219_egypt_crest_5.dds,,true,true,Any,,Prime Gaming
+266,220,true,@ui_crestforeground_221,icon_crest_221,lyshineui/images/crests/foregrounds/icon_crest_220_egypt_crest_6.dds,,true,true,Any,,
