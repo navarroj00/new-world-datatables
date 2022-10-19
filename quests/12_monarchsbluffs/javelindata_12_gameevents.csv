@@ -5,7 +5,7 @@ EventID,GameEventType,Level,CreatureType,UniversalExpAmount,CurrencyReward,ItemR
 1201_0104_xmarksthespot_p1_success,,4,Quest+,330,149,2hBowT2,,120,,0,0,,,,,true,0,1,false
 1201_0107_preciouscargo_success,,5,Quest+,875,153,,,0,,0,0,,,,,true,0,1,false
 1201_0108_introtosettlement_success,,5,Quest,280,438,,,0,,0,175,,,,,true,0,1,false
-1225_0101_truffles_success,,5,Quest,280,438,QuestRewardArmorL5,,0,,0,175,,,,,true,0,1,false
+1225_0101_truffles_success,,5,Quest,280,438,QuestReward_MB_Ingredients,,0,,0,175,,,,,true,0,1,false
 1204_0102_warnmagistrate_success,,5,Quest-,210,175,Head_DuelistT2,,125,,0,100,,,,,true,0,1,false
 1206_0103_hearthwohome_Success,,5,Quest-,210,175,1hHatchetT1,,100,,0,100,,,,,true,0,1,false
 1202_0102_intrototrader_success,,5,Quest-,210,175,,,0,,0,100,,,,,true,0,1,false

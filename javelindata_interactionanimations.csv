@@ -13,6 +13,9 @@ HousingItemPetPig,Interact_Pet_Pig,Interact_Start,Interact_End,LOOPING - Pet the
 HousingItemPetWolf,Interact_Pet_Wolf,Interact_Start,Interact_End,LOOPING - Pet the Wolf
 HousingItemTouchMimic,Interact_Touch_Mimic,Interact_Start,Interact_End,SINGLE - Player Attempts to Touch a Mimic
 HousingItemPetBird,Interact_Pet_Bird,Interact_Start,Interact_End,LOOPING - Pet the bird's head
+HousingItemWatering,Interact_Watering,Interact_Start,Interact_End,LOOPING - Watering a Pumpklin
+HousingItemSpiderTricks,Interact_Pet_Spider,Interact_Start,Interact_End,LOOPING - Player having a pet Spider do Tricks
+HousingItemSpookyBook,Interact_SpookyBook,Interact_Start,Interact_End,LOOPING - Player uses the looping Etching animations to interact with the book. 
 HousingItemSitOnChair,Interact_Chair,Interact_Start,Interact_End,LOOPING - Player Sit in Chair and Crosses Leg on Thigh
 HousingItemSitOnChair_Snapped,Interact_Chair,Interact_Start,Interact_End,LOOPING - Player Sit in Chair
 HousingItemStandingInteract,Interact_HousingCannon,Interact_Start,Interact_End,SINGLE - Player Reaches Their Hand Out and Back

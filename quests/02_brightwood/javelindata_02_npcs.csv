@@ -7,7 +7,7 @@ NPCId,Title,GenericName,InteractOptionDisplayNameOverride,ConversationStateId1,C
 0208_Alchemist,@0208_Alchemist_title,@0208_Alchemist,,0208_00_Alchemist,0208_01pre_Alchemist,0208_01_Alchemist,0208_02_Alchemist,0208_03_Alchemist,0208_04pre_Alchemist,0208_04_Alchemist,0208_05pre_Alchemist,0208_05_Alchemist,0208_06pre_Alchemist,0208_06_Alchemist,,,,,,,,,
 0209_Adjudicator,@0209_Adjudicator_title,@0209_Adjudicator,,0209_00_Adjudicator,0209_01pre_Adjudicator,0209_01_Adjudicator,0209_02_Adjudicator,0209_03_Adjudicator,0209_04pre_Adjudicator,0209_04_Adjudicator,0209_05pre_Adjudicator,0209_05_Adjudicator,0209_06pre_Adjudicator,0209_06_Adjudicator,,,,,,,,,
 0210_Barkeep,@0210_Barkeep_title,@0210_Barkeep,,0210_00_Barkeep,0210_01_Barkeep,0210_02_Barkeep,0210_03_Barkeep,0210_04_Barkeep,,,,,,,,,,,,,,,
-0222_Innkeep,@0222_Innkeep_title,@0222_Innkeep,,0222_00_Innkeep,,,,,,,,,,,,,,,,,,,
+0222_Innkeep,@0222_Innkeep_title,@0222_Innkeep,,0222_00_Innkeep,0222_01_Innkeep,0222_02_Innkeep,,,,,,,,,,,,,,,,,
 0223_Fisher,@0223_Fisher_title,@0223_Fisher,,0223_00_Fisher,0223_01_Fisher,0223_02_Fisher,,,,,,,,,,,,,,,,,
 0230_Ranger,@0230_Ranger_title,@0230_Ranger,,0230_Ranger_00,0230_Ranger_01,0230_Ranger_02,0230_Ranger_03,0230_Ranger_04,,,,,,,,,,,,,,,
 0231_Painter,@0231_Painter_title,@0231_Painter,,0231_Painter_00,0231_Painter_01,0231_Painter_02,0231_Painter_03,0231_Painter_04,,,,,,,,,,,,,,,

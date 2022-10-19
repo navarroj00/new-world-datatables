@@ -23,7 +23,7 @@ CampingT2,,15,@CampingT2_Name,LyShineUI/Images/Icons/ProgressionMilestones/campU
 CampingT3,,25,@CampingT3_Name,LyShineUI/Images/Icons/ProgressionMilestones/campUpgrade3.dds,,@CampingT3_Tooltip,
 CampingT4,,40,@CampingT4_Name,LyShineUI/Images/Icons/ProgressionMilestones/campUpgrade4.dds,,@CampingT4_Tooltip,
 CampingT5,,55,@CampingT5_Name,LyShineUI/Images/Icons/ProgressionMilestones/campUpgrade5.dds,,@CampingT5_Tooltip,
-Territory1,territory,5,@TerritoryRecommendation_1,,,,
+Territory1a,territory,15,@TerritoryRecommendation_1a,,,,
 Territory2,territory,25,@TerritoryRecommendation_2,,,,
 Territory3,territory,30,@TerritoryRecommendation_3,,,,
 Territory4,territory,40,@TerritoryRecommendation_4,,,,

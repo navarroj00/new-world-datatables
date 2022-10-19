@@ -13,3 +13,5 @@ Corruption,11,@Corruption_DamageName,Elemental,,0,0,0,NONE,0,TRUE
 Siege,12,@Siege_DamageName,Physical,,0,0,0,NONE,0,TRUE
 Ice,13,@Ice_DamageName,Elemental,,0,0,0,NONE,0,TRUE
 Nature,14,@Nature_DamageName,Elemental,,0,0,0,NONE,0,TRUE
+Acid,15,@Acid_DamageName,True,,0,0,0,NONE,0,TRUE
+Brimstone,16,@True_DamageName,True,,0,0,0,NONE,0,

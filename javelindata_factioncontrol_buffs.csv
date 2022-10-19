@@ -20,7 +20,7 @@ Gathering_Luck_Roll_Bonus,false,10000,@ui_gathering_luck_roll_bonus_name,@ui_gat
 Crafting_Refining_Yield_Modifier,false,0.10000000149011612,@ui_crafting_refining_yield_modifier_name,@ui_crafting_refining_yield_modifier_desc,Percentage bonus to global refining yield
 Crafting_Max_GS_Bonus,false,5,@ui_crafting_max_gs_bonus_name,@ui_crafting_max_gs_bonus_desc,"GS bonus for crafting rolls (ceiling, not floor.)"
 Azoth_Salt_Yield_Modifier,false,0.10000000149011612,@ui_azoth_salt_yield_modifier_name,@ui_azoth_salt_yield_modifier_desc,Percentage increase to yield from Azoth Salt gains
-Pvp_Track_Exp_Modifier,false,0.05000000074505806,@ui_pvp_track_exp_modifier_name,@ui_pvp_track_exp_modifier_desc,Percentage increase to experience gained in PvP Rewards track
+Pvp_Track_Exp_Modifier,false,0.10000000149011612,@ui_pvp_track_exp_modifier_name,@ui_pvp_track_exp_modifier_desc,Percentage increase to experience gained in PvP Rewards track
 Chance_Consumable_Not_Used,false,0.10000000149011612,@ui_chance_consumable_not_used_name,@ui_chance_consumable_not_used_desc,Percentage chance to not consume a consumable on use.
 Road_Movement_Speed_Bonus,false,0,,,"Not approved for use, consider removing if will not be reworked"
 Faction_Store_Discount_Modifier,false,0.05000000074505806,@ui_faction_store_discount_modifier_name,@ui_faction_store_discount_modifier_desc,Percentage decrease to costs for objects in the faction store

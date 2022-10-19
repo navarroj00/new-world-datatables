@@ -1,0 +1,5 @@
+ConversationTopicId,PlayerPrompt,NPCResponse,AchievementUnlock,RequiredAchievement,RequiredFaction,RequiredLevel
+01_Grace_Goodbye_WW,@01_Grace_Goodbye_prompt,@01_Grace_Goodbye,01_Grace_Goodbye_WW,,,
+01_Grace_Goodbye_MB,@01_Grace_Goodbye_prompt,@01_Grace_Goodbye,01_Grace_Goodbye_MB,,,
+01_Grace_Goodbye_WW_Final,@01_Grace_Goodbye_next2_prompt,@01_Grace_Greet_04,,01_Grace_Goodbye_WW,,
+01_Grace_Goodbye_MB_Final,@01_Grace_Goodbye_next2_prompt,@01_Grace_Greet_04,,01_Grace_Goodbye_MB,,

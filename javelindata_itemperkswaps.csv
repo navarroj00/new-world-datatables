@@ -1,2 +1,3 @@
 Key,KeyType,OldPerk,NewPerk
 EquippableLegs+Heavy,ItemClass,PerkID_Legs_DodgeSuccess_Stamina,PerkID_Armor_Conditioning_Fire
+Bag,ItemClass,PerkID_Bags_ArrowReturn,PerkID_Bags_AmmoReturn

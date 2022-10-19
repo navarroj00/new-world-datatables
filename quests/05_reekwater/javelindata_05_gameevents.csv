@@ -1,15 +1,15 @@
 EventID,GameEventType,Level,CreatureType,UniversalExpAmount,CurrencyReward,ItemReward,Rewards Notes,GearScoreRange,CategoricalProgressionId,CategoricalProgressionReward,TerritoryStanding,FactionReputation,FactionTokens,FactionInfluenceAmount,FactionInfluenceSrc,EmitTelemetry,AzothReward,AzothRewardChance
-0502_0101_ancientscholar_success,,58,Quest,3860,11000,QuestRewardArmorL58,,,,,175,,,,,true,15,1
-0504_0101_anexpandingthreat_success,,58,Quest+,4820,15400,QuestRewardWeaponsL58,,,,,250,,,,,true,30,1
-0504_0102_defianceanddoubt_success,,58,Quest-,2900,4400,QuestRewardArmorL58,,,,,100,,,,,true,7.5,1
-0524_0101_ahungerforfreedom_success,,58,Quest-,2900,4400,QuestRewardArmorL58,,,,,100,,,,,true,7.5,1
-0503_0101_onfloralfauna_success,,58,Quest,3860,11000,QuestRewardWeaponsL58,,,,,175,,,,,true,15,1
-0505_0101_pruningandirrigation_success,,58,Quest,3860,11000,QuestRewardArmorL58,,,,,175,,,,,true,15,1
-0502_0102_hopespringseternal_success,,59,Quest+,4990,15575,QuestRewardArmorL59,,,,,250,,,,,true,30,1
-0502_0103_pathsunseen_success,,59,Quest,3990,11125,QuestRewardWeaponsL59,,,,,175,,,,,true,15,1
-0524_0102_queensgambit_success,,59,Quest+,4990,15575,QuestRewardArmorL59,,,,,250,,,,,true,30,1
-0505_0102_downstreameffects_success,,59,Quest+,4990,15575,QuestRewardArmorL59,,,,,250,,,,,true,30,1
-0503_0201_excisingtheblightedroot_success,,59,Quest+,4990,15575,QuestRewardWeaponsL59,,,,,250,,,,,true,30,1
+0502_0101_ancientscholar_success,,58,Quest,3870,11000,QuestRewardArmorCase5,,,,,175,,,,,true,15,1
+0504_0101_anexpandingthreat_success,,58,Quest+,4840,15400,QuestRewardWeaponCase5,,,,,250,,,,,true,30,1
+0504_0102_defianceanddoubt_success,,58,Quest-,2910,4400,QuestRewardArmorCase5,,,,,100,,,,,true,7.5,1
+0524_0101_ahungerforfreedom_success,,58,Quest-,2910,4400,QuestRewardArmorCase5,,,,,100,,,,,true,7.5,1
+0503_0101_onfloralfauna_success,,58,Quest,3870,11000,QuestRewardWeaponCase5,,,,,175,,,,,true,15,1
+0505_0101_pruningandirrigation_success,,58,Quest,3870,11000,QuestRewardArmorCase5,,,,,175,,,,,true,15,1
+0502_0102_hopespringseternal_success,,59,Quest+,4990,15575,QuestRewardArmorCase5,,,,,250,,,,,true,30,1
+0502_0103_pathsunseen_success,,59,Quest,3990,11125,QuestRewardWeaponCase5,,,,,175,,,,,true,15,1
+0524_0102_queensgambit_success,,59,Quest+,4990,15575,QuestRewardArmorCase5,,,,,250,,,,,true,30,1
+0505_0102_downstreameffects_success,,59,Quest+,4990,15575,QuestRewardArmorCase5,,,,,250,,,,,true,30,1
+0503_0201_excisingtheblightedroot_success,,59,Quest+,4990,15575,QuestRewardWeaponCase5,,,,,250,,,,,true,30,1
 0502_0104_anatomyoftheheart_success,,60,Quest+,5630,15750,Earring_SQRewardReekwaterT5,,,,,250,,,,,true,30,1
 0502_0105_seekandhide_success,,60,Quest,4500,11250,2hWarhammer_SQRewardReekwaterT5,,,,,175,,,,,true,15,1
 0511_0101_aguardiansplight_success,,60,Quest+,5630,15750,LightHead_SQRewardReekwaterT5,Custom,,,,250,,,,,true,30,1

@@ -1,2 +1,1 @@
 ConversationStateId,ConversationType,IsInitialState,ShowTopics,DefaultDialogue,RequiredFaction,RequiredLevel,RequiredCompletedObjective,RequiredAchievement,LinearObjectiveId1,LinearObjectiveId2,LinearObjectiveId3,LinearObjectiveId4,LinearObjectiveId5,LinearObjectiveId6,LinearObjectiveId7,LinearObjectiveId8,LinearObjectiveId9,LinearObjectiveId10
-0001_01_CaptainThorpe,Linear_Objective,true,false,@0001_01_CaptainThorpe_DD,,,,,0001_0101_CaptainThorpe,,,,,,,,,

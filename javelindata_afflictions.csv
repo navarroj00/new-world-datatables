@@ -1,5 +1,5 @@
 AfflictionID,IntID,StatusEffects,DrainRate,AfflictedDrainTime,DrainDelay,Max,IgnoreWhenAfflicted,IsGlobalAffliction,IsTimerAffliction,ColorHex,Icon,BGImage,FillingColorHex,LocalizedText,LocalizedTextAfflicted,AfflictionTooltipText,AfflictedTooltipText
-AfflictionPoison,1,Poison,0.5,60,1.100000023841858,0,true,false,false,809db629,poison,poison,80339127,@ui_affliction_poison,@ui_afflicted_poison,@ui_affliction_poison_tooltip,@ui_afflicted_poison_tooltip
+AfflictionPoison,1,Poison,0.5,60,1.100000023841858,0,true,false,false,809db629,acid,poison,80339127,@ui_affliction_poison,@ui_afflicted_poison,@ui_affliction_poison_tooltip,@ui_afflicted_poison_tooltip
 AfflictionFrostbite,2,Frostbite,0.5,10,1.100000023841858,0,false,false,false,805666e8,frostbite,weakness,802e5daa,@ui_affliction_frostbite,@ui_afflicted_frostbite,@ui_affliction_frostbite_tooltip,@ui_afflicted_frostbite_tooltip
 AfflictionDisease,3,Disease,1.5,60,0.10000000149011612,0,true,false,false,80b3af37,disease,disease,80a9842e,@ui_affliction_disease,@ui_afflicted_disease,@ui_affliction_disease_tooltip,@ui_afflicted_disease_tooltip
 AfflictionBleed,4,Bleed,1,15,1.100000023841858,0,false,false,false,80c92020,bleeding,bleeding,80a82d2d,@ui_affliction_bleeding,@ui_afflicted_bleeding,@ui_affliction_bleeding_tooltip,@ui_afflicted_bleeding_tooltip

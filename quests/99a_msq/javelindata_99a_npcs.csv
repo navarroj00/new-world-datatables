@@ -1,0 +1,11 @@
+NPCId,Title,GenericName,InteractOptionDisplayNameOverride,ConversationStateId1,ConversationStateId2,ConversationStateId3,ConversationStateId4,ConversationStateId5,ConversationStateId6,ConversationStateId7,ConversationStateId8,ConversationStateId9,ConversationStateId10,ConversationStateId11,ConversationStateId12,ConversationStateId13,ConversationStateId14,ConversationStateId15,ConversationStateId16,ConversationStateId17,ConversationStateId18,ConversationStateId19,ConversationStateId20
+99A_Yonas_00,@99A_Yonas_Hermit_Title,@99A_Yonas,,Yonas_00_00,Yonas_00_01,,,,,,,,,,,,,,,,,,
+99A_Yonas_00_A,@99A_Yonas_Hermit_Title,@99A_Yonas,,Yonas_00_A_00,Yonas_00_A_01_TaskTopic_BearCave,Yonas_00_A_02_TaskTopic_Alioth,Yonas_00_A_03,,,,,,,,,,,,,,,,
+99A_Yonas_00_B,@99A_Yonas_Hermit_Title,@99A_Yonas,,Yonas_00_B_00,Yonas_00_B_01,,,,,,,,,,,,,,,,,,
+99A_Yonas_01,@99A_Yonas_Soulwarden_Title,@99A_Yonas,,Yonas_01_00,Yonas_01_01,Yonas_01_02,Yonas_01_03,Yonas_01_04,Yonas_01_05,Yonas_01_06,Yonas_01_07,Yonas_01_08,Yonas_01_09,Yonas_TaskTopic_AmrineSkip,,,,,,,,,
+99A_Yonas_02,@99A_Yonas_Soulwarden_Title,@99A_Yonas,,Yonas_02_00,Yonas_02_01,Yonas_02_02,,,,,,,,,,,,,,,,,
+99A_Adiana_00,@99A_Adiana_Title,@99A_Adiana,,Adiana_00,Adiana_01,Adiana_02,Adiana_03,Adiana_04,Adiana_05,,,,,,,,,,,,,,
+99A_Grace_00,@01_Grace_title,@01_Grace,,Grace_00_00,Grace_00_01,,,,,,,,,,,,,,,,,,
+99A_Grace_01,@01_Grace_title,@01_Grace,,Grace_01_00,Grace_01_01,Grace_01_02,Grace_01_03,Grace_01_04,Grace_01_02A,Grace_01_03A,,,,,,,,,,,,,
+99A_Captain,@99A_Captain_Title,@99A_Captain,,GuardCaptain_00,GuardCaptain_01B_DuringRumorsMSQ,GuardCaptain_01B,GuardCaptain_01,GuardCaptain_03,GuardCaptain_05,GuardCaptain_06,GuardCaptain_TaskTopic_DeliverPotions,GuardCaptain_TaskConversation_PlayForTown,GuardCaptain_TaskTopic_PlayForTown,GuardCaptain_01A_TaskTopic_MSQRumors,GuardCaptain_02_TaskTopic_Adiana,,,,,,,,
+99A_Anthurus,@99A_Anthurus_Title,@99A_Anthurus,,Anthurus_00,Anthurus_01,,,,,,,,,,,,,,,,,,

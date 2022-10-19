@@ -86,3 +86,8 @@ ConversationStateId,ConversationType,IsInitialState,DefaultDialogue,RequiredFact
 1129_Sculpture_1,Linear_Objective,false,@1129_Sculpture_1,,,,11_Jaansen_3,,,,,,,,,,,,,,,,,,,,,,,,,
 1129_Jaansen_Note_Default,Linear_Objective,true,@1129_Jaansen_Note_Default,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1129_Jaansen_Note_1,Linear_Objective,false,@1129_Jaansen_Note_1,,,,11_Jaansen_1,,,1129_0102_jaanseninthenorth,,,,,,,,,,,,,,,,,,,,,,
+1140_Halloween_Salvatore_Default,Linear_Objective,true,@1140_Halloween_Salvatore_Default,,,,,,,,,,,,,,,,,,,,,,,,,,,Event_Store,,
+1140_Halloween_Salvatore_2,Linear_Objective,false,@1140_Halloween_Salvatore_2,,,35,,,,1140_Halloween_02,,,,,,,,,,1140_Topic1_Hallow,1140_Topic2_Pumpkinites,1140_Topic3_Baalphazu,1140_Topic4_Cauldron,,,,,,,Event_Store,,
+1140_Halloween_Salvatore_3,Linear_Objective,false,@1140_Halloween_Salvatore_3,,,,11_HalloweenQuest2,,,,,,,,,,,,,1140_Topic1_Hallow,1140_Topic2_Pumpkinites,1140_Topic3_Baalphazu,1140_Topic4_Cauldron,1140_Topic5_Hexen,,,,,,Event_Store,,
+1141_Halloween_Bucket_Default,Linear_Objective,true,@1141_Halloween_Bucket_Default,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1141_Halloween_Bucket_2,Linear_Objective,false,@1141_Halloween_Bucket_2,,,,11_HalloweenQuest2,,,,,,,,,,,,,,,,,,,,,,,,,

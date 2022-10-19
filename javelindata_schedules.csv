@@ -1,0 +1,4 @@
+ScheduleId,StartDate,EndDate,StartWeekday,EndWeekday,UTC,Comments
+test_1,*-*-*T*:25:00,*-*-*T*:30:00,,,false,"For internal testing, do not remove"
+test_2,,,Wednesday,Thursday,false,"For internal testing, do not remove"
+TurkeyTerror,2022-11-15T*:*:*,2022-11-29T*:*:*,,,false,TurkeyTerror Event

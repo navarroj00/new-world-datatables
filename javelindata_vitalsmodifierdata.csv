@@ -24,3 +24,6 @@ OutpostRushSolo+,1.25,2.75,1
 OutpostRushGroup+,2.0999999046325684,20,1
 Player,1,1,1
 Skull,1,1,1
+Solo_StarterBeach,1,1,0.08500000089406967
+Solo-_StarterBeach,0.6000000238418579,0.6000000238418579,0.05000000074505806
+Solo+_StarterBeach,1.25,2,0.25

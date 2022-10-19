@@ -1,5 +1,5 @@
-FactionType,DisplayName,DisplayDesc,ForegroundColorIndex,ForegroundCrestIndex,BackgroundColorIndex,BackgroundCrestIndex
-None,@ui_tooltip_none,,0,0,0,0
-Faction1,@owg_merchant_guildname,@owg_merchant_desc,0,2,0,2
-Faction2,@owg_procurer_guildname,@owg_procurer_desc,0,3,0,3
-Faction3,@owg_explorer_guildname,@owg_explorer_desc,0,4,0,4
+FactionType,DisplayName,DisplayDesc,ForegroundColorIndex,ForegroundCrestIndex,BackgroundColorIndex,BackgroundCrestIndex,RequiredAchievementId,RequiredLegacyAchievementId
+None,@ui_tooltip_none,,0,0,0,0,,
+Faction1,@owg_merchant_guildname,@owg_merchant_desc,0,2,0,2,FactionIntro_Syndicate_Recruitment,S_syndicatequest_1
+Faction2,@owg_procurer_guildname,@owg_procurer_desc,0,3,0,3,FactionIntro_Marauders_Recruitment,S_marauderquest_1
+Faction3,@owg_explorer_guildname,@owg_explorer_desc,0,4,0,4,FactionIntro_Covenant_Recruitment,S_covenantquest_1

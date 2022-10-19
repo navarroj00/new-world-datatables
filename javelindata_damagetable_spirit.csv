@@ -1,3 +1,3 @@
-DamageID,WeaponCategory,IgnoreInvulnerable,NoReaction,SurfaceImpactEffect,DamageType,Affliction,AddAffliction,AfflictionPercent,DeflectDamageID,DmgCoef,DmgCoefHead,PowerLevel,BlockPowerLevel,HitStun,BlockHitStun,ImpactDistanceX,ImpactDistanceY,ImpactDistanceZ,ImpactDecayRate,BlockImpactDistanceX,BlockImpactDistanceY,BlockImpactDistanceZ,BlockImpactDecayRate,AddDmg,ImpactRating,BlockStaminaDmgMod,BlockAbsorptionModifier,StunBreakoutIncrement
-Spirit_Primary,Unarmed,0,0,Bullet,Standard,,,,,1.25,1,1,1,0,0,0,1,0,0.800000011920929,0,0,0,0,0,0,1,1,1
-Fall,Fall,1,1,Bullet,Falling,,,,,1,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+DamageID,WeaponCategory,IgnoreInvulnerable,NoReaction,SurfaceImpactEffect,DamageType,Affliction,AddAffliction,AfflictionPercent,DeflectDamageID,DmgCoef,DmgCoefHead,PowerLevel,BlockPowerLevel,HitStun,BlockHitStun,ImpactDistanceX,ImpactDistanceY,ImpactDistanceZ,ImpactDecayRate,BlockImpactDistanceX,BlockImpactDistanceY,BlockImpactDistanceZ,BlockImpactDecayRate,AddDmg,ImpactRating,BlockStaminaDmgMod,BlockAbsorptionModifier,StunBreakoutIncrement,HitRuneCharge,HitBlockedRuneCharge
+Spirit_Primary,Unarmed,0,0,Bullet,Standard,,,,,1.25,1,1,1,0,0,0,1,0,0.800000011920929,0,0,0,0,0,0,1,1,1,0.16249999403953552,0.32499998807907104
+Fall,Fall,1,1,Bullet,Falling,,,,,1,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0.16249999403953552,0.32499998807907104

@@ -62,3 +62,6 @@ Arena3v3_Loss,0,0,0,0,0,1,0,0,0,0,,
 Arena3v3_Win_3_Round,1,0,0,0,0,1,0,0,0,0,,
 Arena3v3_Win_2_Round,1,0,0,0,0,1,0,0,0,0,,
 Arena3v3_Win_1_Round,1,0,0,0,0,1,0,0,0,0,,
+Solo_StarterBeach,1,1,0,0,0,1,0,0,0,0,Starter Beach no Territory XP,Flags on vitals
+Solo-_StarterBeach,0.5,0.5,0,0,0,1,0,0,0,0,Starter Beach no Territory XP,Flags on vitals
+Solo+_StarterBeach,2,1.149999976158142,0,0,0,1,0,0,0,0,Starter Beach no Territory XP,Flags on vitals

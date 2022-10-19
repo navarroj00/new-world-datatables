@@ -58,6 +58,7 @@ Emote_Pondering,Emote_Pondering,ui_emote_Pondering_name,ui_emote_Pondering_descr
 Emote_PutUpDukes,Emote_PutUpDukes,ui_emote_PutUpDukes_name,ui_emote_PutUpDukes_description,Taunt,@emote_PutUpDukes,putemup,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_PutUpYourDukes.dds,,,0,
 Emote_Umpire,Emote_Umpire,ui_emote_Umpire_name,ui_emote_Umpire_description,Other,@emote_Umpire,umpire,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_YouAreOuttaHere.dds,,,0,
 Emote_TalkToHand,Emote_TalkToHand,ui_emote_TalkToHand_name,ui_emote_TalkToHand_description,Answer,@emote_TalkToHand,hand,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_TalkToTheHand.dds,,,0,
+Emote_Panic,Emote_Panic,ui_emote_Panic_name,ui_emote_Panic_description,Emotion,@emote_Panic,panic,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_Panic.dds,,,0,
 Emote_BaladiDance,Emote_BaladiDance,ui_emote_BaladiDance_name,ui_emote_BaladiDance_description,Default,@emote_BaladiDance,baladi,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_BaladiDance.dds,,dance,7,
 Emote_PinCount,Emote_PinCount,ui_emote_PinCount_name,ui_emote_PinCount_description,Taunt,@emote_PinCount,pin,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_WrestlingRefereeThreeCount.dds,,,0,
 Emote_Plotting,Emote_Plotting,ui_emote_Plotting_name,ui_emote_Plotting_description,Other,@emote_Plotting,plot,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_SinisterPlotting.dds,,,0,
@@ -70,10 +71,16 @@ Emote_AirGuitar,Emote_AirGuitar,ui_emote_AirGuitar_name,ui_emote_AirGuitar_descr
 Emote_AirViolin,Emote_AirViolin,ui_emote_AirViolin_name,ui_emote_AirViolin_description,Other,@emote_AirViolin,violin,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_AirMiniatureViolin.dds,,,0,SummerMedleyfaire_2022
 Emote_WiggleArms,Emote_WiggleArms,ui_emote_WiggleArms_name,ui_emote_WiggleArms_description,Other,@emote_WiggleArms,wiggle,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_WiggleArm.dds,,dance,7,SummerMedleyfaire_2022
 Emote_RunningMan,Emote_RunningMan,ui_emote_RunningMan_name,ui_emote_RunningMan_description,Other,@emote_RunningMan,shuffle,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_RunningMan.dds,,dance,7,SummerMedleyfaire_2022
+Emote_Stab,Emote_Stab,ui_emote_Stab_name,ui_emote_Stab_description,Other,@emote_Stab,stab,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_CreepyStabbingPsycho.dds,,,0,
 Emote_MicDrop,Emote_MicDrop,ui_emote_MicDrop_name,ui_emote_MicDrop_description,Other,@emote_MicDrop,micdrop,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_MicDrop.dds,,,0,
 Emote_DrinkCheer,Emote_DrinkCheer,ui_emote_DrinkCheer_name,ui_emote_DrinkCheer_description,Friendly,@emote_DrinkCheer,cheers,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_Cheers.dds,,,0,
+Emote_HearNoEvil,Emote_HearNoEvil,ui_emote_HearNoEvil_name,ui_emote_HearNoEvil_description,Other,@emote_HearNoEvil,hearnoevil,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_NoEvil.dds,,,0,
+Emote_SeeNoEvil,Emote_SeeNoEvil,ui_emote_SeeNoEvil_name,ui_emote_SeeNoEvil_description,Other,@emote_SeeNoEvil,seenoevil,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_NoEvil.dds,,,0,
+Emote_SpeakNoEvil,Emote_SpeakNoEvil,ui_emote_SpeakNoEvil_name,ui_emote_SpeakNoEvil_description,Other,@emote_SpeakNoEvil,speaknoevil,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_NoEvil.dds,,,0,
+Emote_DigGrave,Emote_DigGrave,ui_emote_DigGrave_name,ui_emote_DigGrave_description,Taunt,@emote_DigGrave,diggrave,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_DigGrave.dds,,,0,
 Emote_TableFlip,Emote_TableFlip,ui_emote_TableFlip_name,ui_emote_TableFlip_description,Emotion,@emote_TableFlip,tableflip,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_TableFlip.dds,,,0,
 Emote_Vanity,Emote_Vanity,ui_emote_Vanity_name,ui_emote_Vanity_description,Other,@emote_Vanity,vanity,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_VanityMirror.dds,,,0,
 Emote_KnightThee,Emote_KnightThee,ui_emote_KnightThee_name,ui_emote_KnightThee_description,Other,@emote_KnightThee,knight,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_KnightThee.dds,,,0,
 Emote_CrazyTapDance,Emote_CrazyTapDance,ui_emote_CrazyTapDance_name,ui_emote_CrazyTapDance_description,Other,@emote_CrazyTapDance,tapdance,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_CrazyTapDance.dds,,dance,7,
 Emote_ChaplinWalk,Emote_ChaplinWalk,ui_emote_ChaplinWalk_name,ui_emote_ChaplinWalk_description,Other,@emote_ChaplinWalk,trampwalk,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_TrampWalk.dds,,,0,
+Emote_TwirlDance,Emote_TwirlDance,ui_emote_TwirlDance_name,ui_mote_TwirlDance_description,Other,@emote_TwirlDance,skeletontwirl,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_DanceTwirl.dds,,dance,7,NightveilHallow_2022

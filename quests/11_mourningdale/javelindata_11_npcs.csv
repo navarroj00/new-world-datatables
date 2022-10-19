@@ -23,3 +23,5 @@ NPCId,Title,GenericName,InteractOptionDisplayNameOverride,ConversationStateId1,C
 1129_Jaansen2,@1129_Jaansen2_Title,@1129_Jaansen,,1129_Jaansen2_Default,1129_Jaansen2_2,1129_Jaansen2_3,,,,,,,,,,,,,,,,,
 1129_Sculpture,,@1129_Sculpture,@1129_Override,1129_Sculpture_Default,1129_Sculpture_1,,,,,,,,,,,,,,,,,,
 1129_Jaansen_note,,@1129_Jaansen_note,@1124_Override,1129_Jaansen_note_Default,1129_Jaansen_note_1,,,,,,,,,,,,,,,,,,
+1140_Halloween_Salvatore,@1140_Halloween_Salvatore_title,@1140_Halloween_Salvatore,,1140_Halloween_Salvatore_Default,1140_Halloween_Salvatore_2,1140_Halloween_Salvatore_3,,,,,,,,,,,,,,,,,
+1141_Halloween_Bucket,@1141_Halloween_Bucket_title,@1141_Halloween_Bucket,@1141_Halloween_Bucket_override,1141_Halloween_Bucket_Default,1141_Halloween_Bucket_2,,,,,,,,,,,,,,,,,,
