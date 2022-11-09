@@ -44,7 +44,7 @@ EventID,GameEventType,Level,CreatureType,UniversalExpAmount,CurrencyReward,ItemR
 1625_0502_scourgeaeonmadness_success,,65,Quest-,3940,4750,,,,,,100,,,,,true,7.5,1,
 1625_0601_eyeofhorus_success,,65,Quest+,6570,16625,,,,,,250,,,,,true,30,1,
 1625_0701_challengingpharaoh_success,,65,Quest+,6570,16625,,,,,,250,,,,,true,30,1,
-1624_0801_agodawakens_success,,65,Quest+,6570,16625,,,,,,250,,,,,true,30,1,
+1624_0801_agodawakens_success,,65,Quest+,6570,16625,QuestRewardApophis_Repeatable,,,,,250,,,,,true,30,1,
 1624_0901_secretindesert_success,,65,Quest-,3940,4750,,,,,,100,,,,,true,7.5,1,
 1625_0902_queenrevealed_success,,65,Quest-,3940,4750,,,,,,100,,,,,true,7.5,1,
 1625_0903_thecoronation_success,,65,Quest-,3940,4750,,,,,,100,,,,,true,7.5,1,

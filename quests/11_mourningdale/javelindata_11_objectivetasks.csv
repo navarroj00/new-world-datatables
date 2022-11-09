@@ -527,8 +527,3 @@ FM_11_H_03_leg_C_task,TaskGatherAndReturnItems,,0,3,FM_hunt_item_9_11,Elk_Stag_1
 1124_Container_PierreGoHome,ConsecutiveTaskContainer,,0,,,,0,0,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,1124_PierreGoHome_TravelTask,1124_PierreGoHome_Achievement,,,
 1124_PierreGoHome_TravelTask,TaskTriggerArea,,0,1,,,0,0,TRUE,,,,,,,0,,,,,,Enter,,,0,,,,,,,,,,,,,,,,0,TriggerVol_1124_PierreGoHome,@1124_PierreGoHome,,13166.241 6917.281 153.780,1,,,,,,,,,,,,,,,,,
 1124_PierreGoHome_Achievement,TaskLockAchievement,,0,1,SwapActive_1124_Pierre_Town_off,,0,0,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,,0,,,,,1,1,,,,,,,,,,,,,,,,
-HALLOWEEN 2022,,,0,,,,0,0,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,
-1140_Halloween_02_container,ConsecutiveTaskContainer,,0,,,,0,0,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,1140_Halloween_02_AchievTrigger,1140_Halloween_02_KillBaalphazu,1140_Halloween_02_InteractCauldronIchor,,
-1140_Halloween_02_KillBaalphazu,TaskHaveItems,,0,1,NH_Baalphazu_Ichor,,0,0,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,,0,,@1140_Halloween_02_KillBaalphazu,,,,,,,,,,,,,,,,,,,,
-1140_Halloween_02_InteractCauldronIchor,TaskGameEvent,,0,1,,,0,0,,,,,,,,0,,,,IO_Nightveil_Settlement_Cauldron,,,NH_Cauldron_Reward,,0,,,,,,,,,,,,,,,,0,,@1140_Halloween_02_InteractCauldronIchor,,,,,,,,,,,,,,,,,,,,
-1140_Halloween_02_AchievTrigger,TaskUnlockAchievement,,0,1,11_HalloweenQuest1,,0,0,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,,0,,,,,,1,,,,,,,,,,,,,,,,

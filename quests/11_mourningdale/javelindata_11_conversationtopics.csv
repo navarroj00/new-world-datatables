@@ -1,7 +1,2 @@
 ConversationTopicId,PlayerPrompt,NPCResponse,AchievementUnlock,RequiredAchievement,RequiredFaction,RequiredLevel
 1123_Fisher_ExplainHotspots,@0223_Fisher_ExplainHotspots_Prompt,@0223_Fisher_ExplainHotspots_Response,,,,
-1140_Topic1_Hallow,@1140_Topic1_Hallow_prompt,@1140_Topic1_Hallow_response,11_HalloweenQuest1,,,
-1140_Topic2_Pumpkinites,@1140_Topic2_Pumpkinites_prompt,@1140_Topic2_Pumpkinites_response,11_HalloweenQuest1,,,
-1140_Topic3_Baalphazu,@1140_Topic3_Baalphazu_prompt,@1140_Topic3_Baalphazu_response,11_HalloweenQuest1,,,
-1140_Topic4_Cauldron,@1140_Topic4_Cauldron_prompt,@1140_Topic4_Cauldron_response,11_HalloweenQuest1,,,
-1140_Topic5_Hexen,@1140_Topic5_Hexen_prompt,@1140_Topic5_Hexen_response,11_HalloweenQuest2,,,

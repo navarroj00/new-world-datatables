@@ -33,7 +33,7 @@ ConversationStateId,ConversationType,IsInitialState,DefaultDialogue,RequiredFact
 9902_08_MSQ_Adiana,Linear_Objective,false,@9902_08_MSQ_Adiana_DefaultDialog,,0,99_MSQ_51,,,9902_0052_saboteur_v2,,,,,,,,,,,,,,,,,,,,,,
 9902_08b_MSQ_Adiana_SoloTask,Linear_Objective,false,@9902_08b_MSQ_Adiana_DefaultDialog,,0,,9902_0052_saboteur_v2,9902_0052_d_00_Task_TalktoAdiana,,,,,,,,,,,9902_MSQ_ExpeditionSkip,,,,,,,,,,,,
 9902_09_MSQ_Adiana,Linear_Objective,false,@9902_09_MSQ_Adiana_DefaultDialog,,0,99_MSQ_52,,,9907_0053_blessingofearth,,,,,,,,,,,,,,,,,,,,,,
-9902_10_MSQ_Adiana,Linear_Objective,false,@9902_10_MSQ_Adiana_DefaultDialog,,0,99_MSQ_53,,,9902_0054_ASelflessNature,,,,,,,,,,,,,,,,,,,,,,
+9902_10_MSQ_Adiana,Linear_Objective,false,@9902_10_MSQ_Adiana_DefaultDialog,,0,99_MSQ_52a && 99_MSQ_52b && 99_MSQ_52c && 99_MSQ_53,,,9902_0054_ASelflessNature,,,,,,,,,,,,,,,,,,,,,,
 9902_11_MSQ_Adiana,Linear_Objective,false,@9902_11_MSQ_Adiana_DefaultDialog,,0,99_MSQ_54,,,9902_0055_shatteredmountain,,,,,,,,,,,,,,,,,,,,,,
 9902_12_MSQ_Adiana,Linear_Objective,false,@9902_12_MSQ_Adiana_DefaultDialog,,0,,,,,,,,,,,,,,,,,,,,,,,,,,
 9902_13_MSQ_Adiana,Linear_Objective,false,@9902_13_MSQ_Adiana_DefaultDialog,,0,,,,,,,,,,,,,,,,,,,,,,,,,,
