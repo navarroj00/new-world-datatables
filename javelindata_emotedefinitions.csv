@@ -84,3 +84,6 @@ Emote_KnightThee,Emote_KnightThee,ui_emote_KnightThee_name,ui_emote_KnightThee_d
 Emote_CrazyTapDance,Emote_CrazyTapDance,ui_emote_CrazyTapDance_name,ui_emote_CrazyTapDance_description,Other,@emote_CrazyTapDance,tapdance,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_CrazyTapDance.dds,,dance,7,
 Emote_ChaplinWalk,Emote_ChaplinWalk,ui_emote_ChaplinWalk_name,ui_emote_ChaplinWalk_description,Other,@emote_ChaplinWalk,trampwalk,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_TrampWalk.dds,,,0,
 Emote_TwirlDance,Emote_TwirlDance,ui_emote_TwirlDance_name,ui_mote_TwirlDance_description,Other,@emote_TwirlDance,skeletontwirl,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_DanceTwirl.dds,,dance,7,NightveilHallow_2022
+Emote_FootballJuggle,Emote_FootballJuggle,ui_emote_FootballJuggle_name,ui_emote_FootballJuggle_description,Other,@emote_FootballJuggle,keepieuppie,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_JugglingSoccerBall.dds,,,0,
+Emote_KneeSlide,Emote_KneeSlide,ui_emote_KneeSlide_name,ui_emote_KneeSlide_description,Other,@emote_KneeSlide,kneeslide,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_KneeSlide.dds,,,0,
+Emote_DramaticDeath,Emote_DramaticDeath,ui_emote_DramaticDeath_name,ui_emote_DramaticDeath_description,Other,@emote_DramaticDeath,alasidie,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_OverlyDramaticDeath.dds,,,0,

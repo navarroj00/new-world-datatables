@@ -1,4 +1,4 @@
-AchievementID,AchievementIndex,Category,GameEventId,"New AchivementIndex values must increase, current maximum is",10250,AchivementsIndex &gt; 16000 will require a code change!
+AchievementID,AchievementIndex,Category,GameEventId,"New AchivementIndex values must increase, current maximum is",10387,AchivementsIndex &gt; 16000 will require a code change!
 Map_Unlock_1,0,Map,Read_LoreItem,,,
 Map_Unlock_2,1,Map,Read_LoreItem,,,
 Map_Unlock_3,2,Map,Read_LoreItem,,,
@@ -9407,3 +9407,6 @@ FC_PerfectSalvage_2hGreatSwordT5,9801,FirstCraft,,,,
 RewardClaim_Oct2022Prime_Container_2,9840,Store,,,,
 legionattack_30333_discovered,10249,Map,,,,
 legionattack_30333_charted,10250,Map,Chart_Location,,,
+RewardClaim_Dec2022_Prime,10187,Store,,,,
+RewardClaim_Bfriday_Prime,9841,Store,,,,
+RewardClaim_CS_MGContainer,10387,Store,,,,

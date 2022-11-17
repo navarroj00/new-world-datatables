@@ -113,6 +113,7 @@ CoatingBeastT2,,1,1500,0,0,1,0,0,0,,,WeaponCoatingEffect_Beasts_T2,0,,false,,,,,
 CoatingBeastT3,,1,1800,0,0,1,0,0,0,,,WeaponCoatingEffect_Beasts_T3,0,,false,,,,,,Beast=.11,,,,WeaponOil,,0,
 CoatingBeastT4,,1,2100,0,0,1,0,0,0,,,WeaponCoatingEffect_Beasts_T4,0,,false,,,,,,Beast=.13,,,,WeaponOil,,0,
 CoatingBeastT5,,1,2400,0,0,1,0,0,0,,,WeaponCoatingEffect_Beasts_T5,0,,false,,,,,,Beast=.15,,,,WeaponOil,,0,
+CoatingBeastTurkeyT5,,1,2400,0,0,1,0,0,0,,,WeaponCoatingEffect_BeastsTurkey_T5,0,,false,,,,,,MegaTurkey=3.0+Beast=0.15,,,,WeaponOil,,0,
 CoatingLostT2,,1,1500,0,0,1,0,0,0,,,WeaponCoatingEffect_Lost_T2,0,,false,,,,,,Lost=.09,,,,WeaponOil,,0,
 CoatingLostT3,,1,1800,0,0,1,0,0,0,,,WeaponCoatingEffect_Lost_T3,0,,false,,,,,,Lost=.11,,,,WeaponOil,,0,
 CoatingLostT4,,1,2100,0,0,1,0,0,0,,,WeaponCoatingEffect_Lost_T4,0,,false,,,,,,Lost=.13,,,,WeaponOil,,0,
@@ -196,6 +197,7 @@ PotionFamiliyWardAncientT5,PotionFamilyWardAncientT5,1,0,0,0,1,0,0,0,,DefBoost,,
 PotionFamilyWardBeastT3,PotionFamilyWardBeastT3,1,0,0,0,1,0,0,0,,DefBoost,,0,,false,,,,,,,,,,Potion,,120,AbsorbBoost
 PotionFamilyWardBeastT4,PotionFamilyWardBeastT4,1,0,0,0,1,0,0,0,,DefBoost,,0,,false,,,,,,,,,,Potion,,120,AbsorbBoost
 PotionFamilyWardBeastT5,PotionFamilyWardBeastT5,1,0,0,0,1,0,0,0,,DefBoost,,0,,false,,,,,,,,,,Potion,,120,AbsorbBoost
+PotionFamilyWardBeastTurkeyT5,PotionFamilyWardBeastTurkeyT5,1,0,0,0,1,0,0,0,,DefBoost,,0,,false,,,,,,,,,,Potion,,120,AbsorbBoost
 PotionGypsumYellow,PotionGypsumYellow,1,0,0,0,1,0,0,0,,,,0,,false,,,,,,,,,,Potion,,120,Gypsum
 FoodHealthRecoveryT1,FoodInitialRecoveryT1+FoodRecoveryT1,1,0,0,0,0,0,0,0,,Recovery+FoodInitialRecovery,,0,,false,,,,,,,,,,Eat,,0,
 FoodCorruptedT1,FoodCorruptedT1+FoodRecoveryT1,1,0,0,0,0,0,0,0,,Family,,0,,false,,,,,,,,,,Eat,,0,
