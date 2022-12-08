@@ -38,7 +38,7 @@ NPCId,Title,GenericName,InteractOptionDisplayNameOverride,ConversationStateId1,C
 1624_Imhotep_v3p1,@1624_Imhotep_t3,@1624_Imhotep,,1624_00_Imhotep_v3p1,1624_01_Imhotep_v3p1,,,,,,,,,,,,,,,,,,
 1624_Imhotep_v4p1,@1624_Imhotep_t4,@1624_Imhotep,,1624_00_Imhotep_v4p1,1624_01_Imhotep_v4p1,1624_02_Imhotep_v4p1,,,,,,,,,,,,,,,,,
 1624_Imhotep_v4p2,@1624_Imhotep_t4,@1624_Imhotep,,1624_00_Imhotep_v4p2,1624_00a_Imhotep_v4p2,1624_01_Imhotep_v4p2,,,,,,,,,,,,,,,,,
-1624_Imhotep_v4p3,@1624_Imhotep_t4,@1624_Imhotep,,1624_00_Imhotep_v4p3,1624_01_Imhotep_v4p3,1624_02_Imhotep_v4p3,1624_03_Imhotep_v4p3,1624_04_Imhotep_v4p3,1624_05_Imhotep_v4p3,,,,,,,,,,,,,,
+1624_Imhotep_v4p3,@1624_Imhotep_t4,@1624_Imhotep,,1624_00_Imhotep_v4p3,1624_01_Imhotep_v4p3,1624_02_Imhotep_v4p3,1624_03_Imhotep_v4p3,1624_04_Imhotep_v4p3,1624_05_Imhotep_v4p3,1624_06_Imhotep_v4p3,,,,,,,,,,,,,
 1624_Imhotep_v4p4,@1624_Imhotep_t4,@1624_Imhotep,,1624_00_Imhotep_v4p4,1624_01_Imhotep_v4p4,1624_02_Imhotep_v4p4,,,,,,,,,,,,,,,,,
 1624_Imhotep_v4p5,@1624_Imhotep_t4,@1624_Imhotep,,1624_00_Imhotep_v4p5,1624_02_Imhotep_v4p5,1624_03_Imhotep_v4p5,,,,,,,,,,,,,,,,,
 1625_Ghazi_p1,@1625_Ghazi_t,@1625_Ghazi,,1625_00_Ghazi_p1,1625_00a_Ghazi_p1,1625_01_Ghazi_p1,1625_02_Ghazi_p1,1625_03_Ghazi_p1,,,,,,,,,,,,,,,

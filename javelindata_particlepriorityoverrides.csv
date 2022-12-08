@@ -21,11 +21,8 @@ Event_Gleamite.Gleamite_Chunk_Trail01,Normal
 Event_Gleamite.Gleamite_Shard_Trail01,Normal
 wFX_Default_Range.Aim_Post,Required
 ENV_Dungeon_Ancient_Gate.Seal_break_large,Required
-wFX_rune_ability_cannon_blast.muzzle_flash,High
 wFX_rune_ability_cannon_blast.DominatorExplosion,High
-wfx_rune_ability_heretic.wing,High
 wfx_rune_ability_heretic.hit,High
-wfx_rune_ability_vines.vines,High
 wfx_GreatSword.Onslaught.Combo.Default.Impact,High
 wfx_GreatSword.Onslaught.DefenseBreak.Default.Impact_Align,High
 wfx_GreatSword.Defiance.Burst.Upgrades.Pull,High

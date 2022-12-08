@@ -100,3 +100,4 @@ Spawn_Interacted : DarknessMajorPortalDT6,interaction,1000,false,false
 Spawn_Interacted : DarknessMinorPortalDT6,interaction,1000,false,false
 Spawn_Interacted : DarknessMinorFissureDT6,interaction,1000,false,false
 Spawn_Interacted : DarknessMinorHiveDT6,interaction,1000,false,false
+Encounter_Activated,default,0,false,false

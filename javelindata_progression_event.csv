@@ -1,6 +1,6 @@
 Rank,DisplayName,MaximumInfluence,RequiredLevel,InfluenceCost,CurrencyCost,AzothCost,SanityCheck,GameEventId,EntitlementId
 0,@ui_event_rank_0,1000,0,0,0,0,false,,0
-1,@ui_event_rank_1,2000,0,0,0,0,true,,0
-2,@ui_event_rank_2,3000,0,0,0,0,true,,0
+1,@ui_event_rank_1,1500,0,0,0,0,true,,0
+2,@ui_event_rank_2,2500,0,0,0,0,true,,0
 3,@ui_event_rank_3,4000,0,0,0,0,true,,0
-4,@ui_event_rank_4,10000,0,0,0,0,true,,0
+4,@ui_event_rank_4,7500,0,0,0,0,true,,0

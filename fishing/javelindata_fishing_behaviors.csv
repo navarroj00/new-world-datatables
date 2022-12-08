@@ -1,0 +1,7 @@
+Id,FishBehaviorPattern,FishBehaviorLocalizationKey
+Lazy,0,@ui_fishbehavior_lazy
+EarlyAggressive,11111000,@ui_fishbehavior_hotheaded
+LateAggressive,11111,@ui_fishbehavior_brooding
+TotalAggressive,11111110,@ui_fishbehavior_aggressive
+Sporadic,10101010,@ui_fishbehavior_sporadic
+SporadicEasy,1001001,@ui_fishbehavior_sporadiceasy

@@ -36,7 +36,7 @@ Emote_PiratePose,Emote_PiratePose,ui_emote_PiratePose,ui_emote_PiratePose_descri
 Emote_RussianDance,Emote_RussianDance,UI_emote_RussianDance_name,UI_emote_RussianDance_description,Default,@emote_RussianDance,legdance,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_RussianDance.dds,,dance,7,
 Emote_Shiver,Emote_Shiver,ui_emote_Shiver_name,ui_emote_Shiver_description,Emotion,@emote_Shiver,cold,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_Shiver.dds,,,0,
 Emote_BellyLaugh,Emote_BellyLaugh,ui_emote_BellyLaugh_name,ui_emote_BellyLaugh_description,Emotion,@emote_BellyLaugh,bellylaugh,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_BellyLaugh.dds,,,0,
-Emote_GivePresent,Emote_GivePresent,ui_emote_GivePresent_name,ui_emote_GivePresent_description,Friendly,@emote_GivePresent,gift,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_GivePresent.dds,,,0,
+Emote_GivePresent,Emote_GivePresent,ui_emote_GivePresent_name,ui_emote_GivePresent_description,Friendly,@emote_GivePresent,gift,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_GivePresent.dds,,,0,WinterConvergence_2021
 Emote_RoyalWave,Emote_RoyalWave,ui_emote_RoyalWave_name,ui_emote_RoyalWave_description,Friendly,@emote_RoyalWave,queenwave,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_QueenWave.dds,,,0,
 Emote_SnowAngel,Emote_SnowAngel,ui_emote_SnowAngel_name,ui_emote_SnowAngel_description,Other,@emote_SnowAngel,snowangel,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_SnowAngel.dds,,,0,
 Emote_Autograph,Emote_Autograph,ui_emote_Autograph_name,ui_emote_Autograph_description,Other,@emote_Autograph,autograph,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_Autograph.dds,,,0,
@@ -84,6 +84,16 @@ Emote_KnightThee,Emote_KnightThee,ui_emote_KnightThee_name,ui_emote_KnightThee_d
 Emote_CrazyTapDance,Emote_CrazyTapDance,ui_emote_CrazyTapDance_name,ui_emote_CrazyTapDance_description,Other,@emote_CrazyTapDance,tapdance,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_CrazyTapDance.dds,,dance,7,
 Emote_ChaplinWalk,Emote_ChaplinWalk,ui_emote_ChaplinWalk_name,ui_emote_ChaplinWalk_description,Other,@emote_ChaplinWalk,trampwalk,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_TrampWalk.dds,,,0,
 Emote_TwirlDance,Emote_TwirlDance,ui_emote_TwirlDance_name,ui_mote_TwirlDance_description,Other,@emote_TwirlDance,skeletontwirl,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_DanceTwirl.dds,,dance,7,NightveilHallow_2022
+Emote_Alas,Emote_Alas,ui_emote_Alas_name,ui_emote_Alas_description,Other,@emote_Alas,alas,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_TrampWalk.dds,,,0,
+Emote_WarHorn,Emote_WarHorn,ui_emote_WarHorn_name,ui_emote_WarHorn_description,Other,@emote_WarHorn,warhorn,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_WarHorn.dds,,,0,
+Emote_Walk_FrankenMummy,Emote_Walk_FrankenMummy,ui_emote_Walk_FrankenMummy_name,ui_emote_Walk_FrankenMummy_description,Other,@emote_Walk_FrankenMummy,zombie,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_FrankenMummy.dds,,,0,
+Emote_DevilHornRock,Emote_DevilHornRock,ui_emote_DevilHornRock_name,ui_emote_DevilHornRock_description,Other,@emote_DevilHornRock,rock,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_TrampWalk.dds,,,0,
+Emote_Walk_Skip,Emote_Walk_Skip,ui_emote_Walk_Skip_name,ui_emote_Walk_Skip_description,Other,@emote_Walk_Skip,skip,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_Skip.dds,,,0,
+Emote_ShruggyDance,Emote_ShruggyDance,ui_emote_ShruggyDance_name,ui_emote_ShruggyDance_description,Other,@emote_ShruggyDance,shruggydance,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_ShruggyDance.dds,,dance,7,WinterConvergence_2022
+Emote_SnowPileThrow,Emote_SnowPileThrow,ui_emote_SnowPileThrow_name,ui_emote_SnowPileThrow_description,Other,@emote_SnowPileThrow,snowball,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_SnowPileThrow.dds,,,0,WinterConvergence_2022
+Emote_GleamiteSkip,Emote_GleamiteSkip,ui_emote_GleamiteSkip_name,ui_emote_GleamiteSkip_description,Other,@emote_GleamiteSkip,gleamiteskip,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_GleamiteSkip.dds,,,0,
 Emote_FootballJuggle,Emote_FootballJuggle,ui_emote_FootballJuggle_name,ui_emote_FootballJuggle_description,Other,@emote_FootballJuggle,keepieuppie,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_JugglingSoccerBall.dds,,,0,
 Emote_KneeSlide,Emote_KneeSlide,ui_emote_KneeSlide_name,ui_emote_KneeSlide_description,Other,@emote_KneeSlide,kneeslide,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_KneeSlide.dds,,,0,
 Emote_DramaticDeath,Emote_DramaticDeath,ui_emote_DramaticDeath_name,ui_emote_DramaticDeath_description,Other,@emote_DramaticDeath,alasidie,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_OverlyDramaticDeath.dds,,,0,
+Emote_GleamiteJuggle,Emote_GleamiteJuggle,ui_emote_GleamiteJuggle_name,ui_emote_GleamiteJuggle_description,Other,@emote_GleamiteJuggle,gleamitejuggle,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_GleamiteJuggling.dds,,,0,WinterConvergence_2022
+Emote_GleamiteThrow,Emote_GleamiteThrow,ui_emote_GleamiteThrow_name,ui_emote_GleamiteThrow_description,Other,@emote_GleamiteThrow,gleamitethrow,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_TrampWalk.dds,,,0,

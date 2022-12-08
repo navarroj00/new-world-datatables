@@ -13,6 +13,8 @@ HousingItemPetPig,Interact_Pet_Pig,Interact_Start,Interact_End,LOOPING - Pet the
 HousingItemPetWolf,Interact_Pet_Wolf,Interact_Start,Interact_End,LOOPING - Pet the Wolf
 HousingItemTouchMimic,Interact_Touch_Mimic,Interact_Start,Interact_End,SINGLE - Player Attempts to Touch a Mimic
 HousingItemPetBird,Interact_Pet_Bird,Interact_Start,Interact_End,LOOPING - Pet the bird's head
+HousingItemPetCat,Interact_Pet_Cat,Interact_Start,Interact_End,LOOPING - Petting a kitty.
+HousingItemCheerYeti,Interact_Cheer_Yeti,Interact_Start,Interact_End,SINGLE - Player does a cheer.
 HousingItemWatering,Interact_Watering,Interact_Start,Interact_End,LOOPING - Watering a Pumpklin
 HousingItemSpiderTricks,Interact_Pet_Spider,Interact_Start,Interact_End,LOOPING - Player having a pet Spider do Tricks
 HousingItemSpookyBook,Interact_SpookyBook,Interact_Start,Interact_End,LOOPING - Player uses the looping Etching animations to interact with the book. 

@@ -1,5 +1,5 @@
 EventID,GameEventType,Level,CreatureType,RewardModifier,UniversalExpAmount,CurrencyReward,ItemReward,RewardNotes,GearScoreRange,CategoricalProgressionId,CategoricalProgressionReward,TerritoryStanding,FactionReputation,FactionTokens,FactionInfluenceAmount,FactionInfluenceSrc,EmitTelemetry,AzothReward,AzothRewardChance
-1002_0101_ancient_wonders_success,,27,Quest+,Armor,2690,9975,QuestRewardArmorCase2,,,,0,250,,,,,true,20,1
+1002_0101_ancient_wonders_success,,27,Quest+,Armor,2690,9975,RingCutlassKeysT4,,,,0,250,,,,,true,20,1
 1002_0102_aeternum_triangle_success,,28,Quest+,Weapons,2740,10150,QuestRewardWeaponCase2,,,,0,250,,,,,true,20,1
 1004_0101_explosive_prospecting_success,,29,Quest+,Armor,2800,10325,QuestRewardArmorCase2,,,,0,250,,,,,true,20,1
 1010_0101_seadog_brew_success,,30,Quest+,Armor,2850,10500,QuestRewardArmorCase2,,,,0,250,,,,,true,20,1

@@ -26,4 +26,5 @@ TerritoryID,NameLocalizationKey,IsPOI,MapIcon,CompassIcon,TooltipBackground,Grou
 8025,@ui_sulfurpool_attack,true,LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png,LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png,,0,BrimstoneSulfurEncounter,,60,1 0 0
 8026,@04A_Encounter_Remnant_Boss_Obj_Enc_Title,true,LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png,LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png,,0,RemnantEncounter,,17,1 0 0
 8027,@04A_Encounter_Zane_Boss_Obj_Enc_Title,true,LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png,LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png,,0,ZaneEncounter,,21,1 0 0
+8028,@ui_winterconv_worldboss_winterwarrior,true,LyShineUI/Images/Map/Icon/POIs/winter_warrior.png,LyShineUI/Images/Map/Icon/POIs/winter_warrior.png,LyShineUI/Images/Map/tooltipImages/mapTooltip_convergence_yeti.png,0,EventEncounter,,65,195 219 255
 8029,@ui_turkeyterror_worldboss_Turkulon,true,LyShineUI/Images/Map/Icon/POIs/Turkey.png,LyShineUI/Images/Map/Icon/POIs/Turkey.png,LyShineUI/Images/Map/tooltipImages/POI/mapTooltip_Event_Turkulon.png,0,EventEncounter,,65,110 116 240
