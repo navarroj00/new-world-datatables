@@ -31,10 +31,6 @@ EventID,GameEventType,Level,CreatureType,RewardModifier,UniversalExpAmount,Curre
 04A_Side08_03_DeliverPotions_success,,21,Quest-,,1150,2550,QuestReward_EF_Side_PotionPouch,,,,0,175,,,,,true,5,1
 04A_Side09_01_LostAlchemy_success,,20,Quest-,,1080,2500,QuestReward_EF_Side09_01_AlchemyBox,,,,0,100,,,,,true,5,1
 04A_Side10_01_CopperSeam_success,,20,Quest-,,1080,2500,,,,,0,100,,,,,true,5,1
-0424_2022_WC_01_success,,15,Quest,,690,5625,WC_QuestPresent1,,,EventProgress,500,175,,,,,true,10,1
-0424_2022_WC_02_success,,15,Quest,,1040,5625,WC_QuestPresent2,,,EventProgress,500,175,,,,,true,10,1
-0424_2022_WC_03_success,,15,Quest,,1040,5625,WC_QuestPresent3,,,EventProgress,750,175,,,,,true,10,1
-0424_2022_WC_04_success,,15,Quest,,1040,5625,WC_QuestPresent4,,,EventProgress,1500,175,,,,,true,10,1
 04A_Side03_02_0101_AncientScroll_interact,,0,,,0,0,,,,,0,0,,,,,false,0,0
 04A_Side01_01_Proximity_Trail_Interact,,0,,,0,0,,,,,0,0,,,,,false,0,0
 04A_Side01_01_AbandonedPack_Interact,,0,,,0,0,,,,,0,0,,,,,false,0,0
@@ -70,5 +66,3 @@ EventID,GameEventType,Level,CreatureType,RewardModifier,UniversalExpAmount,Curre
 04A_Side05_03_Delivery_Interact,,0,,,0,0,,,,,0,0,,,,,false,0,0
 04A_Side05_03_Delivery_DropSpot_Interact,,0,,,0,0,,,,,0,0,,,,,false,0,0
 04A_Side07_02_DustyBottle_interact,,0,,,0,0,,,,,0,0,,,,,false,0,0
-0424_GleamiteIO_interact,,0,,,0,0,,,,,0,0,,,,,true,0,0
-0424_LostPresentIO_interact,,0,,,0,0,,,,,0,0,,,,,true,0,0

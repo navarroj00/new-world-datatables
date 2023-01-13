@@ -57,12 +57,3 @@ Destinations,,11,@ui_meta_achievements_destinations,
 Places_Discovered,Destinations,1,@ui_meta_achievements_places_discovered,LyShineUI\Images\Icons\Achievements\achievement_icon_background09.dds
 Per_Territory,Destinations,2,@ui_meta_achievements_per_territory,LyShineUI\Images\Icons\Achievements\achievement_icon_background09.dds
 Hamlets,Destinations,3,@ui_meta_achievements_hamlets,LyShineUI\Images\Icons\Achievements\achievement_icon_background09.dds
-Leaderboard,,12,@ui_meta_achievements_leaderboards,
-Mutated_Expeditions,Leaderboard,1,@ui_meta_achievements_mutated_expeditions,
-Trials,Leaderboard,2,@ui_meta_achievements_trials,
-Faction_Wars,Leaderboard,3,@ui_meta_achievements_faction_wars,
-Versus_Environment,Leaderboard,4,@ui_meta_achievements_versus_environment,
-Versus_Player,Leaderboard,5,@ui_meta_achievements_versus_player,
-Leaderboard_Outpost_Rush,Leaderboard,7,@ui_meta_achievements_outpost_rush,
-Leaderboard_Invasions_And_Breaches,Leaderboard,8,@ui_meta_achievements_invasions_and_breaches,
-Territory_Control,Leaderboard,9,@ui_meta_achievements_territory_control,

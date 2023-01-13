@@ -1,5 +1,6 @@
 Index,Name,Color,Category,IsEntitlement,ColorAmount,ColorOverride,SpecColor,SpecAmount,MaskGlossShift
 4,PrimeBlue,#00A8E1,Reserved,1,1,0.10000000149011612,#31608c,1,0.5
+6,Gold,#f4d481,Reserved,1,1,0.15000000596046448,#daa350,1,0.75
 22,AmazonOrange,#FF9900,Reserved,1,1,0.05000000074505806,#FF9900,0.15000000596046448,0.5
 23,TwitchPurple,#9472c8,Reserved,1,1,0.10000000149011612,#40365f,1,0.5
 27,Ship Gray,#403d44,Reserved,1,1,0.5,#1d1b21,1,0.5

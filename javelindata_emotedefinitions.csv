@@ -87,8 +87,10 @@ Emote_TwirlDance,Emote_TwirlDance,ui_emote_TwirlDance_name,ui_mote_TwirlDance_de
 Emote_Alas,Emote_Alas,ui_emote_Alas_name,ui_emote_Alas_description,Other,@emote_Alas,alas,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_TrampWalk.dds,,,0,
 Emote_WarHorn,Emote_WarHorn,ui_emote_WarHorn_name,ui_emote_WarHorn_description,Other,@emote_WarHorn,warhorn,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_WarHorn.dds,,,0,
 Emote_Walk_FrankenMummy,Emote_Walk_FrankenMummy,ui_emote_Walk_FrankenMummy_name,ui_emote_Walk_FrankenMummy_description,Other,@emote_Walk_FrankenMummy,zombie,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_FrankenMummy.dds,,,0,
+Emote_Pout,Emote_Pout,ui_emote_Pout_name,ui_emote_Pout_description,Emotion,@emote_Pout,pout,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_Pout.dds,,,0,
 Emote_DevilHornRock,Emote_DevilHornRock,ui_emote_DevilHornRock_name,ui_emote_DevilHornRock_description,Other,@emote_DevilHornRock,rock,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_TrampWalk.dds,,,0,
 Emote_Walk_Skip,Emote_Walk_Skip,ui_emote_Walk_Skip_name,ui_emote_Walk_Skip_description,Other,@emote_Walk_Skip,skip,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_Skip.dds,,,0,
+Emote_Walk_TipToe,Emote_Walk_TipToe,ui_emote_Walk_TipToe_name,ui_emote_Walk_TipToe_description,Other,@emote_Walk_TipToe,tiptoe,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_TipToeWalk.dds,,,0,
 Emote_ShruggyDance,Emote_ShruggyDance,ui_emote_ShruggyDance_name,ui_emote_ShruggyDance_description,Other,@emote_ShruggyDance,shruggydance,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_ShruggyDance.dds,,dance,7,WinterConvergence_2022
 Emote_SnowPileThrow,Emote_SnowPileThrow,ui_emote_SnowPileThrow_name,ui_emote_SnowPileThrow_description,Other,@emote_SnowPileThrow,snowball,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_SnowPileThrow.dds,,,0,WinterConvergence_2022
 Emote_GleamiteSkip,Emote_GleamiteSkip,ui_emote_GleamiteSkip_name,ui_emote_GleamiteSkip_description,Other,@emote_GleamiteSkip,gleamiteskip,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_GleamiteSkip.dds,,,0,
@@ -96,4 +98,5 @@ Emote_FootballJuggle,Emote_FootballJuggle,ui_emote_FootballJuggle_name,ui_emote_
 Emote_KneeSlide,Emote_KneeSlide,ui_emote_KneeSlide_name,ui_emote_KneeSlide_description,Other,@emote_KneeSlide,kneeslide,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_KneeSlide.dds,,,0,
 Emote_DramaticDeath,Emote_DramaticDeath,ui_emote_DramaticDeath_name,ui_emote_DramaticDeath_description,Other,@emote_DramaticDeath,alasidie,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_OverlyDramaticDeath.dds,,,0,
 Emote_GleamiteJuggle,Emote_GleamiteJuggle,ui_emote_GleamiteJuggle_name,ui_emote_GleamiteJuggle_description,Other,@emote_GleamiteJuggle,gleamitejuggle,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_GleamiteJuggling.dds,,,0,WinterConvergence_2022
+Emote_SlapFight,Emote_SlapFight,ui_emote_SlapFight_name,ui_emote_SlapFight_description,Other,@emote_SlapFight,slapfight,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_SlapFight.dds,,,0,
 Emote_GleamiteThrow,Emote_GleamiteThrow,ui_emote_GleamiteThrow_name,ui_emote_GleamiteThrow_description,Other,@emote_GleamiteThrow,gleamitethrow,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_TrampWalk.dds,,,0,
