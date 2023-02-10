@@ -86,6 +86,7 @@ Emote_ChaplinWalk,Emote_ChaplinWalk,ui_emote_ChaplinWalk_name,ui_emote_ChaplinWa
 Emote_TwirlDance,Emote_TwirlDance,ui_emote_TwirlDance_name,ui_mote_TwirlDance_description,Other,@emote_TwirlDance,skeletontwirl,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_DanceTwirl.dds,,dance,7,NightveilHallow_2022
 Emote_Alas,Emote_Alas,ui_emote_Alas_name,ui_emote_Alas_description,Other,@emote_Alas,alas,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_TrampWalk.dds,,,0,
 Emote_WarHorn,Emote_WarHorn,ui_emote_WarHorn_name,ui_emote_WarHorn_description,Other,@emote_WarHorn,warhorn,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_WarHorn.dds,,,0,
+Emote_FingerHeart,Emote_FingerHeart,ui_emote_FingerHeart_name,ui_emote_FingerHeart_description,Emotion,@emote_FingerHeart,heart,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_OmensOfWinter_FingerHearts.dds,,,0,
 Emote_Walk_FrankenMummy,Emote_Walk_FrankenMummy,ui_emote_Walk_FrankenMummy_name,ui_emote_Walk_FrankenMummy_description,Other,@emote_Walk_FrankenMummy,zombie,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_FrankenMummy.dds,,,0,
 Emote_Pout,Emote_Pout,ui_emote_Pout_name,ui_emote_Pout_description,Emotion,@emote_Pout,pout,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_Pout.dds,,,0,
 Emote_DevilHornRock,Emote_DevilHornRock,ui_emote_DevilHornRock_name,ui_emote_DevilHornRock_description,Other,@emote_DevilHornRock,rock,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_TrampWalk.dds,,,0,
@@ -100,3 +101,6 @@ Emote_DramaticDeath,Emote_DramaticDeath,ui_emote_DramaticDeath_name,ui_emote_Dra
 Emote_GleamiteJuggle,Emote_GleamiteJuggle,ui_emote_GleamiteJuggle_name,ui_emote_GleamiteJuggle_description,Other,@emote_GleamiteJuggle,gleamitejuggle,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_GleamiteJuggling.dds,,,0,WinterConvergence_2022
 Emote_SlapFight,Emote_SlapFight,ui_emote_SlapFight_name,ui_emote_SlapFight_description,Other,@emote_SlapFight,slapfight,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_SlapFight.dds,,,0,
 Emote_GleamiteThrow,Emote_GleamiteThrow,ui_emote_GleamiteThrow_name,ui_emote_GleamiteThrow_description,Other,@emote_GleamiteThrow,gleamitethrow,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_TrampWalk.dds,,,0,
+Emote_FishingDance,Emote_FishingDance,ui_Emote_FishingDance_name,ui_Emote_FishingDance_description,Other,@Emote_FishingDance,reelitin,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_OmensOfWinter_FishingDance.dds,,dance,0,
+Emote_SloshDance,Emote_SloshDance,ui_Emote_SloshDance_name,ui_Emote_SloshDance_description,Other,@Emote_SloshDance,sloshdance,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_OmensOfWinter_SloshDance.dds,,dance,0,
+Emote_HandHeart,Emote_HandHeart,ui_Emote_HandHeart_name,ui_Emote_HandHeart_description,Emotion,@Emote_HandHeart,hearthand,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_OmensOfWinter_HandHeart.dds,,,0,

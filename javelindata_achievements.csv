@@ -1,4 +1,4 @@
-AchievementID,AchievementIndex,Category,GameEventId,"New AchivementIndex values must increase, current maximum is",10498,AchivementsIndex &gt; 16000 will require a code change!
+AchievementID,AchievementIndex,Category,GameEventId,"New AchivementIndex values must increase, current maximum is",10825,AchivementsIndex &gt; 16000 will require a code change!
 Map_Unlock_1,0,Map,Read_LoreItem,,,
 Map_Unlock_2,1,Map,Read_LoreItem,,,
 Map_Unlock_3,2,Map,Read_LoreItem,,,
@@ -9791,3 +9791,5 @@ legionattack_30333_charted,10250,Map,Chart_Location,,,
 FC_2hGreatSword_ToughTimesT5,10267,FirstCraft,,,,
 RewardClaim_CS_MGContainer,10387,Store,,,,
 RewardClaim_WinterDragon_Prime,10479,Store,,,,
+RewardClaim_OmensOfWinter_Prime,10781,Store,,,,
+RewardClaim_MakeGood_WinterDragon_Cache,10825,Store,,,,

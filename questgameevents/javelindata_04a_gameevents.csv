@@ -66,3 +66,7 @@ EventID,GameEventType,Level,CreatureType,RewardModifier,UniversalExpAmount,Curre
 04A_Side05_03_Delivery_Interact,,0,,,0,0,,,,,0,0,,,,,false,0,0
 04A_Side05_03_Delivery_DropSpot_Interact,,0,,,0,0,,,,,0,0,,,,,false,0,0
 04A_Side07_02_DustyBottle_interact,,0,,,0,0,,,,,0,0,,,,,false,0,0
+04A_Side08_02_SecretIngredient_Interact,,0,,,0,0,,,,,0,0,,,,,false,0,0
+04A_Side09_01_AlchemyBottle_interact,,0,,,0,0,,,,,0,0,,,,,false,0,0
+04A_Side04_03_EarthPatch01_interact,,0,,,0,0,,,,,0,0,,,,,false,0,0
+04A_Side10_01_CopperSeam_interact,,0,,,0,0,,,,,0,0,,,,,false,0,0
