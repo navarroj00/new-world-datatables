@@ -1479,3 +1479,6 @@ SolariumKhepri_EliteOverlord_MinorSuccess,,0,,800,,,0,,0,0,,0,5,0,0,0,0,0,0,,tru
 SolariumKhepri_EliteOverlord_MajorSuccess,,0,,1000,,,0,,0,0,,0,25,0,0,0,0,0,0,,true,0,0,,,,,,,,0
 SolariumKhepri_EliteOverlord_OverlordDefeated,,0,,0,,,0,GlyphStone_Sun,1,0,,0,5,0,0,0,0,0,0,,true,0,0,,,,,,,,0
 MB_CoinPurse2_Event,,0,,0,,5000,0,,0,0,,0,,0,0,0,0,0,0,,true,0,0,,,,,,,,0
+LegacyOfCrassus_Boss,EventEncounter,65,,370,,,0,[LTID]WorldEvent_Crassus_MasterLoot,0,0,,0,,0,0,0,0,0,0,,true,0,0,,,,,,,,0
+WorldEvent_Crassus_BonusBox_Opened,,0,,0,,,0,[LTID]WorldEvent_Crassus_BonusLoot,0,0,,0,,0,0,0,0,0,0,,true,0,0,,,,,Tag_LegacyofCrassus_Ticker,WorldEvent_Crassus_BonusBox_Override,,0
+WorldEvent_Crassus_BonusBox_Override,,0,,0,,,0,[LTID]WorldEvent_Crassus_BonusOverride,0,0,,0,,0,0,0,0,0,0,,true,0,0,,,,,,,,0

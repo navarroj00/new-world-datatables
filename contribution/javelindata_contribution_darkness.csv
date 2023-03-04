@@ -56,6 +56,7 @@ Spawn_Killed : Darkness_Monolith_Shell_DT3,default,750,false,false
 Spawn_Killed : Darkness_Monolith_Shell_DT4,default,750,false,false
 Spawn_Killed : Darkness_Monolith_Shell_DT5,default,750,false,false
 Spawn_Killed : Darkness_Monolith_Shell_DT6,default,750,false,false
+Spawn_Interacted,interaction,100,false,false
 Spawn_Interacted : DarknessCorruptionCore,interaction,1000,false,false
 Spawn_Interacted : DarknessMajorMonolithDT1,interaction,1000,false,false
 Spawn_Interacted : DarknessMinorMonolithDT1,interaction,1000,false,false
