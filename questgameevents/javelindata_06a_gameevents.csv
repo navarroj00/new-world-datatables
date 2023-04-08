@@ -56,7 +56,7 @@ EventID,GameEventType,Level,CreatureType,RewardModifier,UniversalExpAmount,Curre
 1123_0101_FQ10_success,,45,Quest+,,3940,13125,QuestRewardFishing3,,,Fishing,150,250,,,,,true,20,1,
 1424_0101_FQ11_success,,50,Quest+,,4320,14000,LightHead_FishermanVengefulT4,,,Fishing,150,250,,,,,true,20,1,
 0324_0101_FQ12_success,,55,Quest+,,4580,14875,QuestRewardFishing4,,,Fishing,150,250,,,,,true,30,1,
-0724_0101_FQ13_success,,60,Quest+,,5630,15750,2hFishingPoleT5,,,Fishing,150,250,,,,,true,30,1,
+0724_0101_FQ13_success,,60,Quest+,,5630,15750,QuestRewardFishing4,,,Fishing,150,250,,,,,true,30,1,
 0823_0101_FQ14_success,,60,Quest,,4500,11250,QuestRewardFishing5,,,Fishing,150,250,,,,,true,15,1,
 0523_0101_FQ15_success,,60,Quest+,,5630,15750,QuestRewardFishing6,,,Fishing,150,175,,,,,true,30,1,
 0699_0103_BarkimedesPup_success,,25,Quest+,,1720,9625,House_HousingItem_Pet_Mastiff,,,,0,250,,,,,true,20,1,

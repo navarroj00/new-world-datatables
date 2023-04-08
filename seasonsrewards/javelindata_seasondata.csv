@@ -1,0 +1,2 @@
+SeasonId,SeasonIndex,Name,Description,TotalXPToEarn,PremiumEntitlementId,PurchasedLevelsEntitlementId
+Season1,1,@data_season_01_name,@data_season_01_desc,400000,Entitlement_SeasonPassPurchase_Season1,Entitlement_SeasonPassLevels_Season1

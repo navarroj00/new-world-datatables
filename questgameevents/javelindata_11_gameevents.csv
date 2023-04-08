@@ -48,3 +48,4 @@ EventID,GameEventType,Level,CreatureType,UniversalExpAmount,CurrencyReward,ItemR
 1130_ArcaneFocus2_interact,,0,Quest-,0,0,,,,,0,0,,,,,true,0,0
 1130_ArcaneFocus3_interact,,0,Quest-,0,0,,,,,0,0,,,,,true,0,0
 1130_ArcaneFocus4_interact,,0,Quest-,0,0,,,,,0,0,,,,,true,0,0
+1102_TelescopeChest_interact,,0,Quest-,0,0,,,,,0,0,,,,,true,0,0

@@ -566,8 +566,14 @@ PotionManaFTW,PotionManaFTW,,,,,,1,0,3,6,Battle_Token,Battle_Token,0,20,0,,0,0,0
 AmmoKit,AmmoKit,,,,,,1,0,1,7,Battle_Token,Battle_Token,0,30,0,,0,0,0,0,,false
 TrapFire,TrapFire,,,,,,1,0,1,8,Battle_Token,Battle_Token,0,30,0,,0,0,0,0,,false
 PlatformCannonT1,PlatformCannonT1,,,,,,1,0,1,9,Battle_Token,Battle_Token,0,50,0,,0,0,0,0,,false
+PlatformCannonT2,PlatformCannonT2AutoBuild,,,,,,1,0,1,9,Battle_Token,Battle_Token,0,50,0,,0,0,0,0,,false
+PlatformCannonT3,PlatformCannonT3AutoBuild,,,,,,1,0,1,9,Battle_Token,Battle_Token,0,50,0,,0,0,0,0,,false
 PlatformFireLauncherT1,PlatformFireLauncherT1,,,,,,1,0,1,10,Battle_Token,Battle_Token,0,50,0,,0,0,0,0,,false
+PlatformFireLauncherT2,PlatformFireLauncherT2AutoBuild,,,,,,1,0,1,10,Battle_Token,Battle_Token,0,50,0,,0,0,0,0,,false
+PlatformFireLauncherT3,PlatformFireLauncherT3AutoBuild,,,,,,1,0,1,10,Battle_Token,Battle_Token,0,50,0,,0,0,0,0,,false
 PlatformRepeaterT1,PlatformRepeaterT1,,,,,,1,0,1,11,Battle_Token,Battle_Token,0,50,0,,0,0,0,0,,false
+PlatformRepeaterT2,PlatformRepeaterT2AutoBuild,,,,,,1,0,1,11,Battle_Token,Battle_Token,0,50,0,,0,0,0,0,,false
+PlatformRepeaterT3,PlatformRepeaterT3AutoBuild,,,,,,1,0,1,11,Battle_Token,Battle_Token,0,50,0,,0,0,0,0,,false
 PowderKegT2,PowderKegT2,,,,,,1,0,1,12,Battle_Token,Battle_Token,0,50,0,,0,0,0,0,,false
 OR_PowderKeg,OR_PowderKeg,,,,,,1,0,1,1,Battle_Token,Battle_Token,0,0,0,OutpostRushAzothEssence,100,0,0,0,,false
 OR_PotionHealth,OR_PotionHealth,,,,,,1,0,5,2,Battle_Token,Battle_Token,0,0,0,OutpostRushAzothEssence,25,0,0,0,,false

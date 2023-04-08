@@ -129,6 +129,10 @@ CoatingAngryEarthT2,,1,1500,0,0,1,0,0,0,,,WeaponCoatingEffect_AngryEarth_T2,0,,f
 CoatingAngryEarthT3,,1,1800,0,0,1,0,0,0,,,WeaponCoatingEffect_AngryEarth_T3,0,,false,,,,,,AngryEarth=.11,,,,WeaponOil,,0,
 CoatingAngryEarthT4,,1,2100,0,0,1,0,0,0,,,WeaponCoatingEffect_AngryEarth_T4,0,,false,,,,,,AngryEarth=.13,,,,WeaponOil,,0,
 CoatingAngryEarthT5,,1,2400,0,0,1,0,0,0,,,WeaponCoatingEffect_AngryEarth_T5,0,,false,,,,,,AngryEarth=.15,,,,WeaponOil,,0,
+CoatingAeternianT2,,1,1500,0,0,1,0,0,0,,,WeaponCoatingEffect_Aeternian_T2,0,,false,,,,,,human=.09,,,,WeaponOil,,0,
+CoatingAeternianT3,,1,1800,0,0,1,0,0,0,,,WeaponCoatingEffect_Aeternian_T3,0,,false,,,,,,human=.11,,,,WeaponOil,,0,
+CoatingAeternianT4,,1,2100,0,0,1,0,0,0,,,WeaponCoatingEffect_Aeternian_T4,0,,false,,,,,,human=.13,,,,WeaponOil,,0,
+CoatingAeternianT5,,1,2400,0,0,1,0,0,0,,,WeaponCoatingEffect_Aeternian_T5,0,,false,,,,,,human=.15,,,,WeaponOil,,0,
 Imbue_DEBUG,,1,300,0,0,1,0,0,0,,,,10,,false,,,,,,,,,,WeaponOil,,0,
 FactionPotionHealthT2,PotionHealT2,1,0,0,0,1,0,0,0,,,,0,,false,,,,,,,,,,Potion,,30,PotionHealth
 FactionPotionHealthT3,PotionHealT3,1,0,0,0,1,0,0,0,,,,0,,false,,,,,,,,,,Potion,,30,PotionHealth
@@ -196,6 +200,9 @@ PotionFamiliyWardAncientT5,PotionFamilyWardAncientT5,1,0,0,0,1,0,0,0,,DefBoost,,
 PotionFamilyWardBeastT3,PotionFamilyWardBeastT3,1,0,0,0,1,0,0,0,,DefBoost,,0,,false,,,,,,,,,,Potion,,120,AbsorbBoost
 PotionFamilyWardBeastT4,PotionFamilyWardBeastT4,1,0,0,0,1,0,0,0,,DefBoost,,0,,false,,,,,,,,,,Potion,,120,AbsorbBoost
 PotionFamilyWardBeastT5,PotionFamilyWardBeastT5,1,0,0,0,1,0,0,0,,DefBoost,,0,,false,,,,,,,,,,Potion,,120,AbsorbBoost
+PotionFamilyWardAeternianT3,PotionFamilyWardAeternianT3,1,0,0,0,1,0,0,0,,DefBoost,,0,,false,,,,,,,,,,Potion,,120,AbsorbBoost
+PotionFamilyWardAeternianT4,PotionFamilyWardAeternianT4,1,0,0,0,1,0,0,0,,DefBoost,,0,,false,,,,,,,,,,Potion,,120,AbsorbBoost
+PotionFamilyWardAeternianT5,PotionFamilyWardAeternianT5,1,0,0,0,1,0,0,0,,DefBoost,,0,,false,,,,,,,,,,Potion,,120,AbsorbBoost
 PotionGypsumYellow,PotionGypsumYellow,1,0,0,0,1,0,0,0,,,,0,,false,,,,,,,,,,Potion,,120,Gypsum
 FoodHealthRecoveryT1,FoodInitialRecoveryT1+FoodRecoveryT1,1,0,0,0,0,0,0,0,,Recovery+FoodInitialRecovery,,0,,false,,,,,,,,,,Eat,,0,
 FoodCorruptedT1,FoodCorruptedT1+FoodRecoveryT1,1,0,0,0,0,0,0,0,,Family,,0,,false,,,,,,,,,,Eat,,0,
@@ -479,3 +486,4 @@ Bot_KillRadius,Dungeon_BotKillRadius,0,0,0,0,0,0,0,0,,,,0,,false,,,,,,,,,,,,0,
 QuestReward_MB_Potion_Regen,MajorPotionRegen,1,10,0,0,1,0,0,0,,,,0,,false,,,,,,,,,,Potion,,30,PotionRegen
 Debug_DisableUseInCombat,PotionHealT5,1,0,0,0,1,0,0,0,,,,0,,true,,,,,,,,,,Potion,,30,PotionHealth
 TinctureAcidT5,Status_TinctureAcidT5,1,300,0,0,0,0,0,0,,,,0,,false,,,,,,,AfflictionPoison=-1000,,,,,30,AcidCurse
+95_s01_07_SearingTemper,,0,0,0,0,0,0,0,0,,,,0,,false,,,,,,,,,,WeaponOil,,0,

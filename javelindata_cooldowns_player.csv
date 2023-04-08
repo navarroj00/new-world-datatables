@@ -80,7 +80,7 @@ ID,AbilityID,Time,WeaponTag
 79,Ability_Blunderbuss_MortarShot,18,Blunderbuss
 80,Ability_Blunderbuss_Charge,2,Blunderbuss
 81,Ability_Greatsword_DashAttack,20,Greatsword
-82,Ability_Greatsword_Combo,15,Greatsword
+82,Ability_Greatsword_Combo,20,Greatsword
 83,Ability_Greatsword_DefenseBreak,18,Greatsword
 84,Ability_Greatsword_Counter,20,Greatsword
 85,Ability_Greatsword_DrainAttack,18,Greatsword

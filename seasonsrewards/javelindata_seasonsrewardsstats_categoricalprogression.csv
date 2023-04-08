@@ -1,0 +1,5 @@
+TrackedStatID,StatType,CategoricalProgressionIds,TrackingType,IsDebit,Reasons
+CategoricalProgressionPvPRewardTrack,CategoricalProgression,PvP_XP,Ranked,false,
+EarnAzoth,CategoricalProgression,AzothSalt_Currency,Points,false,
+SpendAzoth,CategoricalProgression,Azoth_Currency,Points,true,
+CategoricalProgressionPvPXP,CategoricalProgression,PvP_XP,Points,false,"PvpKill,ContributionReward"

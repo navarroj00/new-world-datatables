@@ -1,1 +1,4 @@
 ConversationTopicId,PlayerPrompt,NPCResponse,AchievementUnlock,RequiredAchievement,RequiredFaction,RequiredLevel
+Covenant_DeclineRecruitment,@Covenant_DeclineRecruitment_Prompt,@Covenant_DeclineRecruitment_Response,,,,
+Marauders_DeclineRecruitment,@Marauders_DeclineRecruitment_Prompt,@Marauders_DeclineRecruitment_Response,,,,
+Syndicate_DeclineRecruitment,@Syndicate_DeclineRecruitment_Prompt,@Syndicate_DeclineRecruitment_Response,,,,

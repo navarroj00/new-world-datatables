@@ -1,0 +1,2 @@
+TrackedStatID,StatType,IsInvasion,IsWar,IsOutpostRush
+CommitResourcesInOutpostRush,CommitResources,,,true

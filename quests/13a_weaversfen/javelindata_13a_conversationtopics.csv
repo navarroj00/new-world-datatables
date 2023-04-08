@@ -1,0 +1,12 @@
+ConversationTopicId,PlayerPrompt,NPCResponse,AchievementUnlock,RequiredAchievement,RequiredFaction,RequiredLevel
+13A_Maria,@13A_Maria_Prompt,@13A_Maria_Response,,,,
+13A_Agnes,@13A_Agnes_Prompt,@13A_Agnes_Response,,,,
+13A_Theuderic,@13A_Theuderic_Prompt,@13A_Theuderic_Response,,,,
+13A_Niall,@13A_Niall_Prompt,@13A_Niall_Response,,,,
+13A_Theo_FactionRival,@13A_SQ_28_Theo_Prompt_FactionSame,@13A_SQ_28_Theo_Response_FactionSame,,,,
+13A_Theo_FactionSame,@13A_SQ_28_Theo_Prompt_FactionRival,@13A_SQ_28_Theo_Response_FactionRival,,,,
+13A_HunterJulio_Repellent,@13A_SQ_28_HunterJulio_Prompt_Repellent,@13A_SQ_28_HunterJulio_Response_Repellent,,,,
+13A_ResearcherPiper_Repellent,@13A_SQ_28_ResearcherPiper_Prompt_Repellent,@13A_SQ_28_ResearcherPiper_Response_Repellent,,,,
+13A_ResearcherLing_Repellent,@13A_SQ_28_ResearcherLing_Prompt_Repellent,@13A_SQ_28_ResearcherLing_Response_Repellent,,,,
+13A_ResearcherRinde_Repellent,@13A_SQ_28_ResearcherRinde_Prompt_Repellent,@13A_SQ_28_ResearcherRinde_Response_Repellent,,,,
+13A_ResearcherLubin_Repellent,@13A_SQ_28_ResearcherLubin_Prompt_Repellent,@13A_SQ_28_ResearcherLubin_Response_Repellent,,,,

@@ -38,7 +38,7 @@ ID,CostID,ManaCost,WeaponTag
 37,LifeStaff_Speed_Intro,30,MagicStaff
 38,LifeStaff_HolyShield_Intro,15,MagicStaff
 39,LifeStaff_HolyShield_Kickout,3,MagicStaff
-40,LifeStaff_Primary,2,MagicStaff
+40,LifeStaff_Primary,0,MagicStaff
 41,LifeStaff_Heavy,6,MagicStaff
 42,FireStaff_Incinerate,22,MagicStaff
 43,FireStaff_FlameThrower,2.5,MagicStaff
@@ -49,13 +49,13 @@ ID,CostID,ManaCost,WeaponTag
 48,FireStaff_Siege,25,MagicStaff
 49,FireStaff_Siege_Recharge_ManaCheck,26,MagicStaff
 50,FireStaff_Storm_Mana_Upgrade,25,MagicStaff
-51,FireStaff_Primary,2,MagicStaff
+51,FireStaff_Primary,0,MagicStaff
 52,FireStaff_Heavy,6,MagicStaff
 53,FireStaff_Heavy_Range,10,MagicStaff
 54,FireStaff_Heavy_Speed,15,MagicStaff
 55,Siphon_Healing_Check_To_Cast,5,MagicStaff
 56,FireStaff_Speed_Cost,30,MagicStaff
-57,IceMagic_Primary,2,MagicGauntlet
+57,IceMagic_Primary,0,MagicGauntlet
 58,IceMagic_Heavy,6,MagicGauntlet
 59,IceMagic_Block,10,MagicGauntlet
 60,IceMagic_Spikes,15,MagicGauntlet
@@ -69,7 +69,7 @@ ID,CostID,ManaCost,WeaponTag
 68,LifeStaff_LightsEmbrace,18,MagicStaff
 69,LifeStaff_OrbofLight,16,MagicStaff
 70,LifeStaff_Beacon,16,MagicStaff
-71,VoidGauntlet_Primary,2,VoidGauntlet
+71,VoidGauntlet_Primary,0,VoidGauntlet
 72,VoidGauntlet_Heavy,6,VoidGauntlet
 73,VoidGauntlet_VoidBlade,20,VoidGauntlet
 74,VoidGauntlet_NullChamber,30,VoidGauntlet

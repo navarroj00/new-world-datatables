@@ -1,0 +1,3 @@
+CutsceneCameraId,CameraState,CameraStateOrigin,CameraStateLookAt,EnterBlendTime,ExitBlendTime,HideUIOnTrigger,OriginEnterBlendTime,OriginExitBlendTime,UseAbsolutePos,HidePlayerAvatar,HideNearbyPlayerAvatars,BlockPlayerInput,CancelInventory,InterruptInCombat,InterruptOnMovement,CanSkip,PlayFadeEffect,BannerTitleLabelText,BannerTitleText,BannerDescriptionText
+WideShot,NormalCamera,1 0 2,1 0 0,2,,true,,,,,,,,,,,,,,
+CloseShot,UI_CustomDialogue,3 0 2,0 0 0,3,,false,,,,,,,,,,,,,,

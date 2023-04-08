@@ -1,0 +1,14 @@
+TrackedStatID,StatType,IngredientItemID,ResultItemID,ResultItemFamily,ItemTier,ItemGS,ItemRarity,ItemClass,ExcludeItemClass,ItemCategories,CraftingType,PerUse,Tradeskills
+CraftHeavyHeadAT2,Craft,,HeavyHeadAT2,,0,0,0,,,,,false,
+CraftAnyMusicSheet,Craft,,,MusicSheets,0,0,0,,,,,false,
+CraftAnyT5Item,Craft,,,,5,0,0,,,,,false,
+CraftHeartgemRuneT3,Craft,,"RuneFireStormT3A,RuneFireStormT3B,RuneFireStormT3C",,3,0,0,,,,,false,
+CraftWispySpritz,Craft,,SB_WispySpritz,,0,0,0,,,,,false,
+CraftGypsumOrb,Craft,,"GypsumOrb,InfusedOrb",,0,0,0,,,,,false,
+CraftGS600UsingFlameCores,Craft,FlameCore,,,0,600,0,,,,,false,
+CraftOrCookItem,Craft,,,,0,0,0,,,,,false,"Weaponsmithing,Armoring,Jewelcrafting,Arcana,Cooking,Furnishing,Engineering"
+CraftLegendaryItem,Craft,,,,0,0,4,,Resource,,,false,"Weaponsmithing,Armoring,Jewelcrafting,Arcana,Engineering"
+CraftT5Consumable,Craft,,,,5,0,0,Consumable,,,,false,
+CraftT5WeaponOrApparel,Craft,,,,5,0,0,,,"Weapons,Apparel",,false,
+RefineT5Resource,Craft,,,,5,0,0,Resource,,,Refining,true,
+CraftUsingFlameCores,Craft,,FlameCoreCast,,0,0,0,,,,,true,

@@ -1,0 +1,12 @@
+TrackedStatID,StatType,GameMode,Level,MutationLevel,RequireGroup,Score,MutatorRank,IsFlawless
+CompleteLevel60Expedition,CompleteExpedition,,60,0,,0,,false
+CompleteMutatedExpedition,CompleteExpedition,,0,1,,0,,false
+CompleteM10Expedition,CompleteExpedition,,0,10,,0,,false
+CompleteM10Expedition75000Score_TheEmpyreanForge,CompleteExpedition,DungeonGreatCleave01,0,10,,75000,,false
+CompleteExpedition_TheEmpyreanForge,CompleteExpedition,DungeonGreatCleave01,0,0,,0,,false
+CompleteM1Expedition_TheEmpyreanForge,CompleteExpedition,DungeonGreatCleave01,0,1,,0,,false
+CompleteM5Expedition_TheEmpyreanForge,CompleteExpedition,DungeonGreatCleave01,0,5,,0,,false
+CompleteM10Expedition_TheEmpyreanForge,CompleteExpedition,DungeonGreatCleave01,0,10,,0,,false
+CompleteExpedition,CompleteExpedition,,0,0,,0,,false
+CompleteM10ExpeditionWithGoldRank,CompleteExpedition,,0,10,,0,GOLD,false
+CompleteMutatedExpeditionFlawlessly,CompleteExpedition,,0,1,,0,,true

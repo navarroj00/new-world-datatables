@@ -151,4 +151,3 @@ TerritoryID,NameLocalizationKey,IsPOI,IsDiscoverable,IsChartable,DefaultAchievem
 9188,@ui_area_ebonscalereach_8,true,,true,,,,ebonscalereach8_9188_charted,ebonscalereach8,Music_Territory,Ebonscale Reach,,2,true,true,0,66,
 9189,@ui_area_brimstonesands_11,true,,true,,,,brimstonesands11_9189_charted,brimstonesands11,Music_Territory,Brimstone Sands,,2,true,true,0,64,_16BS11
 9190,@ui_area_brimstonesands_12,true,,true,,,,brimstonesands12_9190_charted,brimstonesands12,Music_Territory,Brimstone Sands,,2,true,true,0,63,_16BS12
-9191,@ui_area_shatteredmountain_10,true,,true,,,,shatteredmountain10_9191_charted,shatteredmountain10,Music_Territory,Shattered Mountain,,2,true,true,0,62,_07SM10

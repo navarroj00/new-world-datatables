@@ -53,3 +53,9 @@ wfx_GreatSword.Gems.Lightning.Counter.End,High
 wfx_GreatSword.Gems.Magic.Counter.End,High
 wfx_GreatSword.Gems.Nature.Counter.End,High
 wfx_GreatSword.Gems.Void.Counter.End,High
+cFX_npc_AngryEarthNaga.Pool_Idle,Required
+cFX_npc_FireNaga.Flame_Disk,Required
+cFX_npc_FireNaga_JK.LavaPool,Required
+cFX_npc_FireNaga.FlameThrower,Required
+cFX_npc_FireNaga.LavaSpawn_Glyph,Required
+cFX_npc_FireNaga.Linear_Tell,Required

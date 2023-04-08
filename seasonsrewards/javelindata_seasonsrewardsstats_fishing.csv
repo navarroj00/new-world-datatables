@@ -1,0 +1,4 @@
+TrackedStatID,StatType,TargetID,Level,MinWeight,PerUse,Precision
+CatchPoundageOfFish,Fishing,,0,,false,2
+CatchRareFish,Fishing,,2,,true,0
+CatchTreasureChest,Fishing,FishingTreasureChestT3,0,,true,0

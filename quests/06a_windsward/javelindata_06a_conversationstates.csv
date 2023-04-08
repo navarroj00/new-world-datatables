@@ -25,7 +25,7 @@ ConversationStateId,ConversationType,IsInitialState,DefaultDialogue,RequiredFact
 06_12_NessaHarrower,Linear_Objective,false,@NPC_DefaultDialogue_12_NessaHarrower,,,0,06A_MSQ_16,06A_MSQ_17_RecoverStolenJewel,06A_MSQ_17_RecoverStolenJewel_talk_Nessa,,,,,,,,,,,06_NessaHarrower_Korrapati,,,,,,,,,,,,
 06_13_NessaHarrower,Linear_Objective,false,@NPC_DefaultDialogue_13_NessaHarrower,,,0,06A_MSQ_17,,,06A_MSQ_18_ReturnSiriusJewel,,,,,,,,,,,,,,,,,,,,,,
 06_14_NessaHarrower,Linear_Objective,false,@NPC_DefaultDialogue_14_NessaHarrower,,,0,06A_MSQ_18,,,06A_MSQ_19_TalkToNewSpeaker,,,,,,,,,,,,,,,,,,,,,,
-06_15_NessaHarrower,Linear_Objective,false,@NPC_DefaultDialogue_15_NessaHarrower,,,0,06A_MSQ_19,,,06A_MSQ_20_LostTribute,,,,,,,,,,,,,,,,,,,,,,
+06_15_NessaHarrower,Linear_Objective,false,@NPC_DefaultDialogue_15_NessaHarrower,,,0,06A_MSQ_19,,,,,,,,,,,,,,,,,,,,,,,,,
 06_16_NessaHarrower,Linear_Objective,false,@NPC_DefaultDialogue_16_NessaHarrower,,,0,06A_MSQ_20,,,06A_MSQ_21_DefeatBoss,,,,,,,,,,,,,,,,,,,,,,
 06_17_NessaHarrower,Linear_Objective,false,@NPC_DefaultDialogue_17_NessaHarrower,,,0,06A_MSQ_21,,,,,,,,,,,,,06_NessaHarrower_Medea,,,,,,,,,,,,
 06_18_NessaHarrower,Linear_Objective,false,@NPC_DefaultDialogue_18_NessaHarrower,,,0,MSQ_00_init && 06A_MSQ_21,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -88,6 +88,7 @@ Emote_Alas,Emote_Alas,ui_emote_Alas_name,ui_emote_Alas_description,Other,@emote_
 Emote_WarHorn,Emote_WarHorn,ui_emote_WarHorn_name,ui_emote_WarHorn_description,Other,@emote_WarHorn,warhorn,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_WarHorn.dds,,,0,
 Emote_FingerHeart,Emote_FingerHeart,ui_emote_FingerHeart_name,ui_emote_FingerHeart_description,Emotion,@emote_FingerHeart,heart,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_OmensOfWinter_FingerHearts.dds,,,0,
 Emote_Walk_FrankenMummy,Emote_Walk_FrankenMummy,ui_emote_Walk_FrankenMummy_name,ui_emote_Walk_FrankenMummy_description,Other,@emote_Walk_FrankenMummy,zombie,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_FrankenMummy.dds,,,0,
+Emote_MilitarySalute,Emote_MilitarySalute,ui_emote_MilitarySalute_name,ui_emote_MilitarySalute_description,Other,@emote_MilitarySalute,salute,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_MilitarySalute.dds,,,0,
 Emote_Pout,Emote_Pout,ui_emote_Pout_name,ui_emote_Pout_description,Emotion,@emote_Pout,pout,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_Pout.dds,,,0,
 Emote_DevilHornRock,Emote_DevilHornRock,ui_emote_DevilHornRock_name,ui_emote_DevilHornRock_description,Other,@emote_DevilHornRock,rock,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_TrampWalk.dds,,,0,
 Emote_Walk_Skip,Emote_Walk_Skip,ui_emote_Walk_Skip_name,ui_emote_Walk_Skip_description,Other,@emote_Walk_Skip,skip,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_Skip.dds,,,0,
@@ -101,6 +102,12 @@ Emote_DramaticDeath,Emote_DramaticDeath,ui_emote_DramaticDeath_name,ui_emote_Dra
 Emote_GleamiteJuggle,Emote_GleamiteJuggle,ui_emote_GleamiteJuggle_name,ui_emote_GleamiteJuggle_description,Other,@emote_GleamiteJuggle,gleamitejuggle,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_GleamiteJuggling.dds,,,0,WinterConvergence_2022
 Emote_SlapFight,Emote_SlapFight,ui_emote_SlapFight_name,ui_emote_SlapFight_description,Other,@emote_SlapFight,slapfight,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_SlapFight.dds,,,0,
 Emote_GleamiteThrow,Emote_GleamiteThrow,ui_emote_GleamiteThrow_name,ui_emote_GleamiteThrow_description,Other,@emote_GleamiteThrow,gleamitethrow,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_TrampWalk.dds,,,0,
+Emote_FlowerChildDance,Emote_FlowerChildDance,ui_emote_FlowerChildDance_name,ui_emote_FlowerChildDance_description,Other,@Emote_FlowerChildDance,flowerdance,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_Spring2023_FlowerChildDance.dds,,dance,0,SpringtideBloom_2023
+Emote_FrolicDance,Emote_FrolicDance,ui_emote_FrolicDance_name,ui_emote_FrolicDance_description,Other,@Emote_FrolicDance,frolic,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_Spring2023_JovialFrolic.dds,,dance,0,SpringtideBloom_2023
+Emote_TeaBag,Emote_TeaBag,ui_emote_TeaBag_name,ui_emote_TeaBag_description,Taunt,@Emote_TeaBag,teabag,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_TeaBag.dds,,,0,
+Emote_ParticipationTrophy,Emote_ParticipationTrophy,ui_emote_ParticipationTrophy_name,ui_emote_ParticipationTrophy_description,Other,@Emote_ParticipationTrophy,trophy,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_GiveTrophy.dds,,,0,
+Emote_RockyCelebration,Emote_RockyCelebration,ui_emote_RockyCelebration_name,ui_emote_RockyCelebration_description,Emotion,@Emote_RockyCelebration,champion,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_RockyCelebration.dds,,,0,
+Emote_BlowFire,Emote_BlowFire,ui_emote_BlowFire_name,ui_emote_BlowFire_description,Other,@Emote_BlowFire,blowfire,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_Season1_BlowFire.dds,,,0,
 Emote_FishingDance,Emote_FishingDance,ui_Emote_FishingDance_name,ui_Emote_FishingDance_description,Other,@Emote_FishingDance,reelitin,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_OmensOfWinter_FishingDance.dds,,dance,0,
 Emote_SloshDance,Emote_SloshDance,ui_Emote_SloshDance_name,ui_Emote_SloshDance_description,Other,@Emote_SloshDance,sloshdance,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_OmensOfWinter_SloshDance.dds,,dance,0,
 Emote_HandHeart,Emote_HandHeart,ui_Emote_HandHeart_name,ui_Emote_HandHeart_description,Emotion,@Emote_HandHeart,hearthand,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_OmensOfWinter_HandHeart.dds,,,0,

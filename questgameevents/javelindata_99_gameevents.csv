@@ -22,8 +22,6 @@ EventID,GameEventType,Level,CreatureType,Reward Type,UniversalExpAmount,Currency
 9903_0025_chainofcommand_success,,28,MSQ+,Armor,4570,8700,QuestReward_MSQ25_Greatsword_Covenant,,,0,0,,,,,true,100,1
 9903_0026_heartsandsouls_success,,29,MSQ,Named,3730,5900,Darkness_AzothStaff_T2,,AzothStaff,1,0,,,,,true,100,1
 9901_0027_thesyndicatesupport_success,,30,MSQ,Weapons,3800,6000,QuestRewardWeaponCase2,,,0,0,,,,,true,20,1
-9904_0028_thenoseknows_V2_success,,32,MSQ+,Armor,4940,9300,QuestRewardArmorCase2,,,0,0,,,,,true,100,1
-9904_0028_thenoseknowsa_V2_success,,32,MSQ-,,0,0,,,,0,0,,,,,true,0,0
 9904_0029_thestormwall_success,,33,MSQ+,Weapons,5070,9450,QuestReward_MSQ25_Musket_Syndicate,,,0,0,,,,,true,20,1
 9904_0030_twodown_success,,34,MSQ,Armor,4150,6400,QuestRewardArmorCase2,,,0,0,,,,,true,20,1
 9901_0031_themaraudersupport_success,,35,MSQ,Weapons,4250,6500,QuestRewardWeaponCase2,,,0,0,,,,,true,150,1

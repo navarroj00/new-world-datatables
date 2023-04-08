@@ -1,5 +1,5 @@
-Grade,MinimumScore,RankGameEventId
-Amazing,0.949999988079071,MusicPerformance_Amazing_Result
-Great,0.75,
-Okay,0.5,
-Bad,0,
+Grade,MinimumScore,RankGameEventId,MusicalScoreMult
+Amazing,0.949999988079071,MusicPerformance_Amazing_Result,2
+Great,0.75,,1.600000023841858
+Okay,0.5,,1.2999999523162842
+Bad,0,,1

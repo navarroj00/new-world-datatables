@@ -300,6 +300,8 @@ PvP_PerkItem9,,,PerkBucket_PvP_PerkItem9
 PvP_PerkItem10,,,PerkBucket_PvP_PerkItem10
 PvP_PerkItem11,,,PerkBucket_PvP_PerkItem11
 PvP_PerkItem12,,,PerkBucket_PvP_PerkItem12
+LostEssenceT1,,,PerkBucket_LostEssenceT1
+LostEssenceT2,,,PerkBucket_LostEssenceT2
 GemSocketPinsT1,,,GemSocketPinsT1Bucket
 AmberCutT1,Gem,,AmberCutT1
 AmberCutT2,Gem,,AmberCutT2

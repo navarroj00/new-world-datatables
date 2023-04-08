@@ -1,0 +1,5 @@
+TrackedStatID,StatType,IsInvasion,MustWin
+ParticipateInWar,CompleteWar,false,false
+ParticipateInInvasion,CompleteWar,true,false
+WinWar,CompleteWar,false,true
+WinInvasion,CompleteWar,true,true

@@ -1,0 +1,9 @@
+NPCId,Title,GenericName,InteractOptionDisplayNameOverride,ConversationStateId1,ConversationStateId2,ConversationStateId3,ConversationStateId4,ConversationStateId5,ConversationStateId6,ConversationStateId7,ConversationStateId8,ConversationStateId9,ConversationStateId10,ConversationStateId11,ConversationStateId12,ConversationStateId13,ConversationStateId14,ConversationStateId15,ConversationStateId16,ConversationStateId17,ConversationStateId18,ConversationStateId19,ConversationStateId20
+9201_Cleric,@9201_Cleric_Title,@9201_Cleric,,9201_00_Cleric,9201_01_Cleric,9201_02_Cleric,,,,,,,,,,,,,,,,,
+9204_Executioner,@9204_Executioner_Title,@9204_Executioner,,9204_00_Executioner,9204_01_Executioner,9204_02_Executioner,,,,,,,,,,,,,,,,,
+9205_Blademaster,@9205_Blademaster_Title,@9205_Blademaster,,9205_00_Blademaster,9205_01_Blademaster,9205_02_Blademaster,,,,,,,,,,,,,,,,,
+9202_Hunter,@9202_Hunter_Title,@9202_Hunter,,9202_00_Hunter,9202_01_Hunter,9202_02_Hunter,,,,,,,,,,,,,,,,,
+9203_FirePriest,@9203_FirePriest_Title,@9203_FirePriest,,9203_00_FirePriest,9203_01_FirePriest,9203_02_FirePriest,,,,,,,,,,,,,,,,,
+9206_Guardian,@9206_Guardian_Title,@9206_Guardian,,9206_00_Guardian,9206_01_Guardian,9206_02_Guardian,,,,,,,,,,,,,,,,,
+9207_Rogue,@9207_Rogue_Title,@9207_Rogue,,9207_00_Rogue,9207_01_Rogue,9207_02_Rogue,,,,,,,,,,,,,,,,,
+9208_Shaman,@9208_Shaman_Title,@9208_Shaman,,9208_00_Shaman,9208_01_Shaman,9208_02_Shaman,,,,,,,,,,,,,,,,,

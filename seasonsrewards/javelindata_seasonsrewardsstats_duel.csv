@@ -1,0 +1,3 @@
+TrackedStatID,StatType,MustWin
+ParticipateInDuel,CompleteDuel,false
+WinDuel,CompleteDuel,true

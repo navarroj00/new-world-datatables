@@ -31,12 +31,6 @@ EventID,GameEventType,Level,CreatureType,RewardModifier,UniversalExpAmount,Curre
 1335_0202_canopus_success,,34,Quest,Weapons,2490,8000,QuestRewardWeaponCase3,,,,0,175,0,0,,,true,10,1
 1335_0203_lasluswell_success,,38,Quest+,Armor,3420,11900,QuestRewardArmorCase3,,,,0,250,0,0,,,true,20,1
 1335_0204_reunion_success,,38,Quest-,Weapons,2050,3400,Ring_QuestL38,,,,0,100,0,0,,,true,5,1
-1303_1311_Protective_Wyrd_Gear_Success,,55,Quest+,,4580,14875,TransferenceBox,,,,0,250,0,0,,,true,30,1
-1303_1311_01_Shoes_Success,,40,Quest+,,3570,12250,,,,,0,250,0,0,,,true,20,1
-1303_1311_02_Shirt_Success,,44,Quest+,,3870,12950,,,,,0,250,0,0,,,true,20,1
-1303_1311_03_Pants_Success,,48,Quest+,,4170,13650,,,,,0,250,0,0,,,true,20,1
-1303_1311_04_Gloves_Success,,52,Quest+,,4450,14350,,,,,0,250,0,0,,,true,20,1
-1303_1311_05_Hat_Success,,55,Quest+,,4580,14875,,,,,0,250,0,0,,,true,30,1
 1301_ForgingTongs_interact,,0,Quest-,,0,0,,,,,0,0,0,0,,,true,0,0
 1302_ForgingBellows_interact,,0,Quest-,,0,0,,,,,0,0,0,0,,,true,0,0
 1303_ForgingHammer_interact,,0,Quest-,,0,0,,,,,0,0,0,0,,,true,0,0
@@ -45,13 +39,3 @@ EventID,GameEventType,Level,CreatureType,RewardModifier,UniversalExpAmount,Curre
 1304_EctoplasmC_interact,,0,Quest-,,0,0,,,,,0,0,0,0,,,true,0,0
 1304_EctoplasmD_interact,,0,Quest-,,0,0,,,,,0,0,0,0,,,true,0,0
 1305_CursedAltar_interact,,0,Quest-,,0,0,,,,,0,0,0,0,,,true,0,0
-1310_1314_L40Bow_Huntress_Success,,50,Quest+,,4320,14000,,,,,0,250,0,0,,,true,20,1
-1310_1314_AncientWood_Quest_Success,,50,Quest+,,4320,14000,,,,,0,250,0,0,,,true,20,1
-1310_1314_WyrdwoodResin_Quest_Success,,50,Quest+,,4320,14000,,,,,0,250,0,0,,,true,20,1
-1310_1314_HawkFeathers_Quest_Success,,50,Quest+,,4320,14000,,,,,0,250,0,0,,,true,20,1
-1310_1314_LuckyRabbitsFoot_Quest_Success,,50,Quest+,,4320,14000,,,,,0,250,0,0,,,true,20,1
-1305_1315_L40FStaff_FalmeasWrath_Success,,50,Quest+,,4320,14000,,,,,0,250,0,0,,,true,20,1
-1305_1315_SingedBranches_Quest_Success,,50,Quest+,,4320,14000,,,,,0,250,0,0,,,true,20,1
-1305_1315_WyrdwoodAshes_Quest_Success,,50,Quest+,,4320,14000,,,,,0,250,0,0,,,true,20,1
-1305_1315_UnhallowedWater_Quest_Success,,50,Quest+,,4320,14000,,,,,0,250,0,0,,,true,20,1
-1305_1315_HeartofAllFlame_Quest_Success,,50,Quest+,,4320,14000,,,,,0,250,0,0,,,true,20,1

@@ -1,0 +1,4 @@
+TrackedStatID,StatType,TargetID,Level,ItemType,ItemClass,PerUse,Tradeskills
+GatherResource,Gather,,0,Resource,,false,"Skinning,Mining,Logging,Harvesting"
+GatherT5ResourceNode,Gather,,5,Resource,,true,"Skinning,Mining,Logging,Harvesting"
+SkinT5Animal,Gather,,5,,Rawhide+Resource,true,Skinning

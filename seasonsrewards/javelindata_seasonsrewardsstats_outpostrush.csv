@@ -1,0 +1,4 @@
+TrackedStatID,StatType,Score,MustWin
+WinOutpostRushBy750,CompleteOutpostRush,750,true
+WinOutpostRush,CompleteOutpostRush,0,true
+PlayOutpostRush,CompleteOutpostRush,0,false

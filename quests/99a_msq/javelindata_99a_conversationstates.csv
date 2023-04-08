@@ -20,7 +20,7 @@ Yonas_01_09,Linear_Objective,false,@Yonas_01_09_Offer_Heartgem,,,,99_MSQ_20,,,99
 Yonas_TaskTopic_AmrineSkip,Linear_Objective,false,@9901_11_B_MSQ_Yonas_TaskTopic,,,,,99A_MSQ_14_HeartgemGroup,99A_MSQ_14a_01a_01_Task_TalktoYonas,,,,,,,,,,,99a_Yonas_TaskTopic_AmrineSkip,,,,,,,,,,,,
 Yonas_02_00,Linear_Objective,true,@Yonas_02_00_INIT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Yonas_02_01,Linear_Objective,false,@Yonas_02_01_Offer_Ritual,,,,99_MSQ_21,,,99A_MSQ_15_Ritual,,,,,,,,,,,,,,,,,,,,,,
-Yonas_02_02,Linear_Objective,false,@Yonas_02_02_Offer_ToEmile,,,,99_MSQ_22,,,9901_0023_agreatmovement,,,,,,,,,,,,,,,,,,,,,,
+Yonas_02_02a,Linear_Objective,false,@99A_Yonas_02_02,,,,99_MSQ_22 && !99_MSQ_34,,,99B_MSQ_01_searchwalsham,,,,,,,,,,,,,,,,,,,,,,
 Grace_00_00,Linear_Objective,true,@Grace_00_00_INIT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Grace_00_01,Linear_Objective,false,@Grace_00_01_Offer_Rumors,,,,99A_MSQ_01B,,,99A_MSQ_02_Rumors,,,,,,,,,,,,,,,,,,,,,,
 Grace_01_00,Linear_Objective,true,@Grace_01_00_INIT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

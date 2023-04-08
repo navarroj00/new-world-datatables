@@ -11,7 +11,7 @@ GreatAxeAbilityTable,Player,20,,3
 WarHammerAbilityTable,Player,20,,3
 MusketAbilityTable,Player,20,,3
 LifeMagicAbilityTable,Player,20,,4
-FireMagicAbilityTable,Player,20,,3
+FireMagicAbilityTable,Player,20,,4
 RapierAbilityTable,Player,20,,3
 IceMagicAbilityTable,Player,20,,1
 VoidGauntletAbilityTable,Player,20,,0

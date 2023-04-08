@@ -1,0 +1,15 @@
+TrackedStatID,StatType,TargetID,QuestType,IsPVP
+CompleteQuest,CompleteQuest,,Quest,false
+CompleteTownProject,CompleteQuest,,CommunityGoal,false
+CompleteFactionMission,CompleteQuest,,Mission,false
+CompletePvPFactionMission,CompleteQuest,,Mission,true
+CompleteQuest_TheEmpyreanForge,CompleteQuest,95_s01_X1_EXPD_Empyrean,,false
+CompleteQuest_FirstCustomer,CompleteQuest,95_s01_02_TEMP_FirstCustomer,,false
+CompleteQuest_VineYards,CompleteQuest,95_s01_07_TEMP_PossibilitiesOfFire,,false
+CompleteQuest_DearlyBeloved,CompleteQuest,95_s01_08_TEMP_HotOnTheTrail,,false
+CompleteQuest_Showdown,CompleteQuest,95_s01_09_TEMP_Faceless,,false
+CompleteQuest_CurseOfTheBones,CompleteQuest,95_s01_02a_TEMP_TheCurse,,false
+CompleteQuest_MinorBreach,CompleteQuest,,DarknessMinor,false
+CompleteQuest_MajorBreach,CompleteQuest,,DarknessMajor,false
+CompleteQuest_Breach,CompleteQuest,,"DarknessMinor,DarknessMajor",false
+CompleteQuest_ToBeContinued,CompleteQuest,95_s01_10_TEMP_ToBeContinued,,false

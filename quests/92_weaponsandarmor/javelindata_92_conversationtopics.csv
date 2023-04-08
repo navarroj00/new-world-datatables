@@ -1,0 +1,4 @@
+ConversationTopicId,PlayerPrompt,NPCResponse,AchievementUnlock,RequiredAchievement,RequiredFaction,RequiredLevel
+0223_Fisher_ExplainHotspots,@0223_Fisher_ExplainHotspots_Prompt,@0223_Fisher_ExplainHotspots_Response,,,,
+0241_Prometheo_Topic1,@0241_Prometheo_Topic1_Prompt,@0241_Prometheo_Topic1_Response,,,,
+0241_Prometheo_Topic2,@0241_Prometheo_Topic2_Prompt,@0241_Prometheo_Topic2_Response,,,,

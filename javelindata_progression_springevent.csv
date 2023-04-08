@@ -1,0 +1,4 @@
+Rank,DisplayName,MaximumInfluence,RequiredLevel,InfluenceCost,CurrencyCost,AzothCost,SanityCheck,GameEventId,EntitlementId
+0,@ui_event_spring_rank_0,1000,0,0,0,0,false,,0
+1,@ui_event_spring_rank_1,3000,0,0,0,0,true,,0
+2,@ui_event_spring_rank_2,7000,0,0,0,0,true,,0
