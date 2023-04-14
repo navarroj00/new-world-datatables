@@ -111,3 +111,6 @@ Emote_BlowFire,Emote_BlowFire,ui_emote_BlowFire_name,ui_emote_BlowFire_descripti
 Emote_FishingDance,Emote_FishingDance,ui_Emote_FishingDance_name,ui_Emote_FishingDance_description,Other,@Emote_FishingDance,reelitin,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_OmensOfWinter_FishingDance.dds,,dance,0,
 Emote_SloshDance,Emote_SloshDance,ui_Emote_SloshDance_name,ui_Emote_SloshDance_description,Other,@Emote_SloshDance,sloshdance,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_OmensOfWinter_SloshDance.dds,,dance,0,
 Emote_HandHeart,Emote_HandHeart,ui_Emote_HandHeart_name,ui_Emote_HandHeart_description,Emotion,@Emote_HandHeart,hearthand,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_OmensOfWinter_HandHeart.dds,,,0,
+Emote_Walk_Drunk,Emote_Walk_Drunk,ui_emote_Walk_Drunk_name,ui_emote_Walk_Drunk_description,Other,@Emote_Walk_Drunk,stumble,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_DrunkWalk.dds,,,0,
+Emote_HipTwistDance,Emote_HipTwistDance,ui_emote_HipTwistDance_name,ui_emote_HipTwistDance_description,Other,@Emote_HipTwistDance,hiptwist,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_HipDance.dds,,dance,0,
+Emote_PointLaugh,Emote_PointLaugh,ui_emote_PointLaugh_name,ui_emote_PointLaugh_description,Taunt,@Emote_PointLaugh,haha,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_PointLaugh.dds,,,0,
