@@ -122,4 +122,5 @@ DungeonCutlass00Difficulty,,10,true,false,false,false,MutatorRankData,,,,,,,0,fa
 DungeonBrimstoneSands00Difficulty,,10,true,false,false,false,MutatorRankData,,,,,,,0,false,,false,,,
 DungeonGreatCleave01Difficulty,,10,true,false,false,false,MutatorRankData,,,,,,,0,false,,false,,,
 EventProgress,@ui_event_progress_name,4,true,false,false,false,EventRanks,,,,,,,0,true,lyshineui/images/icons/objectives/reward_eventProgress_large.dds,false,,@ui_event_reputation_description,WinterConvergence
+SpringEventProgress,@ui_event_spring_progress_name,2,true,false,false,false,SpringEventRanks,,,,,,,0,true,lyshineui/images/icons/objectives/reward_eventProgress_large.dds,false,,@ui_event_reputation_description,SpringtideBloom
 SeasonPass,@seasons_rewards_categorical_progression_id,100,true,false,false,false,SeasonPass_Season1,,,,,,,0,false,,false,,Season 1,

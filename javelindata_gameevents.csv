@@ -1077,6 +1077,9 @@ Craft_OutfittingT5,Crafting,0,,0,,,0,,0,0,,Armoring,504,,0,0,0,0,0,0,,true,0,0,,
 WE_CMission_Success_Gather_RefinedT2_Small,,6,CMission_refined-,520,,108,0,,0,0,,EventProgress,5,350,0,0,0,0,0,0,,true,0,0,,,,,,,,0,0
 WE_CMission_Success_Crafting_ProvisionT1_Med,,8,Cmission_CraftingProvision-,300,,113.99999999999999,0,,0,0,,EventProgress,5,350,0,0,0,0,0,0,,true,0,0,,,,,,,,0,0
 WE_CMission_Success_Gather_RefinedT3_Small,,15,CMission_refined-,1380,,135,0,,0,0,,EventProgress,5,350,0,0,0,0,0,0,,true,0,0,,,,,,,,0,0
+Event_Springtide_Wispybloom,EventEncounter,25,,0,,,0,[LTID]Spring_Wispybloom,0,0,,SpringEventProgress,250,0,0,0,0,0,0,0,,true,0,0,,,,,,,,0,0
+Gather_Springtide_Wispybloom,Gathering,0,,0,,,0,,0,0,,SpringEventProgress,25,,0,0,0,0,0,0,,true,0,0,,,,,,,,0,0
+Gather_WispySpritzPlantSite,Gathering,0,,0,,,0,,0,0,,,0,,0,0,0,0,0,0,,false,0,0,,,,,,,,0,0
 Award_Skin_Mask_RabbitSeason,,0,,0,,,0,,0,0,,,0,,0,0,0,0,0,0,,true,0,0,EntitlementSkin_Mask_RabbitSeason,,,,,,,0,0
 House_Purchase,,0,,0,,,0,,0,0,,,0,,0,0,0,0,0,0,,true,0,0,,,,,,,,0,0
 House_PayRent,,0,,0,,,0,,0,0,,,0,1000,0,0,0,0,0,0,,true,0,0,,,,,,,,0,0
@@ -1492,6 +1495,10 @@ WorldEvent_S1_Success,EventEncounter,66,,370,,,0,[LTID]WorldEvent_S1_MasterLoot,
 Coin_Stack_500,,0,,0,,50000,0,,0,0,,,0,,0,0,0,0,0,0,,true,0,0,,,,,,,,0,0
 Coin_Stack_3000,,0,,0,,300000,0,,0,0,,,0,,0,0,0,0,0,0,,true,0,0,,,,,,,,0,0
 Coin_Stack_5000,,0,,0,,500000,0,,0,0,,,0,,0,0,0,0,0,0,,true,0,0,,,,,,,,0,0
+SB_WispybloomCraft,,0,,0,,,0,,0,0,,SpringEventProgress,10,,0,0,0,0,0,0,,false,0,0,,,,,,,,0,0
+SB_WaspGooCraft,,0,,0,,,0,,0,0,,SpringEventProgress,50,,0,0,0,0,0,0,,false,0,0,,,,,,,,0,0
+SB_TownCenterpieceGather,,0,,0,,,0,,0,0,,SpringEventProgress,25,,0,0,0,0,0,0,,false,0,0,,,,,,,,0,0
+SB_VillageGiftBagsGather,,0,,0,,,0,,0,0,,SpringEventProgress,50,,0,0,0,0,0,0,,false,0,0,,,,,,,,0,0
 WF_CoinPurse_Event,,0,,0,,5000,0,,0,0,,,0,,0,0,0,0,0,0,,true,0,0,,,,,,,,0,0
 WorldEvent_Crassus_BonusBox_Opened,,0,,0,,,0,[LTID]WorldEvent_Crassus_BonusLoot,0,0,,,0,,0,0,0,0,0,0,,true,0,0,,,,,Tag_LegacyofCrassus_Ticker,WorldEvent_Crassus_BonusBox_Override,,0,0
 WorldEvent_Crassus_BonusBox_Override,,0,,0,,,0,[LTID]WorldEvent_Crassus_BonusOverride,0,0,,,0,,0,0,0,0,0,0,,true,0,0,,,,,,,,0,0

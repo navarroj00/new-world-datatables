@@ -27,4 +27,5 @@ Gimmick_Falling_Rubble,Unarmed,0,0,false,true,Standard,,,,,,Bullet,,false,1,1,0,
 Sandworm_BreachEvent_Explosion,Unarmed,0,0,true,true,Standard,AfflictionBleed,,,,,Bullet,,false,1,1,1,4,4,4,100,100,100,0,100,0,0.5,0,0,0,0,0,3,3,,Large,Large,Large,4,1,1,1,0,0.16249999403953552,0.32499998807907104
 Sandworm_BreachEvent_Fallout,Unarmed,0,0,true,true,Standard,AfflictionBleed,,,,,Bullet,,false,1,1,1,4,4,4,100,100,100,0,20,0,0.5,0,0,0,0,0,3,3,,Small,Small,Small,4,1,1,1,0,0.16249999403953552,0.32499998807907104
 DungeonLaserBeamSmall,Unarmed,0,0,true,true,Arcane,,,,Dungeon_LaserBeamSmall,,Bullet,,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,,,,0,1,1,1,0,0.16249999403953552,0.32499998807907104
+Springtide_WispySpritz_Explosion,Unarmed,0,0,false,true,Standard,,,,Springtide_WispySpritz_Explosion,,Bullet,,false,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0,0,0,0,0,1,1,,,,,0,1,1,1,0,0.16249999403953552,0.32499998807907104
 CaerDun_SmashHeartgem_Explosion,Unarmed,0,0,false,true,Standard,,,,,,Bullet,,false,1,1,0,2,2,2,50,30,50,0,5,0,0.5,0,0,0,0,0,1,1,,Small,Small,Small,4,1,1,1,0,0.16249999403953552,0.32499998807907104

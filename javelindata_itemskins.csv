@@ -819,6 +819,11 @@ Skin_GreatSword_Jan2023,838,1,,EquippableTwoHand,GreatSword,,Skin_GreatSword_Jan
 Skin_IceGauntlet_Jan2023,839,1,,EquippableMainHand,IceMagic,,Skin_IceGauntlet_Jan2023,,false
 Skin_Musket_Jan2023,840,1,,EquippableTwoHand,Musket,,Skin_Musket_Jan2023,,false
 Skin_GreatAxe_Jan2023,841,1,,EquippableTwoHand,2HAxe,,Skin_GreatAxe_Jan2023,,false
+Skin_Chest_Beekeeper_Spring,842,1,,EquippableChest,,,Skin_Chest_Beekeeper_Spring,Beekeeper,false
+Skin_Head_Beekeeper_Spring,843,1,,EquippableHead,,,Skin_Head_Beekeeper_Spring,Beekeeper,false
+Skin_Legs_Beekeeper_Spring,844,1,,EquippableLegs,,,Skin_Legs_Beekeeper_Spring,Beekeeper,false
+Skin_Feet_Beekeeper_Spring,845,1,,EquippableFeet,,,Skin_Feet_Beekeeper_Spring,Beekeeper,false
+Skin_Hands_Beekeeper_Spring,846,1,,EquippableHands,,,Skin_Hands_Beekeeper_Spring,Beekeeper,false
 Skin_Chest_Mar2023_FirelightNouveau,847,1,,EquippableChest,,,Skin_Chest_Mar2023_FirelightNouveau,Firelight1,false
 Skin_Head_Mar2023_FirelightNouveau,848,1,,EquippableHead,,,Skin_Head_Mar2023_FirelightNouveau,Firelight1,false
 Skin_Legs_Mar2023_FirelightNouveau,849,1,,EquippableLegs,,,Skin_Legs_Mar2023_FirelightNouveau,Firelight1,false
@@ -893,6 +898,11 @@ Skin_Head_Seasons1Deluxe,917,1,,EquippableHead,,,Skin_Head_Seasons1Deluxe,,false
 Skin_Legs_Seasons1Deluxe,918,1,,EquippableLegs,,,Skin_Legs_Seasons1Deluxe,,false
 Skin_Feet_Seasons1Deluxe,919,1,,EquippableFeet,,,Skin_Feet_Seasons1Deluxe,,false
 Skin_Hands_Seasons1Deluxe,920,1,,EquippableHands,,,Skin_Hands_Seasons1Deluxe,,false
+Skin_Chest_Victorian_Spring,921,1,,EquippableChest,,,Skin_Chest_Victorian_Spring,,false
+Skin_Head_Victorian_Spring,922,1,,EquippableHead,,,Skin_Head_Victorian_Spring,,false
+Skin_Legs_Victorian_Spring,923,1,,EquippableLegs,,,Skin_Legs_Victorian_Spring,,false
+Skin_Feet_Victorian_Spring,924,1,,EquippableFeet,,,Skin_Feet_Victorian_Spring,,false
+Skin_Hands_Victorian_Spring,925,1,,EquippableHands,,,Skin_Hands_Victorian_Spring,,false
 Skin_Mar2023_DrumsFirelightT5,926,1,,EquippableTool,InstrumentDrums,,Skin_Mar2023_DrumsFirelightT5,,false
 Skin_Mar2023_GuitarFirelightT5,927,1,,EquippableTool,InstrumentGuitar,,Skin_Mar2023_GuitarFirelightT5,,false
 Skin_Mar2023_URBassFirelightT5,928,1,,EquippableTool,InstrumentUprightBass,,Skin_Mar2023_URBassFirelightT5,,false

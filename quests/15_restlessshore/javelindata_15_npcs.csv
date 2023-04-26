@@ -16,3 +16,8 @@ NPCId,Title,GenericName,InteractOptionDisplayNameOverride,ConversationStateId1,C
 1526_Naturalist,@1526_Naturalist_t,@1526_Naturalist,,1526_00_Naturalist,1526_01_Naturalist,1526_02_Naturalist,1526_03_Naturalist,,,,,,,,,,,,,,,,
 1527_Wader,@1527_Wader_t,@1527_Wader,,1527_00_Wader,1527_01_Wader,1527_02_Wader,1527_03_Wader,,,,,,,,,,,,,,,,
 1528_Rogue,@1528_Rogue_t,@1528_Rogue,,1528_00_Rogue,1528_01_Rogue,1528_02_Rogue,,,,,,,,,,,,,,,,,
+1529_MaleBeekeeperCultist1,@1529_MaleBeekeeperCultist1_t,@1529_MaleBeekeeperCultist1,,1529_00_MaleBeekeeperCultist1,,,,,,,,,,,,,,,,,,,
+1530_FemaleBeekeeperCultist1,@1530_FemaleBeekeeperCultist1_t,@1530_FemaleBeekeeperCultist1,,1530_00_FemaleBeekeeperCultist1,,,,,,,,,,,,,,,,,,,
+1531_MaleBeekeeperCultist2,@1531_MaleBeekeeperCultist2_t,@1531_MaleBeekeeperCultist2,,1531_00_MaleBeekeeperCultist2,,,,,,,,,,,,,,,,,,,
+1532_FemaleBeekeeperCultist2,@1532_FemaleBeekeeperCultist2_t,@1532_FemaleBeekeeperCultist2,,1532_00_FemaleBeekeeperCultist2,,,,,,,,,,,,,,,,,,,
+1533_BloomHerald,@1533_BloomHerald_t,@1533_BloomHerald,,1533_00_BloomHerald,1533_01_BloomHerald,1533_02_BloomHerald,1533_03_BloomHerald,,,,,,,,,,,,,,,,

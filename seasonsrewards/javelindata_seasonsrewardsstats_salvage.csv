@@ -1,2 +1,3 @@
 TrackedStatID,StatType,IngredientItemID,Level,ItemClass,ExcludeItemClass
 SalvageT5Item,Salvage,,5,,LootContainer+WeaponSchematic+FurnitureSchematic+Recipe+MusicSheet
+SalvageT5Named,Salvage,,5,Named,LootContainer+WeaponSchematic+FurnitureSchematic+Recipe+MusicSheet
