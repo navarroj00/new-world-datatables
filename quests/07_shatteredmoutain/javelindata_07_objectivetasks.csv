@@ -215,7 +215,7 @@ TaskID,Type,FailOnCondition,StayActive,TargetQty,ItemName,ItemDropVC,ItemDropPro
 0720_0105_HS_task_01,TaskGoToPOITag,,1,0,,,0,0,false,,haunted_town_50201,,,false,,,0,,,,,,,,,0,,,,,,,,,,,,,,,,,,@0720_0105_HS_task_01_TaskGoToPOITag,,,,,false,,,,,,,,,,,,,,
 0720_0105_HS_02_container_tasks,SimpleTaskContainer,,0,0,,,0,0,false,,,,,false,,,0,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,TRUE,,false,,,,,,,,,,0720_0105_HS_task_02a,0720_0105_HS_task_02b,,,
 0720_0105_HS_task_02a,TaskKillContribution,,1,20,,,0,0,true,,haunted_town_50201,,,false,,,0,,,,,,,Periville,,0,,,,,,,,,,,,,,,,,,@0720_0105_HS_task_02a_TaskKillContribution,,,,,false,,,,,,,,,,,,,,
-0720_0105_HS_task_02b,TaskHaveAndReturnItems,,1,1,0720_0105_HS_Item3,Undead_Javelineer_34_ELITE,15,0,true,,haunted_town_50201,,,false,,,6,,,,,,,,,0,,,,,,,,,,,,,,,,,,@0720_0105_HS_task_02b_TaskHaveAndReturnItems,,,,,false,,,,,,,,,,,,,,
+0720_0105_HS_task_02b,TaskHaveAndReturnItems,,1,1,0720_0105_HS_Item3,Undead_Javelineer,65,0,true,,haunted_town_50201,,,false,,,2,,,,,,,,,0,,,,,,,,,,,,,,,,,,@0720_0105_HS_task_02b_TaskHaveAndReturnItems,,,,,false,,,,,,,,,,,,,,
 0720_0106_HS_05_container,ConsecutiveTaskContainer,,0,0,,,0,0,false,,,,,false,,,0,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,false,,,,,,,,,,0720_0106_HS_task_01,0720_0106_HS_02_container_tasks,,,
 0720_0106_HS_task_01,TaskGoToPOITag,,1,0,,,0,0,true,,ancient_lighthouse,,,false,,,0,,,,,,,,,0,,,,,,,,,,,,,,,,,,@0720_0106_HS_task_01_TaskGoToPOITag,,,,,false,,,,,,,,,,,,,,
 0720_0106_HS_02_container_tasks,SimpleTaskContainer,,0,0,,,0,0,false,,,,,false,,,0,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,TRUE,,false,,,,,,,,,,0720_0106_HS_task_02a,0720_0106_HS_task_02b,,,

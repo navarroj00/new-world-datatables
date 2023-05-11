@@ -8,5 +8,5 @@ CompleteM1Expedition_TheEmpyreanForge,CompleteExpedition,DungeonGreatCleave01,0,
 CompleteM5Expedition_TheEmpyreanForge,CompleteExpedition,DungeonGreatCleave01,0,5,,0,,false
 CompleteM10Expedition_TheEmpyreanForge,CompleteExpedition,DungeonGreatCleave01,0,10,,0,,false
 CompleteExpedition,CompleteExpedition,,0,0,,0,,false
-CompleteM10ExpeditionWithGoldRank,CompleteExpedition,,0,10,,0,GOLD,false
+CompleteM10ExpeditionWithGoldRank,CompleteExpedition,,0,10,,0,SILVER,false
 CompleteMutatedExpeditionFlawlessly,CompleteExpedition,,0,1,,0,,true

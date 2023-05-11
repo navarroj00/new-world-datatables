@@ -90,7 +90,7 @@ Emote_FingerHeart,Emote_FingerHeart,ui_emote_FingerHeart_name,ui_emote_FingerHea
 Emote_Walk_FrankenMummy,Emote_Walk_FrankenMummy,ui_emote_Walk_FrankenMummy_name,ui_emote_Walk_FrankenMummy_description,Other,@emote_Walk_FrankenMummy,zombie,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_FrankenMummy.dds,,,0,
 Emote_MilitarySalute,Emote_MilitarySalute,ui_emote_MilitarySalute_name,ui_emote_MilitarySalute_description,Other,@emote_MilitarySalute,salute,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_MilitarySalute.dds,,,0,
 Emote_Pout,Emote_Pout,ui_emote_Pout_name,ui_emote_Pout_description,Emotion,@emote_Pout,pout,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_Pout.dds,,,0,
-Emote_DevilHornRock,Emote_DevilHornRock,ui_emote_DevilHornRock_name,ui_emote_DevilHornRock_description,Other,@emote_DevilHornRock,rock,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_TrampWalk.dds,,,0,
+Emote_DevilHornRock,Emote_DevilHornRock,ui_emote_DevilHornRock_name,ui_emote_DevilHornRock_description,Other,@emote_DevilHornRock,rock,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_DevilHorns.dds,,,0,
 Emote_Walk_Skip,Emote_Walk_Skip,ui_emote_Walk_Skip_name,ui_emote_Walk_Skip_description,Other,@emote_Walk_Skip,skip,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_Skip.dds,,,0,
 Emote_Walk_TipToe,Emote_Walk_TipToe,ui_emote_Walk_TipToe_name,ui_emote_Walk_TipToe_description,Other,@emote_Walk_TipToe,tiptoe,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_TipToeWalk.dds,,,0,
 Emote_ShruggyDance,Emote_ShruggyDance,ui_emote_ShruggyDance_name,ui_emote_ShruggyDance_description,Other,@emote_ShruggyDance,shruggydance,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_ShruggyDance.dds,,dance,7,WinterConvergence_2022
@@ -114,3 +114,5 @@ Emote_HandHeart,Emote_HandHeart,ui_Emote_HandHeart_name,ui_Emote_HandHeart_descr
 Emote_Walk_Drunk,Emote_Walk_Drunk,ui_emote_Walk_Drunk_name,ui_emote_Walk_Drunk_description,Other,@Emote_Walk_Drunk,stumble,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_DrunkWalk.dds,,,0,
 Emote_HipTwistDance,Emote_HipTwistDance,ui_emote_HipTwistDance_name,ui_emote_HipTwistDance_description,Other,@Emote_HipTwistDance,hiptwist,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_HipDance.dds,,dance,0,
 Emote_PointLaugh,Emote_PointLaugh,ui_emote_PointLaugh_name,ui_emote_PointLaugh_description,Taunt,@Emote_PointLaugh,haha,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_PointLaugh.dds,,,0,
+Emote_ArmWaveDance,Emote_ArmWaveDance,ui_emote_ArmWaveDance_name,ui_emote_ArmWaveDance_description,Other,@Emote_ArmWaveDance,armwave,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_BreakdanceArmwave.dds,,dance,0,
+Emote_Walk_Fashion,Emote_Walk_Fashion,ui_emote_Walk_Fashion_name,ui_emote_Walk_Fashion_description,Other,@Emote_Walk_Fashion,runway,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_FashionWalk.dds,,,0,

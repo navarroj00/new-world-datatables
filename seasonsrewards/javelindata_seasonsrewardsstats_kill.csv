@@ -21,3 +21,10 @@ KillWithTwoHanded,Kill,,,0,,"WarHammerAbilityTable,GreatAxeAbilityTable,SpearAbi
 KillWithRanged,Kill,,,0,,"BowAbilityTable,MusketAbilityTable,BlunderbussAbilityTable",false,,,,false
 KillWithMagic,Kill,,,0,,"FireMagicAbilityTable,LifeMagicAbilityTable,IceMagicAbilityTable,VoidGauntletAbilityTable",false,,,,false
 KillingBlowInOutpostRush,Kill,,,0,,,false,,OutpostRush,,true
+KillPOIMyrkgard,Kill,,,60,,,false,"myrkgardwest,myrkgardsouth,myrkgardeast,myrkgardnorth,myrkgardchurch",,,false
+KillPOIImperialPalace,Kill,,,60,,,false,empressfortress_20201,,,false
+KillPOIMalevolence,Kill,,,60,,,false,crater_malevolence_50325,,,false
+KillPOIEternalPool,Kill,,,60,,,false,AE_Elite_50119,,,false
+KillPOIBedsOfTaBitJet,Kill,,,60,,,false,scorpionnest_30305,,,false
+KillNamed,Kill,,,0,,,false,,,Named,false
+KillElite,Kill,,,0,,,false,,,Elite,false
