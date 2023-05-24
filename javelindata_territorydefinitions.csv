@@ -14,7 +14,7 @@ TerritoryID,NameLocalizationKey,BaseStructureLimit,MaxStructureLimit,TerritorySc
 13,@WeaversFen,300,500,0,false,,,,,,,,Weavers,,,MX_Territory,Weavers_Fen,,30,40,40,25,true,,true,Taxes_Global_Modifier,"InfluencePoints_Modifier,ExperiencePoints_Modifier",TerritoryPermanentOwner13,0.10000000149011612,1.25,150,,
 14,@Edengrove,300,500,0,false,,,,,,,,Edengrove,,,MX_Territory,Edengrove,,51,60,40,25,true,,true,None,None,,0,1.25,400,,
 15,@RestlessShore,300,500,0,false,,,,,,,,Restless,,,MX_Territory,Restless_Shore,,41,46,40,25,true,,true,Azoth_FastTravel_GeneralCost_Reduction,"InfluencePoints_Modifier,ExperiencePoints_Modifier",TerritoryPermanentOwner15,0.10000000149011612,1.25,200,,
-16,@BrimstoneSands,300,500,0,false,,,,,,,,Brimstone,,,MX_Territory,Brimstone_Sands,,60,70,40,25,true,,true,Gathering_Volume_Modifier,"InfluencePoints_Modifier,ExperiencePoints_Modifier",TerritoryPermanentOwner16,0.25,1.25,400,16_BrimstoneUnlock,Env_BrimstoneLock_DoT
+16,@BrimstoneSands,300,500,0,false,,,,,,,,Brimstone,,,MX_Territory,Brimstone_Sands,,60,70,40,25,true,,true,Gathering_Volume_Modifier,"InfluencePoints_Modifier,ExperiencePoints_Modifier",TerritoryPermanentOwner16,0.25,1.25,400,,
 18,,300,500,0,false,,,,,,,,,,,,,,0,0,0,0,false,,false,,,,0,0,0,,
 19,,300,500,0,false,,,,,,,,,,,,,,0,0,0,0,false,,false,,,,0,0,0,,
 20,,300,500,0,false,,,,,,,,,,,,,,0,0,0,0,false,,false,,,,0,0,0,,

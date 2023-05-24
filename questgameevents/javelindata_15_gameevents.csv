@@ -25,8 +25,6 @@ EventID,GameEventType,Level,CreatureType,UniversalExpAmount,CurrencyReward,ItemR
 1527_1524_Steadfast_Success,,45,Quest,3150,9375,QuestRewardArmorCase3,,,,0,175,,,,,true,10,1
 1527_1525_Treasured_Success,,45,Quest,3150,9375,QuestRewardWeaponCase3,,,,0,175,,,,,true,10,1
 1528_1526_NotAnotherFish_Success,,45,Quest,3150,9375,QuestRewardArmorCase3,,,,0,175,,,,,true,10,1
-1530_01_Spring_Spritz_Success,,25,Quest,2060,6875,Springtide_Token,,,SpringEventProgress,250,175,,,,,true,10,1
-1530_02_Spring_Bloom_Success,,25,Quest,2060,6875,Springtide_PremiumToken,,,SpringEventProgress,500,175,,,,,true,10,1
 1525_1519_Quiver_interact,,0,Quest-,0,0,,,,,0,0,,,,,true,0,0
 1526_1521_LynxEvidence1_interact,,0,Quest-,0,0,,,,,0,100,,,,,true,0,1
 1526_1521_LynxEvidence2_interact,,0,Quest-,0,0,,,,,0,100,,,,,true,0,1

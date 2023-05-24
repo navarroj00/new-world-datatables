@@ -1,6 +1,6 @@
-TrackedStatID,StatType,TargetID,RequireGroup,ChapterType,ChapterIndex
-CompleteAnyChallenge,CompleteJourneyTask,,,Challenge,0
-CompleteTasksChapter1,CompleteJourneyTask,,,Chapter,1
-CompleteTasksChapter2,CompleteJourneyTask,,,Chapter,2
-CompleteTasksChapter3,CompleteJourneyTask,,,Chapter,3
-CompleteTasksChapter4,CompleteJourneyTask,,,Chapter,4
+TrackedStatID,StatType,TargetID,RequireGroup,ChapterType,ChapterIndex,IsPermanent
+CompleteAnyChallenge,CompleteJourneyTask,,,Challenge,0,true
+CompleteTasksChapter1,CompleteJourneyTask,,,Chapter,1,true
+CompleteTasksChapter2,CompleteJourneyTask,,,Chapter,2,true
+CompleteTasksChapter3,CompleteJourneyTask,,,Chapter,3,true
+CompleteTasksChapter4,CompleteJourneyTask,,,Chapter,4,true

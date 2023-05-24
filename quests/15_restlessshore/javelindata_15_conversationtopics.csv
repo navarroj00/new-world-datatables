@@ -1,7 +1,3 @@
 ConversationTopicId,PlayerPrompt,NPCResponse,AchievementUnlock,RequiredAchievement,RequiredFaction,RequiredLevel
 1524_Boatswain01_talk,@1524_Boatswain01_talk_Prompt,@1524_Boatswain01_talk_Response,,SwapActive_1524_Boatswain01_Moved,,
 1523_Fisher_ExplainHotspots,@0223_Fisher_ExplainHotspots_Prompt,@0223_Fisher_ExplainHotspots_Response,,,,
-1530_Topic1_Springtide,@1530_Topic1_Springtide_prompt,@1530_Topic1_Springtide_response,,SpringtideBloom_Topic1,,
-1530_Topic2_Children,@1530_Topic2_Children_prompt,@1530_Topic2_Children_response,,SpringtideBloom_Topic1,,
-1530_Topic3_Wasp,@1530_Topic3_Wasp_prompt,@1530_Topic3_Wasp_response,,SpringtideBloom_Topic1,,
-1530_Topic4_Folk,@1530_Topic4_Folk_prompt,@1530_Topic4_Folk_response,,SpringtideBloom_Topic2,,

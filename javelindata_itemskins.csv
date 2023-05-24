@@ -933,6 +933,19 @@ Skin_Hands_Apr2023_HighwaymanTricorn,963,1,,EquippableHands,,,Skin_Hands_Apr2023
 Skin_Apr2023_Musket,969,1,,EquippableTwoHand,Musket,,Skin_Apr2023_Musket,,false
 Skin_Apr2023_Rapier,970,1,,EquippableMainHand,Rapier,,Skin_Apr2023_Rapier,,false
 Skin_Apr2023_IceGauntlet,971,1,,EquippableMainHand,IceMagic,,Skin_Apr2023_IceGauntlet,,false
+Skin_Gryphon_Mask,972,1,,EquippableHead,,,Skin_Gryphon_Mask,,false
+Skin_Gryphon1_Chest,973,1,,EquippableChest,,,Skin_Gryphon1_Chest,Gryphon1,false
+Skin_Gryphon1_Legs,974,1,,EquippableLegs,,,Skin_Gryphon1_Legs,Gryphon1,false
+Skin_Gryphon1_Feet,975,1,,EquippableFeet,,,Skin_Gryphon1_Feet,Gryphon1,false
+Skin_Gryphon1_Gloves,976,1,,EquippableHands,,,Skin_Gryphon1_Gloves,Gryphon1,false
+Skin_Gryphon2_Chest,977,1,,EquippableChest,,,Skin_Gryphon2_Chest,Gryphon2,false
+Skin_Gryphon2_Legs,978,1,,EquippableLegs,,,Skin_Gryphon2_Legs,Gryphon2,false
+Skin_Gryphon2_Feet,979,1,,EquippableFeet,,,Skin_Gryphon2_Feet,Gryphon2,false
+Skin_Gryphon2_Gloves,980,1,,EquippableHands,,,Skin_Gryphon2_Gloves,Gryphon2,false
+Skin_Gryphon3_Chest,981,1,,EquippableChest,,,Skin_Gryphon3_Chest,Gryphon3,false
+Skin_Gryphon3_Legs,982,1,,EquippableLegs,,,Skin_Gryphon3_Legs,Gryphon3,false
+Skin_Gryphon3_Feet,983,1,,EquippableFeet,,,Skin_Gryphon3_Feet,Gryphon3,false
+Skin_Gryphon3_Gloves,984,1,,EquippableHands,,,Skin_Gryphon3_Gloves,Gryphon3,false
 Skin_Chest_Apr2023_HighwaymanCapelet,985,1,,EquippableChest,,,Skin_Chest_Apr2023_HighwaymanCapelet,HighwaymanCapelet,false
 Skin_Head_Apr2023_HighwaymanCapelet,986,1,,EquippableHead,,,Skin_Head_Apr2023_HighwaymanCapelet,HighwaymanCapelet,false
 Skin_Legs_Apr2023_HighwaymanCapelet,987,1,,EquippableLegs,,,Skin_Legs_Apr2023_HighwaymanCapelet,HighwaymanCapelet,false
@@ -974,3 +987,6 @@ Skin_MedievalHistoric_FireStaff,1022,1,,EquippableMainHand,FireStaff,,Skin_Medie
 Skin_MedievalHistoric_Blunderbuss,1023,1,,EquippableTwoHand,Blunderbuss,,Skin_MedievalHistoric_Blunderbuss,,false
 Skin_MedievalHistoric_Greatsword,1024,1,,EquippableTwoHand,GreatSword,,Skin_MedievalHistoric_Greatsword,,false
 Skin_MedievalHistoric_Spear,1025,1,,EquippableTwoHand,Spear,,Skin_MedievalHistoric_Spear,,false
+Skin_Gryphon_LoggingAxe,1086,1,,EquippableTool,LoggingAxe,,Skin_Gryphon_LoggingAxe,,false
+Skin_Gryphon_Spear,1087,1,,EquippableTwoHand,Spear,,Skin_Gryphon_Spear,,false
+Skin_Gryphon_Hatchet,1088,1,,EquippableMainHand,Hatchet,,Skin_Gryphon_Hatchet,,false
