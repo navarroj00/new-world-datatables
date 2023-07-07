@@ -1,0 +1,7 @@
+ChapterId,ChapterType,ChapterIndex,ChapterTaskCount,ChapterRewardId
+Season1Chapter1,Chapter,1,5,S1_Journey_Ch01_Complete
+Season1Chapter2,Chapter,2,5,S1_Journey_Ch02_Complete
+Season1Chapter3,Chapter,3,5,S1_Journey_Ch03_Complete
+Season1Chapter4,Chapter,4,7,S1_Journey_Ch04_Complete
+Season1Chapter5,Chapter,5,7,S1_Journey_Ch05_Complete
+Season1Challenge,Challenge,6,10,

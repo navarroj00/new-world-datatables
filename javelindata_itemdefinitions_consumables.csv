@@ -305,6 +305,8 @@ CritterCallT1,,1,30,0,0,1,0,5.25,1500,,,,1,,false,,,,,,,,,,Call,,0,
 Toy_FrenzyPotion,Toy_FrenzyPotion,1,0,0,0,1,0,0,0,,,,0,,false,,,,,,,,,,Potion,,0,
 Toy_Grenade,,1,300,0,0,1,0,0,0,,,,0,,false,,,,,,,,,,Call,,0,
 Toy_PotionOfHuntersVision,AllVision,1,0,0,0,1,0,0,1,,,,1,,false,,,,,,,,,,Potion,,60,HuntersVision
+Artisan_FoodCONT5,FoodCONT5+FoodRecoveryT5,1,3600,0,0,0,0,0,0,,Attributes+Recovery,,0,,false,,,,,,,,,,Eat,,0,
+Artisan_HealthRecoveryT5,FoodInitialRecoveryT5+FoodRecoveryT5,1,40,0,0,0,0,0,0,,Recovery+FoodInitialRecovery,,0,,false,,,,,,,,,,Eat,,0,
 FoodSTRT2,FoodSTRT2+FoodRecoveryT2,0,0,0,0,0,0,0,0,,Attributes+Recovery,,0,,false,,,,,,,,,,Eat,,0,
 FoodSTRT3,FoodSTRT3+FoodRecoveryT3,0,0,0,0,0,0,0,0,,Attributes+Recovery,,0,,false,,,,,,,,,,Eat,,0,
 FoodSTRT4,FoodSTRT4+FoodRecoveryT4,0,0,0,0,0,0,0,0,,Attributes+Recovery,,0,,false,,,,,,,,,,Eat,,0,
@@ -488,5 +490,6 @@ Bot_KillRadius,Dungeon_BotKillRadius,0,0,0,0,0,0,0,0,,,,0,,false,,,,,,,,,,,,0,
 1679_0101_DesertCerate,,0,0,0,0,0,0,0,0,,,,0,,false,,,,,,,,,,Potion,,0,
 QuestReward_MB_Potion_Regen,MajorPotionRegen,1,10,0,0,1,0,0,0,,,,0,,false,,,,,,,,,,Potion,,30,PotionRegen
 Debug_DisableUseInCombat,PotionHealT5,1,0,0,0,1,0,0,0,,,,0,,true,,,,,,,,,,Potion,,30,PotionHealth
-TinctureAcidT5,Status_TinctureAcidT5,1,300,0,0,0,0,0,0,,,,0,,false,,,,,,,AfflictionPoison=-1000,,,,,30,AcidCurse
+TinctureAcidT5,,1,300,0,0,0,0,0,0,,,,0,,false,,,,,,,AfflictionPoison=-1000,,,,,120,AcidCurse
 95_s01_07_SearingTemper,,0,0,0,0,0,0,0,0,,,,0,,false,,,,,,,,,,WeaponOil,,0,
+95a_s02_FirebloodOil_item,,0,0,0,0,0,0,0,0,,,,0,,false,,,,,,,,,,WeaponOil,,0,

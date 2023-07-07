@@ -20,7 +20,14 @@ KillWithOneHanded,Kill,,,0,,"HatchetAbilityTable,SwordAbilityTable,RapierAbility
 KillWithTwoHanded,Kill,,,0,,"WarHammerAbilityTable,GreatAxeAbilityTable,SpearAbilityTable,GreatSwordAbilityTable",false,,,,false
 KillWithRanged,Kill,,,0,,"BowAbilityTable,MusketAbilityTable,BlunderbussAbilityTable",false,,,,false
 KillWithMagic,Kill,,,0,,"FireMagicAbilityTable,LifeMagicAbilityTable,IceMagicAbilityTable,VoidGauntletAbilityTable",false,,,,false
-KillingBlowInOutpostRush,Kill,,,0,,,false,,OutpostRush,,true
+KillingBlowInOutpostRush,Kill,,Player,0,,,false,,OutpostRush,,true
+KillRafflebones,Kill,,,0,,,false,,,Goblin,false
+KillingBlowPlayer,Kill,,Player,0,,,false,,,,true
+KillAnubianGuardian,Kill,,AnubianIdol,0,,,false,,,,false
+KillDunewalker,Kill,,Dunewalker,0,,,false,,,,false
+KillNamedDunewalker,Kill,,Dunewalker,0,,,false,,,Named,false
+KillSulfurElemental,Kill,,Sulfur,0,,,false,,,,false
+DefeatRisenStormTefkhonsunut,Kill,AnubianGuardian_Horus_Elite_Named_00,,0,,,false,,,,false
 KillPOIMyrkgard,Kill,,,60,,,false,"myrkgardwest,myrkgardsouth,myrkgardeast,myrkgardnorth,myrkgardchurch",,,false
 KillPOIImperialPalace,Kill,,,60,,,false,empressfortress_20201,,,false
 KillPOIMalevolence,Kill,,,60,,,false,crater_malevolence_50325,,,false
@@ -28,3 +35,8 @@ KillPOIEternalPool,Kill,,,60,,,false,AE_Elite_50119,,,false
 KillPOIBedsOfTaBitJet,Kill,,,60,,,false,scorpionnest_30305,,,false
 KillNamed,Kill,,,0,,,false,,,Named,false
 KillElite,Kill,,,0,,,false,,,Elite,false
+KillKhepri,Kill,Anubian_Scarab_67_Named_ELITE_00,,0,,,false,,,,false
+KillNamedBrimstone,Kill,,,0,,,false,"brimstonesands1,brimstonesands2,brimstonesands3,brimstonesands4,brimstonesands5,brimstonesands6,brimstonesands7,brimstonesands8,brimstonesands9,brimstonesands10",,Named,false
+KillHeka,Kill,AnubianGuardian_Panther_Named_00,,0,,,false,,,,false
+KillStubbles,Kill,Goat_Mountain_Named_00,,0,,,false,,,,false
+KillScorpions,Kill,,Scorpion,0,,,false,,,,false

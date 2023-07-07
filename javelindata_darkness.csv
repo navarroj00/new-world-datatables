@@ -1,0 +1,2 @@
+DarknessId,DarknessLevels,DarknessDuration,DarknessActivationSpec,DarknessGroupSpec,TerritoryType,DifficultyScalingGroup,DifficultyScalingTable,UpdateEnabled
+test,"None-0,Low-1,Medium-50,High-99",96,0-48,"1-1,50-1,99-1",3,Tier2,sharedassets/springboardentitites/datatables/javelindata_difficulty_darkness,true

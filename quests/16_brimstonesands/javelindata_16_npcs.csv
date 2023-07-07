@@ -86,7 +86,7 @@ NPCId,Title,GenericName,InteractOptionDisplayNameOverride,ConversationStateId1,C
 1658_Mihri,@1658_Mihri_t,@1658_Mihri,,1658_00_Mihri,,,,,,,,,,,,,,,,,,,
 1659_Anna,@1659_Anna_t,@1659_Anna,,1659_00_Anna,1659_01_Anna,1659_02_Anna,,,,,,,,,,,,,,,,,
 1660_Paubastis,@1660_Paubastis_t,@1660_Paubastis,,1660_00_Paubastis,1660_01_Paubastis,,,,,,,,,,,,,,,,,,
-1661_Jackal,@1661_Jackal_t,@1661_Jackal,,1661_00_Jackal,,,,,,,,,,,,,,,,,,,
+1661_Jackal,@1661_Jackal_t,@1661_Jackal,,1661_00_Jackal,1661_03_Jackal,1661_04_Jackal,,,,,,,,,,,,,,,,,
 1662_Rima,@1662_Rima_t,@1662_Rima,,1662_00_Rima,,,,,,,,,,,,,,,,,,,
 1663_Esoeris,@1663_Esoeris_t,@1663_Esoeris,,1663_00_Esoeris,,,,,,,,,,,,,,,,,,,
 1664_Aban,@1664_Aban_t,@1664_Aban,,1664_00_Aban,1664_01_Aban,,,,,,,,,,,,,,,,,,

@@ -34,4 +34,5 @@ TerritoryID,NameLocalizationKey,IsPOI,MapIcon,CompassIcon,TooltipBackground,Grou
 8033,@ui_worldboss_season_01_event,true,LyShineUI/Images/Map/Icon/POIs/furySpriggan.png,LyShineUI/Images/Map/Icon/POIs/furySpriggan.png,LyShineUI/Images/Map/tooltipImages/POI/mapTooltip_poi_furyspriggan.png,4,SeasonEncounter,,65,235 52 52,POI_State,worldboss,
 8034,@objective_S01_Aidyn,true,,,,0,AidynEncounter,,0,,POI_State,,
 8035,@objective_S01_Faceless,true,,,,0,FacelessEncounter,,0,,POI_State,,
-8036,@ui_worldboss_season_02_event,true,LyShineUI/Images/Map/Icon/POIs/furySpriggan.png,LyShineUI/Images/Map/Icon/POIs/furySpriggan.png,LyShineUI/Images/Map/tooltipImages/POI/mapTooltip_poi_furyspriggan.png,0,SeasonEncounter,,65,235 52 52,POI_State,worldboss,
+8036,@ui_worldboss_season_02_event,true,LyShineUI/Images/Icons/WorldMap/worldmap_eggsciting.png,LyShineUI/Images/Map/Icon/POIs/event_eggsciting.png,LyShineUI/Images/Map/tooltipImages/maptooltip_eggciting.png,0,SeasonEncounter,,65,235 52 52,POI_State,worldboss,
+8037,@ui_worldboss_season_02_event,true,,,,0,EventEncounter,,60,235 52 52,POI_State,,

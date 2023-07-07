@@ -1,8 +1,8 @@
 NPCId,Title,GenericName,InteractOptionDisplayNameOverride,ConversationStateId1,ConversationStateId2,ConversationStateId3,ConversationStateId4,ConversationStateId5,ConversationStateId6,ConversationStateId7,ConversationStateId8,ConversationStateId9,ConversationStateId10,ConversationStateId11,ConversationStateId12,ConversationStateId13,ConversationStateId14,ConversationStateId15,ConversationStateId16,ConversationStateId17,ConversationStateId18,ConversationStateId19,ConversationStateId20
 1001_Watcher,@1001_Watcher_title,@1001_Watcher,,1001_00_Watcher,1001_01_Watcher,1001_02_Watcher,1001_03_Watcher,1001_04_Watcher,,,,,,,,,,,,,,,
-1002_Magistrate,@1002_Magistrate_title,@1002_Magistrate,,1002_00_Magistrate,1002_01_Magistrate,1002_02_Magistrate,1002_03_Magistrate,1002_04_Magistrate,1002_05_Magistrate,,,,,,,,,,,,,,
+1002_Magistrate,@1002_Magistrate_title,@1002_Magistrate,,1002_00_Magistrate,1002_01_Magistrate,1002_02_Magistrate,1002_03_Magistrate,,,,,,,,,,,,,,,,
 1003_Survivalist,@1003_Survivalist_title,@1003_Survivalist,,1003_00_Survivalist,1003_01_Survivalist,1003_02_Survivalist,1003_03_Survivalist,1003_04_Survivalist,,,,,,,,,,,,,,,
-1004_Overseer,@1004_Overseer_title,@1004_Overseer,,1004_00_Overseer,1004_01_Overseer,1004_02_Overseer,1004_03_Overseer,1004_04_Overseer,1004_05_Overseer,1004_06_Overseer,,,,,,,,,,,,,
+1004_Overseer,@1004_Overseer_title,@1004_Overseer,,1004_00_Overseer,1004_01_Overseer,1004_02_Overseer,1004_03_Overseer,1004_04_Overseer,,,,,,,,,,,,,,,
 1005_Artificer,@1005_Artificer_title,@1005_Artificer,,1005_00_Artificer,1005_01_Artificer,1005_02_Artificer,1005_03_Artificer,1005_04_Artificer,,,,,,,,,,,,,,,
 1007_Commander,@1007_Commander_title,@1007_Commander,,1007_00_Commander,1007_01pre_Commander,1007_01_Commander,1007_02_Commander,1007_03_Commander,1007_04pre_Commander,1007_04_Commander,1007_05pre_Commander,1007_05_Commander,,,,,,,,,,,
 1008_Alchemist,@1008_Alchemist_title,@1008_Alchemist,,1008_00_Alchemist,1008_01pre_Alchemist,1008_01_Alchemist,1008_02_Alchemist,1008_03_Alchemist,,,,,,,,,,,,,,,

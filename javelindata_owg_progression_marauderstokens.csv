@@ -1,6 +1,6 @@
 Rank,DisplayName,MaximumInfluence,RequiredLevel,InfluenceCost,CurrencyCost,AzothCost,SanityCheck,GameEventId
-0,@owg_rank_procurer_1,7500,,,,,,
-1,@owg_rank_procurer_2,15000,,,,,,
-2,@owg_rank_procurer_3,22500,,,,,,
-3,@owg_rank_procurer_4,37500,,,,,,
-4,@owg_rank_procurer_5,75000,,,,,,
+0,@owg_rank_procurer_1,15000,,,,,,
+1,@owg_rank_procurer_2,30000,,,,,,
+2,@owg_rank_procurer_3,45000,,,,,,
+3,@owg_rank_procurer_4,75000,,,,,,
+4,@owg_rank_procurer_5,150000,,,,,,

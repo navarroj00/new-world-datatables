@@ -104,7 +104,7 @@ Upgrade_Bow_EvasiveShot_Haste,,BowAbilityTable,1,,,,10,,,0,Upgrade_Bow_EvasiveSh
 Ability_Bow_RainofArrows,,BowAbilityTable,1,,,,10,,,0,,0,,,,,
 Upgrade_Bow_RainofArrows_Bleed,,BowAbilityTable,1,,,,10,,,0,Ability_Bow_RainofArrows,1,,,,,
 Upgrade_Bow_RainofArrows_Slow,,BowAbilityTable,1,,,,10,,,0,Upgrade_Bow_RainofArrows_Bleed,1,,,,,
-Passive_Bow_Skirmish_DodgeDmg,,BowAbilityTable,1,,,,10,,,0,,0,,,,,
+Passive_Bow_Skirmish_RendHead,,BowAbilityTable,1,,,,10,,,0,,0,,,,,
 Passive_Bow_Skirmish_HasteWhenFoesNear,,BowAbilityTable,1,,,,10,,,0,,0,,,,,
 Passive_Bow_Skirmish_CDRVsLow,,BowAbilityTable,1,,,,10,,,0,,0,,,,,
 Passive_Bow_Skirmish_SlowFull,,BowAbilityTable,1,,,,10,,,0,,0,,,,,

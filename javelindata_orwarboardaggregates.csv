@@ -1,6 +1,6 @@
 WarboardStatID,InGameStat,EndGameStat,AG_TotalDamageDealt,AG_HealingDone,AG_Score,AG_AITakedowns,AG_PlayerTakedowns,AG_TotalResourcesDeposited
 PlayerKills,true,true,0,0,50,0,1,0
-AIKills,false,true,0,0,10,1,0,0
+AIKills,false,true,0,0,20,1,0,0
 InfusedWoodGathered,false,true,0,0,0,0,0,0
 InfusedOreGathered,false,true,0,0,0,0,0,0
 InfusedHideGathered,false,true,0,0,0,0,0,0
@@ -8,7 +8,7 @@ InfusedWoodDeposited,false,true,0,0,2.4000000953674316,0,0,1
 InfusedOreDeposited,false,true,0,0,2.4000000953674316,0,0,1
 InfusedHideDeposited,false,true,0,0,2.4000000953674316,0,0,1
 AzothEssenceDeposited,false,false,0,0,1.2000000476837158,0,0,1
-DamageToPlayers,false,true,1,0,0.009999999776482582,0,0,0
+DamageToPlayers,false,true,1,0,0.004999999888241291,0,0,0
 DamageToAI,false,true,1,0,0.0024999999441206455,0,0,0
 DamageToOther,false,true,1,0,0.0024999999441206455,0,0,0
 DamageWithSiegeWeapons,false,true,1,0,0.004999999888241291,0,0,0
@@ -23,5 +23,6 @@ Deaths,true,true,0,0,0,0,0,0
 AlliesRevived,false,true,0,0,0,0,0,0
 AITakedowns,true,true,0,0,0,0,0,0
 PlayerTakedowns,false,true,0,0,50,0,1,0
-CapturePointContests,false,true,0,0,0.20000000298023224,0,0,0
+CapturePointContests,false,true,0,0,0.30000001192092896,0,0,0
 TotalResourcesDeposited,true,true,0,0,0,0,0,0
+DamageBlocked,false,true,0,0,0.009999999776482582,0,0,0

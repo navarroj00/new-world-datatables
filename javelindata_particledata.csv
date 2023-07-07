@@ -175,7 +175,8 @@ wfx_GreatSword.Defiance.Burst.Upgrades.Pull,PlayerWeapon_AOE,3,5,103,0
 wfx_GreatSword.Defiance.Burst.Upgrades.Push,PlayerWeapon_AOE,3,5,103,0
 wfx_rune_ability_vines.vines,PlayerWeapon_AOE,3,5,103,0
 wfx_rune_ability_heretic.hit,PlayerWeapon_AOE,3,5,103,0
-wfx_rune_ability_detonate.denotation_end,PlayerWeapon_AOE,3,5,103,0
+wfx_rune_ability_detonate.denotation_warning,PlayerWeapon_AOE,3,5,103,0
+wfx_rune_ability_detonate.denotation_end,PlayerWeapon_AOE,5,5,105,0
 wfx_rune_ability_stone_skin.stoneskin_dominator,PlayerWeapon_AOE,3,5,103,0
 wFX_rune_ability_cannon_blast.DominatorExplosion,PlayerWeapon_AOE,3,5,103,0
 wFX_VoidGaunt_Annihilation.Blade_Idle,PlayerWeapon_Abilities,6,5,46,0
@@ -281,7 +282,6 @@ wfx_rune_ability_heretic.leap_ground_cloud,PlayerWeapon_Abilities,5,5,45,0
 wfx_rune_ability_heretic.wing,PlayerWeapon_Abilities,5,5,45,0
 wfx_rune_ability_heretic.leap_trail_wing,PlayerWeapon_Abilities,5,5,45,0
 wfx_rune_ability_heretic.dive,PlayerWeapon_Abilities,5,5,45,0
-wfx_rune_ability_detonate.denotation_warning,PlayerWeapon_Abilities,5,5,45,0
 wFX_rune_ability_cannon_blast.muzzle_flash,PlayerWeapon_Abilities,5,5,45,0
 wFX_VoidGaunt_Decay.Drain_Tell,PlayerWeapon_Tells,2,5,22,0
 wFX_VoidGaunt_Decay.Rupture_Tell,PlayerWeapon_Tells,2,5,22,0

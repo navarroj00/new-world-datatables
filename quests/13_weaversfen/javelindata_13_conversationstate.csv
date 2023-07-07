@@ -1,4 +1,1 @@
 ConversationStateId,ConversationType,IsInitialState,DefaultDialogue,RequiredFaction,RequiredProgression,RequiredLevel,RequiredAchievement,RequiredActiveObjectiveId,RequiredActiveTaskId,LinearObjectiveId1,LinearObjectiveId2,LinearObjectiveId3,LinearObjectiveId4,LinearObjectiveId5,LinearObjectiveId6,LinearObjectiveId7,LinearObjectiveId8,LinearObjectiveId9,LinearObjectiveId10,TopicId1,TopicId2,TopicId3,TopicId4,TopicId5,TopicId6,TopicId7,TopicId8,TopicId9,TopicId10,ConversationService1,ConversationService2,ConversationService3
-1305_04_Artificer,Linear_Objective,false,@NPC_Default_Dialogue_1305_04_Artificer,,FireMagicAbilityTable 9 0,40,13_Quest_08,,,,,,,,,,,,,,,,,,,,,,,,,
-1303_04_Survivalist,Linear_Objective,false,@NPC_Default_Dialogue_1303_04_Survivalist,,,40,13_Quest_10,,,,,,,,,,,,,,,,,,,,,,,,,
-1310_03_Barkeep,Linear_Objective,false,@NPC_Default_Dialogue_1310_03_Barkeep,,BowAbilityTable 9 0,40,13_Quest_06,,,,,,,,,,,,,,,,,,,,,,,,,

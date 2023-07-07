@@ -1,4 +1,5 @@
 TrackedStatID,StatType,TargetID,Level,MinWeight,PerUse,Precision
 CatchPoundageOfFish,Fishing,,0,,false,2
 CatchRareFish,Fishing,,2,,true,0
-CatchTreasureChest,Fishing,FishingTreasureChestT3,0,,true,0
+CatchTreasureChest,Fishing,"FishingTreasureChestT3,FishingTreasureGoodProvisionT3,FishingTreasurePigmentT3,FishingTreasureGearT3,FishingTreasureMoteT3,FishingTreasureSeaweedT2,FishingTreasureBootT2,FishingTreasureOarT2,FishingTreasureSwordT2,FishingTreasureHammerT2",0,,true,0
+CatchBrimstoneLegendaryFish,Fishing,FishingAnmisemaT5,0,,false,0

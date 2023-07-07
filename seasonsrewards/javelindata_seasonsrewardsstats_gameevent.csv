@@ -7,3 +7,7 @@ PlantWispySpritzes,GameEvent,,,Gather_WispySpritzPlantSite
 GameEvent_Breach,GameEvent,Darkness,"DarknessMinor,DarknessMinor+,DarknessMajor,DarknessMajor+,Myrkgard",
 GameEvent_MinorBreach,GameEvent,Darkness,"DarknessMinor,DarknessMinor+",
 GameEvent_MajorBreach,GameEvent,Darkness,"DarknessMajor,DarknessMajor+,Myrkgard",
+DefeatSolariumKhepri,GameEvent,,,"SolariumKhepri_EliteOverlord_MinorSuccess,SolariumKhepri_EliteOverlord_MajorSuccess"
+GatherMaudlinDust,GameEvent,,,Gather_SummerMedley_Maudlindust
+LocateBrimstoneLostEasel,GameEvent,,,"ExploreVista_EastBrimstone01,ExploreVista_EastBrimstone02"
+DefeatWurmBoss,GameEvent,,,SandwormEliteTrial_Reward

@@ -435,6 +435,8 @@ AIProjectileShieldBuff,AND,0,AI_ProjectileShield_Buff,StatusEffect,1,,,0,,,0,,,0
 AIProjectileShieldBuff_Probs,,0,0,,0,,,0,,,0,,,0,,,0,,,0
 AINoReactionsBuff,AND,0,AI_NoReactions,StatusEffect,1,AI_Stun_Immunity,StatusEffect,1,,,0,,,0,,,0,,,0
 AINoReactionsBuff_Probs,,0,0,,0,0,,0,,,0,,,0,,,0,,,0
+AISiegeBreakerBuff,AND,0,AI_SiegeBreaker_Buff,StatusEffect,1,AI_Stun_Immunity,StatusEffect,1,,,0,,,0,,,0,,,0
+AISiegeBreakerBuff_Probs,,0,0,,0,0,,0,,,0,,,0,,,0,,,0
 ChampAIFireDamageBuff,AND,0,AI_FireDamage_Buff,StatusEffect,1,ChampionEliteBaseBuffs,BuffBucket,1,,,0,,,0,,,0,,,0
 ChampAIFireDamageBuff_Probs,,0,0,,0,0,,0,,,0,,,0,,,0,,,0
 ChampAICorruptionDamageBuff,AND,0,AI_CorruptionDamage_Buff,StatusEffect,1,ChampionEliteBaseBuffs,BuffBucket,1,,,0,,,0,,,0,,,0

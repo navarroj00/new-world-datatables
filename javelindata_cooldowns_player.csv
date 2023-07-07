@@ -7,7 +7,7 @@ ID,AbilityID,Time,WeaponTag
 6,Ability_Sword_LeapingStrike,18,Sword
 7,Ability_Greataxe_Whirlwind,30,GreatAxe
 8,Ability_Greataxe_Charge,20,GreatAxe
-9,Ability_Greataxe_Executioner,25,GreatAxe
+9,Ability_Greataxe_Executioner,20,GreatAxe
 10,Ability_Greataxe_Reap,18,GreatAxe
 11,Ability_Greataxe_Maelstorm,20,GreatAxe
 12,Ability_Greataxe_GravityWell,30,GreatAxe
@@ -34,7 +34,7 @@ ID,AbilityID,Time,WeaponTag
 33,Ability_Bow_PenetratingShot,18,Bow
 34,Ability_Bow_SplinterShot,22,Bow
 35,Ability_Bow_PoisonShot,30,Bow
-36,Ability_Bow_RainofArrows,25,Bow
+36,Ability_Bow_RainofArrows,20,Bow
 37,Ability_Lifestaff_DivineEmbrace,6,MagicStaff
 38,Ability_Lifestaff_ScaredGround,20,MagicStaff
 39,Ability_Lifestaff_SplashofLight,15,MagicStaff

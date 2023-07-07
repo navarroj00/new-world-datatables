@@ -2,3 +2,4 @@ TrackedStatID,StatType,MustWin,GameModeResult
 PlayArena3x3,CompleteArena,false,"Victory,Defeat,Tie"
 WinArena3x3,CompleteArena,true,Victory
 FlawlessVictoryArena3x3,CompleteArena,true,Victory
+WinArena3x3Map2,CompleteArena,true,Victory

@@ -1,5 +1,10 @@
 ScheduleId,StartDate,EndDate,StartWeekday,EndWeekday,UTC,Comments
-test_1,*-*-*T*:25:00,*-*-*T*:30:00,,,false,"For internal testing, do not remove"
-test_2,,,Wednesday,Thursday,false,"For internal testing, do not remove"
-TurkeyTerror,2022-11-15T*:*:*,2022-11-29T*:*:*,,,false,TurkeyTerror Event
+test_1,*-*-*T*:25:00,*-*-*T*:30:00,,,false,"Forinternaltesting,donotremove"
+test_2,,,Wednesday,Thursday,false,"Forinternaltesting,donotremove"
+TurkeyTerror,2023-11-15T*:*:*,2023-11-29T*:*:*,,,false,TurkeyTerror Event
 LegacyOfCrassus,2023-02-21T*:*:*,2023-03-07T*:*:*,,,false,Legacy of Crassus February Event
+EggcitingDefense,2023-08-14T*:*:*,2023-08-28T*:*:*,,,false,Eggciting Defense August Event
+EventKill,*-01-*T*:*:*,*-03-*T*:*:*,,,false,For Diamond Gypsum Events (JuniperBag)
+EventDarkness,*-04-*T*:*:*,*-06-*T*:*:*,,,false,For Diamond Gypsum Events (RitualBag)
+EventGather,*-07-*T*:*:*,*-09-*T*:*:*,,,false,For Diamond Gypsum Events (BagofEarthGifts)
+EventChest,*-10-*T*:*:*,*-12-*T*:*:*,,,false,For Diamond Gypsum Events (ConcealedVault)

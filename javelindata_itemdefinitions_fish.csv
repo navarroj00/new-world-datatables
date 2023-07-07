@@ -15,6 +15,7 @@ FishingSunfishLargeT1,Large,30,2,3,false,false,true
 FishingSalmonSmallT1,Small,15,0,5,true,false,false
 FishingSalmonMediumT1,Medium,45,5,10,false,true,false
 FishingSalmonLargeT1,Large,10,0,1,false,false,true
+FishingSalmonFatT1,Large,10,0,1,false,false,true
 FishingMackerelSmallT1,Small,20,1,2,true,false,false
 FishingMackerelMediumT1,Medium,30,2,3,false,true,false
 FishingSnapperSmallT1,Small,15,0,5,true,false,false
@@ -85,4 +86,8 @@ FishingAnchorT2,Invalid,30,2,3,false,false,false
 FishingFishSwordT2,Invalid,15,0,5,false,false,false
 FishingHeadedHammerT2,Invalid,45,5,10,false,false,false
 FishingOarT2,Invalid,10,0,1,false,false,false
+FishingJunkSaltChestT2,Invalid,20,1,2,false,false,false
+FishingJunkFreshChestT2,Invalid,20,1,2,false,false,false
 FishingTreasureChestT3,Invalid,20,1,2,false,false,false
+FishingProvisionChestT3,Invalid,20,1,2,false,false,false
+FishingResourcesChestT3,Invalid,20,1,2,false,false,false

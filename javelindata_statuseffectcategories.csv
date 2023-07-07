@@ -39,3 +39,5 @@ Energized,0,0,0,0,0,0,StaminaRate:0.5
 Exhaust,0,0,0,0,0,0,StaminaRate:-0.5
 UnclampedEnergized,0,0,0,0,0,0,StaminaRate:2
 UnclampedExhaust,0,0,0,0,0,0,StaminaRate:-1
+SporeOffense,0,0,0,0,0,0,
+SporeDefense,0,0,0,0,0,0,

@@ -1,6 +1,6 @@
 Rank,DisplayName,MaximumInfluence,RequiredLevel,InfluenceCost,CurrencyCost,AzothCost,SanityCheck,GameEventId,EntitlementId
-0,@owg_rank_merchant_1,3000,10,0,0,0,false,,0
-1,@owg_rank_merchant_2,11000,20,0,0,0,true,,0
-2,@owg_rank_merchant_3,26000,35,0,0,0,true,,0
-3,@owg_rank_merchant_4,49000,50,0,0,0,true,,0
-4,@owg_rank_merchant_5,49000,60,0,0,0,true,,0
+0,@owg_rank_merchant_1,3000,10,0,0,0,false,,
+1,@owg_rank_merchant_2,11000,20,0,0,0,true,,
+2,@owg_rank_merchant_3,26000,35,0,0,0,true,,
+3,@owg_rank_merchant_4,49000,50,0,0,0,true,,
+4,@owg_rank_merchant_5,49000,60,0,0,0,true,,

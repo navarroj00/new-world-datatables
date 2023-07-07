@@ -32,3 +32,4 @@ ConversationTopicId,PlayerPrompt,NPCResponse,AchievementUnlock,RequiredAchieveme
 06_UtkarshSingh_SpreadJoy,@06_UtkarshSingh_SpreadJoy_prompt,@06_UtkarshSingh_SpreadJoy_response,,,,
 0623_Fisher_ExplainHotspots,@0223_Fisher_ExplainHotspots_Prompt,@0223_Fisher_ExplainHotspots_Response,,,,
 0923_Fisher_ExplainHotspots,@0223_Fisher_ExplainHotspots_Prompt,@0223_Fisher_ExplainHotspots_Response,,,,
+06_Gunter_FirstLight,@06_Gunter_FirstLight_Prompt,@06_Gunter_FirstLight_Response,,,,

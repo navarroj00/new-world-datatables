@@ -331,3 +331,5 @@ WeekExpeditionScore,,pc,Week,ExpeditionScore,Max,expedition-score,,Expedition,Gr
 SeasonExpeditionScore,,pc,Season,ExpeditionScore,Max,expedition-score,,Expedition,Group,
 WeekExpeditionTime,,pc,Week,ExpeditionClearTime,Min,expedition-clear-time,,Expedition,Group,
 SeasonExpeditionTime,,pc,Season,ExpeditionClearTime,Min,expedition-clear-time,,Expedition,Group,
+MonthBossTrialCompletionSandworm,,pc,Month,GameEvent,Sum,boss-trial-completions,,SandwormEliteTrial_Reward,Character,
+SeasonBossTrialCompletionSandworm,,pc,Season,GameEvent,Sum,boss-trial-completions,,SandwormEliteTrial_Reward,Character,
