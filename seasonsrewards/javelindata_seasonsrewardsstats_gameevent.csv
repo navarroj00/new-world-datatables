@@ -11,3 +11,4 @@ DefeatSolariumKhepri,GameEvent,,,"SolariumKhepri_EliteOverlord_MinorSuccess,Sola
 GatherMaudlinDust,GameEvent,,,Gather_SummerMedley_Maudlindust
 LocateBrimstoneLostEasel,GameEvent,,,"ExploreVista_EastBrimstone01,ExploreVista_EastBrimstone02"
 DefeatWurmBoss,GameEvent,,,SandwormEliteTrial_Reward
+DefeatHatcheryTrial,GameEvent,,,Trial_S2_Success
